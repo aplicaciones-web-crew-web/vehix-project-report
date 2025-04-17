@@ -45,3 +45,48 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
 #### 1.2.2.4. Lean UX Canvas
 ![Image](https://github.com/user-attachments/assets/3021521f-9141-486e-8dda-dfccf5aa34e9)
 ## 1.3. Segmentos objetivos
+**1. Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal:** Personas que tienen uno o más vehículos y desean cuidarlos de forma inteligente, evitando gastos innecesarios a futuro y asegurando su buen funcionamiento diario.
+ - Edad: 25 a 55 años
+ - Ocupación: Profesionales, trabajadores dependientes e independientes, emprendedores.
+ - País: Perú.
+ - Dominio: Usuarios con nivel intermedio en el uso de tecnología y smartphones.
+ - Beneficios buscados:
+    - Alertas para evitar fallas costosas.
+    - Consejos personalizados para alargar la vida útil de su vehículo.
+    - Seguimiento constante del estado del vehículo desde el celular.
+  >[!IMPORTANT]
+  >- Según la Asociación Automotriz del Perú (AAP), más del 85% del parque automotor del país tiene más de 10 años de antigüedad, lo cual eleva el riesgo de fallas mecánicas si no se aplica un mantenimiento adecuado. 
+  >- En el Perú, el 11.64% de los hogares tenían un auto o camioneta al final de 2023, según la Asociación Automotriz del Perú (AAP). 
+  >- Vehix cubre esta necesidad con alertas y seguimiento inteligente desde el celular.
+
+**2. Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery):** Estos usuarios usan su vehículo como herramienta principal de trabajo. Buscan una solución confiable que los ayude a evitar fallas repentinas y a mejorar su conducción para trabajar más horas sin interrupciones.
+ - Edad: 20 a 50 años
+ - Ocupación: Conductores independientes o asociados a plataformas (Uber, InDriver, Cabify, apps de delivery).
+ - País: Perú.
+ - Dominio: Nivel intermedio o básico en tecnología, pero familiarizados con apps móviles.
+ - Beneficios buscados:
+    - Mantenimiento predictivo para reducir el tiempo sin trabajar.
+    - Diagnóstico inmediato de fallas.
+    - Recomendaciones para mejorar su estilo de conducción y ahorrar combustible.
+  
+  >[!IMPORTANT]
+  >- Según la app Uber, existen más de 100,000 conductores activos en el Perú. A ello se suman miles de conductores de otras plataformas como InDriver, Cabify, Didi y aplicaciones de delivery. 
+  >- De acuerdo con un estudio de la AAP (2022), los conductores de plataformas usan su vehículo un 40% más que un conductor promedio, lo que genera mayor desgaste y necesidad de mantenimiento frecuente. 
+  >- Vehix les ofrece diagnóstico inteligente y recomendaciones para reducir los costos operativos y mantener el auto siempre disponible para trabajar.
+
+**3. Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes:** Este segmento enfrenta dificultades al realizar diagnósticos precisos debido a la falta de datos en tiempo real del vehículo. Además, necesitan mejorar la confianza y claridad al explicar problemas técnicos a los propietarios.
+ - Edad: 25 a 60 años
+ - Ocupación: Mecánicos independientes o técnicos en talleres automotrices.
+ - Tipo de entorno: Talleres mecánicos pequeños, medianos o de confianza, fuera de concesionarias.
+ - País: Perú.
+ - Dominio: Nivel avanzado o experto en mecánica automotriz, pero con un nivel básico o intermedio en tecnología; familiarizados con el uso de apps móviles, pero no necesariamente con herramientas digitales especializadas.
+ - Beneficios buscados:
+   	- Acceder a datos técnicos y códigos de falla del vehículo de forma inmediata.
+   	- Mejorar la precisión del diagnóstico sin depender únicamente de la experiencia empírica.
+   	- Tener una base técnica clara para explicar al cliente las reparaciones necesarias.
+   	- Aumentar la confianza del cliente y optimizar el tiempo de revisión.
+  
+  >[!IMPORTANT]
+  >- La automatización de procesos se está convirtiendo en una tendencia creciente en el taller mecánico, que busca mejorar su eficiencia y reducir los errores humanos mediante el uso de tecnologías innovadoras.
+   >- Los vehículos modernos tienen sistemas cada vez más complejos y sofisticados, lo que requiere que los mecánicos estén actualizados y capacitados para trabajar con esta tecnología. Además, la reparación de estos sistemas puede requerir herramientas y equipos especializados.
+  >- Vehix puede ayudar a los mecánico optimizar costos, reducir tiempos muertos por fallas y mejorar la precisión el diagnóstico y la comunicacion con el cliente.
