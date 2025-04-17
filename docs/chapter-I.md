@@ -43,4 +43,5 @@ Alertas en tiempo real, historial de fallos, predicción de problemas mecánicos
 **f. ¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información útil de forma visual y enviar alertas automáticas sin requerir mucha interacción del usuario.
 #### 1.2.2.4. Lean UX Canvas
+![Image](https://github.com/user-attachments/assets/3021521f-9141-486e-8dda-dfccf5aa34e9)
 ## 1.3. Segmentos objetivos
