@@ -17,6 +17,9 @@
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
+En esta sección se presenta el prototipo de la aplicación web desarrollado en figma, el cual sigue los estilos pre-establecidos en las anteriores secciones. Link: [Prototipo en Figma](https://www.figma.com/design/yqRZ4IoA1RZRJfGbaT06ey/VEHIX-PROTOTYPE?node-id=0-1&t=x684cBRAXegK5Byh-1)
+
+![web-applications-prototyping](/assets/imgs/chapter-IV/web-applications-prototyping.png)
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 ### 4.6.2. Software Architecture Container Diagrams
