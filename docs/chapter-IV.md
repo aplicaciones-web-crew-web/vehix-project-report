@@ -22,8 +22,14 @@ En esta sección se presenta el prototipo de la aplicación web desarrollado en 
 ![web-applications-prototyping](/assets/imgs/chapter-IV/web-applications-prototyping.png)
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+![software-architecture-context-diagram](/assets/imgs/chapter-IV/context-diagram.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
+![software-architecture-container-diagrams](/assets/imgs/chapter-IV/container-diagram.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+![software-architecture-components-diagrams](/assets/imgs/chapter-IV/component-diagram.png)
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
