@@ -26,3 +26,19 @@
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
+| Termino (Ingles)          | Definicion                                                                                                                                      |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vehicle**               | Medio de transporte motorizado, propiedad del usuario, sujeto a monitoreo por la aplicación.                                                    |
+| **Predictive Failure**    | Posible desperfecto técnico que el sistema identifica antes de que ocurra, gracias al análisis de datos históricos.                             |
+| **Alert**                 | Notificación enviada al conductor o mecánico informando sobre una falla detectada.                                                              |
+| **Vehicle Status**        | Documento o vista que resume el estado, uso, fallas, mantenimientos y predicciones del auto.                                                    |
+| **Driving Behavior**      | Forma en la que el usuario maneja su vehículo, incluyendo hábitos como aceleración, frenado, etc lo cual puede influir en su desgaste o fallas. |
+| **Driver**                | Persona que maneja un vehículo y utiliza la aplicación para prevenir o detectar fallas.                                                         |
+| **Mechanic**              | Especialista técnico encargado de interpretar los fallos y realizar las reparaciones necesarias.                                                |
+| **Sensor Data**           | Información recolectada en tiempo real desde el vehículo (temperatura, presión, velocidad, etc.).                                               |
+| **Diagnosis**             | Resultado generado por el sistema basado en los datos del sensor que indica posibles fallos.                                                    |
+| **Maintenance History**   | Registro de reparaciones, fallas y servicios previos realizados al vehículo.                                                                    |
+| **Prediction**            | Estimación generada por el sistema sobre una posible futura falla basada en patrones de datos.                                                  |
+| **Repair Recommendation** | Sugerencia generada por la aplicación sobre acciones a realizar ante una falla detectada.                                                       |
+| **Technical Report**      | Documento digital generado por el sistema que resume las fallas y posibles soluciones técnicas.                                                 |
+| **Inspection Session**    | Periodo en el cual el sistema recolecta y analiza datos del vehículo para emitir un diagnóstico.                                                |
