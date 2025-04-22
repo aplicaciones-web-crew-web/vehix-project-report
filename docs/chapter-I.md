@@ -38,6 +38,52 @@ Vehix ofrece una solución integral, el cual monitorea en tiempo real el estado 
 
 Este servicio opera bajo un modelo de suscripción mensual. Al estar activo, el usuario tiene acceso completo a todas las funcionalidades de la app. En caso de cancelación o falta de pago, el acceso queda suspendido, garantizando así la continuidad del servicio solo para clientes activos.
 ### 1.2.1. Antecedentes y problemática
+**Antecedentes**
+En la actualidad, los vehículos particulares y comerciales representan una parte esencial del transporte en el Perú. Según la Asociación Automotriz del Perú (AAP), en 2023 se reportaron más de 3.4 millones de vehículos circulando a nivel nacional, con una tendencia creciente en la compra de autos nuevos y usados. No obstante, con este incremento también ha surgido una preocupación creciente: el mantenimiento preventivo y la correcta utilización de los vehículos para evitar daños prematuros.
+
+
+Según la Asociación de Exportadores (ADEX) informó que el 15% del presupuesto operativo de muchas empresas con flotas vehiculares se destina exclusivamente al mantenimiento y reparación. Además, el Instituto Nacional de Estadística e Informática (INEI) estima que existen más de 10,000 empresas formales en Perú que dependen de flotas vehiculares para sus operaciones diarias. Esto demuestra una necesidad de soluciones tecnológicas que faciliten el monitoreo y cuidado del estado mecánico de los vehículos.
+
+A pesar de los avances en tecnología automotriz, la mayoría de conductores aún no cuentan con una herramienta que les proporcione en tiempo real el estado de su auto, los hábitos de conducción inadecuados que podrían afectar su vehículo, o predicciones sobre fallas futuras basadas en patrones de uso. Esta falta de visibilidad, combinada con la falta de cultura preventiva, conlleva a reparaciones tardías y costosas.
+
+Vehix surge como una respuesta innovadora a este contexto, ofreciendo una solución tecnológica mediante la instalación de un adaptador diagnóstico instalado en el vehiculo conectado por Bluetooth al celular del usuario. Esta herramienta permite recolectar y analizar los datos de distintos componentes del vehículo, ofreciendo diagnósticos, alertas de mantenimiento y recomendaciones personalizadas, todo desde una aplicación móvil.
+
+
+### 1. What / ¿Qué?
+El problema se presenta ya que muchas personas que utilizan autos tanto de forma personal como profesional desconocen las condiciones de sus vehículos.
+
+### 2. When / ¿Cuándo?
+
+Sucede cuando no se realiza el mantenimiento en los plazos recomendados (por ejemplo, cada 5,000 o 10,000 km) o cuando se ignoran señales tempranas de deterioro por falta de sistemas de monitoreo. También ocurre cuando los mecánicos no cuentan con información técnica actualizada o herramientas modernas para hacer un diagnóstico oportuno.
+
+> ***“La no realización del mantenimiento preventivo en el momento oportuno, como al llegar a los 5,000 o 10,000 km, genera daños que se hubieran podido evitar” (Cutipa et al., 2018, p. 2).***
+
+### 3. Where / ¿Dónde?
+El problema se evidencia en cualquier lugar donde se utilice el vehículo, especialmente durante su uso en carretera o ciudad. También ocurre en el sistema de mantenimiento tradicional, donde muchos talleres carecen de técnicas modernas para un diagnóstico adecuado. 
+> ***Los servicios automotrices muestran una escasa o inexistente implementación de métodos de mantenimiento predictivo y que no se emplean otras técnicas como análisis más profundos como el análisis de aceite, de gases, de vibraciones o la termografía. (Zambrano; Pérez 2021, p. 96).***
+
+###  4. Who / ¿Quién?
+Afecta principalmente a tres actores:
+- Conductores particulares que, por falta de tiempo o conocimiento, postergan mantenimientos.
+- Conductores profesionales que dependen de su vehículo para trabajar y sufren pérdidas económicas por fallas inesperadas.
+- Mecánicos tradicionales, quienes muchas veces trabajan de forma empírica, sin apoyo tecnológico ni acceso a datos técnicos en tiempo real, dificultando diagnósticos certeros.
+Asimismo, el 80% de los peruanos realizan el mantenimiento con mecánicos de confianza sin un enfoque técnico preestablecido y solo el 20 % realiza mantenimiento con las concesionarias. (Zambrano; Pérez 2021, p. 100).
+
+### 5. Why / ¿Por qué?
+Ocurre por falta de educación técnica en los usuarios, ausencia de monitoreo digital, desorganización en los cronogramas de mantenimiento y escasa adopción tecnológica en talleres. Además, los sistemas actuales no informan en tiempo real sobre el estado del vehículo. Asimismo, se resalta que:
+> ***“Muchos conductores no realizan el mantenimiento periódico de su auto, lo que les genera mayores gastos y desperfectos que ponen en riesgo no solo al vehículo, sino también la vida del conductor”. (Cutipa et al., 2018, p. 2).***
+
+### 6. How / ¿Cómo?
+Se diferencia del estado ideal porque no se realiza un monitoreo continuo y preciso. En el estado óptimo, el mantenimiento debería ser predictivo, usando datos para prevenir fallas antes de que ocurran. Además, el mantenimiento predictivo brinda la capacidad de anticipar cuándo podría presentarse una falla en los vehículos, y conocer este período previo a la avería es esencial para establecer el momento más adecuado para realizar el mantenimiento. (Sosa; Herrera, 2017, p. 580).
+
+### 7. How Much / ¿Cuánto?
+El costo por no realizar mantenimiento predictivo puede ser alto: por ejemplo, un servicio preventivo básico cada 5,000 km puede costar desde 230 soles, y uno más completo a los 10,000 km puede llegar a 400 soles. No respetar estos intervalos puede generar averías que superan los 1,000 soles en reparaciones imprevistas.
+
+“Muchos conductores no realizan el mantenimiento periódico, lo que les genera mayores gastos y desperfectos que ponen en riesgo no solo al vehículo, sino también la vida del conductor.”
+— Cutipa et al., 2018, p. 2
+
+Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con planes desde S/. 20.00 mensuales. Además, el adaptador inteligente que se conecta al vehículo tiene un costo estimado de S/. 20.00. Esta inversión permite al usuario monitorear su vehículo en tiempo real, prevenir daños costosos, y extender la vida útil del auto, generando un importante ahorro a largo plazo.
+
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
