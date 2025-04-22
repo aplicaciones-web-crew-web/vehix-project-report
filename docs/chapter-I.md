@@ -12,6 +12,15 @@ Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesida
 | Brindar a los conductores y mecánicos una solución inteligente y accesible para el monitoreo, diagnóstico y cuidado preventivo de sus vehículos, utilizando adapatadores de diganóstico conectados y análisis de datos en tiempo real, con el fin de prolongar la vida útil de los automóviles y reducir los costos por fallas mecánicas. | Convertirno en una plataforma líder en el Perú para el mantenimiento predictivo vehicular, destacándose por nuestra capcidad de brindar un cuidado vehicular a través de nuestra aplicación. |
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| Fotos de los integrantes |   Descripción   |
+|------------|------------|
+|![Dayro img](/assets/imgs/chapter-I/dayro.jpg)|Mi nombre es Dayro Ríos, tengo 18 años, estoy cursando el tercer ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en los lenguajes de programación c++, python, html y css, además gestores de base de datos como mssql. Cuando trabajo en equipo soy comunicativo, responsable y trato de realizar el trabajo lo mejor posible|
+|![Antonio img](/assets/imgs/chapter-I/antonio.jpg)| Mi nombre es Antonio Jhair Navarro Chinga tengo 19 años y soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy colaborativo, responsable y tengo conocimientos en programación estructurada, programación orientada a objetos y algoritmos. |
+|![Vitaly img](/assets/imgs/chapter-I/vitaly.jpg) | Mi nombre es Vitaly Baca Camargo, Tengo 19 años y actualmente estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Tengo conocimiento en SQL y C ++, programación orientada objetos y estructura de datos. Además de HTML y CSS. Me considero una persona responsable y comprometida en mis trabajos, por lo que siempre intento ayudar a mi grupo con cualquier duda.|
+| ![Moises img](/assets/imgs/chapter-I/piero.png) | |
+|![Sergio img](/assets/imgs/chapter-I/sergio.jpg) | Mi nombre es Sergio Gino Julca Minaya, con código u202318274. Actualmente soy estudiante del 5to ciclo de la carrera de Ingienería de Software, con conocimiento de html, css, desarrollo agile, método scrum, entre otros. Asimismo, me considero una persona constante, autodidacta, responsable y me gusta trabajar en equipo, de esta manera apoyaré a mi grupo en todo momento. |
+
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
