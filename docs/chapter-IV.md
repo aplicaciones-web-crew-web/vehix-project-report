@@ -43,6 +43,28 @@ Beneficios para mecánicos
 
    Redes sociales: enlaces a Facebook, Instagram, etc.
 
+La Aplicación Web Vehix implementa múltiples sistemas de organización que permiten una navegación estructurada y eficaz, tanto para conductores como para mecánicos, en función de sus necesidades específicas.
+
+**Organización Visual del Contenido**
+
+Jerárquica (Visual Hierarchy):
+- **Perfil de Vehículos Registrados:** Muestra una lista general de vehículos. Al seleccionar uno, se accede a su historial técnico, consumo, mantenimiento, alertas y diagnósticos.
+
+- **Historial de Mantenimientos o Diagnósticos:** Ordenados por vehículo y fecha, donde cada ítem permite ver detalles como tipo de falla, solución aplicada y observaciones.
+
+- **Panel de Talleres Cercanos:** El usuario visualiza un mapa general y puede hacer clic sobre cada taller para ver detalles: ubicación, calificación, tipo de servicio y horarios.
+
+Secuencial (Step-by-Step to Accomplish):
+- **Registro de Cuenta y Vehículo:** Flujo paso a paso donde se completa el perfil del usuario y luego se registran datos específicos del vehículo (modelo, marca, año, etc.).
+
+- **Pago de Suscripción:** Flujo guiado que incluye selección de plan, ingreso de datos, confirmación y visualización de estado del plan.
+
+- **Proceso de Diagnóstico (Mecánico):** Incluye conexión vía Bluetooth, detección automática de fallas, interpretación y sugerencia de soluciones.
+
+Matricial (Comparación Cruzada):
+- **Comparación entre Vehículos:** El usuario puede comparar el estado, desgaste, consumo y frecuencia de alertas de diferentes vehículos registrados.
+
+- **Panel del Mecánico:** Visualización de vehículos diagnosticados por tipo de falla, cliente, fecha, y estado del mantenimiento realizado.
 
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
