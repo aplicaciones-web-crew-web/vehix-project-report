@@ -99,46 +99,21 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 
+**Segmento 1: Propietarios de vehículos urbanos (uso personal)**
 
-#### Segmento 1: Propietarios de vehículos urbanos (uso personal)
+Los conductores entrevistados comparten un perfil común: son usuarios frecuentes de sus vehículos, principalmente para trabajo, compras y actividades personales. Aunque tienen cierta conciencia sobre el mantenimiento, su enfoque es predominantemente reactivo, actuando ante señales visibles o auditivas, sin llevar un registro sistemático de servicios o revisiones.
 
-¿Qué tipo de vehículo usas actualmente y con qué frecuencia lo conduces?
+Existe un patrón de dolor asociado a reparaciones costosas derivadas de la falta de mantenimiento preventivo, lo que crea una oportunidad clara para soluciones que anticipen fallas. Todos muestran una alta familiaridad y apertura al uso de aplicaciones móviles, siempre que sean intuitivas y claras.
 
-¿Qué tan pendiente estás del mantenimiento preventivo de tu vehículo? ¿Llevas algún tipo de registro?
-
-¿Alguna vez has tenido que pagar una reparación costosa por un problema que pudo haberse evitado? ¿Qué sucedió?
-
-¿Qué haces actualmente para asegurarte de que tu auto esté en buen estado?
-
-¿Qué tan cómodo te sientes utilizando aplicaciones móviles para gestionar aspectos técnicos de tu vehículo?
-
-¿Te interesaría recibir alertas personalizadas sobre el estado de tu vehículo directamente en tu celular? ¿Por qué?
-
-¿Qué información te gustaría recibir para ayudarte a cuidar mejor tu auto?
-
-¿Cuánto estarías dispuesto a pagar mensualmente por una app que te ayude a evitar reparaciones costosas y a prolongar la vida útil de tu auto?
-
-¿Qué valor tendría para ti poder corregir malas prácticas de conducción con ayuda de una app?
+Además, hay predisposición a pagar una suscripción mensual moderada (20–45 soles) si la solución les ofrece beneficios tangibles como ahorro en reparaciones, mayor tranquilidad y prolongación de la vida útil del vehículo.
 
 
-#### Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes
-¿Con qué frecuencia los clientes llegan a tu taller sin tener claro qué le ocurre a su vehículo?
 
-¿Qué tan útil sería para ti contar con diagnósticos previos generados por una app antes de revisar un auto?
+**Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
 
-¿Sueles perder tiempo en identificar fallas que podrían haberse detectado con anticipación? ¿Cómo afecta esto tu trabajo?
+Los técnicos automotrices entrevistados coinciden en que muchos clientes llegan al taller sin tener claro qué le ocurre a su vehículo, lo que retrasa el diagnóstico y afecta la eficiencia del taller. Los entrevistados ven con buenos ojos la idea de contar con diagnósticos previos generados por una app que se conecte al vehículo, así como el acceso al historial técnico del auto, ya que estos elementos les permitirían realizar reparaciones más rápidas y precisas.
 
-¿Qué opinas sobre tener un panel exclusivo donde puedas ver el historial técnico del vehículo que llega a tu taller?
-
-¿Estarías interesado en aparecer en un mapa digital dentro de una app que recomiende talleres cercanos a los conductores?
-
-¿Qué valor tendría para ti poder ofrecer diagnósticos más rápidos y precisos gracias a datos enviados por sensores del auto?
-
-¿Qué beneficios crees que traería esta tecnología tanto para ti como para tus clientes?
-
-¿Estarías dispuesto a pagar una suscripción mensual por acceder a estas herramientas avanzadas y visibilidad en la plataforma?
-
-¿Qué tipo de información técnica te sería más útil recibir desde la app para mejorar tu trabajo diario?
+Además, consideran valioso el acceso a datos de los sensores del vehículo y estar visibles en un mapa digital de talleres recomendados, lo que les permitiría atraer más clientes. Están dispuestos a pagar una suscripción mensual si la plataforma ofrece beneficios tangibles como ahorro de tiempo y mayor visibilidad, mostrando así una actitud receptiva hacia el uso de tecnología que optimice su trabajo diario.
 
 ## 2.3. Solution Profile
 ### 2.3.1. User Personas
