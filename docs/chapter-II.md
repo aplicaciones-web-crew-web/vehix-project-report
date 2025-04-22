@@ -107,6 +107,11 @@ Existe un patrón de dolor asociado a reparaciones costosas derivadas de la falt
 
 Además, hay predisposición a pagar una suscripción mensual moderada (20–45 soles) si la solución les ofrece beneficios tangibles como ahorro en reparaciones, mayor tranquilidad y prolongación de la vida útil del vehículo.
 
+**Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery)**
+
+Los conductores entrevistados, que dependen de sus vehículos para generar ingresos, presentan un enfoque reactivo hacia el mantenimiento, basado principalmente en señales visibles o auditivas del auto. Aunque realizan mantenimiento regular, las fallas inesperadas, como problemas con los frenos o la batería, les generan pérdidas económicas, lo que destaca la necesidad de una solución preventiva. Los conductores están interesados en aplicaciones móviles conectadas a sensores del vehículo que proporcionen alertas claras sobre componentes clave como el motor, frenos y batería, además de recomendaciones de mantenimiento y consejos para mejorar la conducción.
+
+Este segmento muestra una predisposición a pagar una suscripción mensual moderada por una aplicación que ofrezca monitoreo en tiempo real, con funciones fáciles de usar y que ayuden a evitar reparaciones costosas. Prefieren invertir en una solución que les permita prevenir fallas antes de que se conviertan en emergencias, mejorando la vida útil del vehículo y protegiendo así sus ingresos. La simplicidad y claridad de la información son esenciales para que la solución sea efectiva y valiosa para ellos.
 
 
 **Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
