@@ -130,6 +130,20 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 ![user-journey-mapping-segment-3](/assets/imgs/chapter-II/user-journey-mapping-segment-3.png)
 
 ### 2.3.4. Empathy Mapping
+**Segmento 1**
+
+![empathy-mapping-segment-1](/assets/imgs/chapter-II/empathy-mapping-segment-1.png)
+
+
+**Segmento 2**
+
+![empathy-mapping-segment-2](/assets/imgs/chapter-II/empathy-mapping-segment-2.png)
+
+
+**Segmento 3**
+
+![empathy-mapping-segment-3](/assets/imgs/chapter-II/empathy-mapping-segment-3.png)
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 | Termino (Ingles)          | Definicion                                                                                                                                      |
