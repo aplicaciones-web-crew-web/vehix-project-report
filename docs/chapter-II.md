@@ -115,6 +115,20 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ![3](https://github.com/user-attachments/assets/1b53946e-8093-460a-822c-69c355a54b17)
 ### 2.3.3. User Journey Mapping
+**Segmento 1**
+
+![user-journey-mapping-segment-1](/assets/imgs/chapter-II/user-journey-mapping-segment-1.png)
+
+
+**Segmento 2**
+
+![user-journey-mapping-segment-2](/assets/imgs/chapter-II/user-journey-mapping-segment-2.png)
+
+
+**Segmento 3**
+
+![user-journey-mapping-segment-3](/assets/imgs/chapter-II/user-journey-mapping-segment-3.png)
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
