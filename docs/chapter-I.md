@@ -22,6 +22,21 @@ Vehix adopta un enfoque centrado en el conductor, buscando entender sus necesida
 |![Sergio img](/assets/imgs/chapter-I/sergio.jpg) | Mi nombre es Sergio Gino Julca Minaya, con código u202318274. Actualmente soy estudiante del 5to ciclo de la carrera de Ingienería de Software, con conocimiento de html, css, desarrollo agile, método scrum, entre otros. Asimismo, me considero una persona constante, autodidacta, responsable y me gusta trabajar en equipo, de esta manera apoyaré a mi grupo en todo momento. |
 
 ## 1.2. Solution Profile
+Nuestro producto se centra en realizar una aplicación diseñada para poder ayudar a las personas interesadas en prevenir, mantener y optimizar el mantenimiento vehicular mediante un sistema de monitoreo en tiempo real.
+
+**Desafío**
+
+Muchos propietarios enfrentan mantenimientos costosos y fallas inesperadas por falta de información técnica y prevención. Además, los mecánicos suelen lidiar con diagnósticos poco precisos y una comunicación deficiente con el cliente, dificultando reparaciones eficientes y certeras.
+
+Esta problemática, común en usuarios con rutinas exigentes o poco conocimiento técnico, conlleva a riesgos innecesarios, altos gastos y una reducción significativa en la durabilidad del vehículo. 
+
+**Objetivo**
+  
+Vehix ofrece una solución integral, el cual monitorea en tiempo real el estado del vehículo, detecta malas prácticas del conductor, anticipa fallos mediante inteligencia artificial y recomienda acciones correctivas. Asimismo, para los mecánicos, brinda una interfaz especializada con datos técnicos avanzados, facilitando diagnósticos precisos y una mejor comunicación con el cliente.
+
+**Monetización**
+
+Este servicio opera bajo un modelo de suscripción mensual. Al estar activo, el usuario tiene acceso completo a todas las funcionalidades de la app. En caso de cancelación o falta de pago, el acceso queda suspendido, garantizando así la continuidad del servicio solo para clientes activos.
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
