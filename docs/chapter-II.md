@@ -98,6 +98,28 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
+
+**Segmento 1: Propietarios de vehículos urbanos (uso personal)**
+
+Los conductores entrevistados comparten un perfil común: son usuarios frecuentes de sus vehículos, principalmente para trabajo, compras y actividades personales. Aunque tienen cierta conciencia sobre el mantenimiento, su enfoque es predominantemente reactivo, actuando ante señales visibles o auditivas, sin llevar un registro sistemático de servicios o revisiones.
+
+Existe un patrón de dolor asociado a reparaciones costosas derivadas de la falta de mantenimiento preventivo, lo que crea una oportunidad clara para soluciones que anticipen fallas. Todos muestran una alta familiaridad y apertura al uso de aplicaciones móviles, siempre que sean intuitivas y claras.
+
+Además, hay predisposición a pagar una suscripción mensual moderada (20–45 soles) si la solución les ofrece beneficios tangibles como ahorro en reparaciones, mayor tranquilidad y prolongación de la vida útil del vehículo.
+
+**Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery)**
+
+Los conductores entrevistados, que dependen de sus vehículos para generar ingresos, presentan un enfoque reactivo hacia el mantenimiento, basado principalmente en señales visibles o auditivas del auto. Aunque realizan mantenimiento regular, las fallas inesperadas, como problemas con los frenos o la batería, les generan pérdidas económicas, lo que destaca la necesidad de una solución preventiva. Los conductores están interesados en aplicaciones móviles conectadas a sensores del vehículo que proporcionen alertas claras sobre componentes clave como el motor, frenos y batería, además de recomendaciones de mantenimiento y consejos para mejorar la conducción.
+
+Este segmento muestra una predisposición a pagar una suscripción mensual moderada por una aplicación que ofrezca monitoreo en tiempo real, con funciones fáciles de usar y que ayuden a evitar reparaciones costosas. Prefieren invertir en una solución que les permita prevenir fallas antes de que se conviertan en emergencias, mejorando la vida útil del vehículo y protegiendo así sus ingresos. La simplicidad y claridad de la información son esenciales para que la solución sea efectiva y valiosa para ellos.
+
+
+**Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
+
+Los técnicos automotrices entrevistados coinciden en que muchos clientes llegan al taller sin tener claro qué le ocurre a su vehículo, lo que retrasa el diagnóstico y afecta la eficiencia del taller. Los entrevistados ven con buenos ojos la idea de contar con diagnósticos previos generados por una app que se conecte al vehículo, así como el acceso al historial técnico del auto, ya que estos elementos les permitirían realizar reparaciones más rápidas y precisas.
+
+Además, consideran valioso el acceso a datos de los sensores del vehículo y estar visibles en un mapa digital de talleres recomendados, lo que les permitiría atraer más clientes. Están dispuestos a pagar una suscripción mensual si la plataforma ofrece beneficios tangibles como ahorro de tiempo y mayor visibilidad, mostrando así una actitud receptiva hacia el uso de tecnología que optimice su trabajo diario.
+
 ## 2.3. Solution Profile
 ### 2.3.1. User Personas
 **Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
