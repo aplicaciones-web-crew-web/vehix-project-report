@@ -2,6 +2,38 @@
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
+**Análisis Foda**
+![foda](/assets/imgs/chapter-II/foda.png)
+
+Para posicionarse de manera efectiva en el mercado y destacar frente a competidores como FIXD, CarMD y Drivvo, Vehix aplicará las siguientes estrategias y tácticas preliminares orientadas a afrontar las fortalezas de la competencia, actuar en función de las oportunidades, aprovechar sus debilidades y amenazas del entorno competitivo:
+
+#### Afrontando las fortalezas de nuestros competidores 
++ **Estrategia:** Aprovechar que muchas apps no tienen monitoreo en tiempo real, ni educación preventiva, para posicionarnos como un asistente integral y proactivo en el cuidado vehicular.
++ **Tácticas:**
+  + Desarrollar una interfaz clara, moderna y accesible para todas las plataformas.
+  + Incluir funciones preventivas y educativas que los competidores no ofrecen.
+  + Mantener la compatibilidad con una amplia gama de vehículos, incluidos autos usados.
+
+#### Afrontando las debilidades de nuestros competidores
++ **Estrategia:** Ofrecer una solución que combine monitoreo en tiempo real con funciones educativas y predicción preventiva, destacando nuestro adaptatador diagnóstico y app ligera como ventaja competitiva.
++ **Tácticas:**
+  + Implementar funciones de aprendizaje automático para analizar hábitos de conducción.
+  + Desarrollar contenido educativo accesible (videos, consejos) dentro de la app.
+
+#### Afrontando las oportunidades de nuestros competidores
++ **Estrategia:**
+  Atraer usuarios potenciales que buscan más que un simple diagnóstico, mediante una propuesta de valor basada en educación, predicción y experiencia personalizada.
++ **Tácticas:**
+  + Establecer alianzas con talleres mecánicos, aseguradoras y concesionarios.
+  + Publicitar en redes sociales destacando las funciones únicas de Vehix.
+
+#### Afrontando las amenazas de nuestros competidores
++ **Estrategia:**
+  Mantener la competitividad mediante innovación continua, soporte eficiente y escalabilidad internacional.
++ **Tácticas:**
+  + Lanzar actualizaciones mensuales con mejoras y nuevas funcionalidades.
+  + Asegurar compatibilidad con diferentes marcas y modelos de vehículos.
+  + Ofrecer soporte técnico en múltiples idiomas y zonas horarias.
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
