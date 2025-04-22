@@ -4,6 +4,68 @@
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+
+En este apartado se indicarán los sistemas de organización que se han usado para el "Landing page" y la aplicación web. Entre los tipos de estructuras que han sido escogidas son: jerárquica y secuenciale. Además también indicaremos los esquemas de categorización de contenido.
+
+Para la landing page se ha utilizado una estructura jerárquica en la landing page de Vehix porque permite organizar la información de forma clara y progresiva, guiando al usuario desde lo más general hasta lo más específico.
+
+- Inicio
+  
+   Banner: imagen principal que comunica el valor del producto
+  
+   Call to Action: botón destacado como “Empieza ahora”
+
+- Beneficios
+
+Beneficios para conductores
+
+Beneficios para mecánicos
+
+- Testimonios
+
+- Sobre nosotros
+  
+   Nuestra propuesta de valor como startup
+
+  Perfiles de integrantes
+
+- Preguntas frecuentes
+
+- Compatibilidad de vehículos
+
+- Contacto
+  
+  formulario de contacto
+  
+- Soporte
+  
+   Correo electrónico: canal directo de atención
+
+   Redes sociales: enlaces a Facebook, Instagram, etc.
+
+La Aplicación Web Vehix implementa múltiples sistemas de organización que permiten una navegación estructurada y eficaz, tanto para conductores como para mecánicos, en función de sus necesidades específicas.
+
+**Organización Visual del Contenido**
+
+Jerárquica (Visual Hierarchy):
+- **Perfil de Vehículos Registrados:** Muestra una lista general de vehículos. Al seleccionar uno, se accede a su historial técnico, consumo, mantenimiento, alertas y diagnósticos.
+
+- **Historial de Mantenimientos o Diagnósticos:** Ordenados por vehículo y fecha, donde cada ítem permite ver detalles como tipo de falla, solución aplicada y observaciones.
+
+- **Panel de Talleres Cercanos:** El usuario visualiza un mapa general y puede hacer clic sobre cada taller para ver detalles: ubicación, calificación, tipo de servicio y horarios.
+
+Secuencial (Step-by-Step to Accomplish):
+- **Registro de Cuenta y Vehículo:** Flujo paso a paso donde se completa el perfil del usuario y luego se registran datos específicos del vehículo (modelo, marca, año, etc.).
+
+- **Pago de Suscripción:** Flujo guiado que incluye selección de plan, ingreso de datos, confirmación y visualización de estado del plan.
+
+- **Proceso de Diagnóstico (Mecánico):** Incluye conexión vía Bluetooth, detección automática de fallas, interpretación y sugerencia de soluciones.
+
+Matricial (Comparación Cruzada):
+- **Comparación entre Vehículos:** El usuario puede comparar el estado, desgaste, consumo y frecuencia de alertas de diferentes vehículos registrados.
+
+- **Panel del Mecánico:** Visualización de vehículos diagnosticados por tipo de falla, cliente, fecha, y estado del mantenimiento realizado.
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
