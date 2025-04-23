@@ -75,6 +75,61 @@ Matricial (Comparación Cruzada):
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+### Log in
+![log-in](/assets/imgs/chapter-IV/wireframes/log-in/log-in.png)
+![sign-up](/assets/imgs/chapter-IV/wireframes/log-in/sign-up.png)
+![subscriptions-plannes](/assets/imgs/chapter-IV/wireframes/log-in/subscriptions-plannes.png)
+
+### Plan PRO
+![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-pro/about-your-vehicle.png)
+![audit](/assets/imgs/chapter-IV/wireframes/plan-pro/audit.png)
+![bluetooth-conection](/assets/imgs/chapter-IV/wireframes/plan-pro/bluetooth-conection.png)
+![buy-plan-pro](/assets/imgs/chapter-IV/wireframes/plan-pro/buy-plan-pro.png)
+![car-useful-life](/assets/imgs/chapter-IV/wireframes/plan-pro/car-useful-life.png)
+![diagnostic-interface](/assets/imgs/chapter-IV/wireframes/plan-pro/diagnostic-interface.png)
+![diagnostic-scan](/assets/imgs/chapter-IV/wireframes/plan-pro/diagnostic-scan.png)
+![guide-bluetooth](/assets/imgs/chapter-IV/wireframes/plan-pro/guide-bluetooth.png)
+![help](/assets/imgs/chapter-IV/wireframes/plan-pro/help.png)
+![home](/assets/imgs/chapter-IV/wireframes/plan-pro/home.png)
+![last-diagnostic](/assets/imgs/chapter-IV/wireframes/plan-pro/last-diagnostic.png)
+![personal-information](/assets/imgs/chapter-IV/wireframes/plan-pro/personal-information.png)
+![problem-forecasting](/assets/imgs/chapter-IV/wireframes/plan-pro/problem-forecasting.png)
+![rapid-diagnosis](/assets/imgs/chapter-IV/wireframes/plan-pro/rapid-diagnosis.png)
+![recent-repairs](/assets/imgs/chapter-IV/wireframes/plan-pro/recent-repairs.png)
+![report](/assets/imgs/chapter-IV/wireframes/plan-pro/report.png)
+![topic-1](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-1.png)
+![topic-2](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-2.png)
+![topic-3](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-3.png)
+![topic-4](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-4.png)
+![topic-5](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-5.png)
+![topic-6](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-6.png)
+![topic-7](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-7.png)
+
+### Plan STANDARD
+![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-standard/about-your-vehicle.png)
+![audit](/assets/imgs/chapter-IV/wireframes/plan-standard/audit.png)
+![bloqued-1](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-1.png)
+![bloqued-2](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-2.png)
+![bloqued-3](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-3.png)
+![bluetooth-conection](/assets/imgs/chapter-IV/wireframes/plan-standard/bluetooth-conection.png)
+![buy-plan-standard](/assets/imgs/chapter-IV/wireframes/plan-standard/buy-plan-standard.png)
+![diagnostic-interface](/assets/imgs/chapter-IV/wireframes/plan-standard/diagnostic-interface.png)
+![diagnostic-scan](/assets/imgs/chapter-IV/wireframes/plan-standard/diagnostic-scan.png)
+![home](/assets/imgs/chapter-IV/wireframes/plan-standard/home.png)
+![interface](/assets/imgs/chapter-IV/wireframes/plan-standard/interface.png)
+![last-scan](/assets/imgs/chapter-IV/wireframes/plan-standard/last-scan.png)
+![profile](/assets/imgs/chapter-IV/wireframes/plan-standard/profile.png)
+![recent-repairs](/assets/imgs/chapter-IV/wireframes/plan-standard/recent-repairs.png)
+![report](/assets/imgs/chapter-IV/wireframes/plan-standard/report.png)
+![topic-1](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-1.png)
+![topic-2](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-2.png)
+![topic-3](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-3.png)
+![topic-4](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-4.png)
+![topic-5](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-5.png)
+![topic-6](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-6.png)
+![topic-7](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-7.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
