@@ -106,7 +106,7 @@ Matricial (Comparación Cruzada):
 ![topic-6](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-6.png)
 ![topic-7](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-7.png)
 
-### Plan PRO
+### Plan STANDARD
 ![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-standard/about-your-vehicle.png)
 ![audit](/assets/imgs/chapter-IV/wireframes/plan-standard/audit.png)
 ![bloqued-1](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-1.png)
