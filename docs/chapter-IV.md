@@ -75,6 +75,7 @@ Matricial (Comparación Cruzada):
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+**Link**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
 ### Log in
 ![log-in](/assets/imgs/chapter-IV/wireframes/log-in/log-in.png)
@@ -132,6 +133,7 @@ Matricial (Comparación Cruzada):
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
+**Link**: [Figma mock ups (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
 ### Log in
 ![log-in](/assets/imgs/chapter-IV/mock-up/log-in/log-in.png)
