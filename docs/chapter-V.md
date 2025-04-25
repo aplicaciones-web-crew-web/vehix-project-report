@@ -47,6 +47,70 @@ Esto facilitó una verificación sistemática del comportamiento esperado de la 
 
 Incluye todo el material que describe el funcionamiento del sistema y cómo utilizarlo. La documentación fue elaborada tanto para usuarios finales como para el equipo técnico, y se integró como parte del repositorio del proyecto.
 ### 5.1.2. Source Code Management.
+En esta sección se describe cómo se gestionaron las modificaciones al código del sistema **Vehix**, así como las convenciones empleadas para los commits y las versiones liberadas a lo largo del ciclo de desarrollo.
+
+### Plataforma de Control de Versiones
+
+Para el control y seguimiento del código fuente, se utilizó **GitHub** como plataforma centralizada. Allí se crearon distintos repositorios independientes para las principales partes del sistema: landing page, backend (servicio web), frontend y documentación técnica. El control de versiones se realizó de forma distribuida mediante **Git**, instalado localmente por cada integrante del equipo.
+
+### Flujo de Trabajo Git (GitFlow)
+
+Se adoptó el modelo de ramificación **GitFlow**, debido a su capacidad para mantener el código organizado y facilitar el trabajo colaborativo. Esta metodología define dos tipos de ramas:
+
+#### Ramas Principales
+
+- `main`: Contiene la versión estable y lista para producción del sistema Vehix. Todo código integrado aquí representa una nueva entrega oficial del producto.
+- `develop`: Es la rama donde se integran funcionalidades completadas y testeadas. Sirve como entorno previo a producción para preparar nuevos lanzamientos.
+
+#### Ramas de Apoyo
+
+- `feature`: Se crean desde `develop` para el desarrollo de nuevas funcionalidades específicas. Una vez finalizadas, se integran nuevamente en `develop`.
+- `release`: Generadas desde `develop` para preparar una nueva versión estable. Incluyen ajustes menores, corrección de bugs y preparación para despliegue.
+- `hotfix`: Se crean directamente desde `main` cuando se requiere resolver errores críticos en producción. Una vez resueltos, se integran tanto en `main` como en `develop`.
+
+### Versionado Semántico (Semantic Versioning)
+
+El proyecto implementa el estándar **Semantic Versioning 2.0.0**, permitiendo una numeración clara y predecible de versiones mediante el esquema `X.Y.Z`, donde:
+
+- `Z` (Patch): Se incrementa por correcciones menores sin afectar compatibilidad.
+- `Y` (Minor): Se incrementa cuando se agregan nuevas funcionalidades compatibles.
+- `X` (Major): Se incrementa cuando se introducen cambios que rompen compatibilidad con versiones anteriores.
+
+**Ejemplos de nombres de ramas release:**
+- `release-1.0.5`
+- `release-2.1.4`
+- `release-2.2.1`
+
+### Commits Convencionales (Conventional Commits)
+
+Para mantener un historial claro y significativo de los cambios, se empleó el estándar **Conventional Commits**, con la siguiente estructura:
+
+``` <type>[opcional scope]: <descripción> ```
+
+```[optional body]```
+
+```[optional footer]```
+
+#### Tipos de Commit (`type`):
+
+- `feat`: Nueva funcionalidad.
+- `fix`: Corrección de errores.
+- `docs`: Cambios en la documentación.
+- `refactor`: Reestructuración sin alterar comportamiento.
+- `perf`: Mejoras de rendimiento.
+- `chore`: Tareas menores sin impacto funcional.
+- `build`: Cambios relacionados a dependencias o configuración.
+
+#### Otros Campos:
+
+- **scope** *(opcional)*: Indica qué módulo o componente fue modificado.
+- **description** *(obligatorio)*: Breve explicación del cambio, en minúsculas y forma imperativa.
+- **body** *(opcional)*: Detalles adicionales del cambio.
+- **footer** *(opcional)*: Información extra sobre _breaking changes_ u otros avisos.
+
+Este enfoque facilita la trazabilidad, automatización del versionado y claridad en las revisiones por parte del equipo de desarrollo de *Vehix*.
+### Commits Convencionales (Conventional Commits)
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
