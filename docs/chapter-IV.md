@@ -70,6 +70,32 @@ Matricial (Comparación Cruzada):
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+desktop:
+
+![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/who_are_we.png)
+
+![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/faq.png)
+
+![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/compatibility.png)
+
+![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
+
+mobile: 
+
+![who are we mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/who_are_we_wireframe.png)
+
+![faq mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/faq_wireframe.png)
+
+![compatible vehicles mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/compatibility_wireframe.png)
+
+![contact mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/contact_wireframe.png)
+
+![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
+
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
