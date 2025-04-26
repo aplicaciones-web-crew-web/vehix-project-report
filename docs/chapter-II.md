@@ -97,6 +97,68 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 ¿Qué tipo de información técnica te sería más útil recibir desde la app para mejorar tu trabajo diario?
 
 ### 2.2.2. Registro de entrevistas
+
+link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EYpGQVx-EgBErpjNXjetCO8BCMPzhP1T3tUCnnB_lBSyow?e=Sxl1uU
+
+**Segmento 1: Propietarios de vehículos urbanos (uso personal)**
+
+Entrevista 1:
+
+![lucas img](/assets/imgs/chapter-II/lucas_interview.png)
+
+[00:00 - 3:19]
+
+Duración: 3 minutos 19 segundos
+
+Nombre: Lucas 
+
+Apellidos: Sanchez Heredia
+
+Edad: 25 años
+
+Distrito: Chorrillos
+
+
+Resumen: Lucas es un conductor joven que vive en la ciudad, se lleva bien con la tecnología y sabe que debe cuidar su auto, aunque no lo hace de forma muy organizada. Normalmente espera a que el tablero del carro le avise o a escuchar ruidos raros para llevarlo al taller. Ya tuvo que pagar una reparación cara por no haber hecho el mantenimiento a tiempo, así que está abierto a opciones que le ayuden a prevenir ese tipo de problemas.
+Le gusta la idea de usar una app para recibir alertas, saber qué le pasa a su auto y mejorar su forma de manejar. Cree que sería muy útil tener una herramienta que lo ayude a evitar fallas grandes y a cuidar mejor su carro. Está dispuesto a pagar entre 20 y 30 soles al mes si el servicio realmente le da beneficios que pueda notar.
+
+Entrevista 2:
+
+![johnny img](/assets/imgs/chapter-II/johnny_interview.png)
+
+[3:19 - 6:35]
+
+Duración: 3 minutos 16 segundos
+
+Nombre: Johnny 
+
+Apellidos: Dios Mayta 
+
+Edad: 25 años
+
+Distrito: Lima, Villa el Salvador
+
+Resumen: Johnny es un joven conductor que usa su auto a diario, aunque no lleva un control estricto del mantenimiento. Su experiencia con una reparación costosa por falta de revisión lo hace más receptivo a soluciones preventivas. Está cómodo con la tecnología y usaría una app siempre que sea fácil de entender. Le interesa recibir alertas sobre fallas y consejos para mejorar su conducción. Valora poder evitar gastos imprevistos y alargar la vida útil de su vehículo, y estaría dispuesto a pagar un monto accesible si la app realmente le ayuda.
+
+Entrevista 3:
+
+![rocio img](/assets/imgs/chapter-II/rocio_interview.png)
+
+[6:35 - 9:58]
+
+Duración: 3 minutos 23 segundos
+
+Nombre: Rocio 
+
+Apellidos: Piñan Saavedra
+
+Edad: 49 años
+
+Ubicación: Lima, Villa el Salvador
+
+Resumen: Rocío Piñan Saavedra es una trabajadora dependiente de 49 años que vive en Lima y utiliza diariamente su Hyundai i20 tanto para ir al trabajo como para actividades familiares. Aunque procura realizarle mantenimiento a su vehículo, no lleva un registro sistemático y muchas veces lo posterga hasta que detecta una falla. Esta falta de seguimiento ya le ha generado problemas costosos, como una reparación del sistema eléctrico que pudo haberse evitado. Rocío no es experta en temas técnicos, pero está familiarizada con el uso de aplicaciones móviles para otros aspectos de su vida diaria, y estaría dispuesta a usar una app para su vehículo siempre que sea sencilla. Valora especialmente la posibilidad de recibir alertas personalizadas, recordatorios de mantenimiento y sugerencias para mejorar su forma de conducir. Considera que una herramienta así tendría gran valor si le ayuda a evitar fallas graves y gastos inesperados, y está dispuesta a pagar entre 25 y 30 soles al mes por ese servicio. Su perfil representa una usuaria con alta motivación por la prevención, pero con poca gestión técnica activa, lo que la convierte en un segmento clave para una solución como Vehix.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
