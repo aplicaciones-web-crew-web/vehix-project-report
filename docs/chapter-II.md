@@ -97,6 +97,183 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 ¿Qué tipo de información técnica te sería más útil recibir desde la app para mejorar tu trabajo diario?
 
 ### 2.2.2. Registro de entrevistas
+
+link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EYpGQVx-EgBErpjNXjetCO8BCMPzhP1T3tUCnnB_lBSyow?e=Sxl1uU
+
+**Segmento 1: Propietarios de vehículos urbanos (uso personal)**
+
+Entrevista 1:
+
+![lucas img](/assets/imgs/chapter-II/lucas_interview.png)
+
+[00:00 - 3:19]
+
+Duración: 3 minutos 19 segundos
+
+Nombre: Lucas 
+
+Apellidos: Sanchez Heredia
+
+Edad: 25 años
+
+Distrito: Chorrillos
+
+
+Resumen: Lucas es un conductor joven que vive en la ciudad, se lleva bien con la tecnología y sabe que debe cuidar su auto, aunque no lo hace de forma muy organizada. Normalmente espera a que el tablero del carro le avise o a escuchar ruidos raros para llevarlo al taller. Ya tuvo que pagar una reparación cara por no haber hecho el mantenimiento a tiempo, así que está abierto a opciones que le ayuden a prevenir ese tipo de problemas.
+Le gusta la idea de usar una app para recibir alertas, saber qué le pasa a su auto y mejorar su forma de manejar. Cree que sería muy útil tener una herramienta que lo ayude a evitar fallas grandes y a cuidar mejor su carro. Está dispuesto a pagar entre 20 y 30 soles al mes si el servicio realmente le da beneficios que pueda notar.
+
+Entrevista 2:
+
+![johnny img](/assets/imgs/chapter-II/johnny_interview.png)
+
+[3:19 - 6:35]
+
+Duración: 3 minutos 16 segundos
+
+Nombre: Johnny 
+
+Apellidos: Dios Mayta 
+
+Edad: 25 años
+
+Distrito: Lima, Villa el Salvador
+
+Resumen: Johnny es un joven conductor que usa su auto a diario, aunque no lleva un control estricto del mantenimiento. Su experiencia con una reparación costosa por falta de revisión lo hace más receptivo a soluciones preventivas. Está cómodo con la tecnología y usaría una app siempre que sea fácil de entender. Le interesa recibir alertas sobre fallas y consejos para mejorar su conducción. Valora poder evitar gastos imprevistos y alargar la vida útil de su vehículo, y estaría dispuesto a pagar un monto accesible si la app realmente le ayuda.
+
+Entrevista 3:
+
+![rocio img](/assets/imgs/chapter-II/rocio_interview.png)
+
+[6:35 - 9:58]
+
+Duración: 3 minutos 23 segundos
+
+Nombre: Rocio 
+
+Apellidos: Piñan Saavedra
+
+Edad: 49 años
+
+Ubicación: Lima, Villa el Salvador
+
+Resumen: Rocío Piñan Saavedra es una trabajadora dependiente de 49 años que vive en Lima y utiliza diariamente su Hyundai i20 tanto para ir al trabajo como para actividades familiares. Aunque procura realizarle mantenimiento a su vehículo, no lleva un registro sistemático y muchas veces lo posterga hasta que detecta una falla. Esta falta de seguimiento ya le ha generado problemas costosos, como una reparación del sistema eléctrico que pudo haberse evitado. Rocío no es experta en temas técnicos, pero está familiarizada con el uso de aplicaciones móviles para otros aspectos de su vida diaria, y estaría dispuesta a usar una app para su vehículo siempre que sea sencilla. Valora especialmente la posibilidad de recibir alertas personalizadas, recordatorios de mantenimiento y sugerencias para mejorar su forma de conducir. Considera que una herramienta así tendría gran valor si le ayuda a evitar fallas graves y gastos inesperados, y está dispuesta a pagar entre 25 y 30 soles al mes por ese servicio. Su perfil representa una usuaria con alta motivación por la prevención, pero con poca gestión técnica activa, lo que la convierte en un segmento clave para una solución como Vehix.
+
+**Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery)**
+
+Entrevista 4: 
+
+![sebastian img](/assets/imgs/chapter-II/interview-sebastian.png)
+
+[9:58 - 13:14] 
+
+Duración:  3 minutos 16 segundos
+
+Nombre: Sebastián Armando 
+
+Apellido: Del Rio
+
+Edad: 25 años
+
+Distrito: Chorrillos 
+
+Resumen: Sebastián es un conductor que realiza el mantenimiento de su vehículo de manera reactiva, aproximadamente cada tres o cuatro meses, sin seguir un calendario fijo. Suele acudir al taller solo cuando escucha ruidos extraños o percibe alguna falla. Esta falta de control ya le ha generado problemas costosos, como una falla en la bomba de gasolina en plena jornada, lo que lo obligó a cancelar su trabajo y asumir una reparación costosa. En el día a día, se guía únicamente por los testigos del tablero y no cuenta con herramientas que le brinden un diagnóstico claro del estado de su vehículo. Reconoce que una conducción brusca acelera el desgaste, pero a veces no puede evitarlo debido al ritmo de trabajo. Probó una app que se conectaba a un escáner OBD prestado, pero la experiencia fue negativa porque mostraba códigos técnicos que no entendía. Por eso, valora una aplicación sencilla, con alertas claras, resúmenes semanales del estado del auto, recomendaciones de conducción y recordatorios de mantenimiento. Está dispuesto a pagar una suscripción mensual si esta le permite prevenir fallas, reducir gastos en reparaciones y trabajar con mayor tranquilidad. Su perfil representa a un usuario práctico que busca soluciones accesibles y fáciles de usar.
+
+Entrevista 5:
+
+![rocio img](/assets/imgs/chapter-II/interview-rocio.png)
+
+[13:14 - 17:01]
+
+Duración: 3 minutos 47 segundos
+
+Nombre: Rocio 
+
+Apellidos: Castañeda Herrera
+
+Edad: 48 años
+
+Distrito: Villa María del Triunfo
+
+Resumen: La entrevistada es una conductora que depende totalmente de su vehículo para su trabajo diario, por lo que procura hacerle mantenimiento cada 5,000 kilómetros. Intenta ser ordenada con eso, ya que cualquier falla impacta directamente en sus ingresos. Hace dos meses tuvo un problema con el sistema de frenos que la dejó dos días sin trabajar, justo en un fin de semana, lo que le generó una pérdida considerable.Su única forma de monitorear el estado del auto es a través del tablero y los sonidos del motor. No cuenta con herramientas adicionales. Valora mucho su estilo de conducción: evita frenar bruscamente, no sobrecarga el auto y trata de manejar de forma cuidadosa. Una vez un mecánico le mostró una app conectada a un escáner OBD, que le pareció útil, aunque era más por curiosidad y no volvió a usarla. Le gustaría contar con una app simple, con notificaciones claras sobre el motor, batería, aceite y frenos, que le diga si puede seguir manejando o debe detenerse. También valora poder planificar el mantenimiento. Está dispuesta a pagar una suscripción mensual si le ayuda a evitar gastos fuertes a futuro.
+
+Entrevista 6:
+
+![melina img](/assets/imgs/chapter-II/interview-melina.png)
+
+[17:01 - 23:42] 
+
+Duración: 6 minutos 41 segundos
+
+Nombre: Melina Sofía
+
+Apellidos: Gutiérrez Ramos
+
+Edad: 38 años
+
+Distrito: Surco
+
+Resumen: Melina Sofía Gutiérrez Ramos es conductora de una app de movilidad y realiza el mantenimiento de su vehículo cada tres meses, aunque en ocasiones lo posterga por falta de tiempo o dinero. Su decisión de llevarlo al taller suele depender de si nota fallas como ruidos o comportamientos extraños en el auto. Recientemente, tuvo problemas con la batería mientras trabajaba, lo que le hizo perder ingresos y tiempo, generándole frustración. Actualmente, se guía solo por las luces del tablero y los sonidos del auto, sin contar con herramientas que le den un diagnóstico más preciso. Reconoce la importancia de manejar con suavidad para evitar daños, algo que ha mejorado con la experiencia. Probó una app de diagnóstico con un mecánico, pero la información era muy técnica e inentendible. Melina valoraría una aplicación sencilla que ofrezca alertas claras sobre el estado del motor, frenos o aceite, y que le dé consejos de conducción y recordatorios de mantenimiento. Considera ideal una herramienta que le explique de forma simple lo que necesita revisar para evitar quedarse varada. Está dispuesta a pagar una suscripción mensual si eso le ayuda a prevenir fallas graves y cuidar mejor su vehículo, siempre que el precio sea razonable y el servicio confiable.
+
+
+**Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
+
+Entrevista 7:
+
+![richard img](/assets/imgs/chapter-II/richard_interview.png)
+
+[23:42 - 30:19] 
+
+Duración: 6 minutos 37 segundos
+
+Nombre: Richard
+
+Apellidos: Rios Sandoval
+
+Edad: 53 años
+
+Distrito: Villa el salvador
+
+Resumen: Se entrevistó a Richard Rios, un mecánico automotriz, realizando las respectivas preguntas de la entrevista para conocer los desafíos de su trabajo y como la tecnología podría ser de ayuda mediante una app. Richard comenta que los clientes la mayoría de veces no conocen que parte del carro está fallando cuando llegan a su taller. También destaca que le uso de una app sería beneficioso para tener un historial de mantenimiento del vehículo que va a reparaar, lo cual lo ayudaría a atender a los clientes de manera más efectiva. Destaca también lo importante que sería para él tener una app que realicé diagnósticos más precisos, para ofrecer un mejor servicio. Termina la entrevista diciendo que estaría a dispuesto a pagar por una suscripción por usar una app que le ofrezca visibilidad de su taller y ayuda para mejorar su trabajo diario.
+
+Entrevista 8:
+
+![jose img](/assets/imgs/chapter-II/interview-jose.png)
+
+[30:19 - 35:20]
+
+Duración: 5 minutos 1 segundo
+
+Nombre: José Antonio  
+
+Apellidos: Navarro Amezquita
+
+Edad: 53 años
+
+Distrito: Villa maría del triunfo
+
+Resume: Se entrevistó a José Navarro, un mecánico automotriz, acerca de los desafíos que enfrenta en su trabajo diario y cómo la tecnología podría ayudarlo. José comenta que con frecuencia recibe clientes que no tienen claro qué falla tiene su vehículo, lo cual le hace perder tiempo en diagnósticos. Señala que una aplicación capaz de generar diagnósticos previos o conectarse con la computadora del auto sería muy beneficiosa tanto para él como para el cliente. También destaca la utilidad de contar con un historial técnico del vehículo en una app, lo cual permitiría identificar fallas más rápido. Además, se mostró interesado en aparecer en un mapa digital de talleres, ya que le ayudaría a atraer más clientes. Aprecia la posibilidad de recibir datos precisos de sensores del auto, lo que agilizaría el trabajo. Está dispuesto a pagar una suscripción mensual si la herramienta demuestra ser rentable. Finalmente, considera que la información más útil que podría recibir de una app es el historial técnico detallado de cada vehículo. Concluye diciendo que la idea le parece muy buena y que sin duda utilizaría una plataforma de este tipo si estuviera disponible.
+
+
+Entrevista 9:
+
+![richard img](/assets/imgs/chapter-II/luis_interview.png)
+
+[35:20 - 39:00] 
+
+
+Duración: 3 minutos 40 segundos
+
+Nombre: Luis
+
+Apellidos: Villalba Cerna
+
+Edad: 30 años
+
+Distrito: Salamanca
+
+Resumen: Se entrevistó a Luis, un mecánico automotriz con varios años de experiencia, realizando las preguntas correspondientes para conocer los desafíos que enfrenta en su trabajo y cómo la tecnología podría ayudarlo mediante una aplicación. Luis menciona que, en la mayoría de casos, los clientes llegan a su taller sin saber con claridad qué parte del vehículo está fallando. Esto le hace perder tiempo en el diagnóstico inicial. Además, señala que el uso de una app sería muy beneficioso para llevar un historial de mantenimiento de cada vehículo que atiende, lo cual le permitiría brindar un servicio más organizado y eficiente. También recalca lo útil que sería contar con una app que permita realizar diagnósticos automáticos o más precisos, lo cual le ayudaría a detectar fallas con mayor rapidez y exactitud. Luis finaliza la entrevista comentando que estaría dispuesto a pagar por una suscripción a una app que le brinde mayor visibilidad para su taller, así como herramientas que faciliten su trabajo diario y le ayuden a mejorar la calidad del servicio que ofrece.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
