@@ -229,6 +229,61 @@ En la aplicación web de Vehix, donde el volumen de datos técnicos puede ser ma
         
     - Recomendación asociada
 ### 4.2.5. Navigation Systems
+En Vehix, se ha diseñado un sistema de navegación claro y funcional que guía al usuario a lo largo de la **Landing Page** y la **Aplicación Web**, asegurando una experiencia fluida, lógica y sin confusiones. La navegación se estructura usando **técnicas visuales, menús accesibles y jerarquía de contenido**, adaptándose al tipo de usuario (visitante o registrado).
+
+
+#### Navegación en el Landing Page
+
+La navegación de la landing page de **Vehix** se ha diseñado para guiar al visitante de forma **fluida, clara y estructurada**, ayudándolo a recorrer cada bloque de contenido sin perderse. A través de una navegación vertical tipo scroll y un menú superior anclado, el usuario puede explorar los beneficios, conocer el producto y tomar decisiones rápidamente.
+
+**Estructura y acciones:**
+-  **Menú de navegación fijo en la parte superior**: con enlaces ancla que permiten saltar directamente a secciones como:
+	- Home
+	- Beneficios
+	- Testimonios
+	- Suscripciones
+	- Quienes somos
+	- Soporte
+	- Compatibilidad
+
+**Scroll guiado y orden lógico del contenido**: El contenido está distribuido en secciones que el usuario recorre haciendo scroll vertical. El orden sigue un **flujo lógico de presentación del producto**, pensado para convertir visitantes en usuarios:
+
+| Orden | Sección                    | Propósito                                                                   |
+| ----- | -------------------------- | --------------------------------------------------------------------------- |
+| 1     | Hero Banner (introducción) | Presenta el producto y valor principal: "protege tu vehículo y tu bolsillo" |
+| 2     | Video explicativo          | Responde a la pregunta: ¿Cómo funciona Vehix?                               |
+| 3     | Planes                     | Muestra opciones de suscripción (call to action)                            |
+| 4     | Beneficios                 | Separa claramente los beneficios para conductores y mecánicos               |
+| 5     | Testimonios                | Refuerza la confianza a través de experiencias reales                       |
+| 6     | Quiénes somos              | Presenta al equipo detrás del proyecto                                      |
+| 7     | Preguntas frecuentes       | Resuelve dudas comunes rápidamente                                          |
+| 8     | Compatibilidad             | Informa qué vehículos funcionan con Vehix                                   |
+| 9     | Formulario de contacto     | Permite al usuario comunicarse antes de registrarse                         |
+
+
+#### Navegación en la Aplicación Web
+
+La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer una experiencia fluida, accesible y orientada a la acción. A través de una barra superior fija con accesos rápidos a secciones clave como **Home**, **Bluetooth**, **Library** y **Diagnostic**, el usuario puede moverse fácilmente dentro del sistema sin perder el contexto. La interfaz organiza la información en bloques visuales (tarjetas) que resumen el estado del vehículo, alertas, historial y plan de suscripción, permitiendo una comprensión rápida. Además, se utilizan flujos guiados paso a paso para procesos como el escaneo del vehículo, lo que facilita la interacción y asegura que el usuario complete sus objetivos sin complicaciones.
+
+**Estructura y acciones:**
+
+- **Barra de navegación superior fija**, con íconos claros para acceder a:
+	- **Home** (panel principal)
+	- **Bluetooth** (conexión del adaptador)
+	- **Library** (recursos técnicos y guías)
+	- **Diagnostic** (herramientas de escaneo)
+
+- **Tarjetas funcionales** en el dashboard principal:
+	-  Resumen del estado del vehículo
+	-  Historial de escaneos
+	-  Alertas recientes
+	-  Estado técnico
+	-  Plan actual del usuario
+- **Navegación por flujo** (cuando se realiza un escaneo):
+	-  Selección del vehículo
+	-  Conexión del adaptador
+	-  Inicio del diagnóstico
+	-  Resultados y recomendaciones
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
