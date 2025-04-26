@@ -189,6 +189,45 @@ Palabras clave más técnicas para posicionar la aplicación en entornos especia
 
 Reconoce al equipo desarrollador, reforzando la identidad y el crédito del grupo creador del sistema.
 ### 4.2.4. Searching Systems
+El sistema de búsqueda en **Vehix** está diseñado para facilitar la localización rápida de información dentro del producto digital, evitando que el usuario se sienta perdido entre múltiples secciones o volúmenes de contenido. Tanto en la **landing page** como en la **aplicación web**, se han integrado mecanismos que permiten **filtrar, ubicar y visualizar datos de forma clara**, mejorando la experiencia y reduciendo el tiempo de navegación.
+
+#### **Landing Page**
+
+En la landing page de Vehix, el enfoque está en una navegación **guiada por botones y secciones ancladas**, por lo que **no se implementa un buscador tradicional**. Sin embargo, el usuario puede acceder de manera directa a secciones clave como **Suscriptions, Benfits, Testimonials, Who are we?, Support y Compatibylity **, mediante el menú superior. Esto actúa como un sistema de búsqueda estructurada por **temas**, donde el contenido está **organizado y accesible sin necesidad de escribir términos manualmente**.
+
+#### **Web Application**
+
+En la aplicación web de Vehix, donde el volumen de datos técnicos puede ser mayor (como **historial de escaneos**, **alertas**, o **registros de diagnóstico**), se incorporan **funcionalidades específicas de búsqueda**:
+
+**Opciones de búsqueda ofrecidas:**
+
+ - **Buscador de vehículos registrados** (por nombre, placa o modelo)
+    
+- **Búsqueda de errores técnicos** (por código OBD2 o palabra clave)
+    
+- **Filtrado de historial** por fecha, tipo de mantenimiento o gravedad del error
+    
+
+**Filtros disponibles:**
+
+- Fecha específica o por rangos (últimos 7 días, último mes, etc.)
+    
+- Tipo de alerta (mecánica, electrónica, mantenimiento)
+    
+- Estado del vehículo (óptimo, requiere revisión, crítico)
+    
+
+**Presentación de resultados:**
+
+- Los resultados se muestran en **listas con tarjetas** o **tablas**, resaltando:
+    
+    - El nombre del vehículo
+        
+    - Código de error (si aplica)
+        
+    - Fecha del evento
+        
+    - Recomendación asociada
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
