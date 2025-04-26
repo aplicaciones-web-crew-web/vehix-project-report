@@ -158,6 +158,26 @@ Ubicación: Lima, Villa el Salvador
 
 Resumen: Rocío Piñan Saavedra es una trabajadora dependiente de 49 años que vive en Lima y utiliza diariamente su Hyundai i20 tanto para ir al trabajo como para actividades familiares. Aunque procura realizarle mantenimiento a su vehículo, no lleva un registro sistemático y muchas veces lo posterga hasta que detecta una falla. Esta falta de seguimiento ya le ha generado problemas costosos, como una reparación del sistema eléctrico que pudo haberse evitado. Rocío no es experta en temas técnicos, pero está familiarizada con el uso de aplicaciones móviles para otros aspectos de su vida diaria, y estaría dispuesta a usar una app para su vehículo siempre que sea sencilla. Valora especialmente la posibilidad de recibir alertas personalizadas, recordatorios de mantenimiento y sugerencias para mejorar su forma de conducir. Considera que una herramienta así tendría gran valor si le ayuda a evitar fallas graves y gastos inesperados, y está dispuesta a pagar entre 25 y 30 soles al mes por ese servicio. Su perfil representa una usuaria con alta motivación por la prevención, pero con poca gestión técnica activa, lo que la convierte en un segmento clave para una solución como Vehix.
 
+**Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery)**
+Entrevista 4: 
+
+![sebastian img](/assets/imgs/chapter-II/interview-sebastian.png)
+
+[9:58 - 13:14] 
+
+Duración:  3 minutos 16 segundos
+
+Nombre: Sebastián Armando 
+
+Apellido: Del Rio
+
+Edad: 25 años
+
+Distrito: Chorrillos 
+
+Resumen: Sebastián es un conductor que realiza el mantenimiento de su vehículo de manera reactiva, aproximadamente cada tres o cuatro meses, sin seguir un calendario fijo. Suele acudir al taller solo cuando escucha ruidos extraños o percibe alguna falla. Esta falta de control ya le ha generado problemas costosos, como una falla en la bomba de gasolina en plena jornada, lo que lo obligó a cancelar su trabajo y asumir una reparación costosa. En el día a día, se guía únicamente por los testigos del tablero y no cuenta con herramientas que le brinden un diagnóstico claro del estado de su vehículo. Reconoce que una conducción brusca acelera el desgaste, pero a veces no puede evitarlo debido al ritmo de trabajo. Probó una app que se conectaba a un escáner OBD prestado, pero la experiencia fue negativa porque mostraba códigos técnicos que no entendía. Por eso, valora una aplicación sencilla, con alertas claras, resúmenes semanales del estado del auto, recomendaciones de conducción y recordatorios de mantenimiento. Está dispuesto a pagar una suscripción mensual si esta le permite prevenir fallas, reducir gastos en reparaciones y trabajar con mayor tranquilidad. Su perfil representa a un usuario práctico que busca soluciones accesibles y fáciles de usar.
+
+
 **Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
 
 Entrevista 7:
