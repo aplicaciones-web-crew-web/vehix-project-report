@@ -171,6 +171,16 @@ Este enfoque facilita la trazabilidad, automatización del versionado y claridad
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | GitHub Username | Landing page |
+| ------------------------------------|-----------------|-------------------------------------------|
+| Rios Piñan, Dayro Richard|Addicted2u| C | 
+| Julca Minaya, Sergio Gino|sergioJM05| C |
+| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | L | 
+| Baca Camargo, Vitaly Arturo | Mr-Code-Star | C | 
+| Elescano Leon, Piero Hugo | PieroHugo | C |
+
+
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
