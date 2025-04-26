@@ -7,7 +7,7 @@
 ![To Be Segmento 2](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-2.jpg)
 
 ### Segmento 3: Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
-![To Be Segmento 3](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-3.jpg)
+![To Be Segmento 3](/assets/imgs/chapter-III/to-be-scenario-mapping-3.jpg)
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
