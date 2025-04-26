@@ -158,6 +158,48 @@ Ubicación: Lima, Villa el Salvador
 
 Resumen: Rocío Piñan Saavedra es una trabajadora dependiente de 49 años que vive en Lima y utiliza diariamente su Hyundai i20 tanto para ir al trabajo como para actividades familiares. Aunque procura realizarle mantenimiento a su vehículo, no lleva un registro sistemático y muchas veces lo posterga hasta que detecta una falla. Esta falta de seguimiento ya le ha generado problemas costosos, como una reparación del sistema eléctrico que pudo haberse evitado. Rocío no es experta en temas técnicos, pero está familiarizada con el uso de aplicaciones móviles para otros aspectos de su vida diaria, y estaría dispuesta a usar una app para su vehículo siempre que sea sencilla. Valora especialmente la posibilidad de recibir alertas personalizadas, recordatorios de mantenimiento y sugerencias para mejorar su forma de conducir. Considera que una herramienta así tendría gran valor si le ayuda a evitar fallas graves y gastos inesperados, y está dispuesta a pagar entre 25 y 30 soles al mes por ese servicio. Su perfil representa una usuaria con alta motivación por la prevención, pero con poca gestión técnica activa, lo que la convierte en un segmento clave para una solución como Vehix.
 
+**Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
+
+Entrevista 7:
+
+![richard img](/assets/imgs/chapter-II/richard.png)
+
+[23:42 - 30:19] 
+
+Duración: 6 minutos 37 segundos
+
+Nombre: Richard
+
+Apellidos: Rios Sandoval
+
+Edad: 53 años
+
+Distrito: Villa el salvador
+
+Resumen: Se entrevistó a Richard Rios, un mecánico automotriz, realizando las respectivas preguntas de la entrevista para conocer los desafíos de su trabajo y como la tecnología podría ser de ayuda mediante una app. Richard comenta que los clientes la mayoría de veces no conocen que parte del carro está fallando cuando llegan a su taller. También destaca que le uso de una app sería beneficioso para tener un historial de mantenimiento del vehículo que va a reparaar, lo cual lo ayudaría a atender a los clientes de manera más efectiva. Destaca también lo importante que sería para él tener una app que realicé diagnósticos más precisos, para ofrecer un mejor servicio. Termina la entrevista diciendo que estaría a dispuesto a pagar por una suscripción por usar una app que le ofrezca visibilidad de su taller y ayuda para mejorar su trabajo diario.
+
+Entrevista 8:
+
+
+Entrevista 9:
+
+![richard img](/assets/imgs/chapter-II/luis.png)
+
+[35:20 - 39:00] 
+
+
+Duración: 3 minutos 40 segundos
+
+Nombre: Luis
+
+Apellidos: Villalba Cerna
+
+Edad: 30 años
+
+Distrito: Salamanca
+
+Resumen: Se entrevistó a Luis, un mecánico automotriz con varios años de experiencia, realizando las preguntas correspondientes para conocer los desafíos que enfrenta en su trabajo y cómo la tecnología podría ayudarlo mediante una aplicación. Luis menciona que, en la mayoría de casos, los clientes llegan a su taller sin saber con claridad qué parte del vehículo está fallando. Esto le hace perder tiempo en el diagnóstico inicial. Además, señala que el uso de una app sería muy beneficioso para llevar un historial de mantenimiento de cada vehículo que atiende, lo cual le permitiría brindar un servicio más organizado y eficiente. También recalca lo útil que sería contar con una app que permita realizar diagnósticos automáticos o más precisos, lo cual le ayudaría a detectar fallas con mayor rapidez y exactitud. Luis finaliza la entrevista comentando que estaría dispuesto a pagar por una suscripción a una app que le brinde mayor visibilidad para su taller, así como herramientas que faciliten su trabajo diario y le ayuden a mejorar la calidad del servicio que ofrece.
+
 
 ### 2.2.3. Análisis de entrevistas
 
