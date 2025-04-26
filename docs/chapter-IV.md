@@ -119,6 +119,75 @@ En la aplicación web, el sistema de etiquetado cumple una función de **navegac
 | **PLAN PRO**              | Dashboard      | Destaca visualmente la suscripción premium  |
 
 ### 4.2.3. SEO Tags and Meta Tags
+Los **SEO Tags** y **Meta Tags** son elementos clave del código HTML que permiten mejorar el **posicionamiento web** y facilitar que los usuarios encuentren el sitio en buscadores como Google. A través de etiquetas como `title`, `description`, `keywords` y `author`, se define el contenido de cada página, haciendo que sea más visible, comprensible y atractiva para los motores de búsqueda y los visitantes.
+
+#### Landing Page
+
+  **Título de la página:**
+  
+``` 
+<title> Vehix | Monitorea tu vehículo en tiempo real</title>
+```
+
+  Permite identificar la página en el navegador y en los resultados de Google. Comunica el nombre del proyecto y su función principal, lo que atrae clics y mejora el SEO.
+
+**Meta Descripción:**
+
+```
+<meta name="description" content="Vehix es una plataforma inteligente que detecta fallas en tu vehículo, te da alertas y mejora la vida útil de tu auto. Conéctalo y cuídalo desde tu celular.">
+```
+
+  Resume de forma clara y directa los beneficios de usar la plataforma. Esta descripción aparece debajo del título en Google y ayuda a convencer al usuario de visitar el sitio.
+
+**Palabras Clave (Keywords):**
+
+```
+<meta name="keywords" content="Vehix, plataforma automotriz, diagnóstico de vehículos, mantenimiento del auto, conectar carro, OBD2, app para autos">
+```
+
+   Incluye términos relevantes que los usuarios podrían buscar para encontrar una app como Vehix. Ayuda a mejorar el posicionamiento en buscadores (aunque hoy es menos usada por Google).
+
+**Autor del sitio**
+
+```
+<meta name="author" content="Equipo de Vehix">
+```
+
+#### Web Application
+
+ **Título:** 
+ 
+```
+<title>Vehix Dashboard | Estado y alertas de tu vehículo</title>
+```
+
+ Describe con precisión qué encontrará el usuario dentro de la aplicación: un panel para monitorear el estado del auto y recibir alertas. Mejora la usabilidad y el posicionamiento SEO.
+
+**Meta Descripción:**
+
+```
+ <meta name="description" content="Consulta el estado actual de tu auto, recibe alertas, revisa mantenimientos y detecta problemas con el sistema Vehix."> 
+
+```
+
+Presenta los beneficios funcionales de la app para usuarios registrados. Aumenta el interés y claridad sobre lo que se puede hacer en el sistema.
+
+**Palabras Clave (Keywords):**
+
+```
+<meta name="keywords" content="Vehix, dashboard auto, escaneo de vehículos, alertas automotrices, historial de mantenimientos, diagnóstico técnico, sensores auto">
+
+```
+
+Palabras clave más técnicas para posicionar la aplicación en entornos especializados.
+
+**Autor del sistema**
+
+```
+<meta name="author" content="Equipo de Vehix">
+```
+
+Reconoce al equipo desarrollador, reforzando la identidad y el crédito del grupo creador del sistema.
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 ## 4.3. Landing Page UI Design
