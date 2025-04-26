@@ -96,6 +96,28 @@ En el diseño del landing page de Vehix, las etiquetas se han seleccionado para 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
+
+
+Desktop:
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/banner.png)
+
+![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/benefits.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/testimonials.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
+
+Mobile:
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/banner.png)
+
+![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/benefits.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/testimonials.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer.png)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 **Link**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
