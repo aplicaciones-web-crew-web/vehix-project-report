@@ -90,6 +90,34 @@ En el diseño del landing page de Vehix, las etiquetas se han seleccionado para 
 | **Who are we?**   | Menú superior                  | Presentación del equipo de desarrollo |
 | **Support**       | Menú superior                  | Enlace al formulario de contacto      |
 | **Compatibility** | Menú superior y sección visual | Muestra qué vehículos son compatibles |
+
+#### Web Application
+
+En la aplicación web, el sistema de etiquetado cumple una función de **navegación interna** y organización del contenido relacionado al estado del vehículo. Aquí, las etiquetas están orientadas a **acciones técnicas, diagnósticos y mantenimiento**, usando un lenguaje más funcional pero igualmente accesible.
+
+##### Principios aplicados:
+
+- **Claridad técnica**, sin ser excesivamente complejas.
+    
+- **Consistencia** entre elementos del dashboard.
+    
+- **Asociación directa** entre etiqueta y contenido mostrado.
+
+
+#### Etiquetas utilizadas:
+
+| Etiqueta                  | Ubicación      | Función asociada                            |
+| ------------------------- | -------------- | ------------------------------------------- |
+| **Home**                  | Barra superior | Acceso al panel principal                   |
+| **Bluetooth**             | Barra superior | Conexión del adaptador vehicular            |
+| **Library**               | Barra superior | Acceso a materiales técnicos y guías        |
+| **Diagnostic**            | Barra superior | Acceso al sistema de escaneo                |
+| **Historial de escaneos** | Dashboard      | Muestra los diagnósticos pasados            |
+| **Resumen de estado**     | Dashboard      | Muestra el estado actual del vehículo       |
+| **Alertas recientes**     | Dashboard      | Muestra notificaciones de fallos detectados |
+| **Estado vehicular**      | Dashboard      | Información técnica en tiempo real          |
+| **PLAN PRO**              | Dashboard      | Destaca visualmente la suscripción premium  |
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
