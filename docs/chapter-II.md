@@ -162,7 +162,7 @@ Resumen: Rocío Piñan Saavedra es una trabajadora dependiente de 49 años que v
 
 Entrevista 7:
 
-![richard img](/assets/imgs/chapter-II/richard.png)
+![richard img](/assets/imgs/chapter-II/richard_interview.png)
 
 [23:42 - 30:19] 
 
@@ -183,7 +183,7 @@ Entrevista 8:
 
 Entrevista 9:
 
-![richard img](/assets/imgs/chapter-II/luis.png)
+![richard img](/assets/imgs/chapter-II/luis_interview.png)
 
 [35:20 - 39:00] 
 
