@@ -196,6 +196,24 @@ Distrito: Villa María del Triunfo
 
 Resumen: La entrevistada es una conductora que depende totalmente de su vehículo para su trabajo diario, por lo que procura hacerle mantenimiento cada 5,000 kilómetros. Intenta ser ordenada con eso, ya que cualquier falla impacta directamente en sus ingresos. Hace dos meses tuvo un problema con el sistema de frenos que la dejó dos días sin trabajar, justo en un fin de semana, lo que le generó una pérdida considerable.Su única forma de monitorear el estado del auto es a través del tablero y los sonidos del motor. No cuenta con herramientas adicionales. Valora mucho su estilo de conducción: evita frenar bruscamente, no sobrecarga el auto y trata de manejar de forma cuidadosa. Una vez un mecánico le mostró una app conectada a un escáner OBD, que le pareció útil, aunque era más por curiosidad y no volvió a usarla. Le gustaría contar con una app simple, con notificaciones claras sobre el motor, batería, aceite y frenos, que le diga si puede seguir manejando o debe detenerse. También valora poder planificar el mantenimiento. Está dispuesta a pagar una suscripción mensual si le ayuda a evitar gastos fuertes a futuro.
 
+Entrevista 6:
+
+![melina img](/assets/imgs/chapter-II/interview-melina.png)
+
+[17:01 - 23:42] 
+
+Duración: 6 minutos 41 segundos
+
+Nombre: Melina Sofía
+
+Apellidos: Gutiérrez Ramos
+
+Edad: 38 años
+
+Distrito: Surco
+
+Resumen: Melina Sofía Gutiérrez Ramos es conductora de una app de movilidad y realiza el mantenimiento de su vehículo cada tres meses, aunque en ocasiones lo posterga por falta de tiempo o dinero. Su decisión de llevarlo al taller suele depender de si nota fallas como ruidos o comportamientos extraños en el auto. Recientemente, tuvo problemas con la batería mientras trabajaba, lo que le hizo perder ingresos y tiempo, generándole frustración. Actualmente, se guía solo por las luces del tablero y los sonidos del auto, sin contar con herramientas que le den un diagnóstico más preciso. Reconoce la importancia de manejar con suavidad para evitar daños, algo que ha mejorado con la experiencia. Probó una app de diagnóstico con un mecánico, pero la información era muy técnica e inentendible. Melina valoraría una aplicación sencilla que ofrezca alertas claras sobre el estado del motor, frenos o aceite, y que le dé consejos de conducción y recordatorios de mantenimiento. Considera ideal una herramienta que le explique de forma simple lo que necesita revisar para evitar quedarse varada. Está dispuesta a pagar una suscripción mensual si eso le ayuda a prevenir fallas graves y cuidar mejor su vehículo, siempre que el precio sea razonable y el servicio confiable.
+
 
 **Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
 
