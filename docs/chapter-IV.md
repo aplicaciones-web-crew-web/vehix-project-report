@@ -13,8 +13,6 @@ Para la landing page se ha utilizado una estructura jerárquica en la landing pa
   
    Banner: imagen principal que comunica el valor del producto
   
-   Call to Action: botón destacado como “Empieza ahora”
-
 - Beneficios
 
 Beneficios para conductores
