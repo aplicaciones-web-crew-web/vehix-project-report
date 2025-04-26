@@ -237,6 +237,22 @@ Resumen: Se entrevistó a Richard Rios, un mecánico automotriz, realizando las 
 
 Entrevista 8:
 
+![jose img](/assets/imgs/chapter-II/interview-jose.png)
+
+[30:19 - 35:20]
+
+Duración: 5 minutos 1 segundo
+
+Nombre: José Antonio  
+
+Apellidos: Navarro Amezquita
+
+Edad: 53 años
+
+Distrito: Villa maría del triunfo
+
+Resume: Se entrevistó a José Navarro, un mecánico automotriz, acerca de los desafíos que enfrenta en su trabajo diario y cómo la tecnología podría ayudarlo. José comenta que con frecuencia recibe clientes que no tienen claro qué falla tiene su vehículo, lo cual le hace perder tiempo en diagnósticos. Señala que una aplicación capaz de generar diagnósticos previos o conectarse con la computadora del auto sería muy beneficiosa tanto para él como para el cliente. También destaca la utilidad de contar con un historial técnico del vehículo en una app, lo cual permitiría identificar fallas más rápido. Además, se mostró interesado en aparecer en un mapa digital de talleres, ya que le ayudaría a atraer más clientes. Aprecia la posibilidad de recibir datos precisos de sensores del auto, lo que agilizaría el trabajo. Está dispuesto a pagar una suscripción mensual si la herramienta demuestra ser rentable. Finalmente, considera que la información más útil que podría recibir de una app es el historial técnico detallado de cada vehículo. Concluye diciendo que la idea le parece muy buena y que sin duda utilizaría una plataforma de este tipo si estuviera disponible.
+
 
 Entrevista 9:
 
