@@ -562,6 +562,79 @@ Mobile:
 ![topic-7](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-7.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-19256%2C-8573%2C63373%2C29183%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+
+
+- User goal: Como propietario de vehículo urbano, quiero registrarme en la plataforma.
+![topic-1](/assets/imgs/chapter-IV/register.png)
+
+El usuario llena un formulario de registro, elige un plan (Standard o Pro) y se suscribe para utilizar las funcionalidades de la aplicación, con beneficios y precios visibles para cada plan.
+
+- User goal: Como propietario de vehículo urbano, quiero iniciar sesión en la plataforma.
+![topic-2](/assets/imgs/chapter-IV/login.png)
+
+El usuario ingresa sus credenciales en la pantalla de login. Si son correctas, accede a la pantalla principal donde puede visualizar diagnósticos, conectar su vehículo y acceder a la biblioteca.
+
+- User goal: Como mecánico automotriz, quiero conectar el escáner al vehículo vía Bluetooth.
+![topic-3](/assets/imgs/chapter-IV/bluetooth-conection.png)
+
+El mecánico accede a la sección de conexión Bluetooth, sigue las instrucciones de vinculación del dispositivo, y tras conectar exitosamente el escáner, puede iniciar el diagnóstico, adaptándose al plan STANDARD o PRO.
+
+- User goal: Como propietario de vehículo urbano, quiero registrar mi vehículo en la aplicación.
+![topic-4](/assets/imgs/chapter-IV/add-new-vihecle.png)
+
+El propietario ingresa al sistema, accede a la opción de agregar un nuevo vehículo, completa la información necesaria y visualiza el estado del vehículo registrado, diferenciando los permisos entre plan STANDARD y PRO.
+
+- User goal: Como conductor independiente, quiero editar mis datos personales dentro de la plataforma.
+![topic-5](/assets/imgs/chapter-IV/editing-personal-information.png)
+
+Desde su perfil, el conductor puede actualizar información como nombre, correo y otros datos. Los usuarios del plan STANDARD encuentran restricciones en ciertas secciones, mientras que el plan PRO permite editar y visualizar todo el contenido.
+
+- User goal: Como conductor independiente, quiero ver una descripción sencilla del problema detectado en mi vehículo.
+![topic-6](/assets/imgs/chapter-IV/summary-description.png)
+
+El conductor accede al diagnóstico rápido del vehículo, donde se muestra un resumen de las fallas detectadas. Los usuarios con plan PRO acceden al detalle técnico, mientras que los de plan STANDARD visualizan contenido bloqueado.
+
+- User goal: Como conductor independiente, quiero encontrar talleres mecánicos cercanos a mi ubicación.
+![topic-7](/assets/imgs/chapter-IV/find-a-mechanical-workshop.png)
+
+Después de realizar un escaneo vehicular, el usuario accede a una sección que muestra talleres mecánicos cercanos basados en GPS. Los usuarios del plan PRO visualizan detalles de talleres, mientras que los usuarios del plan STANDARD deben actualizar su plan para acceder a esta información.
+
+- User goal: Como mecánico automotriz, quiero acceder a una biblioteca automotriz.
+![topic-8](/assets/imgs/chapter-IV/library.png)
+
+El usuario entra a la sección de biblioteca donde puede elegir entre videos tutoriales, artículos técnicos, manuales, avances del sector y recomendaciones de mantenimiento, facilitando su actualización profesional.
+
+- User goal: Como mecánico automotriz, quiero realizar un diagnóstico detallado del vehículo.
+![topic-9](/assets/imgs/chapter-IV/pro-vehicle-diagnostics.png)
+
+Desde la sección de diagnóstico, el mecánico puede acceder a múltiples funcionalidades como pronóstico de fallas, vida útil del vehículo, diagnóstico rápido, historial de escaneos y reparaciones recientes, todo pensado para un análisis técnico completo.
+
+- User goal: Como conductor independiente, quiero renovar mi suscripción dentro de la plataforma.
+![topic-10](/assets/imgs/chapter-IV/renew-subscription.png)
+
+El usuario accede a su perfil, visualiza el estado de su suscripción y procede a renovarla o cambiar de plan mediante un proceso de pago sencillo para no perder el acceso a las funcionalidades.
+
+- User goal: Como propietario de vehículo urbano, quiero realizar un escaneo básico de mi vehículo.
+![topic-11](/assets/imgs/chapter-IV/standard-diagnosis.png)
+
+El usuario accede al diagnóstico estándar donde puede visualizar datos generales del vehículo y fallas encontradas. Parte del contenido técnico queda bloqueado para los usuarios de plan STANDARD, incentivando la actualización al plan PRO para obtener información más detallada.
+
+- User goal: Como propietario de vehículo urbano, quiero realizar el pago de mi suscripción de forma rápida.
+![topic-12](/assets/imgs/chapter-IV/subscription-payment.png)
+
+Después de registrarse, el usuario elige entre el plan Standard o el plan Pro y procede a realizar el pago ingresando los datos requeridos. Dependiendo del plan seleccionado, el usuario accede a diferentes beneficios en la aplicación.
+
+- User goal: Como mecánico automotriz, quiero visualizar el estado técnico del vehículo con datos detallados.
+![topic-13](/assets/imgs/chapter-IV/technical-data.png)
+
+Desde el diagnóstico, el mecánico puede acceder a los datos técnicos identificados en el último escaneo. Los usuarios con plan PRO acceden a información detallada, mientras que los usuarios de plan STANDARD tienen contenido bloqueado que los invita a actualizar su plan.
+
+- User goal: Como conductor independiente, quiero consultar el estado de mi suscripción.
+![topic-14](/assets/imgs/chapter-IV/view-subscription-status.png)
+
+Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el tipo de plan activo (Standard o Pro). La vista muestra claramente el estado de la suscripción, beneficios actuales y posibles restricciones según el tipo de plan.
+
 ### 4.4.3. Web Applications Mock-ups
 **Link**: [Figma mock ups (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
