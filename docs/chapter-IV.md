@@ -638,6 +638,8 @@ En esta sección se presenta el prototipo de la aplicación web desarrollado en 
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+![class-diagram](/assets/imgs/chapter-IV/class-diagram.png)
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
