@@ -670,5 +670,6 @@ link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc
 ![footer img](/assets/imgs/chapter-V/footer_evidence.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+No contamos pruebas de documentacion a razón que nuestro enfoque en el primer sprint estuvo dirigido a la elaboración del landing page.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
