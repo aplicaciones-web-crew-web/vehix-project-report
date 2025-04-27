@@ -675,11 +675,11 @@ No contamos pruebas de documentacion a razón que nuestro enfoque en el primer s
 
 Para el desarrollo de este sprint, utilizamos Github Pages, una herramienta que se integró fácilmente a nuestro flujo de trabajo y nos sirvió para desplegar la Landing Page a partir de un repositorio. También desarrollamos actividades enfocadas a preparar el entorno de despliegue.
 
-![github-pages](/assets/imgs/chapter-V/github-pages.png)
+![github-pages](/assets/imgs/chapter-V/img-page.PNG)
 
 
 Enlace de la Landing Page: 
 https://aplicaciones-web-crew-web.github.io/vehix-landing-page/
 
-![landing-page](/assets/imgs/chapter-V/landing-page.png)
+![landing-page](/assets/imgs/chapter-V/img-lp.PNG)
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
