@@ -31,6 +31,8 @@
 
   - **Link del repositorio:** [https://github.com/aplicaciones-web-crew-web/vehix-project-report](https://github.com/aplicaciones-web-crew-web/vehix-project-report)
 
+  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/) 
+
 ---
 # Student Outcome
 El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje del ABET: ABET – EAC - Resultado de Aprendizaje 5 Criterio: La habilidad para trabajar de manera efectiva en un equipo donde los miembros colaboran en el liderazgo, fomentan un ambiente inclusivo y colaborativo, definen metas, planifican tareas y alcanzan los objetivos establecidos.
