@@ -184,6 +184,32 @@ Este enfoque facilita la trazabilidad, automatización del versionado y claridad
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+
+Nuestro equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de Vehix. A continuación se mostrarán las evidencias.
+
+link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EVekU9kyDRNDgE2mhr4qbnMB56iZZ1XzpouL-3dxal5Tow?e=vvxgWJ
+
+![banner img](/assets/imgs/chapter-V/banner_evidence.png)
+
+![first_time_evidence img](/assets/imgs/chapter-V/first_time_evidence.png)
+
+![choose plan img](/assets/imgs/chapter-V/plan_evidence.png)
+
+![benefits img](/assets/imgs/chapter-V/benefits_evidence.png)
+
+![testimonials img](/assets/imgs/chapter-V/testimonials_evidence.png)
+
+![who are we img](/assets/imgs/chapter-V/who_are_we_evidence.png)
+
+![questions frequently asked img](/assets/imgs/chapter-V/questions_evidence.png)
+
+![compatibility img](/assets/imgs/chapter-V/compatibility_evidence.png)
+
+![contact us img](/assets/imgs/chapter-V/contact_evidence.png)
+
+![footer img](/assets/imgs/chapter-V/footer_evidence.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
