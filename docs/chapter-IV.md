@@ -98,6 +98,16 @@ Los elementos interactivos deben ser lo suficientemente grandes y estar bien esp
 
 - **Ausencia de íconos gráficos:** Por decisión estratégica, el logotipo **no incluye ilustraciones** (como autos, herramientas o ruedas), con el fin de mantener una imagen minimalista y evitar asociaciones literales que limiten la escalabilidad de la marca.
 
+#### Tono de Comunicación
+
+Vehix se comunica con sus usuarios de forma clara, cercana y empática. Para lograrlo, se han definido las siguientes **dimensiones de tono**.
+
+| Dimensión                | Elección       | Justificación                                                                      |
+| ------------------------ | -------------- | ---------------------------------------------------------------------------------- |
+| Divertido / Serio        | **Serio**      | Se prioriza la confianza y seguridad, especialmente en contextos de alerta.        |
+| Formal / Casual          | **Casual**     | Se busca cercanía sin perder profesionalismo, ideal para usuarios cotidianos.      |
+| Respetuoso / Irreverente | **Respetuoso** | El respeto es clave para construir relaciones duraderas con los usuarios.          |
+| Entusiasta / Sereno      | **Sereno**     | Un tono calmado evita alarmismos y transmite tranquilidad en situaciones técnicas. |
 
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
