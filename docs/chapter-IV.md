@@ -38,6 +38,35 @@ La escala de negros con diferentes niveles de opacidad se usa estratégicamente 
  - **Turquesa suave (#A9D8DC):** se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
 
 ![turquesa](/assets/imgs/chapter-IV/color_turquesa.PNG)
+
+#### Tipografía
+
+En **Vehix**, la tipografía es un componente esencial para transmitir claridad, profesionalismo y accesibilidad en cada pantalla de la aplicación. Se ha definido el uso de tres fuentes principales, combinando elegancia, legibilidad y modernidad.
+
+ #### **PT Serif Regular**
+
+ - **Uso:** Indicaciones, descripciones cortas, y subtítulos informativos.
+
+- **Justificación:** Esta tipografía aporta una estética clásica y seria, ideal para mostrar mensajes auxiliares, instrucciones y textos complementarios. En tu interfaz, se aplica a pequeños textos explicativos como los de los campos del formulario o mensajes dentro de las tarjetas.
+
+![pt-serif](/assets/imgs/chapter-IV/pt-serif-regular.PNG)
+
+ #### **Roboto Regular**
+ 
+- **Uso:** Contenido general, campos de formularios y textos secundarios.
+
+- **Justificación:** Roboto es perfecta para ofrecer legibilidad en pantallas, especialmente en bloques de texto como descripciones, contenidos de planes, formularios de contacto y navegación. Aporta un estilo moderno y funcional sin perder claridad.
+
+![roboto-regular](/assets/imgs/chapter-IV/roboto-regular.PNG)
+
+ #### **Montserrat Regular**
+
+- **Uso:** Títulos principales, subtítulos y botones.
+
+- **Justificación:** Su estilo geométrico y moderno brinda un toque contemporáneo y profesional a la interfaz. Es utilizada para destacar los elementos más importantes visualmente como “VEHIX”, nombres de secciones y botones, lo que permite una jerarquía clara y elegante.
+
+![monserrat-regular](/assets/imgs/chapter-IV/Monserrat-regular.PNG)
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
