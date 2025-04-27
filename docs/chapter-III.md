@@ -10,6 +10,7 @@
 ![To Be Segmento 3](/assets/imgs/chapter-III/to-be-scenario-mapping-3.jpg)
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
+![impactmapping](/assets/imgs/chapter-III/impact-map.png)
 ## 3.4. Product Backlog
 <table>
         <tr>
