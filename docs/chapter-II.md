@@ -8,14 +8,19 @@
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Solution Profile
 ### 2.3.1. User Personas
-**Segmento 1:** Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal.
-![2](https://github.com/user-attachments/assets/9b023248-5423-43b2-b2e3-1940b3218802)
+**Segmento 1**
 
-**Segmento 2:**  Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery).
-![3](https://github.com/user-attachments/assets/f4cedbb2-0c0e-4b8e-889b-b3b33b91cbe8)
+![user personas segment 1 img](/assets/imgs/chapter-II/user-personas-segment-1.png)
 
-**Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
-![4](https://github.com/user-attachments/assets/bd0edf4a-17e8-4a87-af1e-7bc1c7eaddc2)
+
+**Segmento 2**
+
+![user personas segment 2 img](/assets/imgs/chapter-II/user-personas-segment-2.png)
+
+
+**Segmento 3**
+
+![user_personas_segment 3 img](/assets/imgs/chapter-II/user-personas-segment-3.png)
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
