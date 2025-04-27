@@ -80,6 +80,25 @@ Los elementos interactivos deben ser lo suficientemente grandes y estar bien esp
 - **64 px:** Espaciado entre secciones grandes o bloques verticales principales.
 
 
+### Branding:
+
+ #### **Logo**
+
+ ![logo](/assets/imgs/chapter-IV/logo.png)
+ 
+ El logotipo de **Vehix** ha sido diseñado bajo principios de simplicidad, elegancia y profesionalismo, alineado con la propuesta de valor de la aplicación como una herramienta confiable para el cuidado preventivo de vehículos.
+
+ #### **Características del logotipo**
+
+- **Tipografía:** Se utiliza una fuente **sans serif moderna** con líneas limpias y proporciones equilibradas. Esta elección transmite claridad, orden y tecnología, elementos clave del producto.
+
+- **Espaciado entre letras:** Las letras del nombre **“VEHIX”** se presentan en **mayúsculas y con espaciado amplio**, lo que aporta un toque formal y contemporáneo. Este detalle mejora la legibilidad y refuerza la presencia visual del nombre en distintos tamaños y soportes.
+
+- **Colores:** El logotipo se presenta en **blanco o negro**, según el fondo sobre el que se aplique, asegurando **máximo contraste y versatilidad**. La decisión de evitar colores adicionales responde a la intención de mantener una estética sobria, profesional y adaptable.
+
+- **Ausencia de íconos gráficos:** Por decisión estratégica, el logotipo **no incluye ilustraciones** (como autos, herramientas o ruedas), con el fin de mantener una imagen minimalista y evitar asociaciones literales que limiten la escalabilidad de la marca.
+
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
