@@ -376,3 +376,5 @@ Segemento 3:
     
 **Link:**  [Product Backlog](https://antonionavarroch24.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&atlOrigin=eyJpIjoiYjc5OTdkY2Q0ZTlmNGFmN2FkYWIxNWU3Zjk0NzY1MWEiLCJwIjoiaiJ9)
 
+![Jira](/assets/imgs/chapter-III/jira.png)
+
