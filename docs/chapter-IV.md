@@ -102,49 +102,49 @@ Desktop:
 
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/banner.png)
 
-![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/explanatory-video.png)
+![explanatory img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/explanatory-video.png)
 
-![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/subscription.png)
+![subscription img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/subscription.png)
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/benefits.png)
 
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/testimonials.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/who-are-we.png)
+![who-are-we img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/who-are-we-web.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/frequently-asked-questions.png)
+![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/frequently-asked-questions.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
+![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
+![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
 
-**Link:** [Landing Page Mock-up Desktpo (ANGULAR)](https://www.figma.com/design/lRwE2inDrGxkbKubGMD60s/Landing-Page-material?node-id=6-2&t=g0WNp2SZQcUv5WAn-1)
+**Link:** [Landing Page Mock-up Desktpo Aplicaciones Web (Vue)](https://www.figma.com/design/02Vt6m3zMbuesHMNqcGey4/Landing-Page-material-aplicaiones-web?node-id=6-2&t=NurxRu3AIdqVtbGR-1)
 
 Mobile:
 
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/banner.png)
 
-![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/explanatory-video.png)
+![explanatory-video img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/explanatory-video.png)
 
-![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/subscription.png)
+![subscription img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/subscription.png)
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/benefits.png)
 
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/testimonials.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/who-are-we.png)
+![who-are-we img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/who-are-we-web.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
+![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
+![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
 
-![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
+![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer_mobile.png)
 
-**Link:** [Landing Page Mock-up Mobile (ANGULAR)](https://www.figma.com/design/C6GwXgygcEA8isP6H55iR1/landing-page-mobile-angular-material?node-id=6-2&t=s0KQX1d2S1xfxRsS-1)
+**Link:** [Landing Page Mock-up Mobile Aplicaciones Web (Vue)](https://www.figma.com/design/9dVUschF8b5sj3fjAd7qQz/Landing-Page-material-aplicaiones-web-mobile?node-id=6-2&t=Hu51iQFEepSafHZu-1)
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
