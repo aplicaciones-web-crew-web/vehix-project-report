@@ -17,11 +17,17 @@
 **Segmento 3:** Responsables de mantenimiento de empresas que gestionan flotas de vehículos.
 ![4](https://github.com/user-attachments/assets/bd0edf4a-17e8-4a87-af1e-7bc1c7eaddc2)
 ### 2.3.2. User Task Matrix
-![1](https://github.com/user-attachments/assets/841f68f8-b7d2-47e9-a6ed-7ac1aa7756e8)
+**Segmento 1**
 
-![2](https://github.com/user-attachments/assets/68672099-b9b7-470b-8ac5-46f7662fb6a5)
+![user task matrix segment 1](/assets/imgs/chapter-II/user-task-matrix-segment-1.png)
 
-![3](https://github.com/user-attachments/assets/1b53946e-8093-460a-822c-69c355a54b17)
+**Segmento 2**
+
+![user task matrix segment 2](/assets/imgs/chapter-II/user-task-matrix-segment-2.png)
+
+**Segmento 3**
+
+![user task matrix segment 3](/assets/imgs/chapter-II/user-task-matrix-segment-3.png)
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
