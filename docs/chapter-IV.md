@@ -126,11 +126,25 @@ Mobile:
 
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/banner.png)
 
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/explanatory-video.png)
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/subscription.png)
+
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/benefits.png)
 
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/testimonials.png)
 
-![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer.png)
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/who-are-we.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
+
+![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer_mobile.png)
+
+**Link:** [Landing Page Mock-up Mobile (ANGULAR)](https://www.figma.com/design/C6GwXgygcEA8isP6H55iR1/landing-page-mobile-angular-material?node-id=6-2&t=s0KQX1d2S1xfxRsS-1)
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
