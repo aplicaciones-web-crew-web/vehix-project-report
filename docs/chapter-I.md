@@ -95,6 +95,13 @@ Ante esta situación, surge nuestra pregunta de negocio:
 ***¿Cómo podemos enfrentar la falta de mantenimiento preventivo, la escasa información técnica disponible para los conductores y técnico, y el elevado costo asociado a reparaciones vehiculares, mediante una solución tecnológica accesible que permita monitorear en tiempo real el estado del vehículo?***
 
 #### 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions**
++ Se asume que los usuarios estarán dispuestos a pagar por una suscripción mensual para un servicio que les ofrezca monitoreo continuo y recomendaciones personalizadas.
++ Se asume que el pago recurrente de los usuarios permitirá generar ingresos estables para el negocio y hacer rentable el servicio a largo plazo.
++ Se asume que, dado el aumento de la adopción tecnológica, los conductores están dispuestos a integrar un adaptador de diagnóstico (ELM327) y apps en sus vehículos para mejorar la experiencia de conducción y optimizar el mantenimiento.
++ Se asume que los usuarios valoran la simplicidad y conveniencia en la integración de tecnología con sus vehículos.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 - _Creemos que los propietarios de vehículos están dispuestos a pagar una suscripción mensual para tener acceso a una aplicación que les permita monitorear y mejorar el estado de su vehículo._
    - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento significativo del 25% en la cantidad de usuarios que se suscriben a la aplicación y pagan la suscripción mensual.
