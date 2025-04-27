@@ -67,6 +67,19 @@ En **Vehix**, la tipografía es un componente esencial para transmitir claridad,
 
 ![monserrat-regular](/assets/imgs/chapter-IV/Monserrat-regular.PNG)
 
+#### Spacing
+
+Los elementos interactivos deben ser lo suficientemente grandes y estar bien espaciados para facilitar su uso, especialmente para quienes tienen dificultades motrices. Un espaciado adecuado asegura que los usuarios puedan tocar o hacer clic en los botones de manera segura, sin riesgo de presionar accidentalmente el botón incorrecto.
+
+- **8 px:** Unidad mínima para separar pequeños elementos (íconos, etiquetas).
+
+- **16 px:** Margen interno típico para botones, tarjetas y campos de formulario.
+
+- **24 px:** Separación entre secciones pequeñas o subtítulos.
+
+- **64 px:** Espaciado entre secciones grandes o bloques verticales principales.
+
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
