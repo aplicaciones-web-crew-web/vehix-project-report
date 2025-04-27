@@ -73,6 +73,16 @@ Matricial (Comparación Cruzada):
 
 desktop:
 
+![header img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/header.png)
+
+![introductory-video img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/introductory-video.png)
+
+![subscription img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/subscriptions.png)
+
+![benefits img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/benefits.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/testimonials.png)
+
 ![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/who_are_we.png)
 
 ![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/faq.png)
@@ -82,6 +92,8 @@ desktop:
 ![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
+
+**Link:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
 
 mobile: 
 
