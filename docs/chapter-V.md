@@ -678,8 +678,8 @@ Para el desarrollo de este sprint, utilizamos Github Pages, una herramienta que 
 ![github-pages](/assets/imgs/chapter-V/github-pages.png)
 
 
-Enlace de la Landing Page:
-https://open-source-crew-tech.github.io/vehix-landing-page/
+Enlace de la Landing Page: 
+https://aplicaciones-web-crew-web.github.io/vehix-landing-page/
 
 ![landing-page](/assets/imgs/chapter-V/landing-page.png)
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
