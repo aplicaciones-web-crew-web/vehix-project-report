@@ -112,6 +112,119 @@ Este enfoque facilita la trazabilidad, automatización del versionado y claridad
 ### Commits Convencionales (Conventional Commits)
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+Para asegurar la consistencia y calidad en el desarrollo de nuestra Landing Page implementaremos una serie de convenciones específicas para los distintos lenguajes y tecnologías que utilizamos:
+
+#### HTML
+
+-  Siempre iniciar los documentos HTML con `<!DOCTYPE html>` y configurar `<meta charset="UTF-8">`.
+
+-  Nombres de etiquetas y atributos siempre en minúsculas (`<div>`, `<section>`, `<button>`, etc.).
+
+-  Siempre se deben usar **comillas dobles**  `(")` para los valores de los atributos.
+Ejemplo: `<input type="text" name="email" />`
+
+``` 
+input type="text" name="email" />
+```
+
+-  Se incluirán los atributos `alt`, `width` y `height` en las imágenes para mejorar la accesibilidad y el diseño responsivo.
+
+-  Utilizar comentarios `<!-- -->` para marcar secciones importantes del código.
+
+-  Definir la codificación de caracteres como UTF-8 para soportar la mayoría de los caracteres de   todos los idiomas, `<meta charset="UTF-8">`
+
+-  Inclusión de la hoja de estilos CSS, la hoja de estilo principal debe ser enlazada dentro de la sección `<head>`. Usando siempre la etiqueta `<link>` de la siguiente manera:
+
+``` 
+<link rel="stylesheet" href="styles.css">                                 
+``` 
+   
+-  Inclusión de archivos JavaScript, los archivos JavaScript deben incluirse **antes del cierre de la etiqueta `</body>`** para mejorar el tiempo de carga de la página.
+
+``` 
+<script src="script.js"></script>
+</body>
+</html>
+``` 
+
+
+#### CSS
+
+- Todos los nombres de clases e IDs deben estar en inglés y escritos usando el formato **kebab-case**, es decir, en minúsculas y separando palabras con guiones (`-`), por ejemplo: `.hero-text`, `.plan-card-pro`, `.faq-title`.
+
+-  cada declaración debe terminar con un punto y coma `;`.
+    Ejemplo correcto:
+    
+ ```
+.title-who {
+  font-size: 34px;
+  font-weight: bold;
+  padding: 2%;
+}	
+```
+
+-  Las llaves `{}` deben colocarse en la misma línea que el selector.
+
+```
+.benefit-card {
+  background: black;
+  color: white;
+}
+```
+
+- Implementar **media queries** (`@media`) para adaptar el diseño a diferentes dispositivos.
+
+```
+@media (max-width: 768px) {
+  .hero-text {
+    text-align: center;
+  }
+}
+```
+
+
+#### JavaScript
+
+-  Usar `const` para valores que no cambian y `let` para los que sí.
+
+```
+const wrapper = document.getElementById("main-wrapper");
+let currentSlide = 0;
+```
+
+- Evitar el uso de `var` por completo (obsoleto).
+
+- Las llaves `{}` deben abrirse en la misma línea que la declaración.
+
+```
+function toggleMenu() {
+  // lógica aquí
+}
+```
+
+- Punto y coma obligatorio al final de cada instrucción.
+
+```
+document.addEventListener("DOMContentLoaded", updateSlider);
+```
+
+- cada función debe hacer una sola cosa.
+
+```
+document.addEventListener("DOMContentLoaded", updateSlider);
+```
+
+- Usar **event delegation y listeners** con funciones nombradas cuando sea posible.
+
+```
+document.querySelectorAll('.faq-question').forEach(button => {
+  button.addEventListener('click', () => {
+    // ...
+  });
+});
+```
+
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
