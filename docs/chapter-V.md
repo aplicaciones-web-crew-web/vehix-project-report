@@ -523,7 +523,7 @@ link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc
 
 ![testimonials img](/assets/imgs/chapter-V/testimonials_evidence.png)
 
-![who are we img](/assets/imgs/chapter-V/who_are_we_evidence.png)
+![who are we img](/assets/imgs/chapter-V/who-are-we-web.png)
 
 ![questions frequently asked img](/assets/imgs/chapter-V/questions_evidence.png)
 
