@@ -102,11 +102,25 @@ Desktop:
 
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/banner.png)
 
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/explanatory-video.png)
+
+![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/subscription.png)
+
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/benefits.png)
 
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/testimonials.png)
 
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/who-are-we.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/frequently-asked-questions.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
+
+![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
+
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
+
+**Link:** [Landing Page Mock-up Desktpo (ANGULAR)](https://www.figma.com/design/lRwE2inDrGxkbKubGMD60s/Landing-Page-material?node-id=6-2&t=g0WNp2SZQcUv5WAn-1)
 
 Mobile:
 
