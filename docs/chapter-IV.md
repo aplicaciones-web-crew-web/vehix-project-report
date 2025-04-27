@@ -110,6 +110,15 @@ Vehix se comunica con sus usuarios de forma clara, cercana y empática. Para log
 | Entusiasta / Sereno      | **Sereno**     | Un tono calmado evita alarmismos y transmite tranquilidad en situaciones técnicas. |
 
 ### 4.1.2. Web Style Guidelines
+
+Se utilizó el patrón de lectura Z para guiar la atención del usuario desde el logo y menú superior, hacia el mensaje principal y finalmente a la imagen del producto. Este recorrido visual permite una lectura fluida y rápida, ideal para captar el mensaje en pocos segundos.
+
+![img-landing-page](/assets/imgs/chapter-IV/img-lp.PNG)
+
+Se aplicó el patrón de lectura F para estructurar la pantalla en bloques horizontales que el usuario escanea de arriba hacia abajo. Comienza con la navegación superior, continúa con la información principal como datos personales, plan de membresía estándar, los vehiculos disponibles para dicho plan y termina en la sección de ayuda. Este recorrido facilita una lectura rápida y jerárquica, ideal para pantallas móviles donde el desplazamiento es vertical.
+
+![img-web](/assets/imgs/chapter-IV/img-web.PNG)
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 
