@@ -235,7 +235,7 @@ Para el despliegue de nuestra landing page se escogio Git Page siendo una altern
 
  - **Paso 1:** Para desplegar el LandingPage hay que dirigirse al repositorio del landingPage y luego entrar a la opción de settings.
 
-![paso_1](/assets/imgs/chapter-V/paso-1.png)
+![paso_1](/assets/imgs/chapter-V/paso-1.PNG)
 
  - **Paso 2**: Ahora entraremos a la opción de Pages donde seleccionaremos la rama del proyecto que queremos desplegar
 
@@ -247,7 +247,7 @@ Para el despliegue de nuestra landing page se escogio Git Page siendo una altern
 
 - **Paso 4:** Luego de esperar unos minutos la pagina del LandingPage se desplegara y aparecerá la opción de acceder a esta misma
 
-![paso_4](/assets/imgs/chapter-V/paso-4.png)
+![paso_4](/assets/imgs/chapter-V/paso-4.PNG)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
