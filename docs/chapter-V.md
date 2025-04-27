@@ -568,6 +568,80 @@ Para el despliegue de nuestra landing page se escogio Git Page siendo una altern
 </table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+
+Para el desarrollo del sprint 1, se ha implementado la landing page, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes, entre ellos las secciones de nuestra landing page y el cambio de idioma entre inglés y español.
+
+| Repository | Branch | Commit Id | Commit Messaage | Commit Message Body | Commited on |
+|------------|--------|-----------|-----------------|---------------------|-------------|
+| sergioJM05/vehix-landing-page | main | cdb2968 | initial commit | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | cdb2968 | initial commit | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | cdb2968 | initial commit | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | a8c3226 | docs: create route | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | - | Deleted branch | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | cdb2968 | Initial commit | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | 16c4996 | docs: create folder | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | 57e8011 | chore: add index.html | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | 74ed382 | chore: add index_es.html | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | 9e711c3 | chore: add structure landing | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/rapid-navigation | 9e711c3 | chore: add structure landing | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/rapid-navigation | 2b8d4cc | feat: add rapid navigation | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/rapid-navigation | 3b956da | feat: add rapid navigation in spanish | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | 948c856 | feat: add rapid navigation in en and es | - | 27/04/2025 |
+| PieroHugo/vehix-landing-page | develop | 948c856 | feature/benefits-evidence | - | 27/04/2025 |
+| PieroHugo/vehix-landing-page | feature/benefits-evidence | 948c856 | feature: add benefits evidence | - | 27/04/2025 |
+| PieroHugo/vehix-landing-page | develop | 7953626 | feat: add benefits evidence | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/suscriptions | 7953626 | feat: add benefits evidence | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/suscriptions | 44269a1 | feat: add subscriptions | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/suscriptions | c8679c2 | feat: add subscriptions in spanish | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/suscriptions | c0c1b0e | chore: delete image | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | b0b9f54 | feat: add suscriptions | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/testimonials | b0b9f54 | feat: add suscriptions | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/testimonials | cb5f5ea | feat: add testimonials | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/testimonials | 844597c | feat: add testimonials in spanish | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | b4dbc40 | feat: add testimonials section in en and es | feature/testimonials | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | b4dbc40| feat: add testimonials section in en and es | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | 47e536f | feat: add creators visualization | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | aad6ed6 | feat: add creators visualization in spanish | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | 851efe1 | feat: update route images | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | e654ed2 | feat: fix assets imgs route | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | 57e1d39 | feat: update images routes | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | aad1fbe | feat: update piero image route | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | develop | 9747cdc | feat: add creators visualization section | feature/creators-visualization | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | feature/structure-landing | b5a682e | chore: add app | - | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | feature/structure-landing | 1666534 | feat: add app.js | - | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | develop | f64e550 | feat: add app.js | - | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | feature/frequently-asked-questions | 9c472b7 | feat: add frequently asked questions | - | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | feature/frequently-asked-questions | 1c00ea3 | feat: add frequently asked questions | - | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | develop | 26d577f | feat: add frequently asked questions section in en and es | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/structure-landing | 6cb28b6 | chore: add style | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/structure-landing | 4a35460 | feat: add styles | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | develop | 85b808f | feat: update structure landing | feature/structure-landing | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/compatible-vehicles | 85b808f | feat: update structure landing | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/compatible-vehicles | edd3dd8 | feat: add compatible vehicles en | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/compatible-vehicles | 8451d6b | feat: add compatible vehicles (es) | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/compatible-vehicles | ee06174 | chore: add images | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/compatible-vehicles | d87a182 | chore: add images | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | develop | 69f9140 | feat: add compatible vehicles (en & es) and add images | feature/compatible-vehicles | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/support-and-networks | 69f9140 | feat: add compatible vehicles (en & es) and add images | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | fd209ac | feat: add style | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | 004dc84  | feat: add style | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/support-and-networks | 71cdb59  | feat: add support and networks | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/support-and-networks | 3af7b77  | feat: add support and networks in spanish | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | c11dce8   | feat: add support and networks section in en and es | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/network-visualization | c11dce8  | feat: add support and networks section in en and es | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/network-visualization | 305ce31  | feat: add networks visualization | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/introduction-video | c11dce8  | feat: add support and networks section in en and es | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/network-visualization | 3152963  | feat: add support and networks section in en and es | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/network-visualization | b41bd76  | feat: update app.js route | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | develop | 7582674  | feat: add network visualization section | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/introduction-video | c693755  | chore: update branch | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/introduction-video | 0a03e65  | feat: update introduction video | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/introduction-video | 9daf591  | feat: update introduction video in spanish | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | 0d31178  | feat: update introduction video in spanish | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | develop | 7339f11  | chore: delete img | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | develop | b1faeb4  | chore: add img | - | 27/04/2025 |
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 
