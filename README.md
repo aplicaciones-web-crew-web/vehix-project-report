@@ -15,7 +15,7 @@
 |           Estudiante           |     Código      |
 |--------------------------------|-----------------|
 | Baca Camargo, Vitaly Arturo    |   u20231c426    |
-| Piero Hugo Elescano Leon       |   u202313354    |
+| Piero Hugo, Elescano Leon       |   u202313354    |
 | Julca Minaya, Sergio Gino      |   u202318274    |
 | Navarro Chinga, Antonio Jhair  |   u202314101    |
 | Rios Piñan, Dayro Richard      |   u202315283    |
@@ -25,6 +25,24 @@
 
 # **Registro de Versiones Del Informe**
 
+| Versión | Fecha       | Autor                                | Descripción de Modificación                                           |
+|---------|-------------|--------------------------------------|------------------------------------------------------------------------|
+| 0.0     | 20/03/2024  | Julca Minaya, Sergio Gino                     | Se crea la estructura del documento                                            |
+| 1.0     | 21/03/2024  | Julca Minaya, Sergio Gino                      | Se crean las ramas correspondientes                                   |
+| 1.1     | 30/03/2024  | Navarro Chinga, Antonio Jhair                         | Se aplican mejoras en los capítulos 1 y 2                             |
+| 1.2     | 31/03/2024  | Piero Hugo, Elescano Leon                        | Se realizan los user diagrams y Lean UX                               |
+| 1.3     | 10/04/2024  | Piero Hugo, Elescano Leon                         | Se colocan las user stories                                           |
+| 1.4     | 13/04/2024  | Navarro Chinga, Antonio Jhair                     | Se implementa el product backlog y las épicas correspondientes a story points |
+| 1.5     | 04/04/2024  | Navarro Chinga, Antonio Jhair                      | Se revisan las entrevistas                                            |
+| 1.6     | 05/04/2024  | Rios Piñan, Dayro Richard                         | Actualizaciones en los diagramas C4 DDD                               |
+| 1.7     | 06/04/2024  | Baca Camargo, Vitaly Arturo                        | Se actualiza el capítulo de colaboración                              |
+| 1.8     | 10/04/2024  | Rios Piñan, Dayro Richard                        | Se actualiza los Impact Mappings de los Users                         |
+| 1.9     | 15/04/2024  | Baca Camargo, Vitaly Arturo                         | Arreglo de los User Stories                                           |
+| 2.0     | 20/04/2024  | Marcelo Ramirez                      | Finaliza cambios en HU y Product Backlog                              |
+| 2.1     | 22/04/2024  | Arian Rodriguez                      | Arreglos generales, HU, C4 Diagrams                          |
+| 2.2     | 26/04/2024  | Navarro Chinga, Antonio Jhair         | Corrección HU, desarrollo de las evidencias del sprint                |
+
+
 # Project Report Collaboration Insights 
 
   - **Link de la organización:** [https://github.com/aplicaciones-web-crew-web](https://github.com/aplicaciones-web-crew-web)
@@ -33,6 +51,9 @@
 
   - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/) 
 
+    A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
+
+![commits img](/assets/imgs/chapter-I/commits.png)
 ---
 # Student Outcome
 El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje del ABET: ABET – EAC - Resultado de Aprendizaje 5 Criterio: La habilidad para trabajar de manera efectiva en un equipo donde los miembros colaboran en el liderazgo, fomentan un ambiente inclusivo y colaborativo, definen metas, planifican tareas y alcanzan los objetivos establecidos.
