@@ -1,6 +1,43 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
+#### Colores
+ La identidad visual de **Vehix** está centrada en una paleta monocromática compuesta por tonalidades de **blanco y negro**, complementada con un **color de acento turquesa** que aporta un toque moderno, tecnológico y fresco, sin perder sobriedad.
+
+  Esta combinación logra un equilibrio entre seriedad y accesibilidad, ideal para una aplicación enfocada en el mantenimiento vehicular.
+   
+   #### **Colores principales:**
+
+   La gama de grises elegida permite mantener una interfaz visualmente limpia, neutra y moderna,
+   facilitando el enfoque en el contenido y las funcionalidades sin distracciones visuales innecesarias. Además, el gris proporciona un equilibrio entre profesionalismo y accesibilidad.
+
+##### **Escala de grises**
+
+| Color                                      | Justificación                                                                                                                                                                          |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `#FAFAFA`  `#F5F5F5`                       | Se utiliza como fondo base en formularios y secciones de contenido. Aporta luminosidad sin ser completamente blanco, reduciendo la fatiga visual. Ideal para mantener limpieza visual. |
+| `#EEEEEE`  `#E0E0E0`                       | Aplicado como fondo en tarjetas, cajas de contenido o elementos con jerarquía secundaria. Brinda separación visual sin contraste excesivo.                                             |
+| `#BDBDBD`  `#9E9E9E`                       | Sirve para bordes, líneas divisoras o elementos neutros. Ayuda a estructurar la interfaz sin añadir ruido visual.                                                                      |
+| `#757575`  `#616161`  `#424242`  `#212121` | Utilizado en textos secundarios, íconos, botones no activos y etiquetas. Proporciona contraste sin recurrir al negro puro, facilitando una jerarquía visual adecuada.                  |
+
+![escala-gris](/assets/imgs/chapter-IV/escala-gris.PNG)
+
+ ##### **Escala de negros**
+
+| RGBA                                          | Justificación                                                                                                                        |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| `rgba(0, 0, 0, 0.87)`                         | Ideal para texto principal, títulos y mensajes importantes. Asegura máxima legibilidad en interfaces claras.                         |
+| `rgba(0, 0, 0, 0.6)` a `rgba(0, 0, 0, 0.42)`  | Aplicado en textos secundarios, etiquetas o descripciones más sutiles. Mantiene legibilidad sin competir con el contenido principal. |
+| `rgba(0, 0, 0, 0.26)` a `rgba(0, 0, 0, 0.06)` | Utilizado en bordes suaves, sombras o elementos desactivados. Ayuda a construir jerarquía y profundidad sin distracción visual.      |
+La escala de negros con diferentes niveles de opacidad se usa estratégicamente para reforzar el contraste, resaltar contenido principal y crear una sensación de profundidad en la interfaz.
+
+![escala-negra](/assets/imgs/chapter-IV/escala-negra.PNG)
+
+ #### **Color de acento:**
+
+ - **Turquesa suave (#A9D8DC):** se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
+
+![turquesa](/assets/imgs/chapter-IV/color_turquesa.PNG)
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
