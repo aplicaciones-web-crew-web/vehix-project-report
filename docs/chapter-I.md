@@ -102,6 +102,12 @@ Ante esta situación, surge nuestra pregunta de negocio:
 + Se asume que, dado el aumento de la adopción tecnológica, los conductores están dispuestos a integrar un adaptador de diagnóstico (ELM327) y apps en sus vehículos para mejorar la experiencia de conducción y optimizar el mantenimiento.
 + Se asume que los usuarios valoran la simplicidad y conveniencia en la integración de tecnología con sus vehículos.
 
+**Business Outcomes**
++ Los usuarios seguirán suscritos al servicio a largo plazo si perciben un valor claro en la mejora de la durabilidad de sus vehículos y la reducción de costos de reparación.
++ Una vez validado el producto en un mercado objetivo inicial, se busca ampliar el alcance a más conductores en diversas regiones.  
++ La suscripción mensual debería generar un flujo de ingresos constante, lo que permitirá expandir el negocio y financiar mejoras continuas en el producto.
++ A medida que la aplicación recibe más datos de los usuarios, los algoritmos de inteligencia artificial mejoran. Esto permite que el servicio sea más eficiente, ya que las recomendaciones y alertas serán más precisas y útiles. Como resultado, se reducirán los costos de operación y mejorará la calidad del servicio para los usuarios.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 - _Creemos que los propietarios de vehículos están dispuestos a pagar una suscripción mensual para tener acceso a una aplicación que les permita monitorear y mejorar el estado de su vehículo._
    - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento significativo del 25% en la cantidad de usuarios que se suscriben a la aplicación y pagan la suscripción mensual.
