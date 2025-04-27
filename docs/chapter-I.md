@@ -179,7 +179,8 @@ Alertas en tiempo real, historial de fallos, predicción de problemas mecánicos
 **f. ¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información útil de forma visual y enviar alertas automáticas sin requerir mucha interacción del usuario.
 #### 1.2.2.4. Lean UX Canvas
-![Image](https://github.com/user-attachments/assets/3021521f-9141-486e-8dda-dfccf5aa34e9)
+
+![lean ux canvas img](/assets/imgs/chapter-I/lean-ux-canvas.png)
 ## 1.3. Segmentos objetivos
 **1. Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal:** Personas que tienen uno o más vehículos y desean cuidarlos de forma inteligente, evitando gastos innecesarios a futuro y asegurando su buen funcionamiento diario.
  - Edad: 25 a 55 años
