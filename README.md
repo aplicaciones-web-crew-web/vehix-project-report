@@ -32,6 +32,51 @@
   - **Link del repositorio:** [https://github.com/aplicaciones-web-crew-web/vehix-project-report](https://github.com/aplicaciones-web-crew-web/vehix-project-report)
 
 ---
+# Student Outcome
+El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje del ABET: ABET – EAC - Resultado de Aprendizaje 5 Criterio: La habilidad para trabajar de manera efectiva en un equipo donde los miembros colaboran en el liderazgo, fomentan un ambiente inclusivo y colaborativo, definen metas, planifican tareas y alcanzan los objetivos establecidos.
+
+<table>
+  <tr>
+    <th>Criterio Específico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td rowspan="5">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+    <td>Baca Camargo, Vitaly Arturo: <br>TB1: El equipo asumió roles de liderazgo colaborativo, donde jugó un papel fundamental al aportar ideas innovadoras y contribuir con su esfuerzo constante, impulsando el desarrollo del proyecto. La comunicación continua y la organización de tareas permitió avanzar sin contratiempos.</td>
+    <td rowspan="5">La colaboración activa y el liderazgo compartido fueron clave para el éxito del proyecto. La distribución equitativa de tareas y el compromiso de todos los miembros garantizaron el cumplimiento de los objetivos establecidos y el avance constante del desarrollo.</td>
+  </tr>
+  <tr>
+    <td>Elescano Leon, Piero Hugo: <br>TB1: En el equipo mostró un enfoque responsable y comprometido en todo momento, colaborando activamente en la toma de decisiones técnicas y manteniendo al equipo alineado con los objetivos del proyecto.</td>
+  </tr>
+  <tr>
+    <td>Julca Minaya, Sergio Gino: <br>TB1: Desempeñó un papel clave guiando al equipo en las tareas que se realizarían, asegurando que todos comprendieran sus roles y mantuvieran el enfoque en las tareas asignadas.</td>
+  </tr>
+  <tr>
+    <td>Navarro Chinga, Antonio Jhair: <br>TB1: Se destacó por su constante colaboración en la organización del trabajo, utilizando herramientas como gitflow para mantener el flujo de trabajo organizado y asegurando que las metas fueran alcanzadas.</td>
+  </tr>
+  <tr>
+    <td>Rios Piñan, Dayro Richard: <br>TB1: Coordinó las actividades del equipo, asegurando que todos los miembros cumplieran con sus responsabilidades y mantuvieran una comunicación fluida, lo que fue esencial para mantener el proyecto en movimiento.</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+    <td>Baca Camargo, Vitaly Arturo: <br>TB1: Participó activamente en la creación de un entorno inclusivo, compartiendo ideas y soluciones para el diseño de la aplicación. Junto al equipo, estableció metas claras y organizó tareas de manera equitativa.</td>
+    <td rowspan="5">La creación de un entorno inclusivo y la planificación estructurada del proyecto permitieron cumplir con los objetivos de manera eficiente. La participación activa de todos los miembros, el uso adecuado de herramientas colaborativas y la asignación de responsabilidades claras fueron factores clave para lograr los resultados esperados.</td>
+  </tr>
+  <tr>
+    <td>Elescano Leon, Piero Hugo: <br>TB1: Colaboró eficazmente en la planificación de tareas, para gestionar el flujo de trabajo y garantizar que todas las metas se cumplieran dentro de los plazos establecidos.</td>
+  </tr>
+  <tr>
+    <td>Julca Minaya, Sergio Gino: <br>TB1: Promovió el trabajo colaborativo, asegurándose de que cada miembro comprendiera sus roles y las necesidades del proyecto. Distribuyó las tareas de forma equitativa y garantizó que todos los objetivos fueran cumplidos.</td>
+  </tr>
+  <tr>
+    <td>Navarro Chinga, Antonio Jhair: <br>TB1: Colaboró estrechamente con el equipo, ayudando a organizar las tareas y utilizando las herramientas para gestionar de manera eficiente el flujo de trabajo.</td>
+  </tr>
+  <tr>
+    <td>Rios Piñan, Dayro Richard: <br>TB1: Definió los objetivos del proyecto y distribuyó las tareas de forma justa entre los miembros del equipo. Coordinó la planificación y facilitó la colaboración para asegurar que el proyecto avanzara conforme a lo planeado.</td>
+  </tr>
+</table>
+
 
 # Contenido
 
