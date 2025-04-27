@@ -425,3 +425,6 @@ En esta sección se presenta el prototipo de la aplicación web desarrollado en 
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+
+![database diagram](/assets/imgs/chapter-IV/vehix-db.png)
+
