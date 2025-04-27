@@ -131,6 +131,10 @@ Ante esta situación, surge nuestra pregunta de negocio:
 
 + Resolveremos este riesgo mediante alianzas con tiendas de autopartes que incluyan el dispositivo con descuento o de regalo, educación simple desde la app sobre cómo usarlo, y funciones que motiven su uso mostrando de forma clara el ahorro, la seguridad y los beneficios de tener el vehículo siempre monitoreado.
 
+**User Outcomes**
++ Los usuarios podrán anticipar problemas en sus vehículos antes de que se conviertan en fallos mayores, reduciendo así la cantidad de reparaciones costosas.
++ Con un monitoreo adecuado y la implementación de las recomendaciones de mantenimiento preventivo, los usuarios lograrán que sus vehículos tengan una vida útil más larga.
++ Los usuarios tendrán acceso a datos confiables sobre el estado de su automóvil, lo que les permitirá sentirse más seguros al conducir y menos preocupados por posibles fallos inesperados.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 - _Creemos que los propietarios de vehículos están dispuestos a pagar una suscripción mensual para tener acceso a una aplicación que les permita monitorear y mejorar el estado de su vehículo._
