@@ -51,6 +51,9 @@
 
   - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/) 
 
+    A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
+
+![commits img](/assets/imgs/chapter-I/commits.png)
 ---
 
 # Contenido
