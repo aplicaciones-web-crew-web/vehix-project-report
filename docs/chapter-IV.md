@@ -641,6 +641,136 @@ En esta sección se presenta el prototipo de la aplicación web desarrollado en 
 ![class-diagram](/assets/imgs/chapter-IV/class-diagram.png)
 
 ### 4.7.2. Class Dictionary
+
+#### **WorkShop**
+
+ - **name:** name of the workshop
+ - **direction:** name of the workshop
+ - **boss:** mechanical boss assigned to the workshop
+
+
+#### **MechanicalBoss**
+
+ - **name:** name of the mechanical boss
+ - **phoneNumber:** : phone number of the mechanical boss
+ - **expertTopic:** mechanical topic the boss specializes in
+
+
+#### **ListFailure**
+
+ - **listFailure:** list containing the failures detected
+ - **quantity:** total number of failures registered
+
+
+#### **ListAlerts**
+- **listFailure:** list containing the alerts detected.
+- **quantity:** total number of alerts registered.
+
+
+#### **Failure**
+- **name:** name of the failure
+- **code:** code that identifies the failure
+- **severityLevel:** level of severity of the failure
+- **state:** status of the failure (active or solved)
+- **descripcionCause:** description of the cause of the failure
+
+
+#### **Alert**
+
+ - **name:** name of the alert
+ - **severityLevel:** level of severity of the alert
+ - **description:** description of the alert
+
+
+#### **Diagnostic**
+
+ - **fecha:** date when the diagnostic was made
+ - **hour:** time when the diagnostic was made
+ - **resultSummary:** summary of the diagnostic results
+
+   
+#### **Membership**
+- **state:** status of the membership (active or inactive)
+- **name:** name of the membership plan
+- **price:** price of the membership
+- **expirationDate:** expiration date of the membership
+- **type:** type of membership
+
+
+ #### **Payment**
+- **paymentId:** number that identifies the payment
+- **cardNumber:** number of the card used
+- **expirationDate:** expiration date of the card
+- **securityCode:** security code of the card
+- **discount:** discount applied to the payment
+- **total:** total amount to pay
+
+  
+ #### **Order**
+- **idOrder:** number that identifies the order
+- **orderDate:** date when the order was made
+- **nameMembership:** name of the membership purchased
+- **subTotal:** subtotal amount before discounts
+- **total:** total amount after discounts
+
+
+ #### **User**
+- **userId:** number that identifies the user
+- **name:** name of the user
+- **phoneNumber:** phone number of the user
+- **email:** email of the user
+- **direction:**  address of the user
+- **city:** city where the user lives
+- **country:** country where the user lives
+- **province :** where the user lives
+- **postalCode:**  postal code of the user
+- **password:** password of the user account
+- **listVehicleRegistered:** list of vehicles registered by the user
+- **type_plan:** membership plan of the user
+- **car:** car information of the user
+
+
+ #### **Scanner**
+- **name:** name of the scanner
+- **model:** model of the scanner
+- **price:** price of the scanner
+- **engineState:** state of the engine
+- **transmissionState:** state of the transmission
+- **brakeState:** state of the brakes
+- **electricalState:** state of the electrical system 
+- **steeringState:** state of the steering system 
+- **suspensionState:** state of the suspension 
+- **fuelState:** state of the fuel system 
+- **refrigerationState:** state of the refrigeration system
+
+
+ #### **RepairedHistory**
+- **quantity:** number of repairs recorded
+- **date:** date of the repair
+- **comments:** comments or notes related to the repair
+
+
+ #### **itemLibrary**
+- **sectionName:** name of the section of the item
+- **content:** content of the item
+- **reference:** reference associated with the item
+  
+
+ #### **Library**
+- **listItemLibrary:** list containing items of the library
+
+
+ #### **Vehicle**
+- **idOrder:** number that identifies the order associated with the vehicle
+- **name:** name of the vehicle
+- **plaque:** plate number of the vehicle
+- **mileage:** mileage of the vehicle
+- **age:** age of the vehicle
+- **color:** color of the vehicle
+- **type:** type of vehicle
+- **commentStylePerformance:** comments on performance style
+- **commentsFutures:** comments about future improvements
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
