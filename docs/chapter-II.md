@@ -765,6 +765,18 @@ Además, consideran valioso el acceso a datos de los sensores del vehículo y es
 ![empathy-mapping-segment-3](/assets/imgs/chapter-II/empathy-mapping-segment-3.png)
 
 ### 2.3.5. As-is Scenario Mapping
+**Segmento 1**
+
+![as-is-scenario-segmento-1](/assets/imgs/chapter-II/as-is-scenario-segmento-1.jpg)
+
+**Segmento 2**
+
+![as-is-scenario-segmento-2](/assets/imgs/chapter-II/as-is-scenario-segmento-2.jpg)
+
+**Segmento 3**
+
+![as-is-scenario-segmento-3](/assets/imgs/chapter-II/as-is-scenario-segmento-3.jpg)
+
 ## 2.4. Ubiquitous Language
 | Termino (Ingles)          | Definicion                                                                                                                                      |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
