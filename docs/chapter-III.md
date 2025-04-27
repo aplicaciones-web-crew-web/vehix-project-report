@@ -23,15 +23,15 @@
         <tr>
             <td>1</td>
             <td>US02</td>
-            <td>Compatibilidad con plataforma</td>
-            <td>Como visitante del segmento mecánico automotriz quiero informarme de la aplicación por medio de mi celular u ordenador.</td>
+            <td>Navegación rápida</td>
+            <td>Como visitante del segmento mecánico automotriz quiero moverme rápidamente por las secciones de la plataforma para mayor comodidad.</td>
             <td>2</td>
         </tr>
         <tr>
             <td>2</td>
             <td>US03</td>
             <td>Evidencia de beneficios</td>
-            <td>Como visitante del segmento propietarios de vehículos quiero ver los beneficios de usar la plataforma, para motivarme a probarla.</td>
+            <td>Como visitante del segmento propietarios de vehículo urbano quiero ver los beneficios de usar la plataforma, para motivarme a probarla.</td>
             <td>2</td>
         </tr>
         <tr>
@@ -87,7 +87,7 @@
             <td>10</td>
             <td>US38</td>
             <td>Visualización de redes</td>
-            <td>Como visitante del segmento de propietarios de vehículos urbanos quiero conocer las redes sociales de la aplicación.</td>
+            <td>Como visitante del segmento de propietarios de vehículos urbanos quiero conocer las redes sociales de la aplicación para informarme.</td>
             <td>1</td>
         </tr>
         <tr>
@@ -136,14 +136,14 @@
             <td>17</td>
             <td>US12</td>
             <td>Nuevo vehículo</td>
-            <td>Como propietario de vehículo urbano quiero registrar mi vehículo para poder tener una lista ordenada de mis vehiculos.</td>
+            <td>Como propietario de vehículo urbano quiero registrar mi vehículo para poder tener una lista ordenada de mis vehículos.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>18</td>
             <td>US16</td>
             <td>Registrar mantenimiento realizado</td>
-            <td>Como propietario de un vehículo urbano, quiero registrar cada mantenimiento realizado, para tener un control de los mismos</td>
+            <td>Como propietario de un vehículo urbano, quiero registrar un mantenimiento realizado de una falla, para tener un control de los mismos.</td>
             <td>3</td>
         </tr>
         <tr>
@@ -157,7 +157,7 @@
             <td>20</td>
             <td>US28</td>
             <td>Pago de suscripciones</td>
-            <td>Como propietario de vehículo urbano quiero pagar la suscripción con mi tarjeta por medio de la aplicación.</td>
+            <td>Como propietario de vehículo urbano quiero pagar la suscripción con mi tarjeta por medio de la aplicación para un pago rápido.</td>
             <td>8</td>
         </tr>
         <tr>
@@ -185,7 +185,7 @@
             <td>24</td>
             <td>US13</td>
             <td>Localizar un taller automotriz cercano</td>
-            <td>Como conductor independiente, quiero localizar un taller mecánico cerca de mí, para realizar mantenimiento a mi vehículo</td>
+            <td>Como conductor independiente, quiero localizar un taller mecánico cerca de mí, para realizar mantenimiento a mi vehículo.</td>
             <td>5</td>
         </tr>
         <tr>
@@ -213,35 +213,35 @@
             <td>28</td>
             <td>US23</td>
             <td>Edición de información personal</td>
-            <td>Como conductor independiente, quiero editar la información de mi perfil, para cambiar mis datos si lo veo necesario</td>
+            <td>Como conductor independiente, quiero editar la información de mi perfil, para cambiar mis datos si lo veo necesario.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>29</td>
             <td>US26</td>
             <td>Recordatorios de Revisiones técnicas</td>
-            <td>Como conductor independiente quiero que la aplicación me recuerde el día de la próxima revisión técnica.</td>
+            <td>Como conductor independiente quiero que la aplicación me recuerde el día de la próxima revisión técnica para estar alerta.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>30</td>
             <td>US27</td>
             <td>Registro de datos</td>
-            <td>Como conductor independiente, quiero guardar registros de los datos de mi vehículos para futuras revisiones técnicas o ventas.</td>
+            <td>Como conductor independiente, quiero guardar registros de los datos de mi vehículo para futuras revisiones técnicas o ventas.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>31</td>
             <td>US30</td>
             <td>Eliminación de vehículo</td>
-            <td>Como conductor independiente quiero borrar un vehículo de mi historial para mantener actualizada mi información</td>
+            <td>Como conductor independiente quiero borrar un vehículo de mi historial para mantener actualizada mi información.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>32</td>
             <td>US08</td>
-            <td>Diagnóstico vehicular</td>
-            <td>Como mecánico automotriz quiero diagnosticar un vehículo para saber su estado actual.</td>
+            <td>Diagnóstico vehicular PRO</td>
+            <td>Como mecánico automotriz quiero un diagnóstico técnico exacto de un vehículo para saber su estado actual.</td>
             <td>8</td>
         </tr>
         <tr>
@@ -261,8 +261,8 @@
         <tr>
             <td>35</td>
             <td>US18</td>
-            <td>Mostrar taller en el mapa</td>
-            <td>Como mecánico automotriz, quiero que mi taller aparezca en el mapa de la app, para que los conductores me encuentren fácilmente.</td>
+            <td>Diagnostico Standard</td>
+            <td>Como propietario de un vehículo urbano, quiero realizar un escaneo que me arroje los datos de falla de mi vehículo para estar alerta.</td>
             <td>5</td>
         </tr>
         <tr>
@@ -276,42 +276,45 @@
             <td>37</td>
             <td>US25</td>
             <td>Datos técnicos</td>
-            <td>Como mecánico automotriz quiero visualizar el estado del producto con lenguaje técnico para un mejor entendimiento.</td>
+            <td>Como mecánico automotriz quiero visualizar el estado del vehículo con lenguaje técnico para un mejor entendimiento.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>38</td>
             <td>US19</td>
-            <td>Historial developer</td>
-            <td>Como Developer, quiero crear un endpoint GET /vehicles/{id}/history para obtener el historial técnico del vehículo, para que los usuarios o mecánicos puedan revisar eventos y mantenimientos anteriores.</td>
+            <td>Historial técnico de vehiculo</td>
+            <td>Como developer, quiero obtener el historial técnico de un vehículo mediante una solicitud GET, para que los usuarios o mecánicos puedan revisar los eventos y mantenimientos anteriores.</td>
             <td>8</td>
         </tr>
         <tr>
             <td>39</td>
             <td>US20</td>
             <td>Mecánico cercanos</td>
-            <td>Como Developer, quiero desarrollar el endpoint GET /mechanics?location={lat,long} para listar mecánicos cercanos y certificados, para ayudar a los conductores a encontrar soporte rápidamente.</td>
+            <td>Como developer, quiero listar los mecánicos cercanos mediante una solicitud GET, para que los conductores puedan encontrar soporte técnico de forma rápida y confiable.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>40</td>
             <td>US21</td>
             <td>Vehículos registrados</td>
-            <td>Como Developer, quiero implementar el endpoint POST /vehicles para registrar un nuevo vehículo en el sistema.</td>
+            <td>Como developer, quiero registrar un nuevo vehículo enviando sus datos mediante una solicitud POST, para que pueda añadir vehículos al sistema y mantener actualizada la información disponible.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>41</td>
             <td>US41</td>
             <td>Actualizar datos de un vehículo</td>
-            <td>Como Developer Quiero implementar el endpoint PUT /vehicles/{id} Para permitir la edición de los datos técnicos de un vehículo</td>
+            <td>Como developer, quiero actualizar los datos técnicos de un vehículo enviando la información editada mediante una solicitud PUT, para que pueda mantener actualizada la información registrada en la plataforma.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>42</td>
             <td>US42</td>
             <td>Registro Usuario</td>
-            <td>Como Developer Quiero crear el endpoint POST /auth/register Para que nuevos usuarios puedan registrarse en la plataforma</td>
+            <td>Como developer, quiero crear un nuevo usuario enviando su nombre, correo electrónico y contraseña, para que pueda permitir el registro de usuarios en la plataforma.</td>
             <td>5</td>
         </tr>
     </table>
+    
+**Link:**  [Product Backlog](https://antonionavarroch24.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&atlOrigin=eyJpIjoiYjc5OTdkY2Q0ZTlmNGFmN2FkYWIxNWU3Zjk0NzY1MWEiLCJwIjoiaiJ9)
+
