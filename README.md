@@ -31,6 +31,8 @@
 
   - **Link del repositorio:** [https://github.com/aplicaciones-web-crew-web/vehix-project-report](https://github.com/aplicaciones-web-crew-web/vehix-project-report)
 
+  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/) 
+
 ---
 
 # Contenido
