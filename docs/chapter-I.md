@@ -182,6 +182,8 @@ Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información 
 
 ![lean ux canvas img](/assets/imgs/chapter-I/lean-ux-canvas.png)
 ## 1.3. Segmentos objetivos
+En esta sección se detallan los segmentos objetivos identificados para la solución Vehix, considerando las necesidades específicas de cada grupo de usuarios. La segmentación se ha realizado con base en características demográficas, ocupacionales y tecnológicas.
+
 **1. Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal:** Personas que tienen uno o más vehículos y desean cuidarlos de forma inteligente, evitando gastos innecesarios a futuro y asegurando su buen funcionamiento diario.
  - Edad: 25 a 55 años
  - Ocupación: Profesionales, trabajadores dependientes e independientes, emprendedores.
