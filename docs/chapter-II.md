@@ -1,6 +1,7 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
+En esta sección se presenta el análisis competitivo realizado por el equipo de Vehix, en el cual se identifican y evalúan tres competidores principales. Este análisis permite establecer un marco de referencia para comprender el entorno del mercado y así formular estrategias que nos permitan posicionar mejor nuestra solución frente a la competencia.
 
 <table class="tabla-md">
         <thead>
