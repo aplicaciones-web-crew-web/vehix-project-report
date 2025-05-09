@@ -251,6 +251,7 @@ Para el despliegue de nuestra landing page se escogio Git Page siendo una altern
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
+En esta sección se documenta el desarrollo correspondiente al Sprint 1 del proyecto Vehix. Se presentan los objetivos priorizados, las tareas asignadas al equipo, los entregables alcanzados y un resumen del progreso logrado. Este sprint marca el inicio del ciclo de trabajo iterativo, centrado en construir los cimientos del sistema y validar los supuestos iniciales.
 #### 5.2.1.1. Sprint Planning 1.
 <table>
 	<tbody>
