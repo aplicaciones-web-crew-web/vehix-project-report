@@ -710,6 +710,8 @@ Además, consideran valioso el acceso a datos de los sensores del vehículo y es
 
 ## 2.3. Solution Profile
 ### 2.3.1. User Personas
+En esta sección se presentan los perfiles de User Personas construidos a partir de los segmentos clave identificados para la aplicación Vehix. Estos perfiles permiten comprender mejor las necesidades, motivaciones y comportamientos de los usuarios, facilitando el diseño de una solución centrada en ellos y alineada con sus expectativas.
+
 **Segmento 1**
 
 ![user personas segment 1 img](/assets/imgs/chapter-II/user-personas-segment-1.png)
