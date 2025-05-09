@@ -921,6 +921,7 @@ En esta sección se presentan los diagramas de clases del sistema Vehix. Estos d
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+Esta sección contiene el diagrama de base de datos diseñado para Vehix. Aquí se muestran las tablas, relaciones y atributos necesarios para almacenar y gestionar eficientemente los datos del sistema, garantizando integridad, rendimiento y escalabilidad.
 
 ![database diagram](/assets/imgs/chapter-IV/vehix-db.png)
 
