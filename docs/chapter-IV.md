@@ -1,5 +1,6 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+En esta sección se presentan las Style Guidelines definidas para el proyecto Vehix. Estas pautas de diseño aseguran la coherencia visual, usabilidad y accesibilidad de la interfaz en todos los puntos de contacto con el usuario. Siguiendo estos lineamientos, buscamos ofrecer una experiencia intuitiva, moderna y alineada con los valores de la marca, facilitando tanto el desarrollo como la escalabilidad del producto.
 ### 4.1.1. General Style Guidelines
 #### Colores
  La identidad visual de **Vehix** está centrada en una paleta monocromática compuesta por tonalidades de **blanco y negro**, complementada con un **color de acento turquesa** que aporta un toque moderno, tecnológico y fresco, sin perder sobriedad.
