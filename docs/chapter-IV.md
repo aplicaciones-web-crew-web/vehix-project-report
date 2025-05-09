@@ -784,6 +784,8 @@ En esta sección se presenta el prototipo de la aplicación web desarrollado en 
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+En esta sección se presentan los diagramas de clases del sistema Vehix. Estos diagramas representan la estructura del software a nivel de objetos, mostrando las clases, atributos, métodos y relaciones, lo cual facilita la comprensión del diseño y su implementación.
+
 ![class-diagram](/assets/imgs/chapter-IV/class-diagram.png)
 
 ### 4.7.2. Class Dictionary
