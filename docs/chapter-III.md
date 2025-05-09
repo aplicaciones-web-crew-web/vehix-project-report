@@ -67,6 +67,8 @@ Segemento 3:
 | US42 | Registro Usuario | **Como** developer, **quiero** crear un nuevo usuario enviando su nombre, correo electrónico y contraseña, **para** que pueda permitir el registro de usuarios en la plataforma. | **Escenario 1: Registro exitoso de usuario Dado que** el developer proporciona un nombre, correo electrónico y contraseña válidos, **Cuando** el developer realiza una solicitud POST para registrar un usuario, **Entonces** el sistema crea el nuevo usuario y devuelve su información básica junto con una confirmación de éxito. **Escenario 2: Error por datos duplicados en el registro Dado que** el developer proporciona un correo electrónico que ya está registrado, **Cuando** el developer realiza una solicitud POST para registrar un usuario, **Entonces** el sistema rechaza la solicitud y devuelve un mensaje de error indicando que el correo electrónico ya existe.  | EP07 |
 
 ## 3.3. Impact Mapping
+En esta sección se presenta el Impact Mapping de Vehix, una técnica estratégica que permite visualizar cómo nuestras funcionalidades ayudarán a alcanzar los objetivos del negocio.
+
 ![impactmapping](/assets/imgs/chapter-III/impact-map.png)
 ## 3.4. Product Backlog
 <table>
