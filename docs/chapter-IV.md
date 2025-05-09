@@ -773,6 +773,7 @@ En esta sección se presenta el prototipo de la aplicación web desarrollado en 
 
 ![web-applications-prototyping](/assets/imgs/chapter-IV/web-applications-prototyping.png)
 ## 4.6. Domain-Driven Software Architecture
+Esta sección presenta la arquitectura del software basada en el enfoque de Domain-Driven Design (DDD). Se describe cómo se modelan las entidades y relaciones centrales del dominio de Vehix, permitiendo una estructura de software escalable, flexible y alineada a las reglas del negocio.
 ### 4.6.1. Software Architecture Context Diagram
 ![software-architecture-context-diagram](/assets/imgs/chapter-IV/context-diagram.png)
 
