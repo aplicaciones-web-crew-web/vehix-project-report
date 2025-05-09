@@ -71,6 +71,7 @@ En esta sección se presenta el Impact Mapping de Vehix, una técnica estratégi
 
 ![impactmapping](/assets/imgs/chapter-III/impact-map.png)
 ## 3.4. Product Backlog
+A continuación se detalla el Product Backlog del proyecto Vehix. Este backlog contiene una lista priorizada de funcionalidades, mejoras y tareas necesarias para la evolución del producto. Está diseñado para ser flexible, permitiendo reorganizar las prioridades a medida que se obtenga feedback de los usuarios y se avance en el desarrollo.
 <table>
         <tr>
           <td><strong>#Orden</strong></td>
