@@ -779,6 +779,8 @@ Además, consideran valioso el acceso a datos de los sensores del vehículo y es
 ![as-is-scenario-segmento-3](/assets/imgs/chapter-II/as-is-scenario-segmento-3.jpg)
 
 ## 2.4. Ubiquitous Language
+Para garantizar una comunicación fluida, precisa y sin ambigüedades entre los equipos de desarrollo, producto y usuarios en el proyecto Vehix, se define el siguiente Lenguaje Común (Ubiquitous Language). Este conjunto de términos, conceptos y expresiones será utilizado de manera consistente en todo el ciclo de vida del sistema, asegurando que todas las partes involucradas compartan una comprensión clara y alineada del dominio del problema.
+
 | Termino (Ingles)          | Definicion                                                                                                                                      |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Vehicle**               | Medio de transporte motorizado, propiedad del usuario, sujeto a monitoreo por la aplicación.                                                    |
