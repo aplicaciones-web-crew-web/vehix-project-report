@@ -1,5 +1,6 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+En esta sección se presenta el To-Be Scenario Mapping, una representación visual que describe cómo debería ser la experiencia ideal del usuario al interactuar con Vehix.
 Segmento 1:
 
 ![to-be-scenario-mapping-segment-1](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-1.jpg)
