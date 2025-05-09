@@ -505,6 +505,7 @@ Mobile:
 **Link:** [Landing Page Mock-up Mobile Aplicaciones Web (Vue)](https://www.figma.com/design/9dVUschF8b5sj3fjAd7qQz/Landing-Page-material-aplicaiones-web-mobile?node-id=6-2&t=Hu51iQFEepSafHZu-1)
 
 ## 4.4. Web Applications UX/UI Design
+En esta sección se documenta el diseño UX/UI de la aplicación web de Vehix. Se detalla cómo la interfaz facilita la navegación, comprensión y uso de las funciones clave, priorizando la experiencia del usuario y asegurando una interacción eficiente, clara y satisfactoria.
 ### 4.4.1. Web Applications Wireframes
 **Link**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
