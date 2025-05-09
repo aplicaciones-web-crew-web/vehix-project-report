@@ -13,7 +13,7 @@ Segemento 3:
 ![to-be-scenario-mapping-segment-3](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-3.jpg)
 
 ## 3.2. User Stories
-
+En esta sección se presentan las User Stories, las cuales describen las funcionalidades clave del sistema Vehix desde la perspectiva de los usuarios.
 | Epic /Story ID | Título | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
 | :---- | :---- | ----- | ----- | ----- |
 | EP01 | Gestión de usuarios | \- | \- | \- |
