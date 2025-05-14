@@ -85,21 +85,21 @@ A continuación se detalla el Product Backlog del proyecto Vehix. Este backlog c
         <tr>
             <td>1</td>
             <td>US02</td>
-            <td>Navegación rápida</td>
-            <td>Como visitante del segmento mecánico automotriz quiero moverme rápidamente por las secciones de la plataforma para mayor comodidad.</td>
+            <td>Atajos</td>
+            <td>Como visitante del segmento de mecánicos automotrices quiero un plataforma web seccionada para mayor claridad de información.</td>
             <td>2</td>
         </tr>
         <tr>
             <td>2</td>
             <td>US03</td>
-            <td>Evidencia de beneficios</td>
-            <td>Como visitante del segmento propietarios de vehículo urbano quiero ver los beneficios de usar la plataforma, para motivarme a probarla.</td>
+            <td>Beneficios y planes</td>
+            <td>Como visitante del segmento de propietarios de vehículos urbanos quiero informarme de beneficios de usar la plataforma, para usar la aplicación.</td>
             <td>2</td>
         </tr>
         <tr>
             <td>3</td>
             <td>US31</td>
-            <td>Contextualización de la plataforma</td>
+            <td>Contextualización activa</td>
             <td>Como visitante del segmento conductores independientes quiero entender de qué trata la plataforma, para saber si es útil para mí.</td>
             <td>2</td>
         </tr>
@@ -107,56 +107,56 @@ A continuación se detalla el Product Backlog del proyecto Vehix. Este backlog c
             <td>4</td>
             <td>US32</td>
             <td>Testimonios</td>
-            <td>Como visitante del segmento conductores independientes quiero ver testimonios reales, para ganar confianza en la plataforma.</td>
+            <td>Como visitante del segmento conductores independientes quiero visualizar testimonios reales, para usar la aplicación.</td>
             <td>2</td>
         </tr>
         <tr>
             <td>5</td>
             <td>US33</td>
             <td>Suscripciones</td>
-            <td>Como visitante del segmento de propietarios de vehículos urbanos quiero ver las membresías disponibles para informarme.</td>
+            <td>Como visitante del segmento de propietarios de vehículos urbanos quiero membresías o planes para informarme.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>6</td>
             <td>US34</td>
-            <td>Video introductorio</td>
-            <td>Como visitante del segmento propietarios de vehículos urbanos quiero ver un video introductorio para entender cómo funciona la aplicación.</td>
+            <td>Guía de conexiones</td>
+            <td>Como visitante del segmento propietarios de vehículos urbanos quiero tener una guía de conexión vehículo-aplicación para usar la aplicación sin errores.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>7</td>
             <td>US35</td>
             <td>Soporte y redes</td>
-            <td>Como visitante del segmento conductores independientes quiero poder contactar a soporte para resolver dudas antes de registrarse</td>
+            <td>Como visitante del segmento conductores independientes quiero poder contactar a soporte para resolver mis dudas.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>8</td>
             <td>US36</td>
             <td>Diseño responsive</td>
-            <td>Como visitante del segmento de conductores independientes quiero un diseño que se adapte a mi pantalla para ver la información desde cualquier dispositivo.</td>
+            <td>Como visitante del segmento de conductores independientes quiero visualizar la landing page para desde cualquier dispositivo.</td>
             <td>2</td>
         </tr>
         <tr>
             <td>9</td>
             <td>US37</td>
             <td>Visualización de creadores</td>
-            <td>Como visitante del segmento de conductores independientes quiero conocer al equipo detrás del proyecto, para sentir más cercanía y confianza.</td>
+            <td>Como visitante del segmento de conductores independientes quiero saber quienes realizaron el proyecto, para informarme de estos.</td>
             <td>1</td>
         </tr>
         <tr>
             <td>10</td>
             <td>US38</td>
-            <td>Visualización de redes</td>
-            <td>Como visitante del segmento de propietarios de vehículos urbanos quiero conocer las redes sociales de la aplicación para informarme.</td>
+            <td>Soporte Multilingüe</td>
+            <td>Como visitante del segmento de conductores independientes quiero poder seleccionar el idioma español o inglés para entender completamente la información proporcionada.</td>
             <td>1</td>
         </tr>
         <tr>
             <td>11</td>
             <td>US39</td>
             <td>Preguntas frecuentes</td>
-            <td>Como visitante del segmento de propietarios de vehículos urbanos quiero una sección de preguntas frecuentes para no tener dudas.</td>
+            <td>Como visitante del segmento de propietarios de vehículos urbanos quiero informarme de preguntas frecuentes para validarlo con mis preguntas.</td>
             <td>2</td>
         </tr>
         <tr>
@@ -177,27 +177,27 @@ A continuación se detalla el Product Backlog del proyecto Vehix. Este backlog c
             <td>14</td>
             <td>US04</td>
             <td>Inicio de sesión</td>
-            <td>Como propietario de vehículo urbano quiero iniciar sesión con mi cuenta creada para usar las funcionalidades de mi aplicación.</td>
+            <td>Como propietario de vehículo urbano quiero iniciar sesión en la aplicación para usar todas las funcionalidades de esta.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>15</td>
             <td>US05</td>
-            <td>Alertas tempranas</td>
-            <td>Como propietario de vehículo urbano, quiero una aplicación que me alerte si hago una mala praxis en tiempo real para alargar la vida útil de mi carro.</td>
+            <td>Alertas en tiempo real</td>
+            <td>Como propietario de vehículo urbano, quiero una aplicación que me notifique si tengo complicaciones con mi vehículo en tiempo real para informarme del estado de mi vehículo.</td>
             <td>8</td>
         </tr>
         <tr>
             <td>16</td>
             <td>US09</td>
-            <td>Cerrar sesión</td>
+            <td>Guardado de datos y cierre de sesión</td>
             <td>Como propietario de vehículo urbano, quiero cerrar mi sesión de la aplicación para no dejar mis datos expuestos.</td>
             <td>1</td>
         </tr>
         <tr>
             <td>17</td>
             <td>US12</td>
-            <td>Nuevo vehículo</td>
+            <td>Ingresar uevo vehículo</td>
             <td>Como propietario de vehículo urbano quiero registrar mi vehículo para poder tener una lista ordenada de mis vehículos.</td>
             <td>5</td>
         </tr>
@@ -205,7 +205,7 @@ A continuación se detalla el Product Backlog del proyecto Vehix. Este backlog c
             <td>18</td>
             <td>US16</td>
             <td>Registrar mantenimiento realizado</td>
-            <td>Como propietario de un vehículo urbano, quiero registrar un mantenimiento realizado de una falla, para tener un control de los mismos.</td>
+            <td>Como propietario de un vehículo urbano, quiero registrar un mantenimiento realizado de una falla, para tener un historial de los mismos.</td>
             <td>3</td>
         </tr>
         <tr>
@@ -225,43 +225,43 @@ A continuación se detalla el Product Backlog del proyecto Vehix. Este backlog c
         <tr>
             <td>21</td>
             <td>US29</td>
-            <td>Estadística intuitiva</td>
-            <td>Como propietario de vehículo urbano quiero ver una gráfica acerca del estado de mi vehículo para estar alerta.</td>
+            <td>Estado del vehículo</td>
+            <td>Como propietario de vehículo urbano quiero información acerca del estado de mi vehículo para estar informado.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>22</td>
             <td>US06</td>
-            <td>Historial de desgaste vehicular</td>
-            <td>Como conductor independiente quiero saber el desgaste de mi vehículo en términos estadísticos para prevenir fallas.</td>
+            <td>Visualización de desgaste vehícular</td>
+            <td>Como conductor independiente quiero tener el registro del desgaste vehicular con estadísticas visuales y sencillas de entender para mantener mi vehículo en buen estado.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>23</td>
             <td>US07</td>
             <td>Modo conductor</td>
-            <td>Como conductor independiente quiero que las alertas no obstaculicen la visión de mi pantalla para concentrarme en mi ruta.</td>
+            <td>Como conductor independiente quiero que las alertas no obstaculicen la visión de mi pantalla para no interrumpir mi navegación.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>24</td>
             <td>US13</td>
             <td>Localizar un taller automotriz cercano</td>
-            <td>Como conductor independiente, quiero localizar un taller mecánico cerca de mí, para realizar mantenimiento a mi vehículo.</td>
+            <td>Como conductor independiente, quiero localizar un taller mecánico cercano y confiable, para realizar arreglar o revisar mi vehículo.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>25</td>
             <td>US14</td>
-            <td>Ver descripción resumida de la falla del vehículo</td>
-            <td>Como conductor independiente, quiero ver la descripción simple de la falla que tiene mi vehículo, para llevarlo a mantenimiento.</td>
+            <td>Visualización de fallas</td>
+            <td>Como conductor independiente, quiero ver la descripción de la falla que tiene mi vehículo, para tomar medidas de mantenimiento.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>26</td>
             <td>US15</td>
-            <td>Ver estado de suscripción</td>
-            <td>Como conductor independiente, quiero saber el estado de mi suscripción, para evitar que el servicio se interrumpa.</td>
+            <td>Estado de suscripción</td>
+            <td>Como conductor independiente, quiero saber que suscripción poseo, para verificar mi estado de suscripción.</td>
             <td>2</td>
         </tr>
         <tr>
@@ -282,42 +282,42 @@ A continuación se detalla el Product Backlog del proyecto Vehix. Este backlog c
             <td>29</td>
             <td>US26</td>
             <td>Recordatorios de Revisiones técnicas</td>
-            <td>Como conductor independiente quiero que la aplicación me recuerde el día de la próxima revisión técnica para estar alerta.</td>
+            <td>Como conductor independiente quiero que la aplicación me recuerde el día de la próxima revisión técnica para recodarlo y estar alerta.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>30</td>
             <td>US27</td>
-            <td>Registro de datos</td>
-            <td>Como conductor independiente, quiero guardar registros de los datos de mi vehículo para futuras revisiones técnicas o ventas.</td>
+            <td>Registro de datos de vehículo</td>
+            <td>Como conductor independiente, quiero guardar registros de los datos de mi vehículo para mantenerme informado.</td>
             <td>5</td>
         </tr>
         <tr>
             <td>31</td>
             <td>US30</td>
             <td>Eliminación de vehículo</td>
-            <td>Como conductor independiente quiero borrar un vehículo de mi historial para mantener actualizada mi información.</td>
+            <td>Como mecánico automotriz quiero eliminar un vehículo de mi lista para actualizar mis vehículos.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>32</td>
             <td>US08</td>
-            <td>Diagnóstico vehicular PRO</td>
-            <td>Como mecánico automotriz quiero un diagnóstico técnico exacto de un vehículo para saber su estado actual.</td>
+            <td>Diagnóstico vehicular</td>
+            <td>Como mecánico automotriz quiero un diagnóstico exacto de un vehículo para saber el estado actual de este.</td>
             <td>8</td>
         </tr>
         <tr>
             <td>33</td>
             <td>US10</td>
             <td>Historial de vehículos</td>
-            <td>Como mecánico automotriz quiero poder tener un historial de vehículos diagnosticados para tener un próximo seguimiento.</td>
+            <td>Como mecánico automotriz quiero poder tener un historial de vehículos para tener un próximo seguimiento de estos.</td>
             <td>3</td>
         </tr>
         <tr>
             <td>34</td>
             <td>US11</td>
             <td>Conexión bluetooth</td>
-            <td>Como mecánico automotriz quiero que todos los datos del carro lleguen a la aplicación de manera rápida y precisa para tener un mejor diagnóstico.</td>
+            <td>Como mecánico automotriz quiero conectarme a mi vehículo de manera rápida y precisa con bluetooth para tener información de mi vehículo en todo lugar y momento.</td>
             <td>8</td>
         </tr>
         <tr>
@@ -345,7 +345,7 @@ A continuación se detalla el Product Backlog del proyecto Vehix. Este backlog c
             <td>38</td>
             <td>US19</td>
             <td>Historial técnico de vehiculo</td>
-            <td>Como developer, quiero obtener el historial técnico de un vehículo mediante una solicitud GET, para que los usuarios o mecánicos puedan revisar los eventos y mantenimientos anteriores.</td>
+            <td>Como developer, quiero obtener el historial técnico de un vehículo mediante una solicitud GET, para que los usuarios puedan revisar los eventos y mantenimientos anteriores del vehículo.</td>
             <td>8</td>
         </tr>
         <tr>
@@ -377,8 +377,11 @@ A continuación se detalla el Product Backlog del proyecto Vehix. Este backlog c
             <td>5</td>
         </tr>
     </table>
-    
+
+A continuación, se le hace presente el link del product backlog:
+
 **Link:**  [Product Backlog](https://antonionavarroch24.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&atlOrigin=eyJpIjoiYjc5OTdkY2Q0ZTlmNGFmN2FkYWIxNWU3Zjk0NzY1MWEiLCJwIjoiaiJ9)
 
+Además se le presenta la captura de imagen del proct backlog el cyual ha sido diseñado en la herramienta de Jira
 ![Jira](/assets/imgs/chapter-III/jira.png)
 
