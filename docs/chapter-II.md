@@ -448,9 +448,11 @@ Para posicionarse de manera efectiva en el mercado y destacar frente a competido
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
+
 Después de un análisis, se realizaron las siguientes preguntas para entrevistar a los siguientes segmentos objetivos.
 
 #### Segmento 1: Propietarios de vehículos urbanos (uso personal)
+
 ¿Qué tipo de vehículo usas actualmente y con qué frecuencia lo conduces?
 
 ¿Qué tan pendiente estás del mantenimiento preventivo de tu vehículo? ¿Llevas algún tipo de registro?
@@ -469,7 +471,21 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ¿Qué valor tendría para ti poder corregir malas prácticas de conducción con ayuda de una app?
 
+¿Qué navegador y sistema operativo utilizas más? ¿Desde qué dispositivos accedes normalmente (smartphone, laptop, tablet, etc.)?
+
+¿Qué redes sociales usas más?
+
+¿Tienes marcas de autos, tecnología o apps que te influyan o inspiren?
+
+¿Dónde buscas normalmente información sobre tu auto (YouTube, blogs, talleres, apps, amigos)?
+
+¿Te planteaste o tienes algún objetivo en mente con respecto al uso y mantenimiento de tu vehículo?
+
+¿Qué te frustra sobre tener un vehículo con respecto a su uso y mantenimiento?
+
+
 #### Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery):
+
 ¿Cada cuánto tiempo realizas el mantenimiento de tu vehículo y cómo decides cuándo hacerlo?
 
 ¿Qué tipo de problemas mecánicos has tenido recientemente y cómo afectaron tu trabajo o tus ingresos?
@@ -484,11 +500,24 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ¿Qué opinas de una app que, conectada a un adaptador diagnóstico en tu auto, te diga cómo manejar mejor y cuándo hacer mantenimiento para evitar fallas?
 
+¿Qué navegador y sistema operativo utilizas más? ¿Desde qué dispositivos accedes normalmente (smartphone, laptop, tablet, etc.)?
+
 ¿Qué características tendría que tener una app como esta para que realmente te ayude en tu día a día como conductor?
 
 ¿Estarías dispuesto a pagar una suscripción mensual por un servicio que te permita ahorrar en reparaciones y cuidar mejor tu vehículo?
 
+¿Qué navegador y sistema operativo utilizas más? ¿Desde qué dispositivos accedes normalmente (smartphone, laptop, tablet, etc.)?
+
+¿Qué tan bien interpretas alertas o luces del tablero del vehículo?
+
+¿Tienes marcas de autos, tecnología o apps que te influyan o inspiren?
+
+¿Te planteaste o tienes algún objetivo en mente con respecto al uso y mantenimiento de tu vehículo?
+
+¿Qué te frustra sobre tener un vehículo con respecto a su uso y mantenimiento?
+
 #### Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes
+
 ¿Con qué frecuencia los clientes llegan a tu taller sin tener claro qué le ocurre a su vehículo?
 
 ¿Qué tan útil sería para ti contar con diagnósticos previos generados por una app antes de revisar un auto?
@@ -506,6 +535,20 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 ¿Estarías dispuesto a pagar una suscripción mensual por acceder a estas herramientas avanzadas y visibilidad en la plataforma?
 
 ¿Qué tipo de información técnica te sería más útil recibir desde la app para mejorar tu trabajo diario?
+
+¿Qué navegador y sistema operativo utilizas más? ¿Desde qué dispositivos accedes normalmente (smartphone, laptop, tablet, etc.)?
+
+¿Tienes formación técnica formal, empírica o ambas?
+
+¿Qué beneficios crees que traería esta tecnología tanto para ti como para tus clientes? ¿Qué preocupaciones tendrías sobre su uso?
+
+¿Tienes marcas de autos, tecnología o apps que te influyan o inspiren?
+
+¿Qué herramientas digitales utilizas actualmente en tu trabajo (scanners, apps, hojas de cálculo, etc.)?
+
+¿Tienes algún objetivo con respecto a tu trabajo?
+
+¿Que es lo que te frustra con respecto al trabajo que tienes?
 
 ### 2.2.2. Registro de entrevistas
 
