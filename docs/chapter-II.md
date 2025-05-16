@@ -766,26 +766,82 @@ Luis accede principalmente desde su smartphone Android y laptop, utilizando Chro
 
 ### 2.2.3. Análisis de entrevistas
 
+A continuación, se presenarán los análisis de entrevistas, los cuáles han sido hechos recaudando la información de las entrevistas previamente realizadas
+
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
 
-Los conductores entrevistados comparten un perfil común: son usuarios frecuentes de sus vehículos, principalmente para trabajo, compras y actividades personales. Aunque tienen cierta conciencia sobre el mantenimiento, su enfoque es predominantemente reactivo, actuando ante señales visibles o auditivas, sin llevar un registro sistemático de servicios o revisiones.
+Este segmento agrupa a personas cuyo vehículo es su herramienta para movilizarse, sea por trabajo u otros motivos. Experimentan obstáculos con su vehículo frecuentemente pero esperan que haya algún tipo de solución práctica.
 
-Existe un patrón de dolor asociado a reparaciones costosas derivadas de la falta de mantenimiento preventivo, lo que crea una oportunidad clara para soluciones que anticipen fallas. Todos muestran una alta familiaridad y apertura al uso de aplicaciones móviles, siempre que sean intuitivas y claras.
+¿Con que frecuencia manejas el vehículo?
 
-Además, hay predisposición a pagar una suscripción mensual moderada (20–45 soles) si la solución les ofrece beneficios tangibles como ahorro en reparaciones, mayor tranquilidad y prolongación de la vida útil del vehículo.
+![chart img](/assets/imgs/chapter-II/analysis-chart-1.png)
+
+¿Que navegador usas?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-2.png)
+
+¿Tienes algún conocimiento básico en mecánica?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-3.png)
+
+¿Tienes alguna preferencia por soluciones tecnológicas simples y prácticas?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-4.png)
+
+¿Sientes motivación por evitar gastos imprevistos?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-5.png)
+
+¿Ha sufrido alguna reparación costosa del vehículo por falta de mantenimiento?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-6.png)
+
 
 **Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery)**
 
-Los conductores entrevistados, que dependen de sus vehículos para generar ingresos, presentan un enfoque reactivo hacia el mantenimiento, basado principalmente en señales visibles o auditivas del auto. Aunque realizan mantenimiento regular, las fallas inesperadas, como problemas con los frenos o la batería, les generan pérdidas económicas, lo que destaca la necesidad de una solución preventiva. Los conductores están interesados en aplicaciones móviles conectadas a sensores del vehículo que proporcionen alertas claras sobre componentes clave como el motor, frenos y batería, además de recomendaciones de mantenimiento y consejos para mejorar la conducción.
+Este segmento agrupa a personas cuyo vehículo es su herramienta de trabajo principal (conductores de Uber, InDriver, taxi, delivery u otros), con altísima dependencia operativa, y que enfrentan retos tanto técnicos como económicos al momento de mantener sus autos en buen estado.
 
-Este segmento muestra una predisposición a pagar una suscripción mensual moderada por una aplicación que ofrezca monitoreo en tiempo real, con funciones fáciles de usar y que ayuden a evitar reparaciones costosas. Prefieren invertir en una solución que les permita prevenir fallas antes de que se conviertan en emergencias, mejorando la vida útil del vehículo y protegiendo así sus ingresos. La simplicidad y claridad de la información son esenciales para que la solución sea efectiva y valiosa para ellos.
+¿Que navegador usa?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-7.png)
+
+¿Postergó alguna vez un mantenimiento por falta de dinero o tiempo?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-8.png)
+
+¿Se vieron afectados por fallas mecánicas recientes?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-9.png)
+
+¿Se siente frustrado cuando ocurre alguna falla mientras está trabajando?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-10.png)
+
+¿Se sienten motivados a cambiar sus hábitos de conducción y prevención si la información se les facilita?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-10.png)
 
 
 **Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
 
-Los técnicos automotrices entrevistados coinciden en que muchos clientes llegan al taller sin tener claro qué le ocurre a su vehículo, lo que retrasa el diagnóstico y afecta la eficiencia del taller. Los entrevistados ven con buenos ojos la idea de contar con diagnósticos previos generados por una app que se conecte al vehículo, así como el acceso al historial técnico del auto, ya que estos elementos les permitirían realizar reparaciones más rápidas y precisas.
+Este segmento representa a profesionales automotrices con experiencia —en su mayoría empírica— que buscan eficiencia, precisión y modernización en su trabajo. Están abiertos a la tecnología si esta los ayuda a ahorrar tiempo, mejorar su servicio y atraer más clientes.
 
-Además, consideran valioso el acceso a datos de los sensores del vehículo y estar visibles en un mapa digital de talleres recomendados, lo que les permitiría atraer más clientes. Están dispuestos a pagar una suscripción mensual si la plataforma ofrece beneficios tangibles como ahorro de tiempo y mayor visibilidad, mostrando así una actitud receptiva hacia el uso de tecnología que optimice su trabajo diario.
+¿Valorarías una app que te indique algún diagnóstico previo del vehículo del cliente?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-11.png)
+
+¿Consideras útil contar con el historial técnico del vehículo de tu cliente?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-12.png)
+
+¿Actualmente usas apps digitales especializadas para talleres?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-13.png)
+
+¿Se siente abierto a aprender el uso de tecnología si es práctica y clara?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-14.png)
+
 
 ## 2.3. Solution Profile
 ### 2.3.1. User Personas
