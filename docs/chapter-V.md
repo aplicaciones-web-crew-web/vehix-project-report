@@ -690,3 +690,77 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 ![individual-commits](/assets/imgs/chapter-V/individual-commits.png)
 
 ![contributors-general-commits](/assets/imgs/chapter-V/contributors-general-commits.png)
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+
+A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">Spring Planing Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>2025-05-22</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>4:50 PM</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Remote mode through the GitHub platform</td>
+		</tr>
+		<tr>
+			<td colspan="2">Prepared by</td>
+		</tr>
+		<tr>
+			<td>Attends (to planinning meeting)</td>
+			<td>All members of crewtech</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Review Summary</td>
+			<td>We have completed sprint 1 successfully, we have finished the landing page for Vehix. The answer from our team was great, even though at the beginning it was a bit hard.</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Retrospective Summary</td>
+			<td> Our team did a great job, but there are different aspects to be improved. We should have been organanized from the beginning to avoid some complications late, also we had keep a good communication through the development of the project to avoid misunderstandings between the members of the team. </td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Spritn 2 Goal</td>
+			<td>Our focus is on the implementation of the main view from the web application, which contains different views for the analytics and operations for our customers. We believe it delivers an big approach from what we expoect of the project. This will be confirmed when the team are able to try the new features without any mistake. </td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Velocity</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>Sum of Story points</td>
+			<td>42</td>
+		</tr>
+	</tbody>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+#### 5.2.2.3. Sprint Backlog 2
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
