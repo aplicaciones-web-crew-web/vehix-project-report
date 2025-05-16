@@ -1070,6 +1070,36 @@ Para el desarrollo del sprint 2, se ha implementado el frontend, previamente hab
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+A continuación mostraremos la evidencia de ejecución del sprint.
+
+vista de mantenimiento, donde redirecciona a otras vistas:
+
+![image-1](/assets/imgs/chapter-V/audit_evidence.jpeg)
+
+
+vista de diagnóstico rápido:
+
+![image-2](/assets/imgs/chapter-V/rapid_diagnosis_evidence.jpeg)
+
+
+vista para encontrar una mecánica cercana:
+
+![image-3](/assets/imgs/chapter-V/find_mech_evidence.jpeg)
+
+
+vista para ver las fallas del vehículo:
+
+![image-4](/assets/imgs/chapter-V/failures_evidence.jpeg)
+
+
+vista para ver las fallas del vehículo:
+
+![image-5](/assets/imgs/chapter-V/failures_evidence.jpeg)
+
+vista para ver las redirecciones de mantenimiento
+![image-5](/assets/imgs/chapter-V/maintenence_evidence.jpeg)
+
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
