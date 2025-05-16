@@ -3,7 +3,7 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 # Carrera de Ingienería de Software - 2510
 ## Aplicaciones Web - 1ASI0730
-![UPC_logo_transparente (2)](https://github.com/user-attachments/assets/eb94fcf1-814b-4c8c-a994-58815e9aa5de)
+![UPC_logo_transparente (2)](/assets/imgs/chapter-I/upc_logo.png)
 
 # Informe de Trabajo Final
 ### Profesor: Angel Augusto Velasquez Nuñez
@@ -27,20 +27,26 @@
 
 | Versión | Fecha       | Autor                                | Descripción de Modificación                                           |
 |---------|-------------|--------------------------------------|------------------------------------------------------------------------|
-| 0.0     | 20/03/2024  | Julca Minaya, Sergio Gino                     | Se crea la estructura del documento                                            |
-| 1.0     | 21/03/2024  | Julca Minaya, Sergio Gino                      | Se crean las ramas correspondientes                                   |
-| 1.1     | 30/03/2024  | Navarro Chinga, Antonio Jhair                         | Se aplican mejoras en los capítulos 1 y 2                             |
-| 1.2     | 31/03/2024  | Piero Hugo, Elescano Leon                        | Se realizan los user diagrams y Lean UX                               |
-| 1.3     | 10/04/2024  | Piero Hugo, Elescano Leon                         | Se colocan las user stories                                           |
-| 1.4     | 13/04/2024  | Navarro Chinga, Antonio Jhair                     | Se implementa el product backlog y las épicas correspondientes a story points |
-| 1.5     | 04/04/2024  | Navarro Chinga, Antonio Jhair                      | Se revisan las entrevistas                                            |
-| 1.6     | 05/04/2024  | Rios Piñan, Dayro Richard                         | Actualizaciones en los diagramas C4 DDD                               |
-| 1.7     | 06/04/2024  | Baca Camargo, Vitaly Arturo                        | Se actualiza el capítulo de colaboración                              |
-| 1.8     | 10/04/2024  | Rios Piñan, Dayro Richard                        | Se actualiza los Impact Mappings de los Users                         |
-| 1.9     | 15/04/2024  | Baca Camargo, Vitaly Arturo                         | Arreglo de los User Stories                                           |
-| 2.0     | 20/04/2024  | Marcelo Ramirez                      | Finaliza cambios en HU y Product Backlog                              |
-| 2.1     | 22/04/2024  | Arian Rodriguez                      | Arreglos generales, HU, C4 Diagrams                          |
-| 2.2     | 26/04/2024  | Navarro Chinga, Antonio Jhair         | Corrección HU, desarrollo de las evidencias del sprint                |
+| 0.0     | 20/03/2025  | Julca Minaya, Sergio Gino                     | Se crea la estructura del documento                                            |
+| 1.0     | 21/03/2025  | Julca Minaya, Sergio Gino                      | Se crean las ramas correspondientes                                   |
+| 1.1     | 30/03/2025  | Navarro Chinga, Antonio Jhair                         | Se aplican mejoras en los capítulos 1 y 2                             |
+| 1.2     | 31/03/2025  | Piero Hugo, Elescano Leon                        | Se realizan los user diagrams y Lean UX                               |
+| 1.3     | 10/04/2025  | Piero Hugo, Elescano Leon                         | Se colocan las user stories                                           |
+| 1.4     | 13/04/2025  | Navarro Chinga, Antonio Jhair                     | Se implementa el product backlog y las épicas correspondientes a story points |
+| 1.5     | 04/04/2025  | Navarro Chinga, Antonio Jhair                      | Se revisan las entrevistas                                            |
+| 1.6     | 05/04/2025  | Rios Piñan, Dayro Richard                         | Actualizaciones en los diagramas C4 DDD                               |
+| 1.7     | 06/04/2025  | Baca Camargo, Vitaly Arturo                        | Se actualiza el capítulo de colaboración                              |
+| 1.8     | 10/04/2025  | Rios Piñan, Dayro Richard                        | Se actualiza los Impact Mappings de los Users                         |
+| 1.9     | 15/04/2025  | Baca Camargo, Vitaly Arturo                         | Arreglo de los User Stories                                           |
+| 2.0     | 20/04/2025  | Julca Minaya, Sergio Gino                      | Finaliza cambios en HU y Product Backlog                              |
+| 2.1     | 22/04/2025  | Julca Minaya, Sergio Gino                      | Arreglos generales, HU, C4 Diagrams                          |
+| 2.2     | 26/04/2025  | Navarro Chinga, Antonio Jhair         | Corrección HU, desarrollo de las evidencias del sprint                |
+| 2.3     | 16/05/2025  | Baca Camargo, Vitaly Arturo       | se colaca el sprint 2               |
+| 2.4     | 16/05/2026  |  Baca Camargo, Vitaly Arturo        |  se actualizo el lean ux processs             |
+| 2.5     | 16/05/2026  |  Baca Camargo, Vitaly Arturo        |  modificacion del Domain-Driven Software Architecture             |
+| 2.6     | 16/05/2026  |  Navarro Chinga, Antonio Jhair        |  correcion del los users personas            |
+| 2.7     | 16/05/2026  |  Rios Piñan, Dayro Richard          |  correcion de las entrevistas            |
+
 
 
 # Project Report Collaboration Insights 
@@ -49,11 +55,18 @@
 
   - **Link del repositorio:** [https://github.com/aplicaciones-web-crew-web/vehix-project-report](https://github.com/aplicaciones-web-crew-web/vehix-project-report)
 
-  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/) 
+  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/)
+
+  - **Link de Repositorio de Front End:** [https://github.com/aplicaciones-web-crew-web/vehix-frontend.git](https://github.com/aplicaciones-web-crew-web/vehix-frontend.git)
 
     A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
 
 ![commits img](/assets/imgs/chapter-I/commits.png)
+
+  A continuación se muestra la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 8:
+  
+![commits2 img](/assets/imgs/chapter-I/commits2.png)
+
 ---
 # Student Outcome
 El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje del ABET: ABET – EAC - Resultado de Aprendizaje 5 Criterio: La habilidad para trabajar de manera efectiva en un equipo donde los miembros colaboran en el liderazgo, fomentan un ambiente inclusivo y colaborativo, definen metas, planifican tareas y alcanzan los objetivos establecidos.
@@ -66,37 +79,37 @@ El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje de
   </tr>
   <tr>
     <td rowspan="5">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-    <td>Baca Camargo, Vitaly Arturo: <br>TB1: El equipo asumió roles de liderazgo colaborativo, donde jugó un papel fundamental al aportar ideas innovadoras y contribuir con su esfuerzo constante, impulsando el desarrollo del proyecto. La comunicación continua y la organización de tareas permitió avanzar sin contratiempos.</td>
-    <td rowspan="5">La colaboración activa y el liderazgo compartido fueron clave para el éxito del proyecto. La distribución equitativa de tareas y el compromiso de todos los miembros garantizaron el cumplimiento de los objetivos establecidos y el avance constante del desarrollo.</td>
+    <td>Baca Camargo, Vitaly Arturo: <br>TB1: El equipo asumió roles de liderazgo colaborativo, donde jugó un papel fundamental al aportar ideas innovadoras y contribuir con su esfuerzo constante, impulsando el desarrollo del proyecto. La comunicación continua y la organización de tareas permitió avanzar sin contratiempos.<br>TP: Lideró el diseño de la interfaz de usuario, proponiendo la estructura inicial de componentes y asegurando la coherencia visual en todas las pantallas de la primera versión frontend.</td>
+    <td rowspan="5">La colaboración activa y el liderazgo compartido fueron clave para el éxito en el proyecto. Durante el desarrollo frontend, la distribución equitativa de tareas y el compromiso de todos los miembros permitieron cumplir con los objetivos de la primera versión de la aplicación. La coordinación en el diseño de componentes, implementación de vistas y establecimiento de estándares técnicos demostró la capacidad del equipo para trabajar de manera efectiva.</td>
   </tr>
   <tr>
-    <td>Elescano Leon, Piero Hugo: <br>TB1: En el equipo mostró un enfoque responsable y comprometido en todo momento, colaborando activamente en la toma de decisiones técnicas y manteniendo al equipo alineado con los objetivos del proyecto.</td>
+    <td>Elescano Leon, Piero Hugo: <br>TB1: En el equipo mostró un enfoque responsable y comprometido en todo momento, colaborando activamente en la toma de decisiones técnicas y manteniendo al equipo alineado con los objetivos del proyecto.<br>TP: Implementó componentes clave de la interfaz y estableció estándares de codificación para el frontend, facilitando la colaboración entre los miembros del equipo.</td>
   </tr>
   <tr>
-    <td>Julca Minaya, Sergio Gino: <br>TB1: Desempeñó un papel clave guiando al equipo en las tareas que se realizarían, asegurando que todos comprendieran sus roles y mantuvieran el enfoque en las tareas asignadas.</td>
+    <td>Julca Minaya, Sergio Gino: <br>TB1: Desempeñó un papel clave guiando al equipo en las tareas que se realizarían, asegurando que todos comprendieran sus roles y mantuvieran el enfoque en las tareas asignadas.<br>TP: Coordinó la integración de las diferentes secciones del frontend y validó la funcionalidad básica de la primera versión, asegurando que cumpliera con los requisitos establecidos.</td>
   </tr>
   <tr>
-    <td>Navarro Chinga, Antonio Jhair: <br>TB1: Se destacó por su constante colaboración en la organización del trabajo, utilizando herramientas como gitflow para mantener el flujo de trabajo organizado y asegurando que las metas fueran alcanzadas.</td>
+    <td>Navarro Chinga, Antonio Jhair: <br>TB1: Se destacó por su constante colaboración en la organización del trabajo, utilizando herramientas como gitflow para mantener el flujo de trabajo organizado y asegurando que las metas fueran alcanzadas.<br>TP: Implementó la navegación entre vistas y configuró la estructura base del proyecto frontend, estableciendo buenas prácticas para el manejo de rutas y componentes.</td>
   </tr>
   <tr>
-    <td>Rios Piñan, Dayro Richard: <br>TB1: Coordinó las actividades del equipo, asegurando que todos los miembros cumplieran con sus responsabilidades y mantuvieran una comunicación fluida, lo que fue esencial para mantener el proyecto en movimiento.</td>
+    <td>Rios Piñan, Dayro Richard: <br>TB1: Coordinó las actividades del equipo, asegurando que todos los miembros cumplieran con sus responsabilidades y mantuvieran una comunicación fluida, lo que fue esencial para mantener el proyecto en movimiento.<br>TP: Diseñó y desarrolló las páginas principales de la aplicación, asegurando la responsividad y accesibilidad en esta primera versión frontend.</td>
   </tr>
   <tr>
     <td rowspan="5">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
-    <td>Baca Camargo, Vitaly Arturo: <br>TB1: Participó activamente en la creación de un entorno inclusivo, compartiendo ideas y soluciones para el diseño de la aplicación. Junto al equipo, estableció metas claras y organizó tareas de manera equitativa.</td>
-    <td rowspan="5">La creación de un entorno inclusivo y la planificación estructurada del proyecto permitieron cumplir con los objetivos de manera eficiente. La participación activa de todos los miembros, el uso adecuado de herramientas colaborativas y la asignación de responsabilidades claras fueron factores clave para lograr los resultados esperados.</td>
+    <td>Baca Camargo, Vitaly Arturo: <br>TB1: Participó activamente en la creación de un entorno inclusivo, compartiendo ideas y soluciones para el diseño de la aplicación. Junto al equipo, estableció metas claras y organizó tareas de manera equitativa.<br>TP: Organizó sesiones de revisión de diseño para recoger feedback y asegurar que la interfaz cumpliera con las expectativas del proyecto.</td>
+    <td rowspan="5">La creación de un entorno inclusivo y la planificación estructurada fueron fundamentales para completar el trabajo. Durante el desarrollo del frontend, el uso de herramientas colaborativas y la definición clara de responsabilidades permitieron entregar una versión funcional que cumplió con los requisitos establecidos. La adaptabilidad del equipo frente a los cambios técnicos y la comunicación constante fueron factores determinantes para el éxito en ambas etapas del proyecto.</td>
   </tr>
   <tr>
-    <td>Elescano Leon, Piero Hugo: <br>TB1: Colaboró eficazmente en la planificación de tareas, para gestionar el flujo de trabajo y garantizar que todas las metas se cumplieran dentro de los plazos establecidos.</td>
+    <td>Elescano Leon, Piero Hugo: <br>TB1: Colaboró eficazmente en la planificación de tareas, para gestionar el flujo de trabajo y garantizar que todas las metas se cumplieran dentro de los plazos establecidos.<br>TP: Estableció hitos claros para el desarrollo frontend y monitoreó el progreso, ajustando las tareas según las necesidades que surgieron durante el desarrollo.</td>
   </tr>
   <tr>
-    <td>Julca Minaya, Sergio Gino: <br>TB1: Promovió el trabajo colaborativo, asegurándose de que cada miembro comprendiera sus roles y las necesidades del proyecto. Distribuyó las tareas de forma equitativa y garantizó que todos los objetivos fueran cumplidos.</td>
+    <td>Julca Minaya, Sergio Gino: <br>TB1: Promovió el trabajo colaborativo, asegurándose de que cada miembro comprendiera sus roles y las necesidades del proyecto. Distribuyó las tareas de forma equitativa y garantizó que todos los objetivos fueran cumplidos.<br>TP: Implementó un sistema de revisión por pares para el código frontend, fomentando la colaboración y el aprendizaje mutuo entre los miembros del equipo.</td>
   </tr>
   <tr>
-    <td>Navarro Chinga, Antonio Jhair: <br>TB1: Colaboró estrechamente con el equipo, ayudando a organizar las tareas y utilizando las herramientas para gestionar de manera eficiente el flujo de trabajo.</td>
+    <td>Navarro Chinga, Antonio Jhair: <br>TB1: Colaboró estrechamente con el equipo, ayudando a organizar las tareas y utilizando las herramientas para gestionar de manera eficiente el flujo de trabajo.<br>TP: Configuró el entorno de desarrollo frontend y documentó el proceso, facilitando que todos los miembros pudieran contribuir efectivamente al proyecto.</td>
   </tr>
   <tr>
-    <td>Rios Piñan, Dayro Richard: <br>TB1: Definió los objetivos del proyecto y distribuyó las tareas de forma justa entre los miembros del equipo. Coordinó la planificación y facilitó la colaboración para asegurar que el proyecto avanzara conforme a lo planeado.</td>
+    <td>Rios Piñan, Dayro Richard: <br>TB1: Definió los objetivos del proyecto y distribuyó las tareas de forma justa entre los miembros del equipo. Coordinó la planificación y facilitó la colaboración para asegurar que el proyecto avanzara conforme a lo planeado.<br>TP: Estableció las metas iniciales para la versión frontend y asignó tareas específicas a cada miembro, asegurando un avance balanceado en todas las áreas.</td>
   </tr>
 </table>
 
@@ -183,6 +196,15 @@ El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje de
 ##### [5.2.1.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5216-services-documentation-evidence-for-sprint-review)
 ##### [5.2.1.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#[5217-software-deployment-evidence-for-sprint-review)
 ##### [5.2.1.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5218-team-collaboration-insights-during-sprint)
+#### [5.2.2. Sprint 2](/docs/chapter-V.md/#522-sprint-2)
+##### [5.2.2.1. Sprint Planning 2](/docs/chapter-V.md/#5221-sprint-planning-2)
+##### [5.2.2.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5222-aspect-leaders-and-collaborators)
+##### [5.2.2.3. Sprint Backlog 2](/docs/chapter-V.md/#5223-sprint-backlog-2)
+##### [5.2.2.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5224-development-evidence-for-sprint-review)
+##### [5.2.2.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5225-execution-evidence-for-sprint-review)
+##### [5.2.2.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5226-services-documentation-evidence-for-sprint-review)
+##### [5.2.2.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#[5227-software-deployment-evidence-for-sprint-review)
+##### [5.2.2.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5228-team-collaboration-insights-during-sprint)
 
 ## [Conclusiones](/docs/conclusions.md)
 
