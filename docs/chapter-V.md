@@ -1005,6 +1005,8 @@ A continuación, se ve el sprint backlog 2, donde se han descompuesto los user s
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 En este apartado se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la app frontend.
+
 ![image-1](/assets/imgs/chapter-V/1.PNG)
+
 ![image-2](/assets/imgs/chapter-V/2.PNG)
 
