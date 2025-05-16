@@ -87,101 +87,148 @@ Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con pla
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 
-Muchos conductores en el Perú enfrentan un desafío relacionado con el mantenimiento adecuado de sus vehículos debido a la falta de información en tiempo real sobre el estado técnico de sus autos, y el poco conocimiento técnico. Esto genera problemas como fallos mecánicos imprevistos, altos costos de reparaciones y una vida útil reducida de los vehículos. 
+El estado actual del **mantenimiento vehicular en Perú** depende principalmente de servicios tradicionales y reactivos, donde la mayoría de conductores no cuentan con acceso a información en tiempo real sobre las condiciones de sus vehículos. Los conductores particulares y profesionales suelen postergar el mantenimiento por falta de conocimientos técnicos, tiempo o herramientas predictivas, mientras que los mecánicos trabajan muchas veces sin apoyo digital ni sistemas estructurados de diagnóstico.
 
-A pesar de que muchos conductores intentan mantener sus autos, la falta de herramientas accesibles y fáciles de usar para monitorear el estado del vehículo y realizar un mantenimiento preventivo adecuado afecta negativamente la experiencia de conducción y los costos a largo plazo.
+Lo que los productos y servicios actuales no resuelven es **la necesidad de una solución tecnológica de bajo costo, accesible y fácil de usar que permita realizar mantenimiento preventivo y predictivo, brindando alertas oportunas, explicaciones simples y decisiones basadas en datos**.
 
-Ante esta situación, surge nuestra pregunta de negocio: 
-***¿Cómo podemos enfrentar la falta de mantenimiento preventivo, la escasa información técnica disponible para los conductores y técnico, y el elevado costo asociado a reparaciones vehiculares, mediante una solución tecnológica accesible que permita monitorear en tiempo real el estado del vehículo?***
+Nuestro producto, **Vehix**, cubrirá esta brecha al **ofrecer una app móvil conectada a un adaptador Bluetooth que recolecta y analiza datos del vehículo en tiempo real para generar diagnósticos básicos, alertas de mantenimiento, historial de intervenciones y recomendaciones personalizadas**.
+
+Nuestro enfoque inicial estará dirigido a **conductores urbanos independientes (como repartidores y taxistas), conductores particulares y mecánicos tradicionales que desean modernizar sus diagnósticos y generar confianza con sus clientes a través de datos técnicos claros y confiables**.
+
+Sabremos que hemos tenido éxito cuando observemos **una reducción del 30% en reparaciones correctivas, un aumento del 50% en acciones de mantenimiento preventivo, más del 25% de usuarios suscritos al plan mensual, y un 60% de calificaciones positivas a talleres certificados dentro de la app**.
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Assumptions**
-+ Se asume que los usuarios estarán dispuestos a pagar por una suscripción mensual para un servicio que les ofrezca monitoreo continuo y recomendaciones personalizadas.
-+ Se asume que el pago recurrente de los usuarios permitirá generar ingresos estables para el negocio y hacer rentable el servicio a largo plazo.
-+ Se asume que, dado el aumento de la adopción tecnológica, los conductores están dispuestos a integrar un adaptador de diagnóstico (ELM327) y apps en sus vehículos para mejorar la experiencia de conducción y optimizar el mantenimiento.
-+ Se asume que los usuarios valoran la simplicidad y conveniencia en la integración de tecnología con sus vehículos.
+
+- **Creemos que los conductores están dispuestos a invertir en una solución tecnológica** que les ayude a evitar gastos mayores en reparaciones mediante el mantenimiento preventivo y predictivo.
+- **Creemos que los mecánicos independientes quieren modernizar sus diagnósticos** para ganar más clientes, generar confianza y profesionalizar sus servicios con el respaldo de datos técnicos.
+- **Una parte significativa de los usuarios preferirá pagar una suscripción mensual (Standard o PRO)** si con ello obtiene alertas, diagnósticos personalizados y ahorro en el mantenimiento del vehículo.
+- **Creemos que los conductores valoran la simplicidad y claridad en los diagnósticos**, especialmente aquellos sin conocimientos técnicos.
+- Creemos si se reduce el número de fallos imprevistos, los usuarios recomendarán la app a otros.
+- Creemos que el mantenimiento preventivo digitalizado reducirá los costos generales para los usuarios.
 
 **Business Outcomes**
-+ Los usuarios seguirán suscritos al servicio a largo plazo si perciben un valor claro en la mejora de la durabilidad de sus vehículos y la reducción de costos de reparación.
-+ Una vez validado el producto en un mercado objetivo inicial, se busca ampliar el alcance a más conductores en diversas regiones.  
-+ La suscripción mensual debería generar un flujo de ingresos constante, lo que permitirá expandir el negocio y financiar mejoras continuas en el producto.
-+ A medida que la aplicación recibe más datos de los usuarios, los algoritmos de inteligencia artificial mejoran. Esto permite que el servicio sea más eficiente, ya que las recomendaciones y alertas serán más precisas y útiles. Como resultado, se reducirán los costos de operación y mejorará la calidad del servicio para los usuarios.
+
+- Lograr que el 70% de los diagnósticos básicos sean realizados directamente por los usuarios, sin necesidad de acudir a un taller.
+- Alcanzar una calificación promedio de 4 estrellas o más en encuestas sobre confianza en los diagnósticos.
+- Incrementar la satisfacción del usuario con respecto a la salud técnica de su vehículo en un 40%.
+- Reducir en un 35% el tiempo promedio entre la detección de fallas y su reparación.
+- Incrementar en un 50% los mantenimientos preventivos realizados por usuario mensual.
+- Aumentar la satisfacción del usuario con respecto al control técnico del vehículo en un 40%.
+- Lograr que el 60% de los usuarios califiquen con 4 estrellas o más a talleres certificados.
+- Lograr que al menos el 25% de los usuarios activos se suscriban a planes pagos.
+- Disminuir en un 30% los gastos en reparaciones correctivas por usuario en un periodo de 6  meses.
 
 **User Assumptions**
-+ Creo que mis clientes necesitan una solución práctica y accesible para monitorear el estado de sus vehículos en tiempo real, y mejorar la los diagnósticos y comunicación mecánico-conductor, ya que muchos de estos desconocen cuándo deben realizar mantenimiento preventivo o detectar fallas antes de que se conviertan en problemas costosos o peligrosos.
-  
-+ Estas necesidades se pueden resolver mediante una aplicación conectada por Bluetooth a un escáner OBD-II (como el ELM327), que permita recibir datos del vehículo directamente en el celular, visualizar alertas, obtener recomendaciones y llevar un historial de mantenimiento y comportamiento del auto.
 
-+ Mis clientes iniciales incluirán conductores de vehículos particulares (de uso diario o familiar), jóvenes adultos con interés en tecnología automotriz, padres de familia que priorizan la seguridad vehicular y mecánico que buscan mejorar sus diagnóstico y fortalecer la confianza con sus clientes.
-
-+ El valor #1 que un cliente quiere de mi servicio es la seguridad y tranquilidad de saber que su vehículo está funcionando correctamente y que será alertado de cualquier posible problema antes de que ocurra una falla mayor.
-
-+ Los usuarios también podrían obtener beneficios adicionales como: historial técnico del auto, recordatorios inteligentes de mantenimiento, patrones de conducción registrados, conexión con técnicos de confianza, y posibles recomendaciones de servicios automotrices aliados.
-
-+ Voy a adquirir a la mayoría de mis usuarios mediante estrategias digitales, como campañas en redes sociales, contenido en YouTube/TikTok sobre mantenimiento de autos, alianzas con tiendas de autopartes y talleres, y presencia en ferias automotrices o de tecnología.
-
-+ Generaré ingresos a través de la app, por medio de las suscripciones mensuales que incluirá funcionalidades como informes detallados del vehículo, predicción de fallas basada en patrones. También se considerará a futuro la alianzas con talleres y servicios técnicos.
-
-+ Nuestra competencia principal son otras apps de diagnóstico automotriz conectadas vía OBD-II, como FIXD, CarMD y Drivvo, además de servicios técnicos tradicionales que no usan tecnología, y plataformas que ofrecen revisiones periódicas sin seguimiento digital.
-
-+ Superaremos a la competencia ofreciendo una experiencia de usuario simple y conectada, con diseño amigable y asistencia, combinando monitoreo inteligente con funciones prácticas como historial y alertas predictivas y en tiempo real.
-
-+ El riesgo más grande para el producto es la resistencia de los usuarios a usar dispositivos adicionales (como el ELM327) o la poca familiaridad con el uso de herramientas tecnológicas en vehículos.
-
-+ Resolveremos este riesgo mediante alianzas con tiendas de autopartes que incluyan el dispositivo con descuento o de regalo, educación simple desde la app sobre cómo usarlo, y funciones que motiven su uso mostrando de forma clara el ahorro, la seguridad y los beneficios de tener el vehículo siempre monitoreado.
+- Creemos que los usuarios no tienen conocimientos técnicos de mecánica, por lo que necesitan explicaciones simples y visuales para entender el estado de su vehículo.
+- Creemos que los conductores postergan el mantenimiento por falta de tiempo, dinero o recordatorios claros, no porque no les importe.
+- Creemos que los usuarios quieren tener más control sobre su vehículo, pero no cuentan con herramientas que les permitan monitorearlo en tiempo real.
+- Creemos que Los conductores estarían dispuestos a usar una app que les ahorre dinero, evite fallas imprevistas y prolongue la vida útil de su auto.
+- Creemos que Los usuarios valoran poder ver alertas y diagnósticos en su celular, sin tener que ir al taller si no es necesario.
+- Creemos que los mecánicos trabajan de forma empírica, sin acceso a información técnica en tiempo real.
+- Creemos que los usuarios están dispuestos a pagar una pequeña suscripción mensual si eso les permite recibir alertas, diagnósticos y recomendaciones personalizadas.
+- Creemos que los mecánicos tradicionales están interesados en herramientas que faciliten y mejoren el diagnóstico, siempre que sean económicas y fáciles de usar.
+- Creemos que los mecánicos ven valor en mejorar la confianza con sus clientes, si pueden mostrarles diagnósticos respaldados por datos generados por el vehículo.
 
 **User Outcomes**
-+ Los usuarios podrán anticipar problemas en sus vehículos antes de que se conviertan en fallos mayores, reduciendo así la cantidad de reparaciones costosas.
-+ Con un monitoreo adecuado y la implementación de las recomendaciones de mantenimiento preventivo, los usuarios lograrán que sus vehículos tengan una vida útil más larga.
-+ Los usuarios tendrán acceso a datos confiables sobre el estado de su automóvil, lo que les permitirá sentirse más seguros al conducir y menos preocupados por posibles fallos inesperados.
+
+- Ahorran dinero al prevenir fallas costosas mediante diagnósticos tempranos.
+- Tienen más control sobre el estado de su auto sin depender siempre de un taller.
+- Mecánicos ganan visibilidad y clientes al colaborar con la plataforma.
+- Se fortalece la confianza entre usuario y mecánico gracias a explicaciones simples.
+- Pueden entender el estado de su auto con explicaciones claras y visuales.
+- Reciben diagnósticos en lenguaje simple, facilitando decisiones inmediatas.
+- Pueden acceder rápidamente a talleres validados cerca de su ubicación.
+- Anticipan fallas antes de que se vuelvan costosas.
+- Prolongan la vida útil del vehículo gracias al mantenimiento preventivo.
+- Obtienen información confiable sobre el estado técnico del auto, lo que les brinda mayor seguridad al conducir.
+- Pueden revisar el historial de intervenciones y monitorear el estado del vehículo a lo largo del tiempo.
+- Pueden diagnosticar fallas básicas desde su celular sin ayuda externa, ganando autonomía sobre su vehículo.
+- Reciben recomendaciones de mantenimiento personalizadas según sus hábitos de conducción, lo que les permite anticipar fallas y actuar a tiempo.
+- Acceden a funcionalidades avanzadas según su plan de suscripción (Standard o PRO)
 
 **Features**
-+ **Apdatador diagnóstico para vehículos:** Un adapatador diagnóstico con chip ELM327 instalado en el vehículo que exporta datos a tu celular sobre el estado técnico del automóvil, comportamiento de conducción y hábitos de uso.
-+ **Aplicación móvil con dashboard de fácil acceso:** Una interfaz intuitiva que muestre en tiempo real el estado del vehículo, las alertas de mantenimiento y recomendaciones personalizadas para mejorar los hábitos de conducción.
-+ **Alertas de mantenimiento preventivo:** Notificaciones proactivas cuando se detectan comportamientos de conducción ineficientes o cuando se acerca el momento de realizar un mantenimiento preventivo.
-+ **Asistente de conducción inteligente:** Sugerencias inteligentes sobre cómo mejorar la conducción, realizar el mantenimiento o ajustar los hábitos para maximizar la vida útil del vehículo.
-+ **Informes detallados sobre el rendimiento del vehículo:** Resúmenes periódicos que proporcionen a los usuarios una visión completa de cómo están cuidando su vehículo y qué acciones se deben tomar a continuación.
+- **Traducción automática de códigos de falla a lenguaje sencillo:** Convierte los códigos técnicos que genera el vehículo (como P0420, U0101, etc.) en descripciones simples y entendibles para cualquier usuario, facilitando la toma de decisiones sin necesidad de conocimientos mecánicos.
+- **Adaptador de diagnóstico Vehix con conexión Bluetooth:** Dispositivo físico que se conecta al puerto OBD-II del vehículo y envía datos técnicos al celular mediante Bluetooth. Permite escanear el estado del motor, sensores y otros sistemas del auto en tiempo real desde la app.
+- **Visualización gráfica del estado del vehículo:** Muestra el estado general del auto en un panel visual intuitivo, con indicadores de salud para componentes clave como motor, batería, sistema de frenos, temperatura y más. Ayuda al usuario a entender de forma visual cómo se encuentra su auto.
+- **Historial de diagnósticos y alertas guardado por fecha:** Registra todos los eventos importantes detectados por el sistema (fallas, advertencias, escaneos) en una línea de tiempo organizada. Esto permite al usuario revisar fácilmente el historial técnico del vehículo en cualquier momento.
+- **Alertas de tiempo real de fallas:** Notifica al instante cuando el vehículo detecta un problema urgente o crítico. Las alertas llegan directamente al celular del usuario para actuar rápidamente y evitar daños mayores.
+- **Recomendaciones preventivas basadas en patrones de uso del vehículo:** Analiza cómo maneja el usuario (distancia recorrida, frenado, uso del motor, etc.) y sugiere mantenimientos preventivos específicos adaptados a sus hábitos, como cambio de aceite, revisión de frenos, etc.
+- **Historial completo de intervenciones realizadas:** Permite al usuario registrar las reparaciones o mantenimientos que ha hecho (manualmente o automáticamente) con fechas, tipo de trabajo y taller. Esto ayuda a llevar un control del mantenimiento y facilita futuras decisiones.
+- **Geolocalización de talleres cercanos validados por Vehix:** Muestra en un mapa los talleres certificados por Vehix, permitiendo al usuario encontrar rápidamente un lugar confiable para atender su vehículo según su ubicación.
+- **Planes Vehix: Standard y PRO con beneficios diferenciados:** Vehix ofrece un modelo de suscripción mensual con planes escalables. El plan Standard brinda acceso a las funciones esenciales, mientras que el PRO incluye características premium como reportes detallados, historial extendido, soporte técnico preferencial y más.
+  
+**User Benefits**
++ Monitoreo inteligente y continuo del estado técnico del vehículo.
++ Detección temprana de fallos y alertas preventivas para evitar averías.
++ Mayor control sobre el estado del vehículo y los hábitos de conducción.
++ Recomendaciones personalizadas para el mantenimiento preventivo.
++ Ahorro en gastos de reparación gracias a intervenciones anticipadas.
++ Acceso constante a diagnósticos, alertas y reportes desde el celular.
++ Facilidad de uso sin necesidad de conocimientos mecánicos.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
-- _Creemos que los propietarios de vehículos están dispuestos a pagar una suscripción mensual para tener acceso a una aplicación que les permita monitorear y mejorar el estado de su vehículo._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento significativo del 25% en la cantidad de usuarios que se suscriben a la aplicación y pagan la suscripción mensual.
 
-- _Creemos que existe un mercado creciente de propietarios de vehículos que buscan soluciones tecnológicas para mejorar la eficiencia y reducir los costos de mantenimiento de sus vehículos._
-   - Sabremos que nuestra hipótesis es correcta cuando recibamos un aumento del 40% de comentarios positivos de los usuarios sobre la utilidad y eficacia de la aplicación.
+- **Hypothesis Statements 1:**
+Creemos que lograremos que el 70% de los diagnósticos básicos sean realizados directamente por los usuarios, sin necesidad de acudir a un taller
+Si conductores con poco conocimiento técnico
+Alcanzan la autonomía para diagnosticar fallas básicas desde su celular sin ayuda externa
+Con el adaptador de diagnóstico Vehix con conexión Bluetooth.
 
-- _Creemos que la aplicación Vehix puede proporcionar información y recomendaciones precisas para mejorar el estado de los vehículos y reducir los costos de mantenimiento._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos una reducción del 15% a más en los costos de mantenimiento y reparación de los vehículos de los usuarios a través de encuestas por medio de la app.
+- **Hypothesis Statements 2:**
+Creemos que lograremos alcanzar una calificación promedio de 4 estrellas o más en encuestas sobre confianza en los diagnósticos
+Si usuarios que no comprenden la jerga técnica automotriz
+Alcanzan la capacidad de entender el estado del auto con explicaciones claras y visuales
+Con la funcionalidad de traducción automática de códigos de falla a lenguaje sencillo.
 
-- _Creemos que la aplicación Vehix puede proporcionar una experiencia de usuario personalizada y adaptada a las necesidades individuales de cada propietario de vehículo._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento del 25% de comentarios positivos de los usuarios sobre la personalización y la adaptabilidad de la aplicación.
+- **Hypothesis Statements 3:**
+Creemos que lograremos aumentar la satisfacción del usuario con respecto a la salud técnica del vehículo en un 40%
+Si conductores que desean tener control sobre el estado de su vehículo
+Alcanzan una comprensión visual confiable del estado técnico de su auto
+Con la visualización gráfica del estado del vehículo.
 
-- _Creemos que la aplicación Vehix puede ayudar a los propietarios de vehículos a tomar decisiones informadas sobre el mantenimiento y la reparación de sus vehículos._
-   - Sabremos que nuestra hipótesis es correcta cuando veamos un aumento del 20% en la cantidad de decisiones informadas tomadas por los propietarios de vehículos sobre el mantenimiento y la reparación de sus vehículos.
+- **Hypothesis Statements 4:**
+Creemos que lograremos reducir en un 35% el tiempo promedio entre la detección de fallas y su reparación
+Si usuarios que necesitan tomar decisiones rápidas
+Alcanzan la capacidad de revisar el historial de intervenciones y monitorear el estado del vehículo a lo largo del tiempo
+Con el historial de diagnósticos y alertas guardado por fecha.
 
-#### User Knowledge
+- **Hypothesis Statements 5:**
+Creemos que lograremos reducir los costos de reparación correctiva en un 30%
+Si usuarios que normalmente ignoran señales tempranas
+Alcanzan la habilidad de anticipar fallas antes de que se vuelvan costosas
+Con la funcionalidad de alertas de tiempo real de fallas.
 
-**a. ¿Quién es el usuario?**
-Conductores de vehículos particulares o profesionales y mecánicos que desean tener mayor control, seguridad y mantenimiento preventivo de su auto.
+- **Hypothesis Statements 6:**
+Creemos que lograremos incrementar en un 50% los mantenimientos preventivos realizados por usuario mensual
+Si conductores que no llevan un control estructurado de mantenimiento
+Alcanzan recomendaciones de mantenimiento personalizadas según sus hábitos de conducción
+Con la funcionalidad de recomendaciones preventivas basadas en patrones de uso del vehículo.
 
-**b. ¿Dónde encaja nuestro producto en su trabajo o vida?**
-En el uso cotidiano del vehículo, ayudando a monitorear su estado y funcionamiento en tiempo real mientras conducen, en el caso de los conductores. Asimismo, estará presente en el trabajo de los mecánicos para una mejor comunicacion cliente-mecánico y la mejora en la presición de los diagnósticos.
+- **Hypothesis Statements 7:**
+Creemos que lograremos aumentar la satisfacción del usuario con respecto al control técnico del vehículo en un 40%
+Si conductores que desean tomar mejores decisiones sobre mantenimiento
+Alcanzan la capacidad de revisar el historial de intervenciones y planificar futuros mantenimientos
+Con el historial completo de intervenciones realizadas.
 
-**c. ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
-Puede enfrentar resistencia al uso de tecnología o falta de conectividad. De manera que se resuelve con una interfaz simple, conectividad Bluetooth estable y un adaptador de diagnóstico accesible.
+- **Hypothesis Statements 8:**
+Creemos que lograremos que el 60% de los usuarios califiquen con 4 estrellas o más a talleres certificados
+Si usuarios que necesitan ayuda profesional cerca de su ubicación
+Alcanzan acceso rápido a talleres validados cerca de su ubicación
+Con la funcionalidad de geolocalización de talleres cercanos validados por Vehix.
 
-**d. ¿Cuándo y cómo es usado nuestro producto?**
-Es usado al encender y manejar el vehículo, mediante una app conectada por Bluetooth que recibe datos del adaptador de diagnóstico instalado en el vehículo.
+- **Hypothesis Statements 9:**
+Creemos que lograremos que al menos el 25% de los usuarios activos se suscriban a planes pagos
+Si usuarios que buscan funciones avanzadas para gestionar mejor su vehículo
+Alcanzan acceso a funcionalidades avanzadas según su plan de suscripción (Standard o PRO)
+Con los planes Vehix: Standard y PRO con beneficios diferenciados.
 
-**e. ¿Qué características son importantes?**
-Alertas en tiempo real, historial de fallos, predicción de problemas mecánicos y datos ténicos.
-
-**f. ¿Cómo debe verse nuestro producto y cómo debe comportarse?**
-Debe ser intuitivo, claro y rápido. Asimismo, la app debe ofrecer información útil de forma visual y enviar alertas automáticas sin requerir mucha interacción del usuario.
 #### 1.2.2.4. Lean UX Canvas
 En esta sección se presenta el Lean UX Canvas elaborado tras seguir los pasos del proceso Lean UX. Este canvas nos permitió visualizar de forma integral el problema que enfrentan los usuarios. A través de este enfoque, identificamos las necesidades principales de nuestros segmentos objetivo, enfocando nuestros esfuerzos en desarrollar una solución que no solo atienda los desafíos actuales, sino que también mejore significativamente la experiencia del usuario con el sistema en cada interacción.
 
-![lean ux canvas img](/assets/imgs/chapter-I/lean-ux-canvas.png)
+![lean ux canvas img](/assets/imgs/chapter-I/lean-ux-canvas-update.PNG)
 ## 1.3. Segmentos objetivos
 En esta sección se detallan los segmentos objetivos identificados para la solución Vehix, considerando las necesidades específicas de cada grupo de usuarios. La segmentación se ha realizado con base en características demográficas, ocupacionales y tecnológicas.
 
