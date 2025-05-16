@@ -12,8 +12,8 @@
   - Además, la necesidad de información clara y oportuna para el usuario será atendido a través del diseño de la interfaz y los flujos de interacción​.
     
 #### - Criterios de éxito y su contraste con resultados reales
-  - Se logró construir una landing page efectiva y un diseño de app consistente, siguiendo los criterios de estilo y comunicación definidos​.
-  - El engagement con la landing page y las pruebas de usabilidad en prototipos muestran un interés real de los segmentos objetivo​.
+  - Se logró construir un frontend atractivo con un diseño de app consistente, siguiendo los criterios de estilo y comunicación definidos​.
+  - El engagement la aplicación web se demuestra en la facilidad de navegación y diseño intuitivo.
 
 # Recomendaciones
 Siguientes pasos para el Roadmap de Productos Digitales
