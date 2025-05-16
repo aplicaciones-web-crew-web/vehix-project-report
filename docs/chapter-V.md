@@ -764,7 +764,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 
 #### 5.2.2.3. Sprint Backlog 2
 
-
+A continuación, se ve el sprint backlog 2, donde se han descompuesto los user stories y se verán las tareas designadas a cada integrante del equipo.
 
 <table>
 	<tbody>
