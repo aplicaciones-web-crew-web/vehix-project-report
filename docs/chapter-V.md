@@ -997,6 +997,21 @@ A continuación, se ve el sprint backlog 2, donde se han descompuesto los user s
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+Para el desarrollo del sprint 2, se ha implementado el frontend, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes.
+
+| Repository                      | Branch                                   | Commit Id | Commit Messaage                       | Commit Message Body | Commited on |
+| ------------------------------- | ---------------------------------------- | --------- | ------------------------------------- | ------------------- | ----------- |
+| sergioJM05/vehix-frontend       | master                                   | 57bd15f   | chore: initial commit                 | 16/05/2025          | --          |
+| sergioJM05/vehix-frontend       | feat/add-english-spanish                 | 9f2a19a   | feat: add router                      | 16/05/2025          | --          |
+| Mr-Code-start/vehix-fronten     | feat/add-public-components               | f725119   | feat: add-language-switcher.component | 16/05/2025          | --          |
+| AntonioNavarro24/vehix-frontend | develop                                  | 171b1b9   | feat: add monitoring domain           | 16/05/2025          | --          |
+| AntonioNavarro24/vehix-frontend | feat/add-assets-and-resource-managements | 1cb6afb   | chore: add imagen                     | 16/05/2025          | --          |
+| Addicted2you/vehix-frontend     | feat/add-monitoring                      | 9be70c1   | feat: add technical error service     | 16/05/2025          | --          |
+| PieroHugo/vehix-frontend        | feat/add-public-pages                    | 51f8d9b   | feat: add sync.component.vue          | 16/05/2025          | --          |
+| sergioJM05/vehix-frontend       | feat/add-server                          | 357b818   | feat: add .env.development            | 16/05/2025          | --          |
+| Mr-Code-start/vehix-fronten     | feat/add-shared                          | 5374f12   | feat: add english-spanish             | 16/05/2025          | --          |
+
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
