@@ -44,7 +44,8 @@
 | 2.3     | 16/05/2025  | Baca Camargo, Vitaly Arturo       | se colaca el sprint 2               |
 | 2.4     | 16/05/2026  |  Baca Camargo, Vitaly Arturo        |  se actualizo el lean ux processs             |
 | 2.5     | 16/05/2026  |  Baca Camargo, Vitaly Arturo        |  modificacion del Domain-Driven Software Architecture             |
-
+| 2.6     | 16/05/2026  |  Navarro Chinga, Antonio Jhair        |  correcion del los users personas            |
+| 2.7     | 16/05/2026  |  Rios Piñan, Dayro Richard          |  correcion de las entrevistas            |
 
 
 
