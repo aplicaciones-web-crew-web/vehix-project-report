@@ -1072,6 +1072,38 @@ Para el desarrollo del sprint 2, se ha implementado el frontend, previamente hab
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+A continuación se presentarán las evidencias de la ejecución.
+
+Maintenance
+
+Esta vista ofrece un acceso rápido a diferentes funciones de mantenimiento mediante un menú lateral que incluye opciones como "Problem Forecasting", "Car Useful Life" y "Recent Repairs". En el centro se encuentra un botón principal de escaneo con el texto “Tap to scan”, el cual permite iniciar un diagnóstico instantáneo del vehículo para verificar su estado actual.
+
+![Maintenance](/assets/imgs/chapter-V/miantenance.png)
+
+Tap-Scan
+
+Esta vista presenta un resumen completo del estado del vehículo, clasificando los problemas en tres categorías: “Simple Issues”, “Technical Errors” y “Bad Practices”. Cada error técnico se acompaña de un código OBD-II, un nivel de urgencia (crítico, moderado o leve), y una solución sugerida. Además, se advierte al usuario sobre malas prácticas de conducción que podrían afectar negativamente el rendimiento del vehículo.
+
+![Tap-Scan](/assets/imgs/chapter-V/tap-scan.png)
+
+Nearby Mechanics Map
+
+Cuando se detectan fallos críticos, esta vista ayuda al usuario mostrando un mapa interactivo con la ubicación de talleres especializados cercanos. A la derecha, se listan los talleres con su nombre, número de teléfono, dirección y la distancia exacta desde la ubicación del usuario, facilitando así una atención mecánica oportuna.
+
+![nearby-mechanics](/assets/imgs/chapter-V/seek-help.png)
+
+Car Useful Life
+
+Esta vista muestra el estado general del vehículo, destacando el porcentaje de salud actual (por ejemplo, 85%). Incluye una línea de tiempo que detalla el kilometraje mensual recorrido en los últimos tres meses, lo que ayuda a visualizar el uso del vehículo. Además, se presenta una estimación de vida útil basada en los hábitos de conducción actuales, indicando cuántos años de funcionamiento saludable le quedan al auto.
+
+![car-useful-life](/assets/imgs/chapter-V/car-useful-life.png)
+
+Last Scan
+
+En esta sección se auditan las fallas detectadas en el vehículo. Cada problema es descrito con su causa y una solución sugerida, y puede marcarse como “Solved” o “Pending”. También se muestran gráficos circulares con el estado de los sistemas principales (motor, transmisión, frenos y sistema eléctrico), permitiendo al usuario identificar rápidamente qué componentes necesitan atención.
+
+![audit-failures](/assets/imgs/chapter-V/last-scan.png)
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 A continuación se mostrará la documentación de los servicios usados.
