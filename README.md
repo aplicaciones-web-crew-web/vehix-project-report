@@ -55,11 +55,18 @@
 
   - **Link del repositorio:** [https://github.com/aplicaciones-web-crew-web/vehix-project-report](https://github.com/aplicaciones-web-crew-web/vehix-project-report)
 
-  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/) 
+  - **Link de Landing Page:** [https://aplicaciones-web-crew-web.github.io/vehix-landing-page/](https://aplicaciones-web-crew-web.github.io/vehix-landing-page/)
+
+  - **Link de Repositorio de Front End:** [https://github.com/aplicaciones-web-crew-web/vehix-frontend.git](https://github.com/aplicaciones-web-crew-web/vehix-frontend.git)
 
     A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
 
 ![commits img](/assets/imgs/chapter-I/commits.png)
+
+  A continuación se muestra la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 8:
+  
+![commits2 img](/assets/imgs/chapter-I/commits2.png)
+
 ---
 # Student Outcome
 El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje del ABET: ABET – EAC - Resultado de Aprendizaje 5 Criterio: La habilidad para trabajar de manera efectiva en un equipo donde los miembros colaboran en el liderazgo, fomentan un ambiente inclusivo y colaborativo, definen metas, planifican tareas y alcanzan los objetivos establecidos.
