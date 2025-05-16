@@ -27,20 +27,26 @@
 
 | Versión | Fecha       | Autor                                | Descripción de Modificación                                           |
 |---------|-------------|--------------------------------------|------------------------------------------------------------------------|
-| 0.0     | 20/03/2024  | Julca Minaya, Sergio Gino                     | Se crea la estructura del documento                                            |
-| 1.0     | 21/03/2024  | Julca Minaya, Sergio Gino                      | Se crean las ramas correspondientes                                   |
-| 1.1     | 30/03/2024  | Navarro Chinga, Antonio Jhair                         | Se aplican mejoras en los capítulos 1 y 2                             |
-| 1.2     | 31/03/2024  | Piero Hugo, Elescano Leon                        | Se realizan los user diagrams y Lean UX                               |
-| 1.3     | 10/04/2024  | Piero Hugo, Elescano Leon                         | Se colocan las user stories                                           |
-| 1.4     | 13/04/2024  | Navarro Chinga, Antonio Jhair                     | Se implementa el product backlog y las épicas correspondientes a story points |
-| 1.5     | 04/04/2024  | Navarro Chinga, Antonio Jhair                      | Se revisan las entrevistas                                            |
-| 1.6     | 05/04/2024  | Rios Piñan, Dayro Richard                         | Actualizaciones en los diagramas C4 DDD                               |
-| 1.7     | 06/04/2024  | Baca Camargo, Vitaly Arturo                        | Se actualiza el capítulo de colaboración                              |
-| 1.8     | 10/04/2024  | Rios Piñan, Dayro Richard                        | Se actualiza los Impact Mappings de los Users                         |
-| 1.9     | 15/04/2024  | Baca Camargo, Vitaly Arturo                         | Arreglo de los User Stories                                           |
-| 2.0     | 20/04/2024  | Marcelo Ramirez                      | Finaliza cambios en HU y Product Backlog                              |
-| 2.1     | 22/04/2024  | Arian Rodriguez                      | Arreglos generales, HU, C4 Diagrams                          |
-| 2.2     | 26/04/2024  | Navarro Chinga, Antonio Jhair         | Corrección HU, desarrollo de las evidencias del sprint                |
+| 0.0     | 20/03/2025  | Julca Minaya, Sergio Gino                     | Se crea la estructura del documento                                            |
+| 1.0     | 21/03/2025  | Julca Minaya, Sergio Gino                      | Se crean las ramas correspondientes                                   |
+| 1.1     | 30/03/2025  | Navarro Chinga, Antonio Jhair                         | Se aplican mejoras en los capítulos 1 y 2                             |
+| 1.2     | 31/03/2025  | Piero Hugo, Elescano Leon                        | Se realizan los user diagrams y Lean UX                               |
+| 1.3     | 10/04/2025  | Piero Hugo, Elescano Leon                         | Se colocan las user stories                                           |
+| 1.4     | 13/04/2025  | Navarro Chinga, Antonio Jhair                     | Se implementa el product backlog y las épicas correspondientes a story points |
+| 1.5     | 04/04/2025  | Navarro Chinga, Antonio Jhair                      | Se revisan las entrevistas                                            |
+| 1.6     | 05/04/2025  | Rios Piñan, Dayro Richard                         | Actualizaciones en los diagramas C4 DDD                               |
+| 1.7     | 06/04/2025  | Baca Camargo, Vitaly Arturo                        | Se actualiza el capítulo de colaboración                              |
+| 1.8     | 10/04/2025  | Rios Piñan, Dayro Richard                        | Se actualiza los Impact Mappings de los Users                         |
+| 1.9     | 15/04/2025  | Baca Camargo, Vitaly Arturo                         | Arreglo de los User Stories                                           |
+| 2.0     | 20/04/2025  | Julca Minaya, Sergio Gino                      | Finaliza cambios en HU y Product Backlog                              |
+| 2.1     | 22/04/2025  | Julca Minaya, Sergio Gino                      | Arreglos generales, HU, C4 Diagrams                          |
+| 2.2     | 26/04/2025  | Navarro Chinga, Antonio Jhair         | Corrección HU, desarrollo de las evidencias del sprint                |
+| 2.3     | 16/05/2025  | Baca Camargo, Vitaly Arturo       | se colaca el sprint 2               |
+| 2.4     | 16/05/2026  |  Baca Camargo, Vitaly Arturo        |  se actualizo el lean ux processs             |
+| 2.5     | 16/05/2026  |  Baca Camargo, Vitaly Arturo        |  modificacion del Domain-Driven Software Architecture             |
+| 2.6     | 16/05/2026  |  Navarro Chinga, Antonio Jhair        |  correcion del los users personas            |
+| 2.7     | 16/05/2026  |  Rios Piñan, Dayro Richard          |  correcion de las entrevistas            |
+
 
 
 # Project Report Collaboration Insights 
