@@ -773,15 +773,302 @@ En esta sección se presenta el prototipo de la aplicación web desarrollado en 
 
 ![web-applications-prototyping](/assets/imgs/chapter-IV/web-applications-prototyping.png)
 ## 4.6. Domain-Driven Software Architecture
-Esta sección presenta la arquitectura del software basada en el enfoque de Domain-Driven Design (DDD). Se describe cómo se modelan las entidades y relaciones centrales del dominio de Vehix, permitiendo una estructura de software escalable, flexible y alineada a las reglas del negocio.
 ### 4.6.1. Software Architecture Context Diagram
-![software-architecture-context-diagram](/assets/imgs/chapter-IV/context-diagram.png)
+
+![context](/assets/imgs/chapter-IV/arquitecture/context/context.png)
+
+El diagrama de contexto del sistema VEHIX representa una visión general de alto nivel de las principales interacciones que el sistema web VEHIX mantiene con usuarios externos y servicios de terceros. Este modelo ilustra cómo el sistema se integra en su ecosistema tecnológico y humano.
+
+**Actores principales:**
+
+- **Independent Drivers:** Conductores particulares que poseen un vehículo y acceden a VEHIX para obtener diagnósticos y sugerencias de mantenimiento.
+    
+- **Professional Drivers:** Conductores profesionales que utilizan su vehículo como medio de ingreso (por ejemplo, servicios de taxi o delivery) y dependen de un sistema confiable para mantener su vehículo en óptimas condiciones.
+    
+- **Mechanics:** Técnicos automotrices que acceden al sistema para visualizar diagnósticos, realizar mantenimientos o atender fallas detectadas.
+    
+
+Todos los usuarios acceden al sistema VEHIX a través de un navegador web, utilizando el dominio vehix.com.
+
+**Sistemas externos integrados:**
+
+- **Google Maps:** VEHIX consume su API para ofrecer a los usuarios información sobre talleres mecánicos cercanos y rutas hacia estos puntos de servicio.
+    
+- **Payments (Visa, Mastercard o American Express):** Se utiliza para procesar pagos dentro del sistema, por ejemplo, para planes premium o servicios contratados por los usuarios.
+    
+- **Firebase Cloud Messaging:** Este servicio permite a VEHIX enviar notificaciones en tiempo real a los usuarios, como alertas de fallas o recordatorios de mantenimiento.
+    
+- **Auth0:** Servicio de autenticación encargado de verificar la identidad de los usuarios y otorgarles acceso seguro a la plataforma VEHIX.
 
 ### 4.6.2. Software Architecture Container Diagrams
-![software-architecture-container-diagrams](/assets/imgs/chapter-IV/container-diagram.png)
+
+![containers](/assets/imgs/chapter-IV/arquictecture/containers/container.png)
+
+El **diagrama de contenedores** representa la arquitectura interna de alto nivel del sistema VEHIX, descomponiendo el sistema web en contenedores lógicos (como aplicaciones, bases de datos y APIs) y mostrando cómo interactúan entre sí, con los usuarios y con sistemas externos.
+
+#### **Contenedores del sistema VEHIX**
+
+1. **VEHIX Landing Page**  
+    Proporciona acceso general e información básica sobre el sistema a través de una interfaz web pública.
+    
+2. **Web Application**  
+    Entrega contenido estático y dinámico (como HTML, CSS, JS) para la SPA (_Single Page Application_).
+    
+3. **VEHIX Single Page Application (SPA)**  
+    Es la aplicación principal que corre en el navegador del usuario. Permite analizar fallos, consultar datos del vehículo y recibir notificaciones. Se comunica con la API mediante solicitudes REST.
+    
+4. **API Application**  
+    Backend del sistema que expone endpoints RESTful para manejar diagnósticos, gestión de usuarios, pagos y más. Orquesta la lógica de negocio y se conecta con los contextos internos.
+    
+5. **Vehix DB**  
+    Base de datos del sistema. Almacena información clave como perfiles, diagnósticos, fallas, pagos, preferencias y suscripciones.
+    
+
+#### **Bounded Contexts**
+
+- **Analytics Context:** Proporciona análisis y visualización de datos estadísticos del sistema.
+    
+- **Profile and References:** Gestiona perfiles de usuario, preferencias, y relaciones entre usuarios y vehículos.
+    
+- **Assets and Resource Management:** Administra recursos como vehículos, sensores y datos de sensores.
+    
+- **Service Operation and Monitoring:** Ejecuta diagnósticos, auditorías de fallos y seguimiento en tiempo real.
+    
+- **Identity and Guest Management:** Gestiona autenticación, roles, sesiones y acceso de invitados.
+    
+- **Subscription and Payments:** Administra suscripciones, membresías y pagos.
+
 
 ### 4.6.3. Software Architecture Components Diagrams
-![software-architecture-components-diagrams](/assets/imgs/chapter-IV/component-diagram.png)
+
+#### **Diagrama de Componentes: Vehix Single Page Application**
+
+![components](/assets/imgs/chapter-IV/arquictecture/components/single-page-aplication-component.png)
+
+Este diagrama representa los **componentes internos** del contenedor **Vehix Single Page Application**, la aplicación se ejecuta en el navegador del usuario. Aquí se detallan los distintos módulos funcionales y servicios de frontend, junto con sus responsabilidades e interacciones, tanto internas como externas.
+
+##### **Componentes principales**
+
+- **LanguageSwitcherComponent:** Permite al usuario cambiar el idioma de la aplicación.
+    
+- **DiagnosticComponent:** Escanea el vehículo y presenta los resultados del diagnóstico.
+    
+- **FailureListComponent:** Muestra una lista de fallos detectados, clasificados por gravedad.
+    
+- **SubscriptionComponent:** Permite gestionar y visualizar el plan de suscripción del usuario.
+    
+- **ProfileComponent:** Permite editar la información del usuario y de su vehículo.
+    
+- **VehicleCardComponent:** Muestra un resumen visual con la información del vehículo.
+    
+- **DashboardComponent:** Pantalla principal del usuario con una vista general del estado del vehículo.
+    
+- **LoginComponent:** Pantalla de autenticación que inicia sesión mediante Auth0.
+    
+
+##### **Servicios asociados**
+
+- **TranslationService:** Administra el idioma activo y las traducciones en la interfaz.
+    
+- **DiagnosticService:** Encapsula la lógica del escaneo del vehículo y realiza llamadas a la API.
+    
+- **ProfileService:** Administra la comunicación de datos entre el frontend y el backend sobre usuario y vehículo.
+    
+- **SubscriptionService:** Gestiona las suscripciones y se comunica con la API.
+    
+- **NotificationService:** Envía notificaciones push a los usuarios a través de Firebase.
+    
+- **AuthService:** Controla el flujo de autenticación del usuario utilizando Auth0.
+
+#### **Diagrama de Componentes: Profile and References**
+
+![components](/assets/imgs/chapter-IV/arquictecture/components/profile-and-references.png)
+
+El contenedor **Profile and References** dentro del sistema VEHIX se encarga de gestionar toda la información relacionada con el perfil del usuario, sus preferencias y los datos asociados a su vehículo. Este diagrama descompone su estructura en tres componentes principales que colaboran para brindar una funcionalidad coherente y bien organizada.
+
+##### **Componentes**
+
+- **ProfileController**  
+    Es el componente principal de entrada (controlador) que expone los endpoints relacionados con el perfil del usuario. Actúa como intermediario entre las solicitudes externas y los servicios que manejan los datos.
+    
+- **PreferenceService**  
+    Se encarga de gestionar las preferencias del usuario, como idioma, tipo de notificaciones, visualización u otras configuraciones personalizadas. El controlador invoca este servicio para leer o actualizar dichas preferencias.
+    
+- **VehicleService**  
+    Maneja la información relacionada con los vehículos registrados por los usuarios. Esto incluye datos técnicos, historial de mantenimiento, marca, modelo, entre otros. El controlador utiliza este servicio para acceder y modificar la información del vehículo.
+
+##### **Relaciones**
+
+- `ProfileController` llama a `PreferenceService` para leer y actualizar las preferencias del usuario.
+    
+- `ProfileController` también interactúa con `VehicleService` para gestionar los datos del vehículo registrado por el usuario.
+
+#### Diagrama de Componentes: Assets and Resource Management
+
+![components](/assets/imgs/chapter-IV/arquictecture/components/assets-and-resource-managements.png)
+
+El contenedor **Assets and Resource Management** forma parte de la arquitectura del sistema VEHIX y se encarga de la gestión de los datos históricos, archivos y recursos asociados a los usuarios. Este contenedor organiza su funcionalidad mediante componentes especializados, siguiendo principios de separación de responsabilidades y escalabilidad.
+
+##### **Componentes principales**
+
+- **ResourcesController**  
+    Es el componente de entrada que expone los endpoints relacionados con los recursos del sistema. Permite que otros contenedores o servicios accedan a funcionalidades como la recuperación de archivos, el acceso a historiales o comentarios.
+    
+- **HistoryService**  
+    Encargado de manejar la lógica relacionada con la exportación e importación de datos históricos del usuario, como registros de diagnósticos, resultados anteriores o trazabilidad del vehículo.
+    
+- **FileService**  
+    Administra la subida, almacenamiento y acceso a archivos. Se encarga de que los documentos o datos generados por el usuario (por ejemplo, informes de diagnóstico o comentarios adjuntos) puedan ser gestionados de forma segura.
+    
+- **ResourcesModel**  
+    Representa el modelo de datos que agrupa los distintos recursos que gestiona este contenedor. Incluye entidades como `History`, `Comment`, `File` y `Sample`, que permiten estructurar la información relacionada con el usuario y su vehículo.
+
+##### **Relaciones internas**
+
+- `ResourcesController` actúa como orquestador y delega las solicitudes al `HistoryService` para operaciones de historial, o al `FileService` para subir o descargar archivos.
+    
+- Ambos servicios utilizan el modelo `ResourcesModel` para representar y manipular los datos asociados a recursos del sistema.
+
+#### **Diagrama de Componentes: Analytics Context**
+
+![components](/assets/imgs/chapter-IV/arquictecture/components/analytics-context.png)
+
+El contenedor **Analytics Context** forma parte de la arquitectura de VEHIX y se especializa en recolectar, analizar y visualizar datos de uso del sistema. Este contenedor permite generar informes útiles tanto para los usuarios con el objetivo de mejorar el rendimiento del sistema y la experiencia del usuario mediante el análisis de patrones de comportamiento y uso vehicular.
+
+##### **Componentes principales**
+
+- **AnalyticsController**  
+    Es el componente encargado de exponer los endpoints necesarios para consultar datos analíticos. Recibe solicitudes externas y las redirige a los servicios internos adecuados.
+    
+- **UsageStatsService**  
+    Se encarga de recolectar y procesar los datos de uso del sistema. Su función principal es proporcionar una base sólida de información que puede ser utilizada para análisis y generación de reportes.
+    
+- **TrendAnalyzerService**  
+    Analiza los datos procesados para identificar patrones recurrentes en el uso del sistema o comportamiento del vehículo. Este componente es clave para detectar anomalías.
+    
+- **ReportGeneratorService**  
+    Genera informes descargables a partir de los datos analizados. Se alimenta de las estadísticas procesadas y es invocado por el controlador o por el componente visual.
+    
+- **AnalyticsView**  
+    Componente de presentación que transforma los datos analíticos en contenido visual para el frontend. Permite mostrar la información de forma clara y comprensible al usuario.
+
+##### **Relaciones clave**
+
+- `AnalyticsController` solicita a `UsageStatsService` la recopilación y análisis de datos.
+    
+- `UsageStatsService` entrega información a `TrendAnalyzerService` para detectar tendencias.
+    
+- `ReportGeneratorService` utiliza datos procesados por `UsageStatsService` para crear reportes.
+    
+- `AnalyticsView` transforma esos reportes en contenido visual.
+    
+- Todo el flujo parte del controlador y termina con la visualización clara y útil para el usuario.
+
+#### **Diagrama de Componentes: Subscription and Payments**
+
+![components](/assets/imgs/chapter-IV/arquictecture/components/subscription-and-payments.png)
+
+El contenedor **Subscription and Payments** del sistema VEHIX se encarga de la administración de planes de suscripción, procesamiento de pagos y generación de facturas. Este módulo permite a los usuarios acceder a funcionalidades premium mediante pagos integrados con proveedores externos como Visa, Mastercard o American Express.
+
+##### **Componentes principales**
+
+- **SubscriptionController**  
+    Componente controlador que expone los endpoints públicos relacionados con las suscripciones. Es responsable de iniciar procesos como el pago de un plan, o la consulta y modificación del estado de suscripción del usuario.
+    
+- **PlanService**  
+    Encargado de gestionar los planes de suscripción disponibles. Administra los datos relacionados con los planes, como su precio, duración y características, y permite actualizar el plan asociado a un usuario.
+    
+- **BillingService**  
+    Maneja la lógica del procesamiento de pagos. Coordina con el proveedor externo de pagos y se encarga de validar y completar las transacciones iniciadas por el usuario.
+    
+- **InvoiceService**  
+    Genera comprobantes de pago (facturas) una vez completada la transacción. Además, permite recuperar facturas anteriores asociadas a una suscripción.
+
+##### **Integración con sistema externo**
+
+- **Payments (Visa, Mastercard o American Express)**  
+    Es el sistema externo que se utiliza para realizar el procesamiento de los pagos. El `BillingService` se conecta con esta plataforma para completar la transacción de forma segura.
+
+##### **Relaciones entre componentes**
+
+- `SubscriptionController` inicia el procesamiento de pago a través de `BillingService`, y consulta los datos del plan mediante `PlanService`.
+    
+- Una vez realizado el pago, `BillingService` solicita a `InvoiceService` que genere una factura correspondiente.
+    
+- `BillingService` también se encarga de contactar al proveedor externo de pagos (Payments) para ejecutar la transacción.
+
+#### **Diagrama de Componentes: Identity and Guest Management**
+
+![components](/assets/imgs/chapter-IV/arquictecture/components/identity-and-guest-management.png)
+
+El contenedor **Identity and Guest Management** dentro de la arquitectura de VEHIX es responsable de gestionar el proceso de autenticación de usuarios, registro de nuevos perfiles y control de acceso basado en roles. Este contenedor asegura que sólo usuarios autorizados puedan acceder a funcionalidades específicas, manteniendo la seguridad y privacidad del sistema.
+
+##### **Componentes principales**
+
+- **IdentityController**  
+    Actúa como punto de entrada para todas las operaciones de autenticación y registro. Este controlador maneja las solicitudes de inicio de sesión y registro de nuevos usuarios, delegando las operaciones a los servicios correspondientes.
+    
+- **AuthServiceBackend**  
+    Se encarga de procesar los inicios y cierres de sesión del usuario. Además, es responsable de verificar las credenciales y delegar la autenticación en el sistema externo (Auth0).
+    
+- **UserRegistrationService**  
+    Gestiona el proceso de registro de nuevos usuarios, incluyendo validaciones y almacenamiento de datos. Se comunica con el sistema de autenticación externo cuando es necesario.
+    
+- **AccessControlService**  
+    Aplica reglas de acceso basadas en roles. Asegura que cada usuario tenga permisos adecuados según su perfil (por ejemplo, conductor, mecánico, invitado, etc.).
+
+##### **Integración externa**
+
+- **Auth0**  
+    Servicio de autenticación de terceros que verifica la identidad de los usuarios y proporciona un acceso seguro a VEHIX. El componente `IdentityController` delega en Auth0 la verificación de identidad y autenticación de credenciales.
+    
+##### **Relaciones clave**
+
+- `IdentityController` redirige las solicitudes de inicio de sesión a `AuthServiceBackend` y las de registro a `UserRegistrationService`.
+    
+- `AuthServiceBackend` utiliza `AccessControlService` para verificar permisos basados en el rol del usuario.
+    
+- Tanto `AuthServiceBackend` como `UserRegistrationService` delegan en **Auth0** la verificación de credenciales y autenticación segura.
+
+#### Diagrama de Componentes: Service Operation and Monitoring Context
+
+![components](/assets/imgs/chapter-IV/arquictecture/components/service-operation-monitoring.png)
+
+El contenedor **Service Operation and Monitoring Context** es uno de los núcleos funcionales más importantes del sistema VEHIX. Se encarga del **monitoreo en tiempo real** del estado del vehículo y la generación de alertas basadas en los datos recibidos por sensores y servicios de localización GPS. Este módulo es fundamental para garantizar una experiencia de usuario proactiva y preventiva.
+
+##### **Componentes principales**
+
+- **MonitoringController**  
+    Controlador principal del contenedor. Expone los endpoints relacionados con el monitoreo del vehículo y es el punto de entrada para los datos provenientes de sensores u otras fuentes.
+    
+- **LiveTrackingService**  
+    Servicio que gestiona el rastreo del vehículo utilizando datos GPS. Permite seguir la ubicación en tiempo real y enriquecer los análisis diagnósticos con contexto geográfico.
+    
+- **DiagnosticEngineService**  
+    Núcleo de análisis del sistema. Procesa los datos de sensores y ubicación para detectar anomalías, comportamientos inusuales o patrones que requieran atención inmediata. Su salida puede activar alertas.
+    
+- **AlertService**  
+    Genera alertas en tiempo real cuando el motor de diagnóstico detecta fallos. Estas alertas son enviadas directamente a los usuarios para mantenerlos informados sobre el estado del vehículo.
+    
+##### **Integraciones externas**
+
+- **Firebase Cloud Messaging (FCM):**  
+    Utilizado para enviar las alertas generadas por el `AlertService` directamente al dispositivo del usuario mediante notificaciones push.
+    
+- **Google Maps:**  
+    Servicio utilizado por `LiveTrackingService` para obtener y usar datos de geolocalización, mejorando el análisis y visualización del estado del vehículo en contexto espacial.
+    
+
+##### **Relaciones clave**
+
+- `MonitoringController` recibe los datos y los entrega al `DiagnosticEngineService`.
+    
+- `LiveTrackingService` proporciona información de ubicación tanto al `DiagnosticEngineService` como a Google Maps.
+    
+- Si se detecta un fallo, `DiagnosticEngineService` lo reporta al `AlertService`, que a su vez genera una alerta y la envía a través de Firebase.
+
+
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
