@@ -666,6 +666,8 @@ link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc
 
 ![compatibility img](/assets/imgs/chapter-V/compatibility_evidence.png)
 
+![compatibility img_2](/assets/imgs/chapter-V/compatibility_evidence_2.png)
+
 ![contact us img](/assets/imgs/chapter-V/contact_evidence.png)
 
 ![footer img](/assets/imgs/chapter-V/footer_evidence.png)
