@@ -1072,6 +1072,17 @@ Para el desarrollo del sprint 2, se ha implementado el frontend, previamente hab
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+A continuación se mostrará la documentación de los servicios usados.
+
+Aquí tenemos el servicio de json server que ha sido usado para almacenar a la fake API que hemos creado.
+
+![image-json](/assets/imgs/chapter-V/json_server.png)
+
+
+Aquí tenemos el servicio firebase que ha sido usado para el despliegue de la aplicación web.
+
+![image-firebase](/assets/imgs/chapter-V/firebase.png)	
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 A continuación se mostrarán las evidencias del despliegue de la aplicación web. Se desplegó la aplicación usando firebase
