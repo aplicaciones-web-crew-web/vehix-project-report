@@ -1074,6 +1074,17 @@ Para el desarrollo del sprint 2, se ha implementado el frontend, previamente hab
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+A continuación se mostrarán las evidencias del despliegue de la aplicación web. Se desplegó la aplicación usando firebase
+
+Aquí tenemos la vista de maintenence
+
+![image-1](/assets/imgs/chapter-V/deployment_evidence_1.png)
+
+Aquí tenemos la vista para buscar un taller cercano
+
+![image-1](/assets/imgs/chapter-V/deployment_evidence_2.png)
+
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 En este apartado se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la app frontend.
 
