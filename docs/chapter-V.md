@@ -1105,3 +1105,21 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 
 ![image-2](/assets/imgs/chapter-V/2.PNG)
 
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+#### 5.2.3.2. Aspect Leaders and Collaborators
+#### 5.2.3.3. Sprint Backlog 3
+#### 5.2.3.4. Development Evidence for Sprint Review
+#### 5.2.3.5. Execution evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+### 5.3.1. Design Interviews
+### 5.3.2. Interview Record
+### 5.3.3. Evaluation based on heuristics
+## 5.4. Video About the Product
+
+
