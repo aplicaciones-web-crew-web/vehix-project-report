@@ -186,6 +186,7 @@ El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje de
 #### [5.1.2. Source Code Management](/docs/chapter-V.md/#512-source-code-management)
 #### [5.1.3. Source Code Style Guide & Conventions](/docs/chapter-V.md/#513-source-code-style-guide-&-conventions)
 #### [5.1.4. Software Deployment Configuration](/docs/chapter-V.md/#514-software-deployment-configuration)
+
 ### [5.2. Landing Page, Services & Applications Implementation](/docs/chapter-V.md/#52-landing-page-services-&-applications-implementation)
 #### [5.2.1. Sprint 1](/docs/chapter-V.md/#521-sprint-1)
 ##### [5.2.1.1. Sprint Planning 1](/docs/chapter-V.md/#5211-sprint-planning-1)
@@ -196,6 +197,7 @@ El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje de
 ##### [5.2.1.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5216-services-documentation-evidence-for-sprint-review)
 ##### [5.2.1.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#[5217-software-deployment-evidence-for-sprint-review)
 ##### [5.2.1.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5218-team-collaboration-insights-during-sprint)
+
 #### [5.2.2. Sprint 2](/docs/chapter-V.md/#522-sprint-2)
 ##### [5.2.2.1. Sprint Planning 2](/docs/chapter-V.md/#5221-sprint-planning-2)
 ##### [5.2.2.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5222-aspect-leaders-and-collaborators)
@@ -205,6 +207,23 @@ El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje de
 ##### [5.2.2.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5226-services-documentation-evidence-for-sprint-review)
 ##### [5.2.2.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#[5227-software-deployment-evidence-for-sprint-review)
 ##### [5.2.2.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5228-team-collaboration-insights-during-sprint)
+
+#### [5.2.3. Sprint 3](/docs/chapter-V.md/#523-sprint-3)
+##### [5.2.3.1. Sprint Planning 3](/docs/chapter-V.md/#5231-sprint-planning-3)
+##### [5.2.3.2. Aspect Leaders and Collaborators](/docs/chapter-V.md/#5232-aspect-leaders-and-collaborators)
+##### [5.2.3.3. Sprint Backlog 3](/docs/chapter-V.md/#5233-sprint-backlog-3)
+##### [5.2.3.4. Development Evidence for Sprint Review](/docs/chapter-V.md/#5234-development-evidence-for-sprint-review)
+##### [5.2.3.5. Execution Evidence for Sprint Review](/docs/chapter-V.md/#5235-execution-evidence-for-sprint-review)
+##### [5.2.3.6. Services Documentation Evidence for Sprint Review](/docs/chapter-V.md/#5236-services-documentation-evidence-for-sprint-review)
+##### [5.2.3.7. Software Deployment Evidence for Sprint Review](/docs/chapter-V.md/#5237-software-deployment-evidence-for-sprint-review)
+##### [5.2.3.8. Team Collaboration Insights during Sprint](/docs/chapter-V.md/#5238-team-collaboration-insights-during-sprint)
+
+### [5.3. Validation Interviews](/docs/chapter-V.md/#53-validation-interviews)
+#### [5.3.1. Design Interviews](/docs/chapter-V.md/#531-design-interviews)
+#### [5.3.2. Interview Record](/docs/chapter-V.md/#532-interview-record)
+#### [5.3.3. Evaluation based on heuristics](/docs/chapter-V.md/#533-evaluation-based-on-heuristics)
+
+### [5.4. Video About the Product](/docs/chapter-V.md/#54-video-about-the-product)
 
 ## [Conclusiones](/docs/conclusions.md)
 
