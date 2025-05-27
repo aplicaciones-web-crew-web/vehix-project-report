@@ -1108,6 +1108,69 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">Spring Planing Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>2025-05-27</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>4:30 PM</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Presencial mode in classroom</td>
+		</tr>
+		<tr>
+			<td colspan="2">Prepared by</td>
+		</tr>
+		<tr>
+			<td>Attends (to planinning meeting)</td>
+			<td>All members of CrewWeb</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Review Summary</td>
+			<td>We have achived the creation of the landing page, interactive ind intuitive, with the respectives "call to action", which allows to redirect to our web application. But we need to remove the contact section.</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Retrospective Summary</td>
+			<td>We consider that the call to action are importants in the development of the landing page to attract customers. Our product owner thinks that we need a better organization of our deliverables</td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Review Summary</td>
+			<td>we have achived the web application, developing the maintenance view and using internal and external API's. We consider that we achieved the objective, deploying the web application and showing the main views. </td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Retrospective Summary</td>
+			<td> We consider that we have to improve the developent environment with gitflow, and update the project report with the new developed artifacts. </td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Goal</td>
+			<td>Our focus is on offering access to assets and resources, edit profile and preferences and operation and monitoring view, also allow to the developer create requests (GET, POST, PUT and DELETE), of the vehicles, users, mechanics and technical history. We believe it delivers confidence and active use of the product to new costumers. This will be confirmed when the customers interact actively with the new features that we offer to them. </td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Velocity</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Sum of Story points</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
 #### 5.2.3.2. Aspect Leaders and Collaborators
 #### 5.2.3.3. Sprint Backlog 3
 #### 5.2.3.4. Development Evidence for Sprint Review
