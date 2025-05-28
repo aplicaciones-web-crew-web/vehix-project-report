@@ -788,13 +788,63 @@ Con el objetivo de representar la arquitectura interna de los componentes princi
 
 ![C4](/assets/imgs/chapter-IV/arquictecture/contenedores.png)
 ### 4.6.3. Software Architecture Components Diagrams
+
+Para representar la organización interna del sistema desde un nivel más técnico, se ha desarrollado un diagrama de componentes que muestra la estructura modular del sistema VEHIX. En este modelo, la aplicación web se construye a partir del componente principal AppComponent, el cual orquesta la interacción con múltiples componentes secundarios, cada uno encargado de una funcionalidad específica
+
 ![C4](/assets/imgs/chapter-IV/arquictecture/componentes.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Autenticación y Diagnóstico  
+
+![C4](/assets/imgs/chapter-IV/arquictecture/1.PNG)
+
+El componente InputCardComponent se usa en formularios de login y registro, y trabaja junto con UserService, que gestiona datos del usuario (perfil, sesión, autenticación) solicitando información al API Application. Tras el inicio de sesión, el sistema puede mostrar alertas de fallos mediante AlertComponent, el cual se alimenta del AlertService, también conectado al API. En caso de problemas, RepairComponent presenta soluciones obtenidas desde el RepairService
+
+#### Suscripciones e Idioma 
+
+![C4](/assets/imgs/chapter-IV/arquictecture/2.PNG)
+
+El componente PlansComponent se encarga de mostrar al usuario los distintos planes disponibles, junto con sus detalles y precios. Cuando el usuario decide adquirir uno, interactúa con el componente CheckoutComponent, que gestiona el formulario de pago y el proceso de confirmación de la suscripción. Ambos componentes dependen del SubscriptionService, que se comunica con el API Application para consultar los planes disponibles y procesar la selección del usuario de forma dinámica. Además, el LanguageSwitcherComponent permite al usuario cambiar entre diferentes idiomas (como inglés o español), facilitando una experiencia más personalizada y accesible.
+
+####  Fallas y Gestión de Vehículos Registrados
+
+![C4](/assets/imgs/chapter-IV/arquictecture/3.PNG)
+
+El componente ShowVehicle muestra información detallada del vehículo del usuario, como el modelo, la placa y el estado general. Este componente se apoya en VehicleService, que se comunica con el API Application para obtener, actualizar o almacenar los datos del vehículo. Por otro lado, FutureProblemComponent presenta posibles problemas que podrían surgir en el futuro, basándose en el historial de diagnóstico. Este componente utiliza el ProbabilitiesService, el cual calcula la probabilidad de fallas mediante el análisis de datos anteriores, también accediendo al API. Finalmente, RadarChartComponent permite visualizar gráficamente los riesgos de fallas mediante un gráfico de radar. Este componente obtiene sus datos desde el PronosticsService, que genera predicciones basadas en patrones de uso y diagnósticos previos, igualmente conectándose con el API para acceder a la información necesaria.
+
+####  Monitoreo del Estado del Vehículo y Estimaciones de Vida Útil
+
+![C4](/assets/imgs/chapter-IV/arquictecture/4.PNG)
+
+Esta sección del sistema VEHIX se enfoca en proporcionar al usuario una visión clara del estado general de su vehículo y en estimar su vida útil a partir de datos históricos de uso y diagnóstico. El componente ProgressBarComponent muestra gráficamente la salud y vida útil estimada del vehículo, mientras que TimeLineComponent presenta una línea de tiempo visual del kilometraje mensual, permitiendo observar su evolución. Ambas vistas se nutren del EstimatesService, que se comunica con el API Application para obtener datos sobre patrones de uso, diagnósticos pasados y predicciones de vida útil. Por otro lado, el componente StatusComponent brinda una vista rápida del estado de los subsistemas clave del vehículo mediante indicadores circulares. Esta información proviene del StatusService, que consulta en tiempo real al API para mostrar el rendimiento y la salud de los componentes críticos del vehículo.
+
+#### Detección de Problemas de Conducción, Fallos Técnicos y Búsqueda de Talleres
+
+![C4](/assets/imgs/chapter-IV/arquictecture/5.PNG)
+
+El componente BadPracticesComponent muestra comportamientos de conducción riesgosos detectados durante el escaneo del vehículo. Esta información es obtenida desde el BadPracticesService, que accede al API Application para recuperar datos basados en sensores y el historial de manejo. Por otro lado, SimpleIssuesComponent presenta fallos menores como bajo nivel de refrigerante o presión de neumáticos, y se apoya en el SimpleIssuesService para obtener esta información desde el backend. Para errores más graves, el TechnicalErrorsComponent muestra fallas críticas con códigos OBD-II y sugerencias de solución. Este se alimenta del TechnicalErrorService, que también se comunica con el API.
+Finalmente, para brindar apoyo al usuario, el componente MechanicCardListComponent despliega una lista de talleres mecánicos cercanos, cada uno representado por una instan
+
+#### Perfil del Usuario y Biblioteca de Contenidos Informativos
+
+![C4](/assets/imgs/chapter-IV/arquictecture/6.PNG)
+
+El componente ProfileCardComponent se encarga de mostrar información del perfil del usuario, como su nombre y datos del vehículo. Esta información es obtenida desde el ProfileService, que se comunica con el API Application para recuperar los datos actualizados del usuario.Por otro lado, LibraryListComponent muestra la vista general de la biblioteca, solicitando la lista de contenidos al LibraryService. Cada contenido se representa visualmente mediante el LibraryItemComponent, que puede mostrar artículos, videos u otro tipo de recursos útiles para el usuario.
+
+####  Visualización de Información General del Vehículo y Ubicacion de tallares cercanos en tiempo real
+
+![C4](/assets/imgs/chapter-IV/arquictecture/7.PNG)
+
+El componente DashboardComponent actúa como centro de control, desde el cual se visualizan detalles importantes como el resumen del vehículo, el historial de escaneos, alertas recientes y el estado de conexión. El componente VehicleSummaryComponent muestra datos básicos del vehículo del usuario, como el modelo, nombre y año. A su vez, ScanHistoryComponent permite revisar escaneos anteriores realizados al vehículo, mientras que AlertSummaryComponent resume las alertas más recientes detectadas. Por su parte, VehicleStatusComponent indica si el vehículo está correctamente conectado con el sistema. Además, el componente MechanicMapComponent integra un mapa interactivo donde se muestran talleres cercanos, haciendo uso del servicio externo Google Maps para renderizar los datos de ubicación y geolocalización en tiempo real.
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-En esta sección se presentan los diagramas de clases del sistema Vehix. Estos diagramas representan la estructura del software a nivel de objetos, mostrando las clases, atributos, métodos y relaciones, lo cual facilita la comprensión del diseño y su implementación.
+
+En esta sección se presentan los diagramas de clases del sistema Vehix. Estos diagramas representan la estructura del software a nivel de objetos, mostrando las clases, atributos, métodos y relaciones, lo cual facilita la comprensión del diseño y su implementación. Cada componente se comunica con servicios especializados.los cuales abstraen la lógica de negocio y las llamadas a la API principal del sistema, que expone las funcionalidades del backend. Además, la aplicación hace uso de servicios externos como Google Maps, utilizado para la renderización de mapas y geolocalización dentro del sistema.
 
 ![class-diagram](/assets/imgs/chapter-IV/class-diagram.png)
+
+
 
 ### 4.7.2. Class Dictionary
 
