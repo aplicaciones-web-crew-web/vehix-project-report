@@ -1447,11 +1447,12 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
-		<td rowspan="4">EP07-US20<td>
+		<tr>
+			<td rowspan="4">EP07-US20</td>
 			<td rowspan="4">Mecánico cercanos</td>
 			<td>T1</td>
 			<td>Definir la Entidad/Modelo de Mecánico en el Backend</td>
-			<td> Definir la estructura de datos que se espera recibir de la API de Google Maps para un mecánico</td>
+			<td>Definir la estructura de datos que se espera recibir de la API de Google Maps para un mecánico</td>
 			<td>3</td>
 			<td>Jorge Elescano</td>
 			<td>Done</td>
@@ -1459,7 +1460,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 		<tr>
 			<td>T2</td>
 			<td>Implementar la Lógica de Llamada a la API de Google Maps en el Backend</td>
-			<td>Crear la lógica en el backend para realizar una solicitud HTTP (GET) a la API de Google Maps utilizando las credenciales y parámetros adecuados </td>
+			<td>Crear la lógica en el backend para realizar una solicitud HTTP (GET) a la API de Google Maps utilizando las credenciales y parámetros adecuados</td>
 			<td>1.5</td>
 			<td>Jorge Elescano</td>
 			<td>Done</td>
@@ -1467,7 +1468,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 		<tr>
 			<td>T3</td>
 			<td>Desarrollar el Endpoint GET para la lectura de Mecánicos</td>
-			<td> Implementar el endpoint de la API REST en el backend que el frontend llamará. Este endpoint recibirá la ubicación del conductor, llamará a GoogleMapsService, procesará la respuesta de Google Maps y devolverá los mecánicos relevantes al frontend.</td>
+			<td>Implementar el endpoint de la API REST en el backend que el frontend llamará. Este endpoint recibirá la ubicación del conductor, llamará a GoogleMapsService, procesará la respuesta de Google Maps y devolverá los mecánicos relevantes al frontend</td>
 			<td>1</td>
 			<td>Jorge Elescano</td>
 			<td>Done</td>
@@ -1475,12 +1476,13 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 		<tr>
 			<td>T4</td>
 			<td>Integrar el Frontend con el Nuevo Endpoint GET.</td>
-			<td>Modificar el servicio para que, en lugar de una Fake API, envíe la solicitud GET al nuevo endpoint del backend. De esta manera, el frontend enviará la ubicación del conductor y manejará la respuesta de los mecánicos.</td>
+			<td>Modificar el servicio para que, en lugar de una Fake API, envíe la solicitud GET al nuevo endpoint del backend. De esta manera, el frontend enviará la ubicación del conductor y manejará la respuesta de los mecánicos</td>
 			<td>0.5</td>
 			<td>Jorge Elescano</td>
 			<td>Done</td>
 		</tr>
-		<td rowspan="4">EP07-US19<td>
+		<tr>
+			<td rowspan="4">EP07-US19</td>
 			<td rowspan="4">Historial técnico de vehiculo</td>
 			<td>T1</td>
 			<td>Definir la Entidad/Modelo de Historial ténico en el Backend</td>
@@ -1513,7 +1515,8 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Dayro Rios</td>
 			<td>Done</td>
 		</tr>
-		<td rowspan="2">EP06-US15<td>
+		<tr>
+			<td rowspan="2">EP06-US15</td>
 			<td rowspan="2">Estado de suscripción</td>
 			<td>T1</td>
 			<td>Consumir servicio de suscripción</td>
@@ -1530,7 +1533,8 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Dayro Rios</td>
 			<td>Done</td>
 		</tr>
-		<td rowspan="3">EP01-US09<td>
+		<tr>
+			<td rowspan="3">EP01-US09</td>
 			<td rowspan="3">Guardado de datos y cierre de sesión</td>
 			<td>T1</td>
 			<td>Consumir servicio user.singleton</td>
@@ -1555,7 +1559,8 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Moises Espinoza</td>
 			<td>Done</td>
 		</tr>
-		<td rowspan="4">EP07-TS41<td>
+		<tr>
+			<td rowspan="4">EP07-TS41</td>
 			<td rowspan="4">Actualizar datos de un vehículo</td>
 			<td>T1</td>
 			<td>Actualizar la Entidad de Vehículo en el Backend</td>
