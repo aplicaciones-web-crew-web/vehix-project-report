@@ -1,5 +1,7 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
+En esta sección tiene como objetivo, identificar cuales son los principales competidores directos con modelos de negocios fundamentados en productos digitales afines, o en su caso, competidores indirectos que ofrecen soluciones parcialmente comparables.
+
 ### 2.1.1. Análisis competitivo
 En esta sección se presenta el análisis competitivo realizado por el equipo de Vehix, en el cual se identifican y evalúan tres competidores principales. Este análisis permite establecer un marco de referencia para comprender el entorno del mercado y así formular estrategias que nos permitan posicionar mejor nuestra solución frente a la competencia.
 
@@ -413,7 +415,11 @@ En esta sección se presenta el análisis competitivo realizado por el equipo de
       </table>
                                 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+En esta sección se examinarán las estrategias y tácticas que se implementarán para capitalizar las debilidades de la competencia y hacer frente a sus fortalezas. Asimismo, se abordarán las amenazas y oportunidades que presentan los competidores.
+
 **Análisis Foda**
+A continuación se presenta el análisis FODA con el fin de identificar las oportunidades y amenazas presentes en el mercado, además de evaluar nuestras fortalezas y debilidades a nivel interno.
+
 ![foda](/assets/imgs/chapter-II/foda.png)
 
 Para posicionarse de manera efectiva en el mercado y destacar frente a competidores como FIXD, CarMD y Drivvo, Vehix aplicará las siguientes estrategias y tácticas preliminares orientadas a afrontar las fortalezas de la competencia, actuar en función de las oportunidades, aprovechar sus debilidades y amenazas del entorno competitivo:
@@ -445,7 +451,10 @@ Para posicionarse de manera efectiva en el mercado y destacar frente a competido
   + Lanzar actualizaciones mensuales con mejoras y nuevas funcionalidades.
   + Asegurar compatibilidad con diferentes marcas y modelos de vehículos.
   + Ofrecer soporte técnico en múltiples idiomas y zonas horarias.
+
 ## 2.2. Entrevistas
+En esta sección se realiza la investigación y la recolección de información a traves de las entrevistas de los usuarios para cada segmento objetivo, con el fin de conocer mejor a nuestros segmentos.
+
 ### 2.2.1. Diseño de entrevistas
 
 
@@ -551,6 +560,7 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 ¿Que es lo que te frustra con respecto al trabajo que tienes?
 
 ### 2.2.2. Registro de entrevistas
+En esta sección presentamos los registros de las entrevistas que realizamos para cada uno de nuestro segmento objectivo.
 
 A continuación, se presentarán las entrevistas realizadas, desarrollando un resumen de cada una, extrayendo las respuestas e identificando las características objetivas y subjetivas.
 
@@ -766,7 +776,7 @@ Luis accede principalmente desde su smartphone Android y laptop, utilizando Chro
 
 ### 2.2.3. Análisis de entrevistas
 
-A continuación, se presenarán los análisis de entrevistas, los cuáles han sido hechos recaudando la información de las entrevistas previamente realizadas
+En esta sección se realiza el análisis de cada entrevista para cada segmento objetivo. Con el fin de obtener información para el desarrollo de nuestra aplicación. A continuación, se presenarán los análisis de entrevistas, los cuáles han sido hechos recaudando la información de las entrevistas previamente realizadas.
 
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
 
@@ -843,9 +853,11 @@ Este segmento representa a profesionales automotrices con experiencia —en su m
 ![chart img](/assets/imgs/chapter-II/analysis-chart-14.png)
 
 
-## 2.3. Solution Profile
+## 2.3. Needfinding
+Con el fin de desarrollar un producto alineado con las necesidades específicas del cliente, nos hemos enfocado e identificar los User Persona, la User Task Matrix, los User Journey Maps y el Empathy Mapping.
+
 ### 2.3.1. User Personas
-En esta sección se presentan los perfiles de User Personas construidos a partir de los segmentos clave identificados para la aplicación Vehix. Estos perfiles permiten comprender mejor las necesidades, motivaciones y comportamientos de los usuarios, facilitando el diseño de una solución centrada en ellos y alineada con sus expectativas.
+Después de un análisis de las entrevistas de cada segmento objetivo. Hemos elaborado perfiles de usuario teniendo en cuenta las características identificadas en cada entrevista. A continuación, se mostrarán los user personas, los cuales fueron creados en base a los analisis de entrevistas y los resúmenes de cada una de ellas.
 
 **Segmento 1**
 
@@ -861,6 +873,8 @@ En esta sección se presentan los perfiles de User Personas construidos a partir
 
 ![user_personas_segment 3 img](/assets/imgs/chapter-II/user-personas-segment-3.png)
 ### 2.3.2. User Task Matrix
+En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Persona realizan para cumplir sus objetivos.
+
 **Segmento 1**
 
 ![user task matrix segment 1](/assets/imgs/chapter-II/user-task-matrix-segment-1.png)
@@ -873,6 +887,8 @@ En esta sección se presentan los perfiles de User Personas construidos a partir
 
 ![user task matrix segment 3](/assets/imgs/chapter-II/user-task-matrix-segment-3.png)
 ### 2.3.3. User Journey Mapping
+Esta sección presenta los User Journey Maps correspondientes a cada User Persona, ofreciendo una visión integral del recorrido del usuario desde el comienzo hasta el final. Estos mapas reflejan el estado actual (As-Is) de cada segmento, sin proponer aún soluciones.
+
 **Segmento 1**
 
 ![user-journey-mapping-segment-1](/assets/imgs/chapter-II/user-journey-mapping-segment-1.png)
@@ -888,6 +904,8 @@ En esta sección se presentan los perfiles de User Personas construidos a partir
 ![user-journey-mapping-segment-3](/assets/imgs/chapter-II/user-journey-mapping-segment-3.png)
 
 ### 2.3.4. Empathy Mapping
+El siguiente paso dentro del proceso de needfinding consiste en evaluar a nuestros segmentos objetivos mediante empathy maps, con el fin de comprender mejor a estos segmentos e identificar sus necesidades más profundas.
+
 **Segmento 1**
 
 ![empathy-mapping-segment-1](/assets/imgs/chapter-II/empathy-mapping-segment-1.png)
@@ -903,6 +921,8 @@ En esta sección se presentan los perfiles de User Personas construidos a partir
 ![empathy-mapping-segment-3](/assets/imgs/chapter-II/empathy-mapping-segment-3.png)
 
 ### 2.3.5. As-is Scenario Mapping
+En esta sección se desarrollará el As-Is Scenario Mapping para los segmentos, detallando cómo deben estructurarse las experiencias en cada una de sus fases.
+
 **Segmento 1**
 
 ![as-is-scenario-segmento-1](/assets/imgs/chapter-II/as-is-scenario-segmento-1.jpg)
@@ -916,7 +936,7 @@ En esta sección se presentan los perfiles de User Personas construidos a partir
 ![as-is-scenario-segmento-3](/assets/imgs/chapter-II/as-is-scenario-segmento-3.jpg)
 
 ## 2.4. Ubiquitous Language
-Para garantizar una comunicación fluida, precisa y sin ambigüedades entre los equipos de desarrollo, producto y usuarios en el proyecto Vehix, se define el siguiente Lenguaje Común (Ubiquitous Language). Este conjunto de términos, conceptos y expresiones será utilizado de manera consistente en todo el ciclo de vida del sistema, asegurando que todas las partes involucradas compartan una comprensión clara y alineada del dominio del problema.
+En esta sección se crea un glosario con los términos esenciales del dominio del negocio, siguiendo el enfoque de Ubiquitous Language en Domain Driven Design. Este glosario ofrece definiciones precisas y claras de los conceptos relevantes al problema y su solución, promoviendo una comunicación eficiente entre todos los integrantes del equipo.
 
 | Termino (Ingles)          | Definicion                                                                                                                                      |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
