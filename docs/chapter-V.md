@@ -1110,6 +1110,492 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 #### 5.2.3.1. Sprint Planning 3
 #### 5.2.3.2. Aspect Leaders and Collaborators
 #### 5.2.3.3. Sprint Backlog 3
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Sprint #</strong></td>
+			<td colspan="7">Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>User Story</strong></td>
+			<td colspan="6"><strong>Work-item / Task</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Id</strong></td>
+			<td><strong>Title</strong></td>
+			<td><strong>Id</strong></td>
+			<td><strong>Title</strong></td>
+			<td><strong>Description</strong></td>
+			<td><strong>Estimation (Hours)</strong></td>
+			<td><strong>Assisgned To</strong></td>
+			<td><strong>Status (To-do / In- Porcess / To-review / Done)</strong></td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US10</td>
+			<td rowspan="4">Historial de vehículos</td>
+			<td>T1</td>
+			<td>Añadir datos complmentarios de vehículo en el db.json</td>
+			<td>Se añaden los datos pertinentes y la conexión entre objetos json</td>
+			<td>0.5</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación del servicio vehiculo</td>
+			<td>Se añade y consume el servicio de vehículo</td>
+			<td>3</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Añadir componente para mostrar vehículo e i18n</td>
+			<td>Se añade el/los componente(s) mostrando los datos de la fake API. Asimismo se considera las 3 tecnologías fundamentales y el i18n</td>
+			<td>1.5</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Validaciones de negocio</td>
+			<td>Se añade validaciones para la cantidad de  vehículos, tipo de usuario y manejo de errores</td>
+			<td>0.5</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP05-US24</td>
+			<td rowspan="4">Biblioteca automotriz</td>
+			<td>T1</td>
+			<td>Añadir datos complementarios de vehículo en el db.json si se necesit a</td>
+			<td>se añaden los datos pertinentes y la conexión entre objetos json</td>
+			<td>0.5</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación de componentes y consumo de servicios</td>
+			<td>Situarse en la vista "library", mostrar los componentes que lo incluyen como "articles" y "news" consumiendo los servicios correspondientes</td>
+			<td>1</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación con lógica de negocio</td>
+			<td>Validar el estado de plan y tipo de plan que tiene el usuario</td>
+			<td>1</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Redirecciones e in-app navigation</td>
+			<td>Se añade los botones e hupervínculos a los sitios estáticos correspondientes a cada sección de la biblioteca y considerandose las rutas predefinidas</td>
+			<td>1</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US12</td>
+			<td rowspan="4">Ingresar nuevo vehículo</td>
+			<td>T1</td>
+			<td>Rehuso de servicio</td>
+			<td>Reusar el servicio del vehículo y agregar funcion con solicitud http tipo "POST" correspondiente</td>
+			<td>1.5</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Componente de formulario e i18n</td>
+			<td>Crear el componente considerando el modelo, kilometrage actual, año del carro, fecha de revisión ténica y nombre referencial de este</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de lógica de negocio</td>
+			<td>Se añade la lógica de validacion en el componentes correspondiente para no repetir los vehiculo y no permitir agregar más de un vehículo en caso sea un cliente del plan standard</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Añadir in-app navigation</td>
+			<td>Se añade la ruta de la página donde se ingresarán todos los componentes considerados</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US16</td>
+			<td rowspan="4">Registrar mantenimiento realizado</td>
+			<td>T1</td>
+			<td>Crear componentes con respecto a fallas</td>
+			<td>Se crea componentes para registrar el mantimiento considerando el comentario de solucion</td>
+			<td>1.5</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Consumo de servicio de fallas y solución</td>
+			<td>Se crean las entidades de fallas y solucion, y se crea sus respectivo servicios</td>
+			<td>2</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validaciones de lógica de negocio sobre la solución</td>
+			<td>Se valida que el usuario tenga el plan pro, de lo contrario se considera "Upselling Content" </td>
+			<td>2</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>In app navigation para registro de manenimiento</td>
+			<td>Se crea el enrutamiento correspondiente, considerando un nombre alusivo a la acción, cómo "maintenance register"</td>
+			<td>2</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP01-US30</td>
+			<td rowspan="4">Eliminación de vehículo</td>
+			<td>T1</td>
+			<td>Rehusar el servicio de vehículos y añadir solicitud http tipo DELETE</td>
+			<td>Se rehusa el servicio y se aumenta la funcionalidad "DELETE"</td>
+			<td>0.5</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creacion de componentes para la eliminacion de vehículo</td>
+			<td>Se añade el "delete icon" y se coloca por cada vehiculo</td>
+			<td>0.5</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Funcionalidad y validación de negocio</td>
+			<td>Se añade la funcionalidad poara eliminar y se valida si el usuario esta completamente seguro de realizar esa acción</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Verificar in-app navigation</td>
+			<td>Se verifica el estado de la ruta y se añade el lazy loading correspondiente</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-US21</td>
+			<td rowspan="4">Vehículos registrados</td>
+			<td>T1</td>
+			<td>Definir la Entidad/Modelo de Vehículo en el Backend</td>
+			<td>Crear la estructura de datos que representará un vehículo en el backend.</td>
+			<td>3</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Capa de Acceso a Datos para Vehículos</td>
+			<td>Crear la lógica en el backend que permita interactuar directamente con la base de datos para la entidad Vehículo. Esto incluye una operación para "crear" un nuevo vehículo en la tabla Vehicles.</td>
+			<td>1.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint POST para el Registro de Vehículos</td>
+			<td> Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP POST. Este endpoint recibirá los datos del vehículo desde el frontend, los validará, utilizará la capa de acceso a datos para guardarlos en la base de datos y enviará una respuesta HTTP adecuada.</td>
+			<td>1</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Integrar el Frontend con el Nuevo Endpoint POST.</td>
+			<td>Modificar el servicio de vehículos para que, en lugar de usar la Fake API, envíe los datos del vehículo al nuevo endpoint POST del backend real. Esto incluye manejar la suscripción a la respuesta del backend.</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP03-US29</td>
+			<td rowspan="3">Estado del vehículo</td>
+			<td>T1</td>
+			<td>Consumir el servicio de vehiculo</td>
+			<td>Se cosnsume el servicio correspondiente y se agrega si es necesario atributos o nuevos datos para en la estructura de los objetos json correspondientes.</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación de componentes </td>
+			<td>Se crean los componentes necesarios para mostrar de manera intuitiva y amigable al usuario</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Consideración de in-app navigation</td>
+			<td>Todos los componentes usado, se muestran en /car-useful-life</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP03-US26</td>
+			<td rowspan="3">Recordatorios de Revisiones técnicas</td>
+			<td>T1</td>
+			<td>Creación de entidad</td>
+			<td>Se añade la entidad de notificaciones</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Validaciones y consumo de servicios</td>
+			<td>Se añade las solicitudes http tipo GET y POST para la validación de creación de una nueva fecha para la revision ténica</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Visualización en desplegable</td>
+			<td>Se usa el componente a considerar y en el desplegable se muestran las notificaciones</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP01-US23</td>
+			<td rowspan="3">Edición de información personal</td>
+			<td>T1</td>
+			<td>Actualización del servicio de "user"</td>
+			<td>Se añade en el servicio una petición http tipo "PUT", para actualizar los nueva información que ingrese el usuario</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación de un componente card</td>
+			<td>Se añade dentro del componentes los inputs correspondientes y considerando i18n</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de datos</td>
+			<td>Se valida con la lógica de negocio que considera solo números para el dni. </td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US27</td>
+			<td rowspan="4">Registro de datos de vehículo</td>
+			<td>T1</td>
+			<td>Rehuso de servicio</td>
+			<td>Reusar el servicio del vehículo y agregar funcion con solicitud http tipo "POST" correspondiente</td>
+			<td>1.5</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Componente de formulario e i18n</td>
+			<td>Crear el componente considerando el modelo, kilometrage actual, año del carro, fecha de revisión ténica y nombre referencial de este</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de lógica de negocio</td>
+			<td>Se añade la lógica de validacion en el componentes correspondiente para no repetir los vehiculo y no permitir agregar más de un vehículo en caso sea un cliente del plan standard</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Añadir in-app navigation</td>
+			<td>Se añade la ruta de la página donde se ingresarán todos los componentes considerados</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-US20</td>
+			<td rowspan="4">Mecánico cercanos</td>
+			<td>T1</td>
+			<td>Definir la Entidad/Modelo de Mecánico en el Backend</td>
+			<td>Definir la estructura de datos que se espera recibir de la API de Google Maps para un mecánico</td>
+			<td>3</td>
+			<td>Jorge Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Lógica de Llamada a la API de Google Maps en el Backend</td>
+			<td>Crear la lógica en el backend para realizar una solicitud HTTP (GET) a la API de Google Maps utilizando las credenciales y parámetros adecuados</td>
+			<td>1.5</td>
+			<td>Jorge Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint GET para la lectura de Mecánicos</td>
+			<td>Implementar el endpoint de la API REST en el backend que el frontend llamará. Este endpoint recibirá la ubicación del conductor, llamará a GoogleMapsService, procesará la respuesta de Google Maps y devolverá los mecánicos relevantes al frontend</td>
+			<td>1</td>
+			<td>Jorge Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Integrar el Frontend con el Nuevo Endpoint GET.</td>
+			<td>Modificar el servicio para que, en lugar de una Fake API, envíe la solicitud GET al nuevo endpoint del backend. De esta manera, el frontend enviará la ubicación del conductor y manejará la respuesta de los mecánicos</td>
+			<td>0.5</td>
+			<td>Jorge Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-US19</td>
+			<td rowspan="4">Historial técnico de vehiculo</td>
+			<td>T1</td>
+			<td>Definir la Entidad/Modelo de Historial ténico en el Backend</td>
+			<td>Crear la estructura de datos que representará un registro dentro del historial técnico de un vehículo. Esto implica decidir qué atributos tendrá cada evento</td>
+			<td>3</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Capa de Acceso a Datos para el Historial Técnico.</td>
+			<td>Crear la lógica en el backend que permita interactuar directamente con la base de datos para la entidad Historial Técnico. Esto incluye una operación para "leer" los registros del historial técnico, específicamente buscando por el id de un vehículo.</td>
+			<td>1.5</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint GET para el Historial Técnico de un Vehículo</td>
+			<td> Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP GET para obtener el historial. Este endpoint recibirá el identificador del vehículo, utilizará la capa de acceso a datos para recuperar los registros del historial de la base de datos y enviará una respuesta HTTP adecuada.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td> Integrar el Frontend con el Nuevo Endpoint GET del Historial Técnico</td>
+			<td>Modificar el servicio de vehículos para que envíe una solicitud GET al nuevo endpoint del backend, pasando el id del vehículo.</td>
+			<td>0.5</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">EP06-US15</td>
+			<td rowspan="2">Estado de suscripción</td>
+			<td>T1</td>
+			<td>Consumir servicio de suscripción</td>
+			<td>Consumir el servicio de suscripcion y de usuario de modo que se consiga el estado de suscripcion y fehca del usuario</td>
+			<td>0.5</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementación de componente</td>
+			<td>Integrar el componentes en la vista /profile de modo que aparezca los datos recuperados</td>
+			<td>0.5</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP01-US09</td>
+			<td rowspan="3">Guardado de datos y cierre de sesión</td>
+			<td>T1</td>
+			<td>Consumir servicio user.singleton</td>
+			<td>Se consume el servicio del singleton para cerrar sesión y redirigirlo a la vista de registro</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementación de componente</td>
+			<td>Integrar el en la vista /profile de modo aparezca la opción de cerrar sesión</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de cerrado de sesión</td>
+			<td>Verificar que el singleton.user sea nulo</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-TS41</td>
+			<td rowspan="4">Actualizar datos de un vehículo</td>
+			<td>T1</td>
+			<td>Actualizar la Entidad de Vehículo en el Backend</td>
+			<td>Revisar la entidad Vehículo existente para asegurar que contiene todos los campos necesarios que un usuario podría querer actualizar. Si es necesario, añadir atributos</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Operación de Actualización (Update) en la Capa de Acceso a Datos para Vehículos.</td>
+			<td>Añadir o modificar la lógica en el componente para Vehículo que permita actualizar un registro existente en la base de datos. De manera que la operación toma el ID del vehículo a actualizar y los nuevos datos, y los cree en la tabla Vehicles.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint PUT para la Actualización de Vehículos</td>
+			<td>Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP PUT. Este endpoint recibirá el ID del vehículo a actualizar y los datos editados, validará la información, utilizará la capa de acceso a datos para aplicar la actualización y enviará una respuesta HTTP adecuada.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Implementar la Interfaz de Usuario y la Integración Frontend para la Edición de Vehículo</td>
+			<td> Modificar los componentes correspondientes para que los usuarios puedan editar los datos de un vehículo existente. De manera que, tambien se debe cargar los datos actuales del vehículo, permitir la edición en un formulario y luego enviar los datos editados al nuevo endpoint PUT del backend.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
+
 #### 5.2.3.4. Development Evidence for Sprint Review
 #### 5.2.3.5. Execution evidence for Sprint Review
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
