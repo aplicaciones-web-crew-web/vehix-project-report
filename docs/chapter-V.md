@@ -1180,7 +1180,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Creación de componentes y consumo de servicios</td>
 			<td>Situarse en la vista "library", mostrar los componentes que lo incluyen como "articles" y "news" consumiendo los servicios correspondientes</td>
 			<td>1</td>
-			<td>Antonio Navarro</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1196,7 +1196,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Redirecciones e in-app navigation</td>
 			<td>Se añade los botones e hupervínculos a los sitios estáticos correspondientes a cada sección de la biblioteca y considerandose las rutas predefinidas</td>
 			<td>1</td>
-			<td>Antonio Navarro</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1206,7 +1206,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Rehuso de servicio</td>
 			<td>Reusar el servicio del vehículo y agregar funcion con solicitud http tipo "POST" correspondiente</td>
 			<td>1.5</td>
-			<td>Piero Elescano</td>
+			<td>Vitaly Baca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1214,7 +1214,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Componente de formulario e i18n</td>
 			<td>Crear el componente considerando el modelo, kilometrage actual, año del carro, fecha de revisión ténica y nombre referencial de este</td>
 			<td>2</td>
-			<td>Piero Elescano</td>
+			<td>Vitaly Baca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1222,7 +1222,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Validación de lógica de negocio</td>
 			<td>Se añade la lógica de validacion en el componentes correspondiente para no repetir los vehiculo y no permitir agregar más de un vehículo en caso sea un cliente del plan standard</td>
 			<td>2</td>
-			<td>Piero Elescano</td>
+			<td>Vitaly Baca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1230,7 +1230,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Añadir in-app navigation</td>
 			<td>Se añade la ruta de la página donde se ingresarán todos los componentes considerados</td>
 			<td>2</td>
-			<td>Piero Elescano</td>
+			<td>Vitaly Baca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1274,7 +1274,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Rehusar el servicio de vehículos y añadir solicitud http tipo DELETE</td>
 			<td>Se rehusa el servicio y se aumenta la funcionalidad "DELETE"</td>
 			<td>0.5</td>
-			<td>Sergio Julca</td>
+			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1282,7 +1282,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Creacion de componentes para la eliminacion de vehículo</td>
 			<td>Se añade el "delete icon" y se coloca por cada vehiculo</td>
 			<td>0.5</td>
-			<td>Sergio Julca</td>
+			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1290,7 +1290,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Funcionalidad y validación de negocio</td>
 			<td>Se añade la funcionalidad poara eliminar y se valida si el usuario esta completamente seguro de realizar esa acción</td>
 			<td>1</td>
-			<td>Sergio Julca</td>
+			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1298,7 +1298,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Verificar in-app navigation</td>
 			<td>Se verifica el estado de la ruta y se añade el lazy loading correspondiente</td>
 			<td>2</td>
-			<td>Sergio Julca</td>
+			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1308,7 +1308,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Definir la Entidad/Modelo de Vehículo en el Backend</td>
 			<td>Crear la estructura de datos que representará un vehículo en el backend.</td>
 			<td>3</td>
-			<td>Antonio Navarro</td>
+			<td>Vitaly Baca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1316,7 +1316,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Implementar la Capa de Acceso a Datos para Vehículos</td>
 			<td>Crear la lógica en el backend que permita interactuar directamente con la base de datos para la entidad Vehículo. Esto incluye una operación para "crear" un nuevo vehículo en la tabla Vehicles.</td>
 			<td>1.5</td>
-			<td>Antonio Navarro</td>
+			<td>Vitaly Baca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1324,7 +1324,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Desarrollar el Endpoint POST para el Registro de Vehículos</td>
 			<td> Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP POST. Este endpoint recibirá los datos del vehículo desde el frontend, los validará, utilizará la capa de acceso a datos para guardarlos en la base de datos y enviará una respuesta HTTP adecuada.</td>
 			<td>1</td>
-			<td>Antonio Navarro</td>
+			<td>Vitaly Baca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1332,7 +1332,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Integrar el Frontend con el Nuevo Endpoint POST.</td>
 			<td>Modificar el servicio de vehículos para que, en lugar de usar la Fake API, envíe los datos del vehículo al nuevo endpoint POST del backend real. Esto incluye manejar la suscripción a la respuesta del backend.</td>
 			<td>0.5</td>
-			<td>Antonio Navarro</td>
+			<td>Vitaly Baca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1342,7 +1342,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Consumir el servicio de vehiculo</td>
 			<td>Se cosnsume el servicio correspondiente y se agrega si es necesario atributos o nuevos datos para en la estructura de los objetos json correspondientes.</td>
 			<td>2</td>
-			<td>Sergio Julca</td>
+			<td>Moises Espinoza</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1350,7 +1350,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Creación de componentes </td>
 			<td>Se crean los componentes necesarios para mostrar de manera intuitiva y amigable al usuario</td>
 			<td>2</td>
-			<td>Sergio Julca</td>
+			<td>Moises Espinoza</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1358,7 +1358,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Consideración de in-app navigation</td>
 			<td>Todos los componentes usado, se muestran en /car-useful-life</td>
 			<td>1</td>
-			<td>Sergio Julca</td>
+			<td>Moises Espinoza</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1454,7 +1454,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Definir la Entidad/Modelo de Mecánico en el Backend</td>
 			<td>Definir la estructura de datos que se espera recibir de la API de Google Maps para un mecánico</td>
 			<td>3</td>
-			<td>Jorge Elescano</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1462,7 +1462,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Implementar la Lógica de Llamada a la API de Google Maps en el Backend</td>
 			<td>Crear la lógica en el backend para realizar una solicitud HTTP (GET) a la API de Google Maps utilizando las credenciales y parámetros adecuados</td>
 			<td>1.5</td>
-			<td>Jorge Elescano</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1470,7 +1470,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Desarrollar el Endpoint GET para la lectura de Mecánicos</td>
 			<td>Implementar el endpoint de la API REST en el backend que el frontend llamará. Este endpoint recibirá la ubicación del conductor, llamará a GoogleMapsService, procesará la respuesta de Google Maps y devolverá los mecánicos relevantes al frontend</td>
 			<td>1</td>
-			<td>Jorge Elescano</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1478,7 +1478,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Integrar el Frontend con el Nuevo Endpoint GET.</td>
 			<td>Modificar el servicio para que, en lugar de una Fake API, envíe la solicitud GET al nuevo endpoint del backend. De esta manera, el frontend enviará la ubicación del conductor y manejará la respuesta de los mecánicos</td>
 			<td>0.5</td>
-			<td>Jorge Elescano</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1488,7 +1488,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Definir la Entidad/Modelo de Historial ténico en el Backend</td>
 			<td>Crear la estructura de datos que representará un registro dentro del historial técnico de un vehículo. Esto implica decidir qué atributos tendrá cada evento</td>
 			<td>3</td>
-			<td>Dayro Rios</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1496,7 +1496,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Implementar la Capa de Acceso a Datos para el Historial Técnico.</td>
 			<td>Crear la lógica en el backend que permita interactuar directamente con la base de datos para la entidad Historial Técnico. Esto incluye una operación para "leer" los registros del historial técnico, específicamente buscando por el id de un vehículo.</td>
 			<td>1.5</td>
-			<td>Dayro Rios</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1504,7 +1504,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Desarrollar el Endpoint GET para el Historial Técnico de un Vehículo</td>
 			<td> Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP GET para obtener el historial. Este endpoint recibirá el identificador del vehículo, utilizará la capa de acceso a datos para recuperar los registros del historial de la base de datos y enviará una respuesta HTTP adecuada.</td>
 			<td>1</td>
-			<td>Dayro Rios</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1512,7 +1512,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td> Integrar el Frontend con el Nuevo Endpoint GET del Historial Técnico</td>
 			<td>Modificar el servicio de vehículos para que envíe una solicitud GET al nuevo endpoint del backend, pasando el id del vehículo.</td>
 			<td>0.5</td>
-			<td>Dayro Rios</td>
+			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1522,7 +1522,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Consumir servicio de suscripción</td>
 			<td>Consumir el servicio de suscripcion y de usuario de modo que se consiga el estado de suscripcion y fehca del usuario</td>
 			<td>0.5</td>
-			<td>Dayro Rios</td>
+			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1530,7 +1530,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 			<td>Implementación de componente</td>
 			<td>Integrar el componentes en la vista /profile de modo que aparezca los datos recuperados</td>
 			<td>0.5</td>
-			<td>Dayro Rios</td>
+			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
