@@ -483,6 +483,8 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ¿Qué te frustra sobre tener un vehículo con respecto a su uso y mantenimiento?
 
+¿Te consideras una persona introvertida o extrovertida?
+
 
 #### Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery):
 
@@ -515,6 +517,9 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 ¿Te planteaste o tienes algún objetivo en mente con respecto al uso y mantenimiento de tu vehículo?
 
 ¿Qué te frustra sobre tener un vehículo con respecto a su uso y mantenimiento?
+
+¿Te consideras una persona introvertida o extrovertida?
+
 
 #### Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes
 
@@ -550,6 +555,9 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ¿Que es lo que te frustra con respecto al trabajo que tienes?
 
+¿Te consideras una persona introvertida o extrovertida?
+
+
 ### 2.2.2. Registro de entrevistas
 
 A continuación, se presentarán las entrevistas realizadas, desarrollando un resumen de cada una, extrayendo las respuestas e identificando las características objetivas y subjetivas.
@@ -575,10 +583,15 @@ Edad: 25 años
 Distrito: Chorrillos
 
 
-Resumen: 
-Lucas es un conductor joven de Chorrillos que usa su vehículo con frecuencia, pero no lleva un control ordenado del mantenimiento. Solo actúa cuando el auto presenta fallas, lo que ya le costó una reparación cara. Está interesado en prevenir problemas, ahorrar dinero y mejorar su conducción. Le gustaría usar una app que le envíe alertas y le brinde información clara, y está dispuesto a pagar entre 40 y 60 soles mensuales si realmente nota beneficios. 
-Es hábil con el uso de la tecnología, usa principalmente su smartphone Android y el navegador Chrome, y consulta YouTube y redes sociales para resolver dudas. Le frustran las fallas inesperadas y depender solo de las alertas del tablero. Tiene conocimientos básicos de mecánica y está abierto a aprender más si la herramienta es clara y práctica. 
+Resumen: Lucas es un conductor joven de Chorrillos que usa su auto, un Toyota Yaris, casi todos los días para trabajar, estudiar y hacer diligencias. Aunque no lleva un control ordenado del mantenimiento preventivo, realiza lo básico como cambio de aceite o revisión de frenos, pero sin registros formales. Una vez pagó una reparación costosa del sistema de suspensión por no detectar el problema a tiempo, y desde entonces busca prevenir fallas y ahorrar dinero.
 
+Hoy en día, actúa solo cuando nota algo raro, pero le gustaría una solución más proactiva. Se siente cómodo usando apps móviles y estaría muy interesado en recibir alertas personalizadas sobre el estado del vehículo, especialmente porque a veces se le pasa revisar aspectos importantes. Le gustaría recibir información como fechas de mantenimiento, advertencias por kilometraje y consejos de conducción.
+
+Está dispuesto a pagar entre 40 y 65 soles al mes si la app realmente lo ayuda a evitar reparaciones costosas. Valora mucho que una app le ayude a corregir malas prácticas de conducción, como frenar bruscamente o acelerar innecesariamente.
+
+Usa principalmente su smartphone Android con el navegador Chrome, y accede sobre todo desde el celular. Sus redes más usadas son YouTube, TikTok e Instagram. Le inspiran marcas como Toyota y aplicaciones como Waze por su confiabilidad y tecnología. Para informarse sobre su auto, recurre a YouTube, blogs y amigos con conocimientos.
+
+Su objetivo es mantener su auto en buen estado sin gastar de más. Le frustra depender solo de las luces del tablero y las fallas inesperadas. Se considera extrovertido y está abierto a aprender si la herramienta es clara, útil y fácil de usar.
 
 Entrevista 2:
 
@@ -596,8 +609,17 @@ Edad: 25 años
 
 Distrito: Lima, Villa el Salvador
 
-Resumen: Johnny es un joven conductor que usa su auto a diario, aunque no lleva un control riguroso del mantenimiento. Tras una reparación costosa por falta de revisión, ahora está más abierto a soluciones preventivas. Se siente cómodo con la tecnología y usaría una app si es simple e intuitiva. Le interesa recibir alertas sobre fallas, consejos de conducción y recordatorios de mantenimiento. 
-Usa principalmente su smartphone Android y el navegador Chrome, y suele informarse por YouTube y redes sociales. Le frustra no tener señales claras sobre el estado del auto y valora herramientas que le ayuden a evitar gastos imprevistos. Tiene conocimientos básicos de mecánica y está dispuesto a aprender si la app es clara y útil. Su objetivo es mantener su vehículo en buen estado sin complicarse, evitando fallas costosas y prolongando su vida útil mediante herramientas tecnológicas que lo guíen de forma sencilla y práctica. 
+Resumen: Johnny es un joven conductor que usa su auto todos los días, un Toyota Yaris, principalmente para ir al trabajo y movilizarse por la ciudad. No lleva un registro formal del mantenimiento, solo lo atiende cuando nota algún problema. Antes tuvo que pagar una reparación costosa del motor por no hacer un cambio de aceite a tiempo, lo que ahora lo motiva a buscar soluciones preventivas.
+
+Hoy, para cuidar su auto, escucha los ruidos y lo lleva al taller cuando siente que algo está mal. Se siente cómodo con la tecnología y estaría dispuesto a usar una app si es fácil de entender. Le interesa recibir alertas personalizadas sobre fallas, mantenimientos pendientes y consejos útiles que lo ayuden a cuidar su vehículo sin complicarse.
+
+Le gustaría que la app le dé información como fechas de mantenimiento, advertencias de fallas comunes, hábitos de manejo que debe corregir y recomendaciones personalizadas. Estaría dispuesto a pagar hasta 40 o 50 soles mensuales si realmente ve que la app le ayuda a ahorrar dinero y evitar reparaciones graves.
+Para él, corregir malas prácticas de conducción con una app sería muy valioso, ya que a veces acelera innecesariamente o no frena de forma adecuada. Usa sobre todo su smartphone Android con el navegador Chrome, y accede principalmente desde el celular. Las redes sociales que más usa son TikTok e Instagram.
+
+Se siente influenciado por marcas como Hyundai y aplicaciones como Maps por su innovación y confianza. Cuando necesita información sobre su auto, consulta en YouTube y foros. Su objetivo es mantener su auto funcionando bien sin complicarse, evitando fallas costosas y prolongando su vida útil con apoyo tecnológico.
+
+Le frustra no tener avisos claros cuando algo está mal en el auto y tener que reaccionar solo cuando el problema ya es grave. Se considera una persona extrovertida, dispuesta a aprender si la herramienta que usa es clara, útil y práctica.
+
 
 Entrevista 3:
 
@@ -615,7 +637,18 @@ Edad: 49 años
 
 Ubicación: Lima, Villa el Salvador
 
-Resumen: Rocío Piñan Saavedra es una trabajadora dependiente de 49 años que vive en Lima y utiliza a diario su Hyundai i20 para ir al trabajo y cumplir con actividades familiares. Aunque procura hacerle mantenimiento a su auto, no lleva un control sistemático y suele postergarlo hasta que nota una falla, lo que ya le ocasionó gastos evitables, como una reparación del sistema eléctrico. No tiene conocimientos técnicos, pero está familiarizada con el uso de aplicaciones móviles y usaría una app para su auto siempre que sea sencilla. Le interesa recibir alertas personalizadas, recordatorios de mantenimiento y sugerencias de conducción. Usa principalmente su Iphone y navega con Safari; consulta fuentes como YouTube cuando necesita información. Su objetivo es evitar fallas graves y gastos imprevistos con ayuda de una herramienta que la guíe, y está dispuesta a pagar entre 45 y 65 soles al mes si realmente la ayuda a cuidar mejor su vehículo. Su perfil combina alta motivación por la prevención con baja gestión técnica activa.
+Resumen: Rocío Piñan Saavedra es una trabajadora dependiente de 49 años que vive en Lima y usa su Hyundai i20 todos los días para ir al trabajo y cumplir con actividades familiares. Aunque procura hacerle mantenimiento al auto, no lleva un control sistemático y suele postergar las revisiones hasta que detecta alguna falla. Por ejemplo, una vez tuvo que reparar el sistema eléctrico, lo que pudo haberse evitado con un control más preventivo.
+
+Actualmente, lo que hace para mantener su auto es llevarlo al taller cuando nota señales como luces encendidas o ruidos inusuales. No tiene conocimientos técnicos, pero está familiarizada con el uso de aplicaciones móviles y usaría una app si es simple, clara y no requiere conocimientos mecánicos.
+Está muy interesada en recibir alertas personalizadas sobre el estado de su vehículo, ya que le cuesta identificar problemas a tiempo. Valora recibir recordatorios de mantenimiento, sugerencias de conducción, y notificaciones que le indiquen cuándo debe revisar o cambiar algo.
+
+Está dispuesta a pagar entre 45 y 65 soles mensuales si la app realmente la ayuda a evitar fallas graves y controlar mejor los gastos. Para ella, poder corregir malas prácticas de conducción con ayuda de una app sería útil, porque no siempre es consciente de sus hábitos al volante, como frenar bruscamente o acelerar más de lo necesario.
+
+Utiliza principalmente su iPhone y navega con Safari. Consulta información en YouTube cuando necesita resolver dudas sobre su auto. Sus redes sociales más usadas son Facebook e Instagram.
+
+Se siente influenciada por marcas como Hyundai por la confiabilidad. Su objetivo principal es evitar fallas inesperadas y gastos imprevistos, con la ayuda de una herramienta tecnológica que le simplifique el proceso y la guíe paso a paso, sin necesidad de tener conocimientos técnicos.
+Lo que más le frustra es no tener señales claras de cuándo el auto necesita atención y tener que lidiar con imprevistos que interrumpen su rutina. Se considera una persona introvertida y práctica, que prefiere soluciones simples y eficientes
+
 
 **Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery)**
 
@@ -635,11 +668,15 @@ Edad: 25 años
 
 Distrito: Chorrillos 
 
-Resumen: Sebastián, un joven de 25 años, que vive en Chorrillos, realiza el mantenimiento de su vehículo de forma reactiva, cada 3 o 4 meses, solo cuando detecta fallas evidentes como ruidos extraños. Esto ya le ha causado problemas serios, como una avería en la bomba de gasolina que afectó su trabajo e ingresos. Se guía únicamente por las luces del tablero y no cuenta con herramientas para conocer el estado real del auto.
+Resumen: Sebastián, un joven de 25 años que vive en Chorrillos, realiza el mantenimiento de su auto de manera reactiva, cada 3 o 4 meses, solo cuando detecta fallas evidentes como ruidos extraños o pérdida de rendimiento. Esta forma de actuar ya le causó una avería en la bomba de gasolina, lo que afectó su trabajo y sus ingresos, ya que no pudo usar el vehículo por varios días.
 
-Reconoce que su conducción brusca acelera el desgaste, pero a veces es inevitable por el ritmo laboral. Probó una app conectada a un escáner OBD, pero la experiencia fue negativa porque no entendía los códigos técnicos. Por eso, valora una app sencilla con alertas claras, resúmenes semanales, recomendaciones de conducción y recordatorios de mantenimiento.
+Durante el día, se guía solo por las luces del tablero, ya que no tiene otra forma de monitorear el estado real del auto. Sabe que su conducción brusca afecta el vehículo, pero a veces es inevitable por la carga laboral.
 
-Accede principalmente desde su smartphone Android usando el navegador Chrome. Aunque entiende las alertas básicas del tablero, necesita una interfaz más comprensible. Se inclina por marcas de autos como Kia y Toyota, y usualmente usa apps como Youtube e instagram. Está dispuesto a pagar una suscripción mensual si le ayuda a prevenir fallas, reducir gastos y trabajar con mayor tranquilidad. Se frustra por no poder anticiparse a los problemas mecánicos y desea una solución práctica y fácil de usar.
+Probó una app con escáner OBD, pero fue frustrante porque no entendía los códigos técnicos. Por eso, valora una app que sea simple, con alertas claras, recomendaciones prácticas y recordatorios de mantenimiento.
+
+Sebastián accede principalmente desde su smartphone Android, usando el navegador Chrome. No utiliza laptop o tablet para temas del auto. Aunque puede interpretar algunas luces básicas del tablero, se siente inseguro con señales más complejas y por eso necesita una interfaz clara y visual.
+
+Se siente identificado con marcas como Kia y Toyota, y consulta en YouTube cuando tiene dudas. Está dispuesto a pagar una suscripción si la app le ayuda a prevenir fallas y ahorrar dinero. Le frustra no anticiparse a los problemas mecánicos y quiere una solución práctica y fácil de usar. Se considera una persona extrovertida y le agrada pasar el tiempo acompañado con alguien más.
 
 Entrevista 5:
 
@@ -657,11 +694,17 @@ Edad: 48 años
 
 Distrito: Villa María del Triunfo
 
-Resumen: La entrevistada es una conductora que depende totalmente de su vehículo para trabajar, por lo que procura hacerle mantenimiento cada 5,000 kilómetros. Intenta ser ordenada con esto, ya que cualquier falla impacta directamente en sus ingresos. Hace dos meses tuvo un problema con el sistema de frenos que la dejó dos días sin trabajar, justo en un fin de semana, lo que le generó una pérdida considerable. Su única forma de monitorear el estado del auto es a través del tablero y los sonidos del motor, aunque admite que no siempre interpreta bien las alertas del tablero. No cuenta con herramientas adicionales. Valora mucho su estilo de conducción: evita frenar bruscamente, no sobrecarga el auto y trata de manejar con cuidado. 
+Resumen: Rocío Castañeda depende totalmente de su vehículo para trabajar, por eso realiza mantenimiento cada 5,000 km y trata de ser ordenada. Aun así, hace dos meses tuvo una falla en el sistema de frenos que la dejó dos días sin trabajar en un fin de semana, generándole una pérdida importante.
 
-En una ocasión, un mecánico le mostró una app conectada a un escáner OBD, que le pareció útil, aunque no volvió a usarla. Le gustaría contar con una app simple, con notificaciones claras sobre el motor, batería, aceite y frenos, que le diga si puede seguir manejando o debe detenerse. También valora poder planificar el mantenimiento. Usa principalmente su smartphone Android con el navegador Chrome, y no tiene una marca o app que la inspire especialmente, pero busca soluciones prácticas. 
+Monitorea el estado del auto solo a través del tablero y los sonidos del motor, aunque admite que no siempre entiende bien las alertas. No usa herramientas adicionales.
 
-Su objetivo es mantener el vehículo en buen estado para evitar interrupciones en el trabajo, y lo que más le frustra es no saber cuándo algo fallará hasta que ya es demasiado tarde. Está dispuesta a pagar una suscripción mensual si eso le ayuda a prevenir gastos mayores y cuidar mejor su herramienta de trabajo.
+Cuida mucho su forma de manejar, evita frenar bruscamente y no sobrecarga el vehículo. Una vez usó una app conectada a un escáner OBD, le pareció útil pero no la volvió a usar.
+
+Le gustaría contar con una app simple, con alertas claras sobre el estado del motor, batería, aceite y frenos, que le diga si puede seguir manejando o debe detenerse. También valora poder planificar el mantenimiento.
+
+Usa principalmente su smartphone Android con Chrome, y le inspiran marcas como Toyota. Está dispuesta a pagar una suscripción mensual si eso le ayuda a evitar fallas y cuidar mejor su herramienta de trabajo.
+
+Lo que más le frustra es no saber que algo fallará hasta que ya es demasiado tarde. Su objetivo es mantener el vehículo en buen estado para no perder ingresos ni detener su trabajo. Se considera a sí misma una persona introvertida y le agrada pasar tiempo en familia.
 
 Entrevista 6:
 
@@ -679,11 +722,11 @@ Edad: 38 años
 
 Distrito: Surco
 
-Resumen: Melina Sofía Gutiérrez Ramos es conductora de una app de movilidad y realiza el mantenimiento de su vehículo aproximadamente cada tres meses, aunque a veces lo posterga por falta de tiempo o dinero. Normalmente lleva el auto al taller solo si nota fallas evidentes como ruidos o comportamientos extraños. Recientemente tuvo problemas con la batería mientras trabajaba, lo que la dejó sin ingresos por un tiempo y le generó frustración. Actualmente se guía solo por las luces del tablero y los sonidos del vehículo, aunque reconoce que no siempre interpreta correctamente las alertas.
+Resumen: Melina realiza el mantenimiento de su vehículo aproximadamente cada tres meses, aunque a veces lo posterga por falta de tiempo o dinero, y usualmente decide hacerlo cuando nota fallas evidentes. Recientemente tuvo un problema con la batería mientras trabajaba, lo que la dejó varada y sin ingresos, generándole mucha frustración. 
 
-No cuenta con herramientas adicionales para el diagnóstico y depende de su experiencia para conducir con suavidad y evitar daños, algo que ha ido mejorando con el tiempo. En una ocasión probó una app de diagnóstico con un mecánico, pero la información era muy técnica y difícil de entender. Le gustaría contar con una app sencilla que le ofrezca alertas claras sobre el estado del motor, frenos, batería y aceite, además de consejos de conducción y recordatorios de mantenimiento. Considera muy útil que la app le diga en lenguaje simple qué necesita revisar para no quedarse varada.
+Actualmente monitorea el estado del auto solo mediante las luces del tablero y los sonidos del motor, aunque reconoce que no siempre interpreta bien las alertas. No cuenta con herramientas adicionales de diagnóstico, pero considera muy importante su forma de conducir para evitar daños, y ha mejorado su estilo con el tiempo. En una ocasión probó una app conectada a un escáner OBD junto con un mecánico, pero le pareció muy técnica y difícil de entender. Por eso, le gustaría contar con una app sencilla que ofrezca alertas claras sobre el motor, frenos, batería y aceite, además de consejos de conducción y recordatorios de mantenimiento. Considera muy útil que la app le diga en lenguaje simple si puede seguir manejando o debe detenerse. 
 
-Melina accede principalmente desde su tablet Android y laptop Windows usando el navegador Chrome y Opera respectivamente, y aunque no tiene marcas ni apps favoritas, valora las soluciones tecnológicas que sean claras y útiles. Su objetivo principal es mantener su vehículo en buen estado para seguir trabajando sin interrupciones, y lo que más le frustra es quedarse detenida por fallas que podría haber evitado si tuviera más información a tiempo. Está dispuesta a pagar una suscripción mensual si el servicio es confiable, fácil de usar y tiene un precio razonable.
+Usa principalmente su tablet Android y laptop Windows, con los navegadores Chrome y Opera. Se siente influenciada por marcas como Kia. Interpreta las alertas básicas del tablero, pero desearía mayor claridad. Su objetivo es mantener el vehículo en buen estado para no detener su trabajo, y lo que más le frustra es no poder anticiparse a fallas que podrían evitarse. Está dispuesta a pagar una suscripción mensual si la app es confiable, fácil de usar y le ayuda a prevenir fallas.
 
 **Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
 
@@ -713,7 +756,7 @@ En cuanto a la información técnica que considera más útil, menciona: código
 
 Accede principalmente desde su smartphone Android y usa con frecuencia el navegador Chrome, aunque también utiliza una laptop Windows para tareas administrativas.
 
-Richard valora más marcas como Mobil y Amelie, además valora la tecnología que mejora la eficiencia del taller. Su objetivo profesional es brindar un servicio más moderno y confiable. Lo que más le frustra de su trabajo es la falta de información previa del vehículo, el tiempo que pierde en explicaciones repetitivas, y la falta de herramientas tecnológicas que le permitan mejorar su productividad.
+Richard valora más marcas como Mobil y Amalie. Su objetivo profesional es brindar un servicio más moderno y confiable. Lo que más le frustra de su trabajo es la falta de información previa del vehículo, el tiempo que pierde en explicaciones repetitivas, y la falta de herramientas tecnológicas que le permitan mejorar su productividad. Se considera una persona extrovertida, lo que le facilita el trato directo con los clientes.
 
 
 Entrevista 8:
@@ -732,14 +775,13 @@ Edad: 53 años
 
 Distrito: Villa maría del triunfo
 
-Resume:Se entrevistó a José Navarro, un mecánico automotriz, para conocer los desafíos que enfrenta en su trabajo diario y cómo la tecnología podría ayudarlo. José comenta que con frecuencia recibe clientes que no tienen claro qué falla tiene su vehículo, lo cual le hace perder tiempo en diagnósticos. Considera que una aplicación capaz de generar diagnósticos previos o conectarse con la computadora del auto sería muy beneficiosa tanto para él como para el cliente. También ve como una gran ventaja contar con un historial técnico del vehículo dentro de una app, lo cual facilitaría la identificación de fallas recurrentes.
+Resume:Se entrevistó a José Navarro, un mecánico automotriz con formación principalmente empírica y algunos cursos técnicos. Señala que frecuentemente atiende a clientes que no saben qué falla tiene su vehículo, lo que le hace perder tiempo en diagnósticos. Considera muy útil una app que genere diagnósticos previos o se conecte a la computadora del auto, ya que agilizaría su trabajo y beneficiaría al cliente.
 
-Está interesado en aparecer en un mapa digital de talleres para aumentar su visibilidad y atraer más clientes. Además, valora la posibilidad de recibir datos precisos desde sensores del auto, lo que le permitiría trabajar con mayor rapidez y eficiencia. Está dispuesto a pagar una suscripción mensual si la herramienta demuestra ser rentable y confiable.
+También ve como una gran ventaja contar con el historial técnico del vehículo dentro de la app, facilitando la detección de fallas recurrentes. Está interesado en aparecer en un mapa digital de talleres, lo que aumentaría su visibilidad y le permitiría captar más clientes. Valora recibir datos de sensores del auto para trabajar con mayor rapidez y precisión, y estaría dispuesto a pagar una suscripción mensual si la herramienta es rentable y confiable.
 
-José accede principalmente desde su smartphone Android y laptop Windows, usando el navegador Chrome. Su formación es principalmente empírica, aunque ha recibido algunos cursos técnicos. Actualmente utiliza herramientas como escáneres OBD y hojas de cálculo básicas, pero no apps específicas. Cree que esta tecnología le permitiría brindar un mejor servicio y ahorrar tiempo en diagnósticos, beneficiando a los clientes con reparaciones más rápidas y precisas.
+Cree que la tecnología mejoraría el servicio, ahorraría tiempo y permitiría reparaciones más rápidas y certeras. Destaca como información técnica útil los códigos de falla en lenguaje claro, historial de mantenimiento y alertas sobre partes críticas. Actualmente utiliza escáneres OBD y hojas de cálculo básicas, pero no apps específicas ni sistemas de gestión.
 
-Entre sus preocupaciones menciona que algunos colegas podrían tener dificultades para adaptarse al uso de nuevas tecnologías. No tiene marcas o apps específicas que lo inspiren, pero está abierto a cualquier solución que mejore su trabajo. Su objetivo es modernizar su taller y ofrecer un servicio más ágil y confiable. Lo que más le frustra es la pérdida de tiempo causada por la falta de información previa sobre el vehículo y la dificultad de explicar fallas técnicas a los clientes sin un respaldo visual o digital.
-
+Accede principalmente desde su smartphone Android y laptop con Windows, utilizando el navegador Chrome. Aprecia y valora marcas como Liqui Moly y Trupper. Su objetivo es modernizar su taller y ofrecer un servicio más eficiente. Le frustra la falta de información previa del vehículo y tener que explicar fallas técnicas sin apoyo visual. Se considera una persona introvertida, aunque se comunica bien con los clientes cuando es necesario.
 
 Entrevista 9:
 
@@ -758,11 +800,13 @@ Edad: 30 años
 
 Distrito: Salamanca
 
-Resumen: Se entrevistó a Luis, un mecánico automotriz con varios años de experiencia, para conocer los desafíos que enfrenta en su trabajo y cómo una aplicación tecnológica podría ayudarlo. Luis comenta que la mayoría de los clientes llegan a su taller sin tener claro qué parte del vehículo está fallando, lo que le hace perder tiempo en diagnósticos. Considera que una app que permita llevar un historial de mantenimiento de cada vehículo sería muy útil para brindar un servicio más organizado y eficiente.
+Resumen: Se entrevistó a Luis, un mecánico automotriz con varios años de experiencia y formación mixta entre práctica empírica y estudios técnicos. Comenta que la mayoría de sus clientes llegan sin saber qué parte del vehículo está fallando, lo que le hace perder tiempo en diagnósticos. Considera muy útil una app que lleve el historial de mantenimiento de cada vehículo y permita diagnósticos automáticos o más precisos, lo que agilizaría su trabajo y mejoraría la exactitud de las reparaciones.
 
-Además, destaca la importancia de contar con una herramienta que permita realizar diagnósticos automáticos o más precisos, lo que agilizaría su trabajo y mejoraría la exactitud en la detección de fallas. Está dispuesto a pagar una suscripción mensual si la app le ofrece mayor visibilidad de su taller y herramientas que realmente faciliten su labor diaria.
+Está dispuesto a pagar una suscripción mensual si la app le ofrece herramientas funcionales y mayor visibilidad de su taller, como aparecer en un mapa digital para atraer nuevos clientes. Cree que los datos enviados por sensores del auto serían de gran valor para ofrecer un servicio más profesional, rápido y eficiente. Considera que esta tecnología beneficiaría tanto a mecánicos como a clientes al hacer el proceso más claro, preciso y confiable.
 
-Luis accede principalmente desde su smartphone Android y laptop, utilizando Chrome como navegador habitual. Su formación es una combinación de experiencia empírica y estudios técnicos. Actualmente usa hojas de cálculo básicas para organizar su trabajo, además usa apps como Youtube y busca información en foros para mantenerse informado. Cree que esta tecnología beneficiaría tanto a mecánicos como a clientes, haciendo el proceso más claro y rápido. Le preocupa que algunos usuarios no sepan interpretar correctamente la información técnica, pero considera que con una interfaz simple esto se puede resolver. No tiene marcas o apps que lo inspiren, pero valora las herramientas digitales que sean prácticas y confiables. Su objetivo es mejorar la calidad del servicio que ofrece y modernizar su taller, y lo que más le frustra es la falta de información previa al momento de revisar un auto y el tiempo que se pierde explicando fallas sin apoyo visual o técnico claro.
+Destaca que la información técnica más útil sería: códigos de falla explicados en lenguaje sencillo, historial de mantenimientos, y alertas tempranas de componentes críticos. Utiliza principalmente un smartphone Android y una laptop con Windows, accediendo habitualmente a través del navegador Chrome. Actualmente organiza su trabajo con hojas de cálculo básicas y usa apps como YouTube y foros para mantenerse actualizado, aunque no emplea herramientas de diagnóstico digitales específicas.
+
+Luis sigue marcas como Liqui Moly y Amalie, ya que considera que son marcas confiables. Le preocupa que su taller automotriz no progrese como él espera. Su objetivo es modernizar su taller y mejorar la calidad del servicio. Lo que más le frustra es la falta de información previa al revisar un vehículo y el tiempo que pierde explicando fallas sin un soporte visual o técnico adecuado. Se considera una persona introvertida, pero se comunica con claridad cuando el cliente lo requiere.
 
 ### 2.2.3. Análisis de entrevistas
 
