@@ -778,8 +778,14 @@ En esta sección se presenta el prototipo de la aplicación web desarrollado en 
 ## 4.6. Domain-Driven Software Architecture
 En esta sección se aplicará el modelo C4 para definir la estructura del software, abarcando niveles como el contexto, los contenedores, los componentes y la implementación. Este enfoque permite comprender fácilmente la arquitectura del sistema, tanto por el equipo de trabajo como por otras personas involucradas en el proyecto.
 ### 4.6.1. Software Architecture Context Diagram
+
+Para identificar y representar de manera clara los usuarios y sistemas externos que interactúan con nuestra plataforma, se ha desarrollado un diagrama de contexto. En él se visualiza que los principales usuarios del sistema VEHIX son los conductores independientes, los conductores profesionales y los mecánicos, quienes acceden al sistema a través de un navegador web. Además, el sistema se comunica con servicios externos clave: Google Maps, que proporciona datos de geolocalización y mapas en tiempo real; un servicio de pagos, como Visa, Mastercard o American Express, para procesar transacciones seguras; y Firebase Cloud Messaging, una plataforma de mensajería en la nube utilizada para enviar notificaciones y recordatorios en tiempo real a los usuarios.
+
 ![C4](/assets/imgs/chapter-IV/arquictecture/contexto.png)
 ### 4.6.2. Software Architecture Container Diagrams
+
+Con el objetivo de representar la arquitectura interna de los componentes principales que conforman el sistema VEHIX, se ha elaborado un diagrama de contenedores, el cual permite visualizar cómo interactúan los diferentes usuarios con los elementos de software y servicios externos. En este modelo, los usuarios principales —conductores independientes, conductores profesionales y mecánicos— acceden a la página de aterrizaje (Landing Page) y a la aplicación web, desde donde obtienen contenido informativo o interactúan con funcionalidades dinámicas del sistema. La lógica de negocio se gestiona en la aplicación SPA (Single Page Application), la cual corre en el navegador del usuario y consume servicios expuestos por la API Application, encargada de procesar solicitudes y entregar datos en formato JSON. Todos los datos relacionados a usuarios, diagnósticos y suscripciones son almacenados en la base de datos VEHIX.
+
 ![C4](/assets/imgs/chapter-IV/arquictecture/contenedores.png)
 ### 4.6.3. Software Architecture Components Diagrams
 ![C4](/assets/imgs/chapter-IV/arquictecture/componentes.png)
