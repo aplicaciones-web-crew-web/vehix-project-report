@@ -1,6 +1,7 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
-En esta sección se presenta el To-Be Scenario Mapping, una representación visual que describe cómo debería ser la experiencia ideal del usuario al interactuar con Vehix.
+En esta sección se abordará el To-Be Scenario Mapping para cada uno de las User Persona, en el cual describiremos en filas Phases, Doing, Thinking y Feeling.
+
 Segmento 1:
 
 ![to-be-scenario-mapping-segment-1](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-1.jpg)
@@ -14,6 +15,8 @@ Segemento 3:
 ![to-be-scenario-mapping-segment-3](/assets/imgs/chapter-III/to-be-scenario-mapping-segment-3.jpg)
 
 ## 3.2. User Stories
+En esta sección el equipo redacta la definición y la elaboración de los User Stories. Las historias de usuario son un recurso clave para construir software y diseñar proyectos con enfoque en las necesidades y experiencias de las personas.
+
 | Epic /Story ID | Título | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
 | :---- | :---- | ----- | ----- | ----- |
 | EP01 | Gestión de usuarios |**Como** conductor independiente **quiero** crear una cuenta en la aplicación **para** asegurar mis datos y registros| \- | \- |
@@ -67,11 +70,12 @@ Segemento 3:
 | US42 | Registro Usuario | **Como** developer, **quiero** crear un nuevo usuario enviando su nombre, correo electrónico y contraseña, **para** que pueda permitir el registro de usuarios en la plataforma. | **Escenario 1: Registro exitoso de usuario Dado que** el developer proporciona un nombre, correo electrónico y contraseña válidos, **Cuando** el developer realiza una solicitud POST para registrar un usuario, **Entonces** el sistema crea el nuevo usuario y devuelve su información básica junto con una confirmación de éxito. **Escenario 2: Error por datos duplicados en el registro Dado que** el developer proporciona un correo electrónico que ya está registrado, **Cuando** el developer realiza una solicitud POST para registrar un usuario, **Entonces** el sistema rechaza la solicitud y devuelve un mensaje de error indicando que el correo electrónico ya existe.  | EP07 |
 
 ## 3.3. Impact Mapping
-En esta sección se presenta el Impact Mapping de Vehix, una técnica estratégica que permite visualizar cómo nuestras funcionalidades ayudarán a alcanzar los objetivos del negocio.
+En este sección, nuestro equipo expone el uso del Impact Mapping, una técnica visual y participativa que permite conectar metas estratégicas con los resultados esperados, fomentando la alineación y el enfoque del equipo.
 
 ![impactmapping](/assets/imgs/chapter-III/impact-map.png)
 ## 3.4. Product Backlog
-A continuación se detalla el Product Backlog del proyecto Vehix. Este backlog contiene una lista priorizada de funcionalidades, mejoras y tareas necesarias para la evolución del producto. Está diseñado para ser flexible, permitiendo reorganizar las prioridades a medida que se obtenga feedback de los usuarios y se avance en el desarrollo.
+A continuación se detalla el Product Backlog del proyecto Vehix. En el Product Backlog mostraremos una lista ordenada de nuestras historias de usuario, priorizadas de acuerdo con el consenso del equipo. Para estimar la complejidad de cada tarea, empleamos la secuencia de Fibonacci (1, 2, 3, 5, 8) como referencia.
+
 <table>
         <tr>
           <td><strong>#Orden</strong></td>
