@@ -778,8 +778,11 @@ En esta sección se presenta el prototipo de la aplicación web desarrollado en 
 ## 4.6. Domain-Driven Software Architecture
 En esta sección se aplicará el modelo C4 para definir la estructura del software, abarcando niveles como el contexto, los contenedores, los componentes y la implementación. Este enfoque permite comprender fácilmente la arquitectura del sistema, tanto por el equipo de trabajo como por otras personas involucradas en el proyecto.
 ### 4.6.1. Software Architecture Context Diagram
+![C4](/assets/imgs/chapter-IV/arquictecture/contexto.png)
 ### 4.6.2. Software Architecture Container Diagrams
+![C4](/assets/imgs/chapter-IV/arquictecture/contenedores.png)
 ### 4.6.3. Software Architecture Components Diagrams
+![C4](/assets/imgs/chapter-IV/arquictecture/componentes.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
