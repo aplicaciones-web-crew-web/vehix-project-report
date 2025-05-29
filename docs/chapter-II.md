@@ -473,7 +473,7 @@ Después de un análisis, se realizaron las siguientes preguntas para entrevista
 
 ¿Qué navegador y sistema operativo utilizas más? ¿Desde qué dispositivos accedes normalmente (smartphone, laptop, tablet, etc.)?
 
-¿Qué redes sociales usas más?
+¿Qué redes sociales o plataformas usas más?
 
 ¿Tienes marcas de autos, tecnología o apps que te influyan o inspiren?
 
@@ -726,7 +726,7 @@ Resumen: Melina realiza el mantenimiento de su vehículo aproximadamente cada tr
 
 Actualmente monitorea el estado del auto solo mediante las luces del tablero y los sonidos del motor, aunque reconoce que no siempre interpreta bien las alertas. No cuenta con herramientas adicionales de diagnóstico, pero considera muy importante su forma de conducir para evitar daños, y ha mejorado su estilo con el tiempo. En una ocasión probó una app conectada a un escáner OBD junto con un mecánico, pero le pareció muy técnica y difícil de entender. Por eso, le gustaría contar con una app sencilla que ofrezca alertas claras sobre el motor, frenos, batería y aceite, además de consejos de conducción y recordatorios de mantenimiento. Considera muy útil que la app le diga en lenguaje simple si puede seguir manejando o debe detenerse. 
 
-Usa principalmente su tablet Android y laptop Windows, con los navegadores Chrome y Opera. Se siente influenciada por marcas como Kia. Interpreta las alertas básicas del tablero, pero desearía mayor claridad. Su objetivo es mantener el vehículo en buen estado para no detener su trabajo, y lo que más le frustra es no poder anticiparse a fallas que podrían evitarse. Está dispuesta a pagar una suscripción mensual si la app es confiable, fácil de usar y le ayuda a prevenir fallas.
+Usa principalmente su tablet Android y laptop Windows, con los navegadores Chrome y Opera. Se siente influenciada por marcas como Kia. Interpreta las alertas básicas del tablero, pero desearía mayor claridad. Su objetivo es mantener el vehículo en buen estado para no detener su trabajo, y lo que más le frustra es no poder anticiparse a fallas que podrían evitarse. Está dispuesta a pagar una suscripción mensual si la app es confiable, fácil de usar y le ayuda a prevenir fallas. Se considera a sí misma como una persona extrovertida y le gusta ir a lugares concurridos.
 
 **Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
 
@@ -840,14 +840,34 @@ Este segmento agrupa a personas cuyo vehículo es su herramienta para movilizars
 
 ![chart img](/assets/imgs/chapter-II/analysis-chart-6.png)
 
+¿Tienes marcas de autos, tecnología o apps que te influyan o inspiren?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-15.png)
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-16.png)
+
+¿Qué redes sociales o plataformas usas más?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-21.png)
+
+¿Desde qué dispositivos accedes normalmente (smartphone, laptop, tablet, etc.)? ¿Que sistema operativo usa?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-17.png)
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-18.png)
+
+¿Qué te frustra sobre tener un vehículo con respecto a su uso y mantenimiento?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-19.png)
+
+¿Te consideras una persona introvertida o extrovertida?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-20.png)
+
 
 **Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery)**
 
 Este segmento agrupa a personas cuyo vehículo es su herramienta de trabajo principal (conductores de Uber, InDriver, taxi, delivery u otros), con altísima dependencia operativa, y que enfrentan retos tanto técnicos como económicos al momento de mantener sus autos en buen estado.
-
-¿Que navegador usa?
-
-![chart img](/assets/imgs/chapter-II/analysis-chart-7.png)
 
 ¿Postergó alguna vez un mantenimiento por falta de dinero o tiempo?
 
@@ -864,6 +884,24 @@ Este segmento agrupa a personas cuyo vehículo es su herramienta de trabajo prin
 ¿Se sienten motivados a cambiar sus hábitos de conducción y prevención si la información se les facilita?
 
 ![chart img](/assets/imgs/chapter-II/analysis-chart-10.png)
+
+¿Que navegador usa?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-7.png)
+
+¿Tienes marcas de autos, tecnología o apps que te influyan o inspiren?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-22.png)
+
+¿Desde qué dispositivos accedes normalmente (smartphone, laptop, tablet, etc.)? ¿Que sistema operativo usa?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-24.png)
+
+¿Qué te frustra sobre tener un vehículo con respecto a su uso y mantenimiento?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-25.png)
+
+¿Te consideras una persona introvertida o extrovertida?
 
 
 **Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
