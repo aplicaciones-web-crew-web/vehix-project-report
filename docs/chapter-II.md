@@ -574,6 +574,8 @@ Entrevista 1:
 
 Duración: 3 minutos 19 segundos
 
+Link de la entrevista: [Entrevista 1](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eac4c8898-1798-41b3-9826-db7ef2aca28f)
+
 Nombre: Lucas 
 
 Apellidos: Sanchez Heredia
@@ -600,6 +602,8 @@ Entrevista 2:
 [3:19 - 6:35]
 
 Duración: 3 minutos 16 segundos
+
+Link de la entrevista: [Entrevista 2](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
 
 Nombre: Johnny 
 
@@ -628,6 +632,8 @@ Entrevista 3:
 [6:35 - 9:58]
 
 Duración: 3 minutos 23 segundos
+
+Link de la entrevista: [Entrevista 3](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
 
 Nombre: Rocio 
 
@@ -660,6 +666,8 @@ Entrevista 4:
 
 Duración:  3 minutos 16 segundos
 
+Link de la entrevista: [Entrevista 4](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+
 Nombre: Sebastián Armando 
 
 Apellido: Del Rio
@@ -685,6 +693,8 @@ Entrevista 5:
 [13:14 - 17:01]
 
 Duración: 3 minutos 47 segundos
+
+Link de la entrevista: [Entrevista 5](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
 
 Nombre: Rocio 
 
@@ -714,6 +724,8 @@ Entrevista 6:
 
 Duración: 6 minutos 41 segundos
 
+Link de la entrevista: [Entrevista 6](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+
 Nombre: Melina Sofía
 
 Apellidos: Gutiérrez Ramos
@@ -737,6 +749,8 @@ Entrevista 7:
 [23:42 - 30:19] 
 
 Duración: 6 minutos 37 segundos
+
+Link de la entrevista: [Entrevista 7](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
 
 Nombre: Richard
 
@@ -767,6 +781,8 @@ Entrevista 8:
 
 Duración: 5 minutos 1 segundo
 
+Link de la entrevista: [Entrevista 8](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+
 Nombre: José Antonio  
 
 Apellidos: Navarro Amezquita
@@ -789,8 +805,9 @@ Entrevista 9:
 
 [35:20 - 39:00] 
 
-
 Duración: 3 minutos 40 segundos
+
+Link de la entrevista: [Entrevista 9](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
 
 Nombre: Luis
 
