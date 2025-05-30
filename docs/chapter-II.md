@@ -646,7 +646,7 @@ Está dispuesta a pagar entre 45 y 65 soles mensuales si la app realmente la ayu
 
 Utiliza principalmente su iPhone y navega con Safari. Consulta información en YouTube cuando necesita resolver dudas sobre su auto. Sus redes sociales más usadas son Facebook e Instagram.
 
-Se siente influenciada por marcas como Hyundai por la confiabilidad. Su objetivo principal es evitar fallas inesperadas y gastos imprevistos, con la ayuda de una herramienta tecnológica que le simplifique el proceso y la guíe paso a paso, sin necesidad de tener conocimientos técnicos.
+Se siente influenciada por marcas como Hyundai y aplicaciones como Maps por la confiabilidad. Su objetivo principal es evitar fallas inesperadas y gastos imprevistos, con la ayuda de una herramienta tecnológica que le simplifique el proceso y la guíe paso a paso, sin necesidad de tener conocimientos técnicos.
 Lo que más le frustra es no tener señales claras de cuándo el auto necesita atención y tener que lidiar con imprevistos que interrumpen su rutina. Se considera una persona introvertida y práctica, que prefiere soluciones simples y eficientes
 
 
@@ -806,7 +806,7 @@ Está dispuesto a pagar una suscripción mensual si la app le ofrece herramienta
 
 Destaca que la información técnica más útil sería: códigos de falla explicados en lenguaje sencillo, historial de mantenimientos, y alertas tempranas de componentes críticos. Utiliza principalmente un smartphone Android y una laptop con Windows, accediendo habitualmente a través del navegador Chrome. Actualmente organiza su trabajo con hojas de cálculo básicas y usa apps como YouTube y foros para mantenerse actualizado, aunque no emplea herramientas de diagnóstico digitales específicas.
 
-Luis sigue marcas como Liqui Moly y Amalie, ya que considera que son marcas confiables. Le preocupa que su taller automotriz no progrese como él espera. Su objetivo es modernizar su taller y mejorar la calidad del servicio. Lo que más le frustra es la falta de información previa al revisar un vehículo y el tiempo que pierde explicando fallas sin un soporte visual o técnico adecuado. Se considera una persona introvertida, pero se comunica con claridad cuando el cliente lo requiere.
+Luis sigue marcas como Liqui Moly y Amalie, ya que considera que son marcas confiables. Le preocupa que su taller automotriz no progrese como él espera. Su objetivo es modernizar su taller y mejorar la calidad del servicio. Lo que más le frustra es la falta de información previa al revisar un vehículo y el tiempo que pierde explicando fallas sin un soporte visual o técnico adecuado. Se considera una persona extroviertida, ya que se comunica con claridad cuando el cliente lo requiere.
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -903,10 +903,12 @@ Este segmento agrupa a personas cuyo vehículo es su herramienta de trabajo prin
 
 ¿Te consideras una persona introvertida o extrovertida?
 
+![chart img](/assets/imgs/chapter-II/analysis-chart-26.png)
+
 
 **Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
 
-Este segmento representa a profesionales automotrices con experiencia —en su mayoría empírica— que buscan eficiencia, precisión y modernización en su trabajo. Están abiertos a la tecnología si esta los ayuda a ahorrar tiempo, mejorar su servicio y atraer más clientes.
+Este segmento representa a profesionales automotrices con experiencia que buscan eficiencia, precisión y modernización en su trabajo. Están abiertos a la tecnología si esta los ayuda a ahorrar tiempo, mejorar su servicio y atraer más clientes.
 
 ¿Valorarías una app que te indique algún diagnóstico previo del vehículo del cliente?
 
@@ -923,6 +925,34 @@ Este segmento representa a profesionales automotrices con experiencia —en su m
 ¿Se siente abierto a aprender el uso de tecnología si es práctica y clara?
 
 ![chart img](/assets/imgs/chapter-II/analysis-chart-14.png)
+
+¿Desde qué dispositivos accedes normalmente (smartphone, laptop, tablet, etc.)? ¿Que sistema operativo usa?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-28.png)
+
+¿Te consideras una persona introvertida o extrovertida?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-27.png)
+
+¿Qué navegador usa?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-29.png)
+
+¿Qué herramientas digitales utilizas actualmente en tu trabajo (scanners, apps, hojas de cálculo, etc.)?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-30.png)
+
+¿Tienes marcas de autos, tecnología o apps que te influyan o inspiren?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-31.png)
+
+¿Tienes algún objetivo con respecto a tu trabajo?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-32.png)
+
+¿Que es lo que te frustra con respecto al trabajo que tienes?
+
+![chart img](/assets/imgs/chapter-II/analysis-chart-33.png)
 
 
 ## 2.3. Solution Profile
