@@ -666,7 +666,7 @@ Enlace del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_u
 
 ![benefits img](/assets/imgs/chapter-V/benefits_evidence.png)
 
-![testimonials img](/assets/imgs/chapter-V/testimonials_evidence.png)
+![testimonials img](/assets/imgs/chapter-V/testimonials.png)
 
 ![who are we img](/assets/imgs/chapter-V/who-are-we-web.png)
 
