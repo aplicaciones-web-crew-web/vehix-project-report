@@ -3,7 +3,7 @@
 Seguidamente, se mostrará un repositorio centralizado y estructurado que funcionará como referencia para un desarrollo enfocado y coherente de nuestra solución. Además se incluyen otras secciones para Source Code Management, Development Environment Configuration y Deployment Configuration.
 
 ### 5.1.1. Software Development Environment Configuration.
-En esta sección se detallan las herramientas y plataformas que se utilizaron para el desarrollo de la aplicacion Vehix.
+En esta sección, se detalla la configuración del entorno de desarrollo utilizado para construir la aplicación Vehix. Se describen las herramientas y plataformas que facilitaron la planificación del proyecto, el diseño centrado en el usuario, el desarrollo frontend y backend, las pruebas automatizadas y la documentación técnica. Estas soluciones permitieron una colaboración efectiva entre los miembros del equipo, asegurando un desarrollo ágil, organizado y alineado con los objetivos del sistema.
 ## Gestión del Proyecto
 La gestión del proyecto es clave para coordinar actividades, tareas y equipos, asegurando que el proyecto Vehix avance dentro de los tiempos y objetivos planteados.
 
