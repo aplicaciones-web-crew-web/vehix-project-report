@@ -702,7 +702,7 @@ Cuida mucho su forma de manejar, evita frenar bruscamente y no sobrecarga el veh
 
 Le gustaría contar con una app simple, con alertas claras sobre el estado del motor, batería, aceite y frenos, que le diga si puede seguir manejando o debe detenerse. También valora poder planificar el mantenimiento.
 
-Usa principalmente su smartphone Android con Chrome, y le inspiran marcas como Toyota. Está dispuesta a pagar una suscripción mensual si eso le ayuda a evitar fallas y cuidar mejor su herramienta de trabajo.
+Usa principalmente su smartphone Android con Chrome, y le inspiran marcas como Toyota, además consulta en YouTube en caso tenga alguna duda. Está dispuesta a pagar una suscripción mensual si eso le ayuda a evitar fallas y cuidar mejor su herramienta de trabajo.
 
 Lo que más le frustra es no saber que algo fallará hasta que ya es demasiado tarde. Su objetivo es mantener el vehículo en buen estado para no perder ingresos ni detener su trabajo. Se considera a sí misma una persona introvertida y le agrada pasar tiempo en familia.
 
@@ -726,7 +726,7 @@ Resumen: Melina realiza el mantenimiento de su vehículo aproximadamente cada tr
 
 Actualmente monitorea el estado del auto solo mediante las luces del tablero y los sonidos del motor, aunque reconoce que no siempre interpreta bien las alertas. No cuenta con herramientas adicionales de diagnóstico, pero considera muy importante su forma de conducir para evitar daños, y ha mejorado su estilo con el tiempo. En una ocasión probó una app conectada a un escáner OBD junto con un mecánico, pero le pareció muy técnica y difícil de entender. Por eso, le gustaría contar con una app sencilla que ofrezca alertas claras sobre el motor, frenos, batería y aceite, además de consejos de conducción y recordatorios de mantenimiento. Considera muy útil que la app le diga en lenguaje simple si puede seguir manejando o debe detenerse. 
 
-Usa principalmente su tablet Android y laptop Windows, con los navegadores Chrome y Opera. Se siente influenciada por marcas como Kia. Interpreta las alertas básicas del tablero, pero desearía mayor claridad. Su objetivo es mantener el vehículo en buen estado para no detener su trabajo, y lo que más le frustra es no poder anticiparse a fallas que podrían evitarse. Está dispuesta a pagar una suscripción mensual si la app es confiable, fácil de usar y le ayuda a prevenir fallas. Se considera a sí misma como una persona extrovertida y le gusta ir a lugares concurridos.
+Usa principalmente su tablet Android y laptop Windows, con los navegadores Chrome y Opera, también usa Youtube para aclarar dudas. Se siente influenciada por marcas como Kia. Interpreta las alertas básicas del tablero, pero desearía mayor claridad. Su objetivo es mantener el vehículo en buen estado para no detener su trabajo, y lo que más le frustra es no poder anticiparse a fallas que podrían evitarse. Está dispuesta a pagar una suscripción mensual si la app es confiable, fácil de usar y le ayuda a prevenir fallas. Se considera a sí misma como una persona extrovertida y le gusta ir a lugares concurridos.
 
 **Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes**
 
