@@ -425,7 +425,7 @@ En esta sección se presenta el análisis competitivo realizado por el equipo de
 ### 2.1.2. Estrategias y tácticas frente a competidores
 En esta sección se examinarán las estrategias y tácticas que se implementarán para capitalizar las debilidades de la competencia y hacer frente a sus fortalezas. Asimismo, se abordarán las amenazas y oportunidades que presentan los competidores.
 
-**Análisis Foda**
+**Análisis Foda**<br>
 A continuación se presenta el análisis FODA con el fin de identificar las oportunidades y amenazas presentes en el mercado, además de evaluar nuestras fortalezas y debilidades a nivel interno.
 
 ![foda](/assets/imgs/chapter-II/foda.png)
@@ -866,20 +866,19 @@ Con el fin de desarrollar un producto alineado con las necesidades específicas 
 ### 2.3.1. User Personas
 Después de un análisis de las entrevistas de cada segmento objetivo. Hemos elaborado perfiles de usuario teniendo en cuenta las características identificadas en cada entrevista. A continuación, se mostrarán los user personas, los cuales fueron creados en base a los analisis de entrevistas y los resúmenes de cada una de ellas.
 
-**Segmento 1**
+**Segmento 1** <br>
 Para la elaboracón de el User persona para el segmento 1 (Propietarios de vehículos urbanos), hemos tomado en cuenta sus datos demográficos, frustraciones, motivaciones, metas, marcas e influencias, entre otras más características.
 
 ![user personas segment 1 img](/assets/imgs/chapter-II/user-personas-segment-1.png)
 
 
-**Segmento 2**
-
+**Segmento 2** <br>
 Para la elaboracón de el User persona para el segmento 2 (Conductores independientes que generan ingresos con su vehículo), hemos tomado en cuenta sus datos demográficos, frustraciones, motivaciones, metas, marcas e influencias, entre otras más características.
 
 ![user personas segment 2 img](/assets/imgs/chapter-II/user-personas-segment-2.png)
 
 
-**Segmento 3**
+**Segmento 3** <br>
 Para la elaboracón de el User persona para el segmento 3 (Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes), hemos tomado en cuenta sus datos demográficos, frustraciones, motivaciones, metas, marcas e influencias, entre otras más características.
 
 ![user_personas_segment 3 img](/assets/imgs/chapter-II/user-personas-segment-3.png)
@@ -900,19 +899,19 @@ En esta sección se presenta el User Task Matrix, que concentra las tareas que l
 ### 2.3.3. User Journey Mapping
 Esta sección presenta los User Journey Maps correspondientes a cada User Persona, ofreciendo una visión integral del recorrido del usuario desde el comienzo hasta el final. Estos mapas reflejan el estado actual (As-Is) de cada segmento, sin proponer aún soluciones.
 
-**Segmento 1**
+**Segmento 1** <br>
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento 1 (Propietarios de vehículos urbanos), realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
 
 ![user-journey-mapping-segment-1](/assets/imgs/chapter-II/user-journey-mapping-segment-1.png)
 
-
-**Segmento 2**
+ 
+**Segmento 2** <br>
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento 2 (Conductores independientes que generan ingresos con su vehículo), realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
 
 ![user-journey-mapping-segment-2](/assets/imgs/chapter-II/user-journey-mapping-segment-2.png)
 
 
-**Segmento 3**
+**Segmento 3** <br>
 Mediante este artefacto se explicará y comprenderá como los usuarios del segmento 3 (Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes), realizan sus actividades para alcanzar sus objetivos desde su perspectiva.
 
 ![user-journey-mapping-segment-3](/assets/imgs/chapter-II/user-journey-mapping-segment-3.png)
@@ -920,18 +919,18 @@ Mediante este artefacto se explicará y comprenderá como los usuarios del segme
 ### 2.3.4. Empathy Mapping
 El siguiente paso dentro del proceso de needfinding consiste en evaluar a nuestros segmentos objetivos mediante empathy maps, con el fin de comprender mejor a estos segmentos e identificar sus necesidades más profundas.
 
-**Segmento 1**
+**Segmento 1** <br>
 Por la presente heramienta se ha buscado aboradar la elaboración del Empathy Mapping para el primer segmento (Propietarios de vehículos urbanos), el cual se busca responder una serie de preguntas, las cuales son mostradas en la imagen.
 ![empathy-mapping-segment-1](/assets/imgs/chapter-II/empathy-mapping-segment-1.png)
 
 
-**Segmento 2**
+**Segmento 2** <br>
 Por la presente heramienta se ha buscado aboradar la elaboración del Empathy Mapping para el segundo segmento (Conductores independientes que generan ingresos con su vehículo), el cual se busca responder una serie de preguntas, las cuales son mostradas en la imagen.
 
 ![empathy-mapping-segment-2](/assets/imgs/chapter-II/empathy-mapping-segment-2.png)
 
 
-**Segmento 3**
+**Segmento 3** <br>
 Por la presente heramienta se ha buscado aboradar la elaboración del Empathy Mapping para el tercer segmento (Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes), el cual se busca responder una serie de preguntas, las cuales son mostradas en la imagen.
 
 ![empathy-mapping-segment-3](/assets/imgs/chapter-II/empathy-mapping-segment-3.png)
@@ -939,18 +938,17 @@ Por la presente heramienta se ha buscado aboradar la elaboración del Empathy Ma
 ### 2.3.5. As-is Scenario Mapping
 En esta sección se desarrollará el As-Is Scenario Mapping para los segmentos, detallando cómo deben estructurarse las experiencias en cada una de sus fases.
 
-**Segmento 1**
+**Segmento 1** <br>
 Mediante este artefacto, se ha llevado a cabo la elaboración del As-isScenario Mapping para el primer segmento (Propietarios de vehículos urbanos).
 
 ![as-is-scenario-segmento-1](/assets/imgs/chapter-II/as-is-scenario-segmento-1.jpg)
 
-**Segmento 2**
-
+**Segmento 2** <br>
 Mediante este artefacto, se ha llevado a cabo la elaboración del As-isScenario Mapping para el segundo segmento (Conductores independientes que generan ingresos con su vehículo).
 
 ![as-is-scenario-segmento-2](/assets/imgs/chapter-II/as-is-scenario-segmento-2.jpg)
 
-**Segmento 3**
+**Segmento 3** <br>
 Mediante este artefacto, se ha llevado a cabo la elaboración del As-isScenario Mapping para el tercer segmento (Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes).
 
 ![as-is-scenario-segmento-3](/assets/imgs/chapter-II/as-is-scenario-segmento-3.jpg)
@@ -958,19 +956,20 @@ Mediante este artefacto, se ha llevado a cabo la elaboración del As-isScenario 
 ## 2.4. Ubiquitous Language
 En esta sección se crea un glosario con los términos esenciales del dominio del negocio, siguiendo el enfoque de Ubiquitous Language en Domain Driven Design. Este glosario ofrece definiciones precisas y claras de los conceptos relevantes al problema y su solución, promoviendo una comunicación eficiente entre todos los integrantes del equipo.
 
-| Termino (Ingles)          | Definicion                                                                                                                                      |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Vehicle**               | Medio de transporte motorizado, propiedad del usuario, sujeto a monitoreo por la aplicación.                                                    |
-| **Predictive Failure**    | Posible desperfecto técnico que el sistema identifica antes de que ocurra, gracias al análisis de datos históricos.                             |
-| **Alert**                 | Notificación enviada al conductor o mecánico informando sobre una falla detectada.                                                              |
-| **Vehicle Status**        | Documento o vista que resume el estado, uso, fallas, mantenimientos y predicciones del auto.                                                    |
-| **Driving Behavior**      | Forma en la que el usuario maneja su vehículo, incluyendo hábitos como aceleración, frenado, etc lo cual puede influir en su desgaste o fallas. |
-| **Driver**                | Persona que maneja un vehículo y utiliza la aplicación para prevenir o detectar fallas.                                                         |
-| **Mechanic**              | Especialista técnico encargado de interpretar los fallos y realizar las reparaciones necesarias.                                                |
-| **Sensor Data**           | Información recolectada en tiempo real desde el vehículo (temperatura, presión, velocidad, etc.).                                               |
-| **Diagnosis**             | Resultado generado por el sistema basado en los datos del sensor que indica posibles fallos.                                                    |
-| **Maintenance History**   | Registro de reparaciones, fallas y servicios previos realizados al vehículo.                                                                    |
-| **Prediction**            | Estimación generada por el sistema sobre una posible futura falla basada en patrones de datos.                                                  |
-| **Repair Recommendation** | Sugerencia generada por la aplicación sobre acciones a realizar ante una falla detectada.                                                       |
-| **Technical Report**      | Documento digital generado por el sistema que resume las fallas y posibles soluciones técnicas.                                                 |
-| **Inspection Session**    | Periodo en el cual el sistema recolecta y analiza datos del vehículo para emitir un diagnóstico.                                                |
+- **Vehicle (*Vehículo*)** : Medio de transporte registrado por el usuario dentro de la aplicación VEHIX. Sobre este se realizan diagnósticos y mantenimientos para evitar fallas inesperadas y prolongar su vida útil.
+  
+- **Driver (*Conductor*)** : Usuario de la aplicación VEHIX que registra su vehículo y toma decisiones respecto al mantenimiento basado en los diagnósticos y recomendaciones presentadas por la plataforma.
+
+- **Mechanic (*Mecánico*)** :	Profesional responsable de realizar revisiones, diagnósticos y reparaciones físicas en el vehículo, en función de la información proporcionada por VEHIX.
+
+- **Diagnostic	(*Diagnóstico*)** : Evaluación automatizada que determina el estado del vehículo y detecta posibles fallas a partir del análisis de patrones de uso, historial de mantenimientos y condiciones del auto.
+
+- **Fault	(*Falla*)**: Problema o defecto en el vehículo que compromete su funcionamiento. Puede ser detectado de forma preventiva por la aplicación o reportado durante una inspección.
+
+- **Repair Recommendation	(*Recomendación de reparación*)**: Sugerencia específica que brinda VEHIX sobre las acciones a realizar para corregir una falla o prevenir su aparición, como cambiar una pieza o revisar un componente.
+
+- **Maintenance	(*Mantenimiento*)**: Conjunto de acciones destinadas a conservar el vehículo en condiciones óptimas. En VEHIX, puede ser preventivo o correctivo, y se planifica según el uso y estado del vehículo.
+
+- **Maintenance History (*Historial de mantenimiento*)**: Registro de todas las acciones de mantenimiento realizadas al vehículo. Este historial es clave para generar predicciones y recomendaciones más acertadas en VEHIX.
+
+- **Vehicle Condition	(*Condición del vehículo*)**: Estado actual del vehículo, determinado a partir de los mantenimientos realizados, fallas detectadas y el comportamiento general de conducción. VEHIX actualiza este estado constantemente.
