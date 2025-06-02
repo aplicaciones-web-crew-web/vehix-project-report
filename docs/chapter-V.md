@@ -1158,7 +1158,7 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 		</tr>
 		<tr>
 			<td>Sprint 3 Goal</td>
-			<td>Our focus is on offering access to assets and resources, edit profile and preferences and operation and monitoring view, also allow to the developer create requests (GET, POST, PUT and DELETE), of the vehicles, users, mechanics and technical history. We believe it delivers confidence and active use of the product to new costumers. This will be confirmed when the customers interact actively with the new features that we offer to them. </td>
+			<td>our focus is on offering a login view,a sign up view and a library view, wich contains an different sections to read articles, watch videos and read documentation. Also allow the developer create requests (GET,POST,PUT and DELETE) of the vehicles, users, mechanics and technical history. We believe it delivers confidence and active use of the product to new customers. This will be confirmed when the customers interact actively with the new features that we will offer to them. </td>
 		</tr>
 		<tr>
 			<td>Sprint 3 Velocity</td>
