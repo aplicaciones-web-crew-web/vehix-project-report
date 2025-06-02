@@ -488,6 +488,8 @@ mobile:
 
 ![compatible vehicles mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/compatibility_wireframe.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/contact_wireframe.png)
 
 **Footer**: El pie de página de la landing page
@@ -571,9 +573,11 @@ Mobile:
 
 ![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
 
-**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
+**Compatibility**: Se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
+
+**Contact us**: Vista donde se mostrará un formulario de contacto.
 
 ![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
 
@@ -591,15 +595,14 @@ A continuación, hemos creado el diseño de los wireframes para el diseño de nu
 
 **Enlace**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
-### Log in
+### Log in and sign up
 
-**Log-in**: Vista donde el usuario accederá con su cuenta.
+Vistas para registro e ingreso del usuario.
+
 ![log-in](/assets/imgs/chapter-IV/wireframes/log-in/log-in.png)
 
-**Sign-up**: Vista donde el usuario se registrará.
 ![sign-up](/assets/imgs/chapter-IV/wireframes/log-in/sign-up.png)
 
-**Subscriptions plans**: Vista donde el usuario visualizará los planes de subscripción
 ![subscriptions-plannes](/assets/imgs/chapter-IV/wireframes/log-in/subscriptions-plannes.png)
 
 ### Plan PRO
@@ -733,7 +736,10 @@ Los mockups representan una etapa clave en el diseño de nuestras aplicaciones, 
 
 **Enlace**: [Figma mock ups (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
-### Log in
+### Log in and sign up
+
+Vistas para registro e ingreso del usuario.
+
 ![log-in](/assets/imgs/chapter-IV/mock-up/log-in/log-in.png)
 ![sign-up](/assets/imgs/chapter-IV/mock-up/log-in/sign-up.png)
 ![subscriptions-plannes](/assets/imgs/chapter-IV/mock-up/log-in/subscriptions-plannes.png)
