@@ -987,8 +987,6 @@ En esta sección se crea un glosario con los términos esenciales del dominio de
 
 - **Repair Recommendation	(*Recomendación de reparación*)**: Sugerencia específica que brinda VEHIX sobre las acciones a realizar para corregir una falla o prevenir su aparición, como cambiar una pieza o revisar un componente.
 
-- **Maintenance	(*Mantenimiento*)**: Conjunto de acciones destinadas a conservar el vehículo en condiciones óptimas. En VEHIX, puede ser preventivo o correctivo, y se planifica según el uso y estado del vehículo.
-
 - **Maintenance History (*Historial de mantenimiento*)**: Registro de todas las acciones de mantenimiento realizadas al vehículo. Este historial es clave para generar predicciones y recomendaciones más acertadas en VEHIX.
 
 - **Vehicle Condition	(*Condición del vehículo*)**: Estado actual del vehículo, determinado a partir de los mantenimientos realizados, fallas detectadas y el comportamiento general de conducción. VEHIX actualiza este estado constantemente.
