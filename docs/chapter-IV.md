@@ -446,6 +446,8 @@ desktop:
 
 ![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
 
 **Footer**: El pie de página de la landing page
@@ -535,6 +537,8 @@ Desktop:
 
 ![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
 
 **Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
@@ -595,9 +599,9 @@ A continuación, hemos creado el diseño de los wireframes para el diseño de nu
 
 **Enlace**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
-### Log in and sign up
+### Log in, sign up and subscription
 
-Vistas para registro e ingreso del usuario.
+Vistas para registro e ingreso del usuario, además está la vista para escoger una subscripción.
 
 ![log-in](/assets/imgs/chapter-IV/wireframes/log-in/log-in.png)
 
