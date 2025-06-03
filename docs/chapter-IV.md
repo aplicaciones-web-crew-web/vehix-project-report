@@ -1,4 +1,4 @@
-# Capítulo IV: Product Design
+![image](https://github.com/user-attachments/assets/9839f0bb-6393-46ed-aa21-a0985fa2dcd9)# Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 En esta sección, presentamos nuestra propuesta de diseño para el landing page y la aplicación web. Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunicativos que aseguran una experiencia coherente, intuitiva y accesible en toda la aplicación. Estas guías fueron diseñadas para mantener consistencia en todos los puntos de contacto con el usuario, incluyendo interfaz, notificaciones y mensajes del sistema.
 
@@ -606,53 +606,47 @@ Vistas para registro e ingreso del usuario.
 ![subscriptions-plannes](/assets/imgs/chapter-IV/wireframes/log-in/subscriptions-plannes.png)
 
 ### Plan PRO
-![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-pro/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/wireframes/plan-pro/audit.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/wireframes/plan-pro/bluetooth-conection.png)
-![buy-plan-pro](/assets/imgs/chapter-IV/wireframes/plan-pro/buy-plan-pro.png)
-![car-useful-life](/assets/imgs/chapter-IV/wireframes/plan-pro/car-useful-life.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/wireframes/plan-pro/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/wireframes/plan-pro/diagnostic-scan.png)
-![guide-bluetooth](/assets/imgs/chapter-IV/wireframes/plan-pro/guide-bluetooth.png)
-![help](/assets/imgs/chapter-IV/wireframes/plan-pro/help.png)
-![home](/assets/imgs/chapter-IV/wireframes/plan-pro/home.png)
-![last-diagnostic](/assets/imgs/chapter-IV/wireframes/plan-pro/last-diagnostic.png)
-![personal-information](/assets/imgs/chapter-IV/wireframes/plan-pro/personal-information.png)
-![problem-forecasting](/assets/imgs/chapter-IV/wireframes/plan-pro/problem-forecasting.png)
-![rapid-diagnosis](/assets/imgs/chapter-IV/wireframes/plan-pro/rapid-diagnosis.png)
-![recent-repairs](/assets/imgs/chapter-IV/wireframes/plan-pro/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/wireframes/plan-pro/report.png)
-![topic-1](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras.
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-1.png)
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-2.png)
+
+Los siguientes wireframes pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos.
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-pro/library-view-2.png)
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-pro/library-view-2.png)
+
+Los siguientes wireframes pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/wireframes/plan-pro/sync-views.png)
+
+Los siguientes wireframes pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/wireframes/plan-pro/profile-views.png)
 
 ### Plan STANDARD
-![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-standard/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/wireframes/plan-standard/audit.png)
-![bloqued-1](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-1.png)
-![bloqued-2](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-2.png)
-![bloqued-3](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-3.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/wireframes/plan-standard/bluetooth-conection.png)
-![buy-plan-standard](/assets/imgs/chapter-IV/wireframes/plan-standard/buy-plan-standard.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/wireframes/plan-standard/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/wireframes/plan-standard/diagnostic-scan.png)
-![home](/assets/imgs/chapter-IV/wireframes/plan-standard/home.png)
-![interface](/assets/imgs/chapter-IV/wireframes/plan-standard/interface.png)
-![last-scan](/assets/imgs/chapter-IV/wireframes/plan-standard/last-scan.png)
-![profile](/assets/imgs/chapter-IV/wireframes/plan-standard/profile.png)
-![recent-repairs](/assets/imgs/chapter-IV/wireframes/plan-standard/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/wireframes/plan-standard/report.png)
-![topic-1](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras. Sin embargo, tendrá ciertas vistas o componentes bloqueados debido a que es de un plan estándar y no pro.
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-standard/maintenance-view-11.png)
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-standard/maintenance-view-22.png)
+
+Los siguientes wireframes pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos. Sin embargo, tendrá ciertas vistas o componentes bloqueados debido a que es de un plan estándar y no pro.
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-standard/library-view-11.png)
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-standard/library-view-22.png)
+
+Los siguientes wireframes pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/wireframes/plan-standard/sync-view.png)
+
+Los siguientes wireframes pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/wireframes/plan-standard/profile-view.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Se le presenta el Enlace en el cual hemos desarrollado los wireflows de nuestra aplicación en la herramienta de Lucidchart.
