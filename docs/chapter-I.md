@@ -37,7 +37,10 @@ Vehix ofrece una solución integral, el cual monitorea en tiempo real el estado 
 **Monetización**
 
 Este servicio opera bajo un modelo de suscripción mensual. Al estar activo, el usuario tiene acceso completo a todas las funcionalidades de la app. En caso de cancelación o falta de pago, el acceso queda suspendido, garantizando así la continuidad del servicio solo para clientes activos.
+
 ### 1.2.1. Antecedentes y problemática
+En esta sección se incluye una aproximación preliminar de los antecedentes y la descripción de la problemática. Para ello, hemos aplicado la técnica de The 5 ‘W’s y 2 ‘H’s - Who, What, Where, When, Why, How & How Much.
+
 **Antecedentes**
 En la actualidad, los vehículos particulares y comerciales representan una parte esencial del transporte en el Perú. Según la Asociación Automotriz del Perú (AAP), en 2023 se reportaron más de 3.4 millones de vehículos circulando a nivel nacional, con una tendencia creciente en la compra de autos nuevos y usados. No obstante, con este incremento también ha surgido una preocupación creciente: el mantenimiento preventivo y la correcta utilización de los vehículos para evitar daños prematuros.
 
@@ -85,6 +88,8 @@ El costo por no realizar mantenimiento predictivo puede ser alto: por ejemplo, u
 Frente a esto, Vehix ofrece un modelo de suscripción mensual accesible, con planes desde S/. 20.00 mensuales. Además, el adaptador inteligente que se conecta al vehículo tiene un costo estimado de S/. 20.00. Esta inversión permite al usuario monitorear su vehículo en tiempo real, prevenir daños costosos, y extender la vida útil del auto, generando un importante ahorro a largo plazo.
 
 ### 1.2.2. Lean UX Process
+En esta sección se implementa el proceso Lean UX, abordando la visión del modelo de negocio que el producto de software respaldará. Se incluyen declaraciones del problema (Problem Statements), suposiciones (Assumptions) e hipótesis (Hypothesis Statements) conforme al enfoque Lean UX. Al final, se presenta el Lean UX Canvas correspondiente.
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 El estado actual del **mantenimiento vehicular en Perú** depende principalmente de servicios tradicionales y reactivos, donde la mayoría de conductores no cuentan con acceso a información en tiempo real sobre las condiciones de sus vehículos. Los conductores particulares y profesionales suelen postergar el mantenimiento por falta de conocimientos técnicos, tiempo o herramientas predictivas, mientras que los mecánicos trabajan muchas veces sin apoyo digital ni sistemas estructurados de diagnóstico.
@@ -230,7 +235,7 @@ En esta sección se presenta el Lean UX Canvas elaborado tras seguir los pasos d
 
 ![lean ux canvas img](/assets/imgs/chapter-I/lean-ux-canvas-update.PNG)
 ## 1.3. Segmentos objetivos
-En esta sección se detallan los segmentos objetivos identificados para la solución Vehix, considerando las necesidades específicas de cada grupo de usuarios. La segmentación se ha realizado con base en características demográficas, ocupacionales y tecnológicas.
+Esta sección detalla los segmentos relacionados con el ámbito del problema, incorporando características demográficas y datos estadísticos que brindan respaldo a su análisis. Por esta razón, con el objetivo de crear un producto que responda adecuadamente a las necesidades de nuestros clientes, Crew Tech centrará su atención en los siguientes segmentos de la población:
 
 **1. Propietarios de vehículos urbanos que desean prolongar la vida útil de su auto personal:** Personas que tienen uno o más vehículos y desean cuidarlos de forma inteligente, evitando gastos innecesarios a futuro y asegurando su buen funcionamiento diario.
  - Edad: 25 a 55 años

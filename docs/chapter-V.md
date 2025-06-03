@@ -1,7 +1,9 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
+Seguidamente, se mostrará un repositorio centralizado y estructurado que funcionará como referencia para un desarrollo enfocado y coherente de nuestra solución. Además se incluyen otras secciones para Source Code Management, Development Environment Configuration y Deployment Configuration.
+
 ### 5.1.1. Software Development Environment Configuration.
-En esta sección se detallan las herramientas y plataformas que se utilizaron para el desarrollo de la aplicacion Vehix
+En esta sección, se detalla la configuración del entorno de desarrollo utilizado para construir la aplicación Vehix. Se describen las herramientas y plataformas que facilitaron la planificación del proyecto, el diseño centrado en el usuario, el desarrollo frontend y backend, las pruebas automatizadas y la documentación técnica. Estas soluciones permitieron una colaboración efectiva entre los miembros del equipo, asegurando un desarrollo ágil, organizado y alineado con los objetivos del sistema.
 ## Gestión del Proyecto
 La gestión del proyecto es clave para coordinar actividades, tareas y equipos, asegurando que el proyecto Vehix avance dentro de los tiempos y objetivos planteados.
 
@@ -46,8 +48,9 @@ Esto facilitó una verificación sistemática del comportamiento esperado de la 
 ## Documentación del Software
 
 Incluye todo el material que describe el funcionamiento del sistema y cómo utilizarlo. La documentación fue elaborada tanto para usuarios finales como para el equipo técnico, y se integró como parte del repositorio del proyecto.
+
 ### 5.1.2. Source Code Management.
-En esta sección se describe cómo se gestionaron las modificaciones al código del sistema **Vehix**, así como las convenciones empleadas para los commits y las versiones liberadas a lo largo del ciclo de desarrollo.
+En esta sección se describe cómo se gestionaron las modificaciones al código del sistema Vehix, así como las convenciones empleadas para los commits y las versiones liberadas a lo largo del ciclo de desarrollo.
 
 ### Plataforma de Control de Versiones
 
@@ -112,6 +115,7 @@ Este enfoque facilita la trazabilidad, automatización del versionado y claridad
 ### Commits Convencionales (Conventional Commits)
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+En esta parte del proyecto, nos centraremos en definir un conjunto uniforme de normas y convenciones de estilo y programación para el desarrollo de nuestra aplicación web Vehix. Estas pautas son fundamentales para asegurar que el código sea consistente, claro y bien estructurado, lo que a su vez facilitará su mantenimiento y escalabilidad durante todo el ciclo de vida del proyecto.
 
 Para asegurar la consistencia y calidad en el desarrollo de nuestra Landing Page implementaremos una serie de convenciones específicas para los distintos lenguajes y tecnologías que utilizamos:
 
@@ -250,9 +254,14 @@ Para el despliegue de nuestra landing page se escogio Git Page siendo una altern
 ![paso_4](/assets/imgs/chapter-V/paso-4.PNG)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
+En esta sección se detalla y demuestra el proceso llevado a cabo para la implementación, pruebas, documentación y despliegue de la Landing Page, los Servicios Web y las Aplicaciones Web Frontend.
+
 ### 5.2.1. Sprint 1
-En esta sección se documenta el desarrollo correspondiente al Sprint 1 del proyecto Vehix. Se presentan los objetivos priorizados, las tareas asignadas al equipo, los entregables alcanzados y un resumen del progreso logrado. Este sprint marca el inicio del ciclo de trabajo iterativo, centrado en construir los cimientos del sistema y validar los supuestos iniciales.
+En esta sección, documentaremos y explicaremos el desarrollo del Sprint 1 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Se abordará varias secciones, incluyendo el Sprint Backlog, Development Evidence for Sprint Review, Sprint Planning.
+
 #### 5.2.1.1. Sprint Planning 1.
+En esta sección, especificáremos los principales aspectos del Sprint Planning Meeting 1.
+
 <table>
 	<tbody>
 		<tr>
@@ -308,6 +317,7 @@ En esta sección se documenta el desarrollo correspondiente al Sprint 1 del proy
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 1.
 
 | Team Member (Last Name, First Name) | GitHub Username | Landing page |
 | ------------------------------------|-----------------|-------------------------------------------|
@@ -319,7 +329,7 @@ En esta sección se documenta el desarrollo correspondiente al Sprint 1 del proy
 
 
 #### 5.2.1.3. Sprint Backlog 1
-
+Nuestro principal objetivo con este primer sprint es desarrollar las funciones esenciales que permitan a los usuarios interesados en Vehix informarse sobre su propósito, conocer sus características destacadas y entender las acciones que podrán realizar dentro de su pagina web.
 
 <table>
 	<tbody>
@@ -569,8 +579,7 @@ En esta sección se documenta el desarrollo correspondiente al Sprint 1 del proy
 </table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
-
-Para el desarrollo del sprint 1, se ha implementado la landing page, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes, entre ellos las secciones de nuestra landing page y el cambio de idioma entre inglés y español.
+A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Landing Page, para el desarrollo del sprint 1, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes, entre ellos las secciones de nuestra landing page y el cambio de idioma entre inglés y español.
 
 | Repository | Branch | Commit Id | Commit Messaage | Commit Message Body | Commited on |
 |------------|--------|-----------|-----------------|---------------------|-------------|
@@ -645,10 +654,9 @@ Para el desarrollo del sprint 1, se ha implementado la landing page, previamente
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-
 Nuestro equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de Vehix. A continuación se mostrarán las evidencias.
 
-link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EVekU9kyDRNDgE2mhr4qbnMB56iZZ1XzpouL-3dxal5Tow?e=vvxgWJ
+Enlace del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EVekU9kyDRNDgE2mhr4qbnMB56iZZ1XzpouL-3dxal5Tow?e=vvxgWJ
 
 ![banner img](/assets/imgs/chapter-V/banner_evidence.png)
 
@@ -658,7 +666,7 @@ link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc
 
 ![benefits img](/assets/imgs/chapter-V/benefits_evidence.png)
 
-![testimonials img](/assets/imgs/chapter-V/testimonials_evidence.png)
+![testimonials img](/assets/imgs/chapter-V/testimonials.png)
 
 ![who are we img](/assets/imgs/chapter-V/who-are-we-web.png)
 
@@ -675,7 +683,7 @@ link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 No contamos pruebas de documentacion a razón que nuestro enfoque en el primer sprint estuvo dirigido a la elaboración del landing page.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
+En esta sección presentaremos los procesos realizados durante el Sprint 1:
 Para el desarrollo de este sprint, utilizamos Github Pages, una herramienta que se integró fácilmente a nuestro flujo de trabajo y nos sirvió para desplegar la Landing Page a partir de un repositorio. También desarrollamos actividades enfocadas a preparar el entorno de despliegue.
 
 ![github-pages](/assets/imgs/chapter-V/img-page.PNG)
@@ -686,16 +694,16 @@ https://aplicaciones-web-crew-web.github.io/vehix-landing-page/
 
 ![landing-page](/assets/imgs/chapter-V/img-lp.PNG)
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-
-En este apartado se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la landing page, con el uso de HTML, CSS y JavaScript, y sus commits correspondientes.
+En esta vista se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la landing page, con el uso de HTML, CSS y JavaScript, y sus commits correspondientes.
 
 ![individual-commits](/assets/imgs/chapter-V/individual-commits.png)
 
 ![contributors-general-commits](/assets/imgs/chapter-V/contributors-general-commits.png)
 
 ### 5.2.2. Sprint 2
-#### 5.2.2.1. Sprint Planning 2
+En esta sección, documentaremos y explicaremos el desarrollo del Sprint 2 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Se abordará varias secciones, incluyendo el Sprint Backlog, Development Evidence for Sprint Review, Sprint Planning.
 
+#### 5.2.2.1. Sprint Planning 2
 A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
 
 <table>
@@ -753,8 +761,7 @@ A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, don
 </table>
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
-
-A continuación mostramos los líderes y colaboradoeres de los aspectos a realizarse.
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 2.
 
 | Team Member (Last Name, First Name) | GitHub Username | Diagnostic view from web application | Improve Landing Page |
 | ------------------------------------|-----------------|-------------------------------------------|-----------------|
@@ -765,8 +772,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 | Elescano Leon, Piero Hugo | PieroHugo | C | C |
 
 #### 5.2.2.3. Sprint Backlog 2
-
-A continuación, se ve el sprint backlog 2, donde se han descompuesto los user stories y se verán las tareas designadas a cada integrante del equipo.
+Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicacion web y una segunda versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes.
 
 <table>
 	<tbody>
@@ -998,8 +1004,7 @@ A continuación, se ve el sprint backlog 2, donde se han descompuesto los user s
 </table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review
-
-Para el desarrollo del sprint 2, se ha implementado el frontend, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes.
+A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Aplicación Web, para el desarrollo del sprint 2, el cual se ha implementado el frontend, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes.
 
 | Repository                      | Branch                                   | Commit Id | Commit Messaage                       | Commit Message Body | Commited on |
 | ------------------------------- | ---------------------------------------- | --------- | ------------------------------------- | ------------------- | ----------- |
@@ -1071,10 +1076,10 @@ Para el desarrollo del sprint 2, se ha implementado el frontend, previamente hab
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+Lo que se logró para este Sprint 2 es el peliegue de la primera versión de la aplicación web. En esta logramos desarrollar el toolbar, la vista de Maintenance y los componentes que se encuentran en dicha vista. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal. A continuación se mostrarán las evidencias de ejecución.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-
-A continuación se mostrará la documentación de los servicios usados.
+En esta sección se incluye la relación de los endpoints documentados. A continuación se muestra el proyecto el cual evidencia el desplique de la aplicación.
 
 Aquí tenemos el servicio de json server que ha sido usado para almacenar a la fake API que hemos creado.
 
@@ -1086,8 +1091,7 @@ Aquí tenemos el servicio firebase que ha sido usado para el despliegue de la ap
 ![image-firebase](/assets/imgs/chapter-V/firebase.png)	
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-
-A continuación se mostrarán las evidencias del despliegue de la aplicación web. Se desplegó la aplicación usando firebase
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. A continuacíon se presenta la aplicación desplegada usando firebase.
 
 Aquí tenemos la vista de maintenence
 
@@ -1099,7 +1103,7 @@ Aquí tenemos la vista para buscar un taller cercano
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
-En este apartado se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la app frontend.
+En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la app frontend.
 
 ![image-1](/assets/imgs/chapter-V/1.PNG)
 
@@ -1107,7 +1111,10 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 
 
 ### 5.2.3. Sprint 3
+En esta sección, documentaremos y explicaremos el desarrollo del Sprint 3 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Se abordará varias secciones, incluyendo el Sprint Backlog, Development Evidence for Sprint Review, Sprint Planning.
+
 #### 5.2.3.1. Sprint Planning 3
+A continuación se mostrará el cuadro correspondiente al Sprint Planning 3, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
 
 <table>
 	<tbody>
@@ -1172,17 +1179,522 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 </table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 3.
+
 #### 5.2.3.3. Sprint Backlog 3
+Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicacion web y una tercera versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de migrar a un fakeAPI a un Backend.
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>Sprint #</strong></td>
+			<td colspan="7">Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2"><strong>User Story</strong></td>
+			<td colspan="6"><strong>Work-item / Task</strong></td>
+		</tr>
+		<tr>
+			<td><strong>Id</strong></td>
+			<td><strong>Title</strong></td>
+			<td><strong>Id</strong></td>
+			<td><strong>Title</strong></td>
+			<td><strong>Description</strong></td>
+			<td><strong>Estimation (Hours)</strong></td>
+			<td><strong>Assisgned To</strong></td>
+			<td><strong>Status (To-do / In- Porcess / To-review / Done)</strong></td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US10</td>
+			<td rowspan="4">Historial de vehículos</td>
+			<td>T1</td>
+			<td>Añadir datos complmentarios de vehículo en el db.json</td>
+			<td>Se añaden los datos pertinentes y la conexión entre objetos json</td>
+			<td>0.5</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación del servicio vehiculo</td>
+			<td>Se añade y consume el servicio de vehículo</td>
+			<td>3</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Añadir componente para mostrar vehículo e i18n</td>
+			<td>Se añade el/los componente(s) mostrando los datos de la fake API. Asimismo se considera las 3 tecnologías fundamentales y el i18n</td>
+			<td>1.5</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Validaciones de negocio</td>
+			<td>Se añade validaciones para la cantidad de  vehículos, tipo de usuario y manejo de errores</td>
+			<td>0.5</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP05-US24</td>
+			<td rowspan="4">Biblioteca automotriz</td>
+			<td>T1</td>
+			<td>Añadir datos complementarios de vehículo en el db.json si se necesit a</td>
+			<td>se añaden los datos pertinentes y la conexión entre objetos json</td>
+			<td>0.5</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación de componentes y consumo de servicios</td>
+			<td>Situarse en la vista "library", mostrar los componentes que lo incluyen como "articles" y "news" consumiendo los servicios correspondientes</td>
+			<td>1</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación con lógica de negocio</td>
+			<td>Validar el estado de plan y tipo de plan que tiene el usuario</td>
+			<td>1</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Redirecciones e in-app navigation</td>
+			<td>Se añade los botones e hupervínculos a los sitios estáticos correspondientes a cada sección de la biblioteca y considerandose las rutas predefinidas</td>
+			<td>1</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US12</td>
+			<td rowspan="4">Ingresar nuevo vehículo</td>
+			<td>T1</td>
+			<td>Rehuso de servicio</td>
+			<td>Reusar el servicio del vehículo y agregar funcion con solicitud http tipo "POST" correspondiente</td>
+			<td>1.5</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Componente de formulario e i18n</td>
+			<td>Crear el componente considerando el modelo, kilometrage actual, año del carro, fecha de revisión ténica y nombre referencial de este</td>
+			<td>2</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de lógica de negocio</td>
+			<td>Se añade la lógica de validacion en el componentes correspondiente para no repetir los vehiculo y no permitir agregar más de un vehículo en caso sea un cliente del plan standard</td>
+			<td>2</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Añadir in-app navigation</td>
+			<td>Se añade la ruta de la página donde se ingresarán todos los componentes considerados</td>
+			<td>2</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US16</td>
+			<td rowspan="4">Registrar mantenimiento realizado</td>
+			<td>T1</td>
+			<td>Crear componentes con respecto a fallas</td>
+			<td>Se crea componentes para registrar el mantimiento considerando el comentario de solucion</td>
+			<td>1.5</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Consumo de servicio de fallas y solución</td>
+			<td>Se crean las entidades de fallas y solucion, y se crea sus respectivo servicios</td>
+			<td>2</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validaciones de lógica de negocio sobre la solución</td>
+			<td>Se valida que el usuario tenga el plan pro, de lo contrario se considera "Upselling Content" </td>
+			<td>2</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>In app navigation para registro de manenimiento</td>
+			<td>Se crea el enrutamiento correspondiente, considerando un nombre alusivo a la acción, cómo "maintenance register"</td>
+			<td>2</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP01-US30</td>
+			<td rowspan="4">Eliminación de vehículo</td>
+			<td>T1</td>
+			<td>Rehusar el servicio de vehículos y añadir solicitud http tipo DELETE</td>
+			<td>Se rehusa el servicio y se aumenta la funcionalidad "DELETE"</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creacion de componentes para la eliminacion de vehículo</td>
+			<td>Se añade el "delete icon" y se coloca por cada vehiculo</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Funcionalidad y validación de negocio</td>
+			<td>Se añade la funcionalidad poara eliminar y se valida si el usuario esta completamente seguro de realizar esa acción</td>
+			<td>1</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Verificar in-app navigation</td>
+			<td>Se verifica el estado de la ruta y se añade el lazy loading correspondiente</td>
+			<td>2</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-US21</td>
+			<td rowspan="4">Vehículos registrados</td>
+			<td>T1</td>
+			<td>Definir la Entidad/Modelo de Vehículo en el Backend</td>
+			<td>Crear la estructura de datos que representará un vehículo en el backend.</td>
+			<td>3</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Capa de Acceso a Datos para Vehículos</td>
+			<td>Crear la lógica en el backend que permita interactuar directamente con la base de datos para la entidad Vehículo. Esto incluye una operación para "crear" un nuevo vehículo en la tabla Vehicles.</td>
+			<td>1.5</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint POST para el Registro de Vehículos</td>
+			<td> Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP POST. Este endpoint recibirá los datos del vehículo desde el frontend, los validará, utilizará la capa de acceso a datos para guardarlos en la base de datos y enviará una respuesta HTTP adecuada.</td>
+			<td>1</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Integrar el Frontend con el Nuevo Endpoint POST.</td>
+			<td>Modificar el servicio de vehículos para que, en lugar de usar la Fake API, envíe los datos del vehículo al nuevo endpoint POST del backend real. Esto incluye manejar la suscripción a la respuesta del backend.</td>
+			<td>0.5</td>
+			<td>Vitaly Baca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP03-US29</td>
+			<td rowspan="3">Estado del vehículo</td>
+			<td>T1</td>
+			<td>Consumir el servicio de vehiculo</td>
+			<td>Se cosnsume el servicio correspondiente y se agrega si es necesario atributos o nuevos datos para en la estructura de los objetos json correspondientes.</td>
+			<td>2</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación de componentes </td>
+			<td>Se crean los componentes necesarios para mostrar de manera intuitiva y amigable al usuario</td>
+			<td>2</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Consideración de in-app navigation</td>
+			<td>Todos los componentes usado, se muestran en /car-useful-life</td>
+			<td>1</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP03-US26</td>
+			<td rowspan="3">Recordatorios de Revisiones técnicas</td>
+			<td>T1</td>
+			<td>Creación de entidad</td>
+			<td>Se añade la entidad de notificaciones</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Validaciones y consumo de servicios</td>
+			<td>Se añade las solicitudes http tipo GET y POST para la validación de creación de una nueva fecha para la revision ténica</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Visualización en desplegable</td>
+			<td>Se usa el componente a considerar y en el desplegable se muestran las notificaciones</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP01-US23</td>
+			<td rowspan="3">Edición de información personal</td>
+			<td>T1</td>
+			<td>Actualización del servicio de "user"</td>
+			<td>Se añade en el servicio una petición http tipo "PUT", para actualizar los nueva información que ingrese el usuario</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Creación de un componente card</td>
+			<td>Se añade dentro del componentes los inputs correspondientes y considerando i18n</td>
+			<td>2</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de datos</td>
+			<td>Se valida con la lógica de negocio que considera solo números para el dni. </td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP03-US27</td>
+			<td rowspan="4">Registro de datos de vehículo</td>
+			<td>T1</td>
+			<td>Rehuso de servicio</td>
+			<td>Reusar el servicio del vehículo y agregar funcion con solicitud http tipo "POST" correspondiente</td>
+			<td>1.5</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Componente de formulario e i18n</td>
+			<td>Crear el componente considerando el modelo, kilometrage actual, año del carro, fecha de revisión ténica y nombre referencial de este</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de lógica de negocio</td>
+			<td>Se añade la lógica de validacion en el componentes correspondiente para no repetir los vehiculo y no permitir agregar más de un vehículo en caso sea un cliente del plan standard</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Añadir in-app navigation</td>
+			<td>Se añade la ruta de la página donde se ingresarán todos los componentes considerados</td>
+			<td>2</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-US20</td>
+			<td rowspan="4">Mecánico cercanos</td>
+			<td>T1</td>
+			<td>Definir la Entidad/Modelo de Mecánico en el Backend</td>
+			<td>Definir la estructura de datos que se espera recibir de la API de Google Maps para un mecánico</td>
+			<td>3</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Lógica de Llamada a la API de Google Maps en el Backend</td>
+			<td>Crear la lógica en el backend para realizar una solicitud HTTP (GET) a la API de Google Maps utilizando las credenciales y parámetros adecuados</td>
+			<td>1.5</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint GET para la lectura de Mecánicos</td>
+			<td>Implementar el endpoint de la API REST en el backend que el frontend llamará. Este endpoint recibirá la ubicación del conductor, llamará a GoogleMapsService, procesará la respuesta de Google Maps y devolverá los mecánicos relevantes al frontend</td>
+			<td>1</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Integrar el Frontend con el Nuevo Endpoint GET.</td>
+			<td>Modificar el servicio para que, en lugar de una Fake API, envíe la solicitud GET al nuevo endpoint del backend. De esta manera, el frontend enviará la ubicación del conductor y manejará la respuesta de los mecánicos</td>
+			<td>0.5</td>
+			<td>Piero Elescano</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-US19</td>
+			<td rowspan="4">Historial técnico de vehiculo</td>
+			<td>T1</td>
+			<td>Definir la Entidad/Modelo de Historial ténico en el Backend</td>
+			<td>Crear la estructura de datos que representará un registro dentro del historial técnico de un vehículo. Esto implica decidir qué atributos tendrá cada evento</td>
+			<td>3</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Capa de Acceso a Datos para el Historial Técnico.</td>
+			<td>Crear la lógica en el backend que permita interactuar directamente con la base de datos para la entidad Historial Técnico. Esto incluye una operación para "leer" los registros del historial técnico, específicamente buscando por el id de un vehículo.</td>
+			<td>1.5</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint GET para el Historial Técnico de un Vehículo</td>
+			<td> Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP GET para obtener el historial. Este endpoint recibirá el identificador del vehículo, utilizará la capa de acceso a datos para recuperar los registros del historial de la base de datos y enviará una respuesta HTTP adecuada.</td>
+			<td>1</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td> Integrar el Frontend con el Nuevo Endpoint GET del Historial Técnico</td>
+			<td>Modificar el servicio de vehículos para que envíe una solicitud GET al nuevo endpoint del backend, pasando el id del vehículo.</td>
+			<td>0.5</td>
+			<td>Sergio Julca</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">EP06-US15</td>
+			<td rowspan="2">Estado de suscripción</td>
+			<td>T1</td>
+			<td>Consumir servicio de suscripción</td>
+			<td>Consumir el servicio de suscripcion y de usuario de modo que se consiga el estado de suscripcion y fehca del usuario</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementación de componente</td>
+			<td>Integrar el componentes en la vista /profile de modo que aparezca los datos recuperados</td>
+			<td>0.5</td>
+			<td>Antonio Navarro</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="3">EP01-US09</td>
+			<td rowspan="3">Guardado de datos y cierre de sesión</td>
+			<td>T1</td>
+			<td>Consumir servicio user.singleton</td>
+			<td>Se consume el servicio del singleton para cerrar sesión y redirigirlo a la vista de registro</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementación de componente</td>
+			<td>Integrar el en la vista /profile de modo aparezca la opción de cerrar sesión</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Validación de cerrado de sesión</td>
+			<td>Verificar que el singleton.user sea nulo</td>
+			<td>0.5</td>
+			<td>Moises Espinoza</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="4">EP07-TS41</td>
+			<td rowspan="4">Actualizar datos de un vehículo</td>
+			<td>T1</td>
+			<td>Actualizar la Entidad de Vehículo en el Backend</td>
+			<td>Revisar la entidad Vehículo existente para asegurar que contiene todos los campos necesarios que un usuario podría querer actualizar. Si es necesario, añadir atributos</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T2</td>
+			<td>Implementar la Operación de Actualización (Update) en la Capa de Acceso a Datos para Vehículos.</td>
+			<td>Añadir o modificar la lógica en el componente para Vehículo que permita actualizar un registro existente en la base de datos. De manera que la operación toma el ID del vehículo a actualizar y los nuevos datos, y los cree en la tabla Vehicles.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T3</td>
+			<td>Desarrollar el Endpoint PUT para la Actualización de Vehículos</td>
+			<td>Implementar la lógica del controlador/API en el backend que escuchará las solicitudes HTTP PUT. Este endpoint recibirá el ID del vehículo a actualizar y los datos editados, validará la información, utilizará la capa de acceso a datos para aplicar la actualización y enviará una respuesta HTTP adecuada.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T4</td>
+			<td>Implementar la Interfaz de Usuario y la Integración Frontend para la Edición de Vehículo</td>
+			<td> Modificar los componentes correspondientes para que los usuarios puedan editar los datos de un vehículo existente. De manera que, tambien se debe cargar los datos actuales del vehículo, permitir la edición en un formulario y luego enviar los datos editados al nuevo endpoint PUT del backend.</td>
+			<td>1</td>
+			<td>Dayro Rios</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
+
 #### 5.2.3.4. Development Evidence for Sprint Review
+A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 3. Se desarrollaron los features correspondientes.
+
 #### 5.2.3.5. Execution evidence for Sprint Review
+Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección se incluye la relación de los endpoints documentados.
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación del Backend.
 
 ## 5.3. Validation Interviews
+En esta sección del informe se documentan y detallan las acciones relacionadas con las entrevistas de validación llevadas a cabo durante el desarrollo del proyecto. Estas entrevistas tienen como propósito fundamental recoger opiniones, identificar las expectativas y necesidades de los usuarios, y confirmar o descartar las suposiciones planteadas sobre el producto. Para ello, se facilitará la interacción de los participantes, pertenecientes a ambos segmentos definidos, con la landing page y la aplicación web, permitiendo así una evaluación directa de la experiencia.
+
 ### 5.3.1. Design Interviews
+En esta sección se establece por cada segmento objetivo los elementos a incluir en la sesión de validación, incluyendo el Landing Page y las aplicaciones. Además se especifica cuáles serán los user flows de las aplicaciones, que formarán parte del proceso de validación.
+
 ### 5.3.2. Interview Record
+En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para cada segmento objetivo de nuestro proyecto.
+
 ### 5.3.3. Evaluation based on heuristics
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
+
 ## 5.4. Video About the Product
-
-
+En esta sección se describe el contenido del Video About-theProduct, el cual tiene como público objetivo los visitantes al Landing Page, quienes desean conocer sobre el modelo de negocio y las características principales de los productos de software, al igual que los usuarios de las Aplicaciones, quienes desean realizar tareas relacionadas con los procesos soportados por la solución.
