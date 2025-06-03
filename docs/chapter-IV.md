@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9839f0bb-6393-46ed-aa21-a0985fa2dcd9)# Capítulo IV: Product Design
+# Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 En esta sección, presentamos nuestra propuesta de diseño para el landing page y la aplicación web. Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunicativos que aseguran una experiencia coherente, intuitiva y accesible en toda la aplicación. Estas guías fueron diseñadas para mantener consistencia en todos los puntos de contacto con el usuario, incluyendo interfaz, notificaciones y mensajes del sistema.
 
