@@ -608,6 +608,7 @@ Vistas para registro e ingreso del usuario.
 ### Plan PRO
 
 Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras.
+
 ![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-1.png)
 
 ![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-2.png)
@@ -739,55 +740,56 @@ Vistas para registro e ingreso del usuario.
 ![subscriptions-plannes](/assets/imgs/chapter-IV/mock-up/log-in/subscriptions-plannes.png)
 
 ### Plan PRO
-![about-your-vehicle](/assets/imgs/chapter-IV/mock-up/plan-pro/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/mock-up/plan-pro/audit.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/mock-up/plan-pro/bluetooth-conection.png)
-![buy-plan-pro](/assets/imgs/chapter-IV/mock-up/plan-pro/buy-plan-pro.png)
-![car-useful-life](/assets/imgs/chapter-IV/mock-up/plan-pro/car-useful-life.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/mock-up/plan-pro/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-pro/diagnostic-scan.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-pro/end-home.png)
-![guide-bluetooth](/assets/imgs/chapter-IV/mock-up/plan-pro/guide-bluetooth.png)
-![help](/assets/imgs/chapter-IV/mock-up/plan-pro/help.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-pro/initial-home.png)
-![last-diagnostic](/assets/imgs/chapter-IV/mock-up/plan-pro/last-diagnostic.png)
-![personal-information](/assets/imgs/chapter-IV/mock-up/plan-pro/personal-information.png)
-![problem-forecasting](/assets/imgs/chapter-IV/mock-up/plan-pro/problem-forecasting.png)
-![rapid-diagnosis](/assets/imgs/chapter-IV/mock-up/plan-pro/rapid-diagnosis.png)
-![recent-repairs](/assets/imgs/chapter-IV/mock-up/plan-pro/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/mock-up/plan-pro/report.png)
-![topic-1](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-7.png)
+
+Los siguientes mock-ups pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras.
+
+![maitenance](/assets/imgs/chapter-IV/mock-up/plan-pro/maintenance-1.png)
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-pro/maintenance-2.png)
+
+Los siguientes mock-ups pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos.
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-pro/library-1.png)
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-pro/library-2.png)
+
+Los siguientes mock-ups pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/mock-up/plan-pro/sync.png)
+
+Los siguientes mock-ups pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/mock-up/plan-pro/profile.png)
+
+Los siguientes mock-ups pertenecen a la vista manejo de "home".
+
+![home](/assets/imgs/chapter-IV/mock-up/plan-pro/home.png)
 
 ### Plan STANDARD
-![about-your-vehicle](/assets/imgs/chapter-IV/mock-up/plan-standard/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/mock-up/plan-standard/audit.png)
-![bloqued-1](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-1.png)
-![bloqued-2](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-2.png)
-![bloqued-3](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-3.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/mock-up/plan-standard/bluetooth-conection.png)
-![buy-plan-standard](/assets/imgs/chapter-IV/mock-up/plan-standard/buy-plan-standard.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/mock-up/plan-standard/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-standard/diagnostic-scan.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-standard/end-home.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-standard/guide-bluetooth.png)
-![interface](/assets/imgs/chapter-IV/mock-up/plan-standard/initial-home.png)
-![last-scan](/assets/imgs/chapter-IV/mock-up/plan-standard/personal-information.png)
-![profile](/assets/imgs/chapter-IV/mock-up/plan-standard/rapid-diagnostic.png)
-![recent-repairs](/assets/imgs/chapter-IV/mock-up/plan-standard/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/mock-up/plan-standard/report.png)
-![topic-1](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras. Se bloquearon algunas funcionalidades de mantenimiento del auto debido al plan elegido.
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-standard/maintenance-11.png)
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-standard/maintenance-22.png)
+
+Los siguientes mock-ups pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos. Se bloquearon algunos recursos debido al plan elegido.
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-standard/library-11.png)
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-standard/library-22.png)
+
+Los siguientes mock-ups pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/mock-up/plan-standard/sync-e.png)
+
+Los siguientes mock-ups pertenecen al manejo de perfil del usuario. Se bloquearon algunas funcinalidades debido al plan elegido
+
+![profile](/assets/imgs/chapter-IV/mock-up/plan-standard/profile-e.png)
+
+Los siguientes mock-ups pertenecen a la vista manejo de "home".
+
+![home](/assets/imgs/chapter-IV/mock-up/plan-standard/home.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 Se le presenta el Enlace en el cual hemos desarrollado los User Flow de nuestra aplicación en la herramienta de Lucidchart.
