@@ -414,23 +414,41 @@ Para la elaboración del esquema de nuestra landing page, hemos utilizado la her
 
 desktop:
 
+**Hero section**: La sección principal de la landing page.
+
 ![header img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/header.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![introductory-video img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/introductory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/subscriptions.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/who_are_we.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/faq.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos
 
 ![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/compatibility.png)
 
 ![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
+
+**Footer**: El pie de página de la landing page
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
 
@@ -438,23 +456,43 @@ desktop:
 
 mobile: 
 
+**Hero section**: La sección principal de la landing page.
+
 ![header img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/header.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![introductory-video img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/introductory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who are we mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/who_are_we_wireframe.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![faq mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/faq_wireframe.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatible vehicles mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/compatibility_wireframe.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/contact_wireframe.png)
+
+**Footer**: El pie de página de la landing page
 
 ![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
 
@@ -465,23 +503,41 @@ Finalizamos con éxito el desarrollo del mock-up del landing page, lo que nos pe
 
 Desktop:
 
+**Hero section**: La sección principal de la landing page, se colocó una imagen con el logo de vehix y el slogan seguido de un texto introductorio.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/banner.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![explanatory img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/explanatory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones en un cuadro deslizante.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who-are-we img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/who-are-we-web.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/frequently-asked-questions.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
 
 ![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
+
+**Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
 
@@ -489,23 +545,43 @@ Desktop:
 
 Mobile:
 
+**Hero section**: La sección principal de la landing page, se colocó una imagen con el logo de vehix y el slogan seguido de un texto introductorio.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/banner.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![explanatory-video img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/explanatory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones en un cuadro deslizante.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who-are-we img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/who-are-we-web.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
+
+**Compatibility**: Se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
+
+**Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer_mobile.png)
 
@@ -519,59 +595,59 @@ A continuación, hemos creado el diseño de los wireframes para el diseño de nu
 
 **Enlace**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
-### Log in
+### Log in and sign up
+
+Vistas para registro e ingreso del usuario.
+
 ![log-in](/assets/imgs/chapter-IV/wireframes/log-in/log-in.png)
+
 ![sign-up](/assets/imgs/chapter-IV/wireframes/log-in/sign-up.png)
+
 ![subscriptions-plannes](/assets/imgs/chapter-IV/wireframes/log-in/subscriptions-plannes.png)
 
 ### Plan PRO
-![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-pro/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/wireframes/plan-pro/audit.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/wireframes/plan-pro/bluetooth-conection.png)
-![buy-plan-pro](/assets/imgs/chapter-IV/wireframes/plan-pro/buy-plan-pro.png)
-![car-useful-life](/assets/imgs/chapter-IV/wireframes/plan-pro/car-useful-life.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/wireframes/plan-pro/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/wireframes/plan-pro/diagnostic-scan.png)
-![guide-bluetooth](/assets/imgs/chapter-IV/wireframes/plan-pro/guide-bluetooth.png)
-![help](/assets/imgs/chapter-IV/wireframes/plan-pro/help.png)
-![home](/assets/imgs/chapter-IV/wireframes/plan-pro/home.png)
-![last-diagnostic](/assets/imgs/chapter-IV/wireframes/plan-pro/last-diagnostic.png)
-![personal-information](/assets/imgs/chapter-IV/wireframes/plan-pro/personal-information.png)
-![problem-forecasting](/assets/imgs/chapter-IV/wireframes/plan-pro/problem-forecasting.png)
-![rapid-diagnosis](/assets/imgs/chapter-IV/wireframes/plan-pro/rapid-diagnosis.png)
-![recent-repairs](/assets/imgs/chapter-IV/wireframes/plan-pro/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/wireframes/plan-pro/report.png)
-![topic-1](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras.
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-1.png)
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-2.png)
+
+Los siguientes wireframes pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos.
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-pro/library-view-2.png)
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-pro/library-view-2.png)
+
+Los siguientes wireframes pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/wireframes/plan-pro/sync-views.png)
+
+Los siguientes wireframes pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/wireframes/plan-pro/profile-views.png)
 
 ### Plan STANDARD
-![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-standard/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/wireframes/plan-standard/audit.png)
-![bloqued-1](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-1.png)
-![bloqued-2](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-2.png)
-![bloqued-3](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-3.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/wireframes/plan-standard/bluetooth-conection.png)
-![buy-plan-standard](/assets/imgs/chapter-IV/wireframes/plan-standard/buy-plan-standard.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/wireframes/plan-standard/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/wireframes/plan-standard/diagnostic-scan.png)
-![home](/assets/imgs/chapter-IV/wireframes/plan-standard/home.png)
-![interface](/assets/imgs/chapter-IV/wireframes/plan-standard/interface.png)
-![last-scan](/assets/imgs/chapter-IV/wireframes/plan-standard/last-scan.png)
-![profile](/assets/imgs/chapter-IV/wireframes/plan-standard/profile.png)
-![recent-repairs](/assets/imgs/chapter-IV/wireframes/plan-standard/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/wireframes/plan-standard/report.png)
-![topic-1](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras. Sin embargo, tendrá ciertas vistas o componentes bloqueados debido a que es de un plan estándar y no pro.
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-standard/maintenance-view-11.png)
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-standard/maintenance-view-22.png)
+
+Los siguientes wireframes pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos. Sin embargo, tendrá ciertas vistas o componentes bloqueados debido a que es de un plan estándar y no pro.
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-standard/library-view-11.png)
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-standard/library-view-22.png)
+
+Los siguientes wireframes pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/wireframes/plan-standard/sync-view.png)
+
+Los siguientes wireframes pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/wireframes/plan-standard/profile-view.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Se le presenta el Enlace en el cual hemos desarrollado los wireflows de nuestra aplicación en la herramienta de Lucidchart.
@@ -655,61 +731,65 @@ Los mockups representan una etapa clave en el diseño de nuestras aplicaciones, 
 
 **Enlace**: [Figma mock ups (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
-### Log in
+### Log in and sign up
+
+Vistas para registro e ingreso del usuario.
+
 ![log-in](/assets/imgs/chapter-IV/mock-up/log-in/log-in.png)
 ![sign-up](/assets/imgs/chapter-IV/mock-up/log-in/sign-up.png)
 ![subscriptions-plannes](/assets/imgs/chapter-IV/mock-up/log-in/subscriptions-plannes.png)
 
 ### Plan PRO
-![about-your-vehicle](/assets/imgs/chapter-IV/mock-up/plan-pro/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/mock-up/plan-pro/audit.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/mock-up/plan-pro/bluetooth-conection.png)
-![buy-plan-pro](/assets/imgs/chapter-IV/mock-up/plan-pro/buy-plan-pro.png)
-![car-useful-life](/assets/imgs/chapter-IV/mock-up/plan-pro/car-useful-life.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/mock-up/plan-pro/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-pro/diagnostic-scan.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-pro/end-home.png)
-![guide-bluetooth](/assets/imgs/chapter-IV/mock-up/plan-pro/guide-bluetooth.png)
-![help](/assets/imgs/chapter-IV/mock-up/plan-pro/help.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-pro/initial-home.png)
-![last-diagnostic](/assets/imgs/chapter-IV/mock-up/plan-pro/last-diagnostic.png)
-![personal-information](/assets/imgs/chapter-IV/mock-up/plan-pro/personal-information.png)
-![problem-forecasting](/assets/imgs/chapter-IV/mock-up/plan-pro/problem-forecasting.png)
-![rapid-diagnosis](/assets/imgs/chapter-IV/mock-up/plan-pro/rapid-diagnosis.png)
-![recent-repairs](/assets/imgs/chapter-IV/mock-up/plan-pro/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/mock-up/plan-pro/report.png)
-![topic-1](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-7.png)
+
+Los siguientes mock-ups pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras.
+
+![maitenance](/assets/imgs/chapter-IV/mock-up/plan-pro/maintenance-1.png)
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-pro/maintenance-2.png)
+
+Los siguientes mock-ups pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos.
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-pro/library-1.png)
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-pro/library-2.png)
+
+Los siguientes mock-ups pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/mock-up/plan-pro/sync.png)
+
+Los siguientes mock-ups pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/mock-up/plan-pro/profile.png)
+
+Los siguientes mock-ups pertenecen a la vista manejo de "home".
+
+![home](/assets/imgs/chapter-IV/mock-up/plan-pro/home.png)
 
 ### Plan STANDARD
-![about-your-vehicle](/assets/imgs/chapter-IV/mock-up/plan-standard/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/mock-up/plan-standard/audit.png)
-![bloqued-1](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-1.png)
-![bloqued-2](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-2.png)
-![bloqued-3](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-3.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/mock-up/plan-standard/bluetooth-conection.png)
-![buy-plan-standard](/assets/imgs/chapter-IV/mock-up/plan-standard/buy-plan-standard.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/mock-up/plan-standard/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-standard/diagnostic-scan.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-standard/end-home.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-standard/guide-bluetooth.png)
-![interface](/assets/imgs/chapter-IV/mock-up/plan-standard/initial-home.png)
-![last-scan](/assets/imgs/chapter-IV/mock-up/plan-standard/personal-information.png)
-![profile](/assets/imgs/chapter-IV/mock-up/plan-standard/rapid-diagnostic.png)
-![recent-repairs](/assets/imgs/chapter-IV/mock-up/plan-standard/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/mock-up/plan-standard/report.png)
-![topic-1](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras. Se bloquearon algunas funcionalidades de mantenimiento del auto debido al plan elegido.
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-standard/maintenance-11.png)
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-standard/maintenance-22.png)
+
+Los siguientes mock-ups pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos. Se bloquearon algunos recursos debido al plan elegido.
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-standard/library-11.png)
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-standard/library-22.png)
+
+Los siguientes mock-ups pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/mock-up/plan-standard/sync-e.png)
+
+Los siguientes mock-ups pertenecen al manejo de perfil del usuario. Se bloquearon algunas funcinalidades debido al plan elegido
+
+![profile](/assets/imgs/chapter-IV/mock-up/plan-standard/profile-e.png)
+
+Los siguientes mock-ups pertenecen a la vista manejo de "home".
+
+![home](/assets/imgs/chapter-IV/mock-up/plan-standard/home.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 Se le presenta el Enlace en el cual hemos desarrollado los User Flow de nuestra aplicación en la herramienta de Lucidchart.
