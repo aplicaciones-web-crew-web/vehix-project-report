@@ -59,13 +59,13 @@ En esta sección el equipo redacta la definición y la elaboración de los User 
 | US27 | Vida útil del coche | **Como** propietario de vehiculos urbanos **quiero** acceder a la informacion relevante sobre la vida útil de mi vehículo **para** mantener en óptimas condiciones mi vehículo. | **Escenario 1:  Diagnóstico previo del vehículo Dado** que el propietario de vehiculos urbanos ingresa a la aplicación **Y** realiza un diagnóstico **Cuando** solicita ver la vida útil de su vehículo **Entonces** el sistema muestra indicadores del kilometrage, tiempo estimado de vida, y porcentaje de la salud del vehículo. **Escenario 2: No se realiza diagnóstico previo del vehículo Dado** que el propietario de vehiculos urbanos ingresa a la aplicacion **Y** no realiza un diagnóstico **Cuando** solicita ver la vida útil de su vehículo **Entonces** el sistema informa que no hay datos disponibles **Y** le permite escanear el vehículo.  | EP03 |
 | US28 | Eliminación de vehículo | **Como** mecánico automotriz **quiero** eliminar un vehículo de mi lista **para** actualizar mis vehículos. | **Escenario 1: Eliminación confirmada Dado** que el mecánico automotriz decide eliminar un vehículo, **Cuando** realiza la solicitud, **Entonces** la aplicación pide confirmación **Y** al aceptar elimina el vehículo. **Escenario 2: Cancelación de la eliminación Dado** que el mecánico automotriz decide eliminar un vehículo, **Cuando** realiza la solicitud, **Entonces** la aplicación pide confirmación **Y** al cancelarlo no elimina el vehículo. | EP01 |
 | US29 | Acceso a la Aplicación desde la Página Principal | **Como** visitante del segmento conductores independientes **quiero** ser guiado a la aplicación, **para** usar las funcionalidades disponibles.  | **Escenario 1: Redirección exitosa a la aplicación web Dado** que el visitante del segmento conductores independientes accede a la landing page, **Cuando** indica su intecion de acceder a la aplicación, **Entonces** el sistema lo redirige a la aplicación web principal.**Escenario 1: Redirección para registro de cuenta Dado** que el visitante del segmento conductores independientes accede a la landing page, **Cuando** indica su intencion de registrarse en la aplicación, **Entonces** el sistema lo redirige a la págian de registro de la aplicación.| EP02 |
-| US30 | Implementación de testimonios | **Como** visitante del segmento conductores independientes **quiero** visualizar los testimienos de otros usuarios, **para** conocer sus experiencias y generar confianza en el servicio.  | **Escenario 1: Visualización de testimonios existentes Dado** que hay testimonios de usuarios registrados en el sistema, **Cuando** ingresa a la landing page **Entonces** el sistema muestra testimonios de usuarios con nombre, calidad en estrellas y comentario. **Escenario 2: Ausencia de testimonios Dado** que no hay testimonios de usuarios registrados en el sistema, **Cuando** accede a la landing page, **Entonces** el sistema no muestra los testimonios e informa la falta de estos. | EP02 |
+| US30 | Implementación de testimonios | **Como** visitante del segmento conductores independientes **quiero** visualizar los testimienos de otros usuarios, **para** conocer sus experiencias y generar confianza en el servicio.  | **Escenario 1: Visualización de testimonios existentes Dado** que hay testimonios de usuarios registrados en el sistema, **Cuando** el visitante del segmento conductores independientes ingresa a la landing page **Entonces** el sistema muestra testimonios de usuarios con nombre, calidad en estrellas y comentario. **Escenario 2: Ausencia de testimonios Dado** que no hay testimonios de usuarios registrados en el sistema, **Cuando** el visitante del segmento conductores independientes accede a la landing page, **Entonces** el sistema no muestra los testimonios e informa la falta de estos. | EP02 |
 | US31 | Crear planes de suscripción | **Como** visitante del segmento de propietarios de vehículos urbanos **quiero** ver e informarme de los planes de suscripción **para** poder adquirir uno. | **Escenario 1: Visualización de planes activps Dado** que existen diferentes 2 tipos de suscripciones: STANDARD y PRO, **Cuando** el visitante del segmento de propietarios de vehículos urbanos solicita los planes de suscripción, **Entonces** el sistema muestra las suscripciones, incluyendo título, términos, beneficios y costos.  **Escenario 2: Ausencia de planes Dado** que no existen suscripciones **Cuando** el visitante del segmento de propietarios de vehículos urbanos solicita los planes de suscripción, **Entonces** el sistema muestra la falta de suscripciones.  | EP02 |
-| US32 | Guía de conexiones | **Como** propietario de vehículos urbanos **quiero** tener una guía de conexión vehículo-aplicación **para** usar la aplicación sin errores. | **Escenario 1: Visualización Multimedia Dado** que el visitante del segmento de propietarios de vehículos ingresa al sistema, **Cuando** solicita una sincronización con un vehículo, **Entonces** se muestra un video explicativo de la instalación. **Escenario 2: Visualización Textual Dado** que el visitante del segmento de propietarios de vehículos ingresa al sistema, **Cuando** solicita una sincronización con un vehículo, **Entonces** se muestra una lista de pasos enumerados y concisos del proceso de instalación y conexión. | EP02 |
+| US32 | Guía de conexiones | **Como** propietario de vehículos urbanos **quiero** tener una guía de conexión vehículo-aplicación **para** usar la aplicación sin errores. | **Escenario 1: Visualización Multimedia Dado** que el propietario de vehículos urbanos ingresa al sistema, **Cuando** solicita una sincronización con un vehículo, **Entonces** se muestra un video explicativo de la instalación. **Escenario 2: Visualización Textual Dado** que el propietario de vehículos urbanos ingresa al sistema, **Cuando** solicita una sincronización con un vehículo, **Entonces** se muestra una lista de pasos enumerados y concisos del proceso de instalación y conexión. | EP02 |
 | US33 | Soporte y redes | **Como** visitante del segmento conductores independientes **quiero** poder contactar a soporte **para** resolver mis dudas | **Escenario 1: Envío exitoso de consulta Dado** que el visitante del segmento de conductores independiente ingresa a la landing page, **Cuando** accede a la sección de contacto **Y** escribe, nombre, correo, tema de consulta y un mensaje, **Entonces** se envía la solicitud correctamente. **Escenario 2: Envío fallido de consulta Dado** que el visitante del segmento de conductores independiente ingresa a la landing page, **Cuando** accede a la sección de contacto **Y** escribe de manera incorrecta o no rellena nombre, correo, tema de consulta y/o un mensaje , **Entonces** se le solicita rellenar los campos. | EP02 |
 | US34 | Adaptación a diferentes dispositivos | **Como** visitante del segmento de conductores independientes **quiero** visualizar la landing page **para** desde cualquier dispositivo. | **Escenario 1: Adaptación en pantalla móvil Dado** que el visitante del segmento de conductores independientes accede a la landing page desde un dispositivo con un ancho de pantalla inferior o igual a 900px, **Cuando** la página se carga, **Entonces** el sistema distribuye de forma óptima todos los elementos en el ancho disponible. **Escenario 2: Adaptación en pantalla de escritorio Dado** que el visitante del segmento de conductores independientes accede a la landing page desde un dispositivo con un ancho de pantalla superior a 900px, **Cuando** la página se carga, **Entonces** el sistema distribuye de forma óptima todos los elementos en el ancho disponible. | EP02 |
-| US35 | Visualización de creadores | **Como** visitante del segmento de conductores independientes **quiero** ver la información sobre los creadores del proyectos **para** conocer al equipo de la aplicación.  | **Escenario 1: Visualización de la ifnromación de los creadores Dado** que se cuenta con una sección de quiénes somos, **Cuando** el visitante del segmento de conductores independientes accede al landign page, **Entonces** el sistema muestra los nombres, perfiles y fotos de los miembros del equipo. **Escenario 2: Ausencia de información de creadores Dado** que no hay información de los creadores registrados en el sistema, **Cuando** accede a la landing page, **Entonces** el sistema no muestra la sección de "Creadores del proyecto"  | EP02 |
-| US36 | Soporte Multilingüe | **Como** visitante del segmento de conductores independientes **quiero** poder seleccionar el idioma en el que se muestra el contenido de la aplicación **para** comprender la información proporcionada. | **Escenario 1: Selecciona idioma en español Dado** que la landing page soporta seleccionar el idioma, **Cuando** se solicita la traducción a "español", **Entonces** todo el contenido textual de la landing page se muestra en idioma español. **Escenario 2: Selecciona idioma en inglés Dado** que la landing page soporta seleccionar el idioma, **Cuando** se solicita la traducción a "inglés", **Entonces** todo el contenido textual de la landing page se muestra en idioma inglés. | EP02 |
+| US35 | Visualización de creadores | **Como** visitante del segmento de conductores independientes **quiero** ver la información sobre los creadores del proyectos **para** conocer al equipo de la aplicación.  | **Escenario 1: Visualización de la ifnromación de los creadores Dado** que se cuenta con una sección de quiénes somos, **Cuando** el visitante del segmento de conductores independientes accede al landign page, **Entonces** el sistema muestra los nombres, perfiles y fotos de los miembros del equipo. **Escenario 2: Ausencia de información de creadores Dado** que no hay información de los creadores registrados en el sistema, **Cuando** el visitante del segmento de conductores independientes accede a la landing page, **Entonces** el sistema no muestra la sección de "Creadores del proyecto"  | EP02 |
+| US36 | Soporte Multilingüe | **Como** visitante del segmento de conductores independientes **quiero** poder seleccionar el idioma en el que se muestra el contenido de la aplicación **para** comprender la información proporcionada. | **Escenario 1: Selecciona idioma en español Dado** que la landing page soporta seleccionar el idioma, **Cuando** el visitante del segmento de conductores independientes solicita la traducción a "español", **Entonces** todo el contenido textual de la landing page se muestra en idioma español. **Escenario 2: Selecciona idioma en inglés Dado** que la landing page soporta seleccionar el idioma, **Cuando** el visitante del segmento de conductores independientes solicita la traducción a "inglés", **Entonces** todo el contenido textual de la landing page se muestra en idioma inglés. | EP02 |
 | US37 | Preguntas frecuentes | **Como** visitante del segmento de propietarios de vehículos urbanos **quiero** informarme de preguntas frecuentes **para** validarlo con mis preguntas. | **Escenario 1: Visualización de la sección de preguntas frecuentes Dado que** el visitante del segmento de propietarios de vehículos urbanos solicita las preguntas frecuentes de la aplicació  **Cuando** accede a la sección de preguntas frecuentes, **Entonces** el sistema muestra una lista de preguntas con título de cada una. **Escenario 2: Búsqueda de preguntas específicas Dado que** el visitante del segmento de propietarios de vehículos urbanos solicita una pregunta en específico de la aplicación  **Cuando** accede a la sección de preguntas frecuentes, **Entonces** el sistema muestra aquella que sea relevante **E** incluye título de pregunta y erspuesta.   | EP02 |
 | US38 | Desarrollo de vehiculos compatibles | **Como** visitante del segmento de mecánicos automotriz **quiero** saber qué tipo de vehículos son compatibles con la aplicación **para** confirmar si puedo usarla con mi vehículo. | **Escenario 1: Visualización de la lista de vehículos compatibles Dado que** el visitante del segmento de mecánicos ingresa a la landing page, **Cuando** accede a la sección de vehículos compatibles, **Entonces** visualiza una lista clara que incluye marcas, modelos o tipos de vehículos soportados. **Escenario 2: Búsqueda de un Modelo de Vehículo Específico Dado que** el visitante del segmento de mecánicos automotrices explora la sección de vehículos compatibles, **Cuando** ingresa la marca, modelo o año de un vehículo, **Entonces** el sistema muestra si el vehículo es compatible. | EP02 |
 | TS39 | Actualizar datos de un vehículo | **Como** developer, **quiero** actualizar los datos técnicos de un vehículo enviando la información editada mediante una solicitud PUT, **para** que pueda mantener actualizada la información registrada en la plataforma.  | **Escenario 1: Actualización exitosa de datos del vehículo Dado que** el developer proporciona datos completos y válidos para actualizar, **Cuando** el developer realiza una solicitud PUT para modificar los datos de un vehículo, **Entonces** el sistema actualiza correctamente la información en la base de datos y confirma el éxito de la operación. **Escenario 2: Error por datos incompletos o erróneos Dado que** los datos enviados por el developer son incompletos o contienen errores de formato, **Cuando** el developer realiza una solicitud PUT para actualizar los datos, **Entonces** el sistema rechaza la solicitud y devuelve un mensaje de error explicando los problemas detectados.  | EP07 |
@@ -128,123 +128,123 @@ A continuación se detalla el Product Backlog del proyecto Vehix. En el Product 
         </tr>
         <tr>
             <td>6</td>
-            <td>US32</td>
-            <td>Guía de conexiones</td>
-            <td>Como propietario de vehículos urbanos quiero tener una guía de conexión vehículo-aplicación para usar la aplicación sin errores</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>7</td>
             <td>US37</td>
             <td>Preguntas frecuentes</td>
             <td>Como visitante del segmento de propietarios de vehículos urbanos quiero informarme de preguntas frecuentes para validarlo con mis preguntas</td>
             <td>3</td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>7</td>
             <td>US29</td>
             <td>Acceso a la Aplicación desde la Página Principal</td>
             <td>Como visitante del segmento conductores independientes quiero ser guiado a la aplicación, para usar las funcionalidades disponibles</td>
             <td>3</td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>8</td>
             <td>US35</td>
             <td>Visualización de creadores</td>
             <td>Como visitante del segmento de conductores independientes quiero ver la información sobre los creadores del proyectos para conocer al equipo de la aplicación</td>
             <td>2</td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>9</td>
             <td>US33</td>
             <td>Soporte y redes</td>
             <td>Como visitante del segmento conductores independientes quiero poder contactar a soporte para resolver mis dudas</td>
             <td>2</td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>10</td>
             <td>US36</td>
             <td>Soporte Multilingüe</td>
             <td>Como visitante del segmento de conductores independientes quiero poder seleccionar el idioma en el que se muestra el contenido de la aplicación para comprender la información proporcionada</td>
             <td>2</td>
         </tr>
         <tr>
-            <td>12</td>
+            <td>11</td>
             <td>US34</td>
             <td>Adaptación a diferentes dispositivos</td>
             <td>Como visitante del segmento de conductores independientes quiero visualizar la landing page para desde cualquier dispositivo</td>
             <td>1</td>
         </tr>
         <tr>
-            <td>13</td>
+            <td>12</td>
             <td>US05</td>
             <td>Notificaciones de alerta del vehículo en tiempo real</td>
             <td>Como propietario de vehículo urbano, quiero recibir alerta inmediatas sobre el estado o fallos de mi vehículo para evitar daños mayores o situaciones de riesgo</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>14</td>
+            <td>13</td>
             <td>US07</td>
             <td>Diagnóstico vehicular</td>
             <td>Como mecánico automotriz quiero obtener un diagnóstico veraz del estado de mi vehículo para atender cualquier problema y considerar reparaciones o mantenimientos menos costosos.</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>15</td>
+            <td>14</td>
             <td>US12</td>
             <td>Localizar un taller automotriz cercano</td>
             <td>Como conductor independiente, quiero localizar un taller mecánico cercano y confiable, para realizar arreglar o revisar mi vehículo</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>16</td>
+            <td>15</td>
             <td>US10</td>
             <td>Conexión bluetooth</td>
             <td>Como mecánico automotriz quiero conectarme a mi vehículo de manera rápida y precisa con bluetooth para tener información de mi vehículo en todo lugar y momento</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>17</td>
+            <td>16</td>
             <td>US13</td>
             <td>Auditoría de fallas</td>
             <td>Como conductor independiente, quiero ver la descripción y controlar el estado de la falla que tiene mi vehículo, para tomar medidas de mantenimiento y guardarlas en la aplicación</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>18</td>
+            <td>17</td>
             <td>US15</td>
             <td>Diagnóstico rápido</td>
             <td>Como conductor independiente quiero acceder al diagnóstico rápido de mi vehículo para obtener el estado de mi vehiculo de manera rápida y sencilla</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>19</td>
+            <td>18</td>
             <td>US27</td>
             <td>Vida útil del coche</td>
             <td>Como propietario de vehiculos urbanos quiero acceder a la informacion relevante sobre la vida útil de mi vehículo para mantener en óptimas condiciones mi vehículo</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>20</td>
+            <td>19</td>
             <td>US41</td>
             <td>Último escaneo</td>
             <td>Como conductor independiente quiero acceder a la informacion del último escaneo de mi vehículo para analizar el estado de mi vehículo</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>21</td>
+            <td>20</td>
             <td>US26</td>
             <td>Pago de suscripciones</td>
             <td>Como propietario de vehículo urbano quiero pagar la suscripción con mi tarjeta por medio de la aplicación para un pago rápido</td>
             <td>5</td>
         </tr>
         <tr>
-            <td>22</td>
+            <td>21</td>
             <td>US20</td>
             <td>Ver consumo de combustible</td>
             <td>Como propietario de vehículo urbano, quiero ver mi consumo de combustible promedio, para manejar de forma más eficiente</td>
             <td>3</td>
-        </tr
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>US32</td>
+            <td>Guía de conexiones</td>
+            <td>Como propietario de vehículos urbanos quiero tener una guía de conexión vehículo-aplicación para usar la aplicación sin errores</td>
+            <td>3</td>
+        </tr>
         <tr>
             <td>23</td>
             <td>US42</td>
