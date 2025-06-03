@@ -741,11 +741,11 @@ A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, don
 		</tr>
 		<tr>
 			<td>Sprint 2 Velocity</td>
-			<td>16</td>
+			<td>7</td>
 		</tr>
 		<tr>
 			<td>Sum of Story points</td>
-			<td>42</td>
+			<td>23</td>
 		</tr>
 	</tbody>
 </table>
@@ -786,7 +786,7 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 		</tr>
 		<tr>
 			<td rowspan="4">EP03-US06</td>
-			<td rowspan="4">Historial de desgaste vehicular</td>
+			<td rowspan="4">Previsión de problemas</td>
 			<td>T1</td>
 			<td>Añadir imágenes</td>
 			<td>Se añaden imágenes para tener una mejor referencia</td>
@@ -819,8 +819,8 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="3">EP03-US08</td>
-			<td rowspan="3">Diagnóstico vehicular PRO</td>
+			<td rowspan="3">EP03-US07</td>
+			<td rowspan="3">Diagnóstico vehicular</td>
 			<td>T1</td>
 			<td>Crear la vista diagnóstico</td>
 			<td>Se crea la vista correspondiente a diagnóstico rápido</td>
@@ -845,7 +845,7 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="3">EP03-US13</td>
+			<td rowspan="3">EP05-US12</td>
 			<td rowspan="3">Localizar un taller automotriz cercano</td>
 			<td>T1</td>
 			<td>Crear la estructura de la vista para encontrar un taller automotriz cercano</td>
@@ -871,8 +871,8 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="3">EP03-US14</td>
-			<td rowspan="3">Ver descripción resumida de la falla del vehículo</td>
+			<td rowspan="3">EP06-US14</td>
+			<td rowspan="3">Estado de suscripción</td>
 			<td>T1</td>
 			<td>Mostrar resumen de la falla</td>
 			<td>Se muestra una breve descripción de la falla del vehículo en un párrafo</td>
@@ -897,19 +897,19 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="4">EP05-US18</td>
-			<td rowspan="4">Diagnostico Standard</td>
+			<td rowspan="4">EP05-US32</td>
+			<td rowspan="4">Guía de conexiones</td>
 			<td>T1</td>
-			<td>Crear la vista diagnóstico</td>
-			<td>Se crea la vista correspondiente a diagnóstico rápido</td>
+			<td>Crear la vista sincronización</td>
+			<td>Dentro de la vista de "sync" crear la ruta correspondiente</td>
 			<td>0.5</td>
 			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td>T2</td>
-			<td>Vinculación de la vista maintenance a la vista diagnóstico</td>
-			<td>Dentro de la vista maintenance habrá un componente que redirigirá a la vista diagnóstico rápido para una navegación óptima</td>
+			<td>Añadir componentes de dispositivos compatibles</td>
+			<td>Dentro de la vista de "sync", agregar los componentes que harán referencia a los dispositivos cercanos.</td>
 			<td>0.5</td>
 			<td>Sergio Julca</td>
 			<td>Done</td>
@@ -923,16 +923,16 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td>T3</td>
+			<td>T4</td>
 			<td>Añadir componentes</td>
-			<td>Se crean los componentes respectivos</td>
+			<td>Se crean los componentes que falten</td>
 			<td>3</td>
 			<td>Sergio Julca</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="4">EP05-US25</td>
-			<td rowspan="4">Datos técnicos</td>
+			<td rowspan="4">EP05-US23</td>
+			<td rowspan="4">Lengüage técnico</td>
 			<td>T1</td>
 			<td>Crear componentes</td>
 			<td>Se crea los componentes para mostrar los datos técnicos</td>
@@ -965,8 +965,8 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="3">EP03-US29</td>
-			<td rowspan="3">Estadística intuitiva</td>
+			<td rowspan="3">EP03-US27</td>
+			<td rowspan="3">Vida útil del coche</td>
 			<td>T1</td>
 			<td>Crear componentes</td>
 			<td>Se crea los componentes para mostrar los gráficos estadísticos</td>
@@ -975,7 +975,7 @@ Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicac
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td>T3</td>
+			<td>T2</td>
 			<td>Añadir estilos y propiedades responsive</td>
 			<td>Se añade los estilos CSS y se añaden las propiedades para que sea responsive</td>
 			<td>2</td>
