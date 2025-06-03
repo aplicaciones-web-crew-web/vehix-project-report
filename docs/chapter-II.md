@@ -882,20 +882,39 @@ Para la elaboracón de el User persona para el segmento 2 (Conductores independi
 Para la elaboracón de el User persona para el segmento 3 (Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes), hemos tomado en cuenta sus datos demográficos, frustraciones, motivaciones, metas, marcas e influencias, entre otras más características.
 
 ![user_personas_segment 3 img](/assets/imgs/chapter-II/user-personas-segment-3.png)
+
 ### 2.3.2. User Task Matrix
-En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Persona realizan para cumplir sus objetivos.
+En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Persona realizan para cumplir sus objetivos, que está dada por nuestros tres segmentos objetivos:
+ + Primer segmento: Propietaria de vehículo urbano, que está representada por Carla Torres Alvarado. 
+ + Segundo segmento: Taxista, representado por Martin Lopez Carranza.
+ + Tercer Segmento: Mecánico Automotriz, representado por Juan Carlos Rojas.
 
-**Segmento 1**
 
-![user task matrix segment 1](/assets/imgs/chapter-II/user-task-matrix-segment-1.png)
+![user-task-matrix](/assets/imgs/chapter-II/user-task-matrix.png)
 
-**Segmento 2**
+#### **Tareas más frecuentes:**
 
-![user task matrix segment 2](/assets/imgs/chapter-II/user-task-matrix-segment-2.png)
+ + Todos los segmentos consideran importante y frecuente la detección de problemas y síntomas inusuales, ya que identificar a tiempo un problema puede prevenir accidentes y reducir gastos inesperados.
+En el caso de los taxistas y los mecánicos, la detección rápida de fallas impacta directamente en su trabajo y en la confianza que tienen con el cliente.
+ + Con respecto a la tarea de monitorear el estado general del vehículo, es prioritaria debido que un buen funcionamiento del vehículo garantiza seguridad y ahorro para todos los segmentos.
+ + También, la tarea de buscar o brindar consejos para evitar gastos innecesarios es frecuente dada la importancia que le dan los conductores independientes y taxistas a minimizar costos, por lo que constantemente buscan información y ayuda para tomar decisiones informadas. 
 
-**Segmento 3**
+#### **Coincidencias**
+Existen varias tareas que coinciden con los tres segmentos:
 
-![user task matrix segment 3](/assets/imgs/chapter-II/user-task-matrix-segment-3.png)
+ + Interés por la prevención y el buen estado del vehículo: Todos reconocen la importancia de mantener el vehículo en buenas condiciones, por lo que la tarea de monitorear el estado del vehículo es compartida por todos, porque un mal funcionamiento puede ocasionar, pérdida de ingresos, problemas, riesgos de seguridad.
+ + Valoración del aprendizaje: Aunque la frecuencia e importancia varía, en general existe un interés común por mejorar los conocimientos, habilidades y buscar información para mejorar el cuidado del vehículo
+ + Preocupación por los gastos: Todos consideran importante evitar gastos innecesarios, para optimizar recursos en el trabajo, brindar un servicio eficiente, ahorrar en el presupuesto familiar, independientemente la gestión de los costos es una preocupación constante.
+
+#### **Diferencias**
+ + Primer segmento, Carla Torres Alvarado:
+Considera importante cuidar su vehículo. Realiza revisiones, mantenimientos con menor frecuencia, y se centra en evitar problemas y gastos imprevistos, aunque solo va al taller cuando siente que es muy necesario. También, prefiere confiar en la opinión de un especialista, antes de tratar de entender los problemas mecánicos.
+ + Segundo segmento, Martín López Carranza:
+Para este segmento, el monitoreo es una actividad constante, ya que su vehículo es su herramienta de trabajo, por lo que su buen funcionamiento impacta directamente en sus ingresos. Para él, detectar síntomas o problemas inusuales es una tarea habitual, para así anticiparse a los problemas. Suele depender de técnicos para diagnósticos y reparaciones complejas. A diferencia de los demás, Martín es precavido en el cuidado de su vehículo, porque esté está vinculado a su economía.
+ + Tercer Segmento, Juan Carlos Rojas:
+Para este segmento, su principal responsabilidad es diagnosticar fallas en diferentes vehículos, así como comunicarlos de manera clara al cliente, asegurándose de que comprendan el problema. A diferencia de los otros segmentos, para el mecánico, el manejo y la comunicación de información técnica no es una tarea ocasional, sino una función esencial y diaria.
+
+
 ### 2.3.3. User Journey Mapping
 Esta sección presenta los User Journey Maps correspondientes a cada User Persona, ofreciendo una visión integral del recorrido del usuario desde el comienzo hasta el final. Estos mapas reflejan el estado actual (As-Is) de cada segmento, sin proponer aún soluciones.
 
