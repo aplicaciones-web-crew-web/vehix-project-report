@@ -1114,7 +1114,69 @@ En este sección se evidencia como el equipo a trabajado de manera colaborativa 
 En esta sección, documentaremos y explicaremos el desarrollo del Sprint 3 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Se abordará varias secciones, incluyendo el Sprint Backlog, Development Evidence for Sprint Review, Sprint Planning.
 
 #### 5.2.3.1. Sprint Planning 3
-A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
+A continuación se mostrará el cuadro correspondiente al Sprint Planning 3, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">Spring Planing Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>2025-05-27</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>4:30 PM</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Presencial mode in classroom</td>
+		</tr>
+		<tr>
+			<td colspan="2">Prepared by</td>
+		</tr>
+		<tr>
+			<td>Attends (to planinning meeting)</td>
+			<td>All members of CrewWeb</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Review Summary</td>
+			<td>We have achived the creation of the landing page, interactive ind intuitive, with the respectives "call to action", which allows to redirect to our web application. But we need to remove the contact section.</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Retrospective Summary</td>
+			<td>We consider that the call to action are importants in the development of the landing page to attract customers. Our product owner thinks that we need a better organization of our deliverables</td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Review Summary</td>
+			<td>we have achived the web application, developing the maintenance view and using internal and external API's. We consider that we achieved the objective, deploying the web application and showing the main views. </td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Retrospective Summary</td>
+			<td> We consider that we have to improve the developent environment with gitflow, and update the project report with the new developed artifacts. </td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Goal</td>
+			<td>our focus is on offering a login view,a sign up view and a library view, wich contains an different sections to read articles, watch videos and read documentation. Also allow the developer create requests (GET,POST,PUT and DELETE) of the vehicles, users, mechanics and technical history. We believe it delivers confidence and active use of the product to new customers. This will be confirmed when the customers interact actively with the new features that we will offer to them. </td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Velocity</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Sum of Story points</td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 3.
