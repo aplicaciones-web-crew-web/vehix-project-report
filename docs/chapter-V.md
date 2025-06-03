@@ -307,11 +307,11 @@ En esta sección, especificáremos los principales aspectos del Sprint Planning 
 		</tr>
 		<tr>
 			<td><strong>Sprint 1 Velocity</strong></td>
-			<td>12</td>
+			<td>11</td>
 		</tr>
 		<tr>
 			<td><strong>Sum of Story points</strong></td>
-			<td>26</td>
+			<td>34</td>
 		</tr>
 	</tbody>
 </table>
@@ -353,7 +353,7 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 		</tr>
 		<tr>
 			<td rowspan="3">EP02-US02</td>
-			<td rowspan="3">Navegación rápida</td>
+			<td rowspan="3">Búsqueda de Contenido</td>
 			<td>T1</td>
 			<td>Añadir lista de etiquetas</td>
 			<td>Se añadirán las etiquetas de “Home”,” Subscriptions”,” Benefits”,” Testimonial”, ¿” Who are we?”, “FAQ”, “Support” y “Compatitbility”</td>
@@ -379,7 +379,7 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 		</tr>
 		<tr>
 			<td>EP02-US03</td>
-			<td>Evidencia de beneficios</td>
+			<td>Lista de beneficios</td>
 			<td>T4</td>
 			<td>Añadir lista de beneficios y estilo</td>
 			<td>Se añade una lista de beneficios de usar la plataforma y estilos correspondientes</td>
@@ -388,8 +388,8 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US31</td>
-			<td rowspan="2">Contextualización de la plataforma</td>
+			<td rowspan="2">EP02-US29</td>
+			<td rowspan="2">Acceso a la Aplicación desde la Página Principal</td>
 			<td>T5</td>
 			<td>Añadir descripción de la aplicación</td>
 			<td>Se agrega un párrafo atractivo y concreto para el visitante</td>
@@ -399,15 +399,15 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 		</tr>
 		<tr>
 			<td>T6</td>
-			<td>Añadir imágenes y estilos</td>
-			<td>Se agrega imagen referencial de dispositivos compatibles y estilos correspondientes</td>
+			<td>Añadir imágenes y referencias</td>
+			<td>Se agarega imagenes referenciales al aplicativo y se agrega los botones de redirección</td>
 			<td>1</td>
 			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US32</td>
-			<td rowspan="2">Testimonios</td>
+			<td rowspan="2">EP02-US30</td>
+			<td rowspan="2">Implementación de testimonios</td>
 			<td>T7</td>
 			<td>Añadir comentarios</td>
 			<td>Se agrega un comentario por cada usuario acerca de su experiencia con la aplicación</td>
@@ -424,8 +424,8 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US33</td>
-			<td rowspan="2">Suscripciones</td>
+			<td rowspan="2">EP02-US31</td>
+			<td rowspan="2">Crear planes de suscripción</td>
 			<td>T9</td>
 			<td>Añadir tipo de plan y precios</td>
 			<td>Se agregan los títulos de cada plan y sus precios</td>
@@ -442,25 +442,25 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US34</td>
-			<td rowspan="2">Video introductorio</td>
+			<td rowspan="2">EP02-US36</td>
+			<td rowspan="2">Soporte Multilingüe</td>
 			<td>T11</td>
-			<td>Creación de video</td>
-			<td>Se sube video de guía a YouTube acerca de cómo funciona la aplicación</td>
+			<td>Creación de archivo en.html</td>
+			<td>Se traduce el contenido de inglés a español en un archivo html</td>
 			<td>0.5</td>
 			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td>T12</td>
-			<td>Añadir video y estilo</td>
-			<td>Se agrega el link del video de YouTube junto al estilo predefinido</td>
+			<td>Añadir botón de idioma</td>
+			<td>Se agrega el botón de idioma para que el usuario eliga el de su preferencia</td>
 			<td>0.5</td>
 			<td>Antonio Navarro</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US35</td>
+			<td rowspan="2">EP02-US33</td>
 			<td rowspan="2">Soporte y redes</td>
 			<td>T13</td>
 			<td>Añadir redes</td>
@@ -478,8 +478,8 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US36</td>
-			<td rowspan="2">Diseño responsive</td>
+			<td rowspan="2">EP02-US34</td>
+			<td rowspan="2">Adaptación a diferentes dispositivos</td>
 			<td>T15</td>
 			<td>Correccion de errores</td>
 			<td>Se corrigen los errores de diseño responsive</td>
@@ -496,8 +496,8 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US37</td>
-			<td rowspan="2">Visualización de creadores</td>
+			<td rowspan="3">EP02-US35</td>
+			<td rowspan="3">Visualización de creadores</td>
 			<td>T17</td>
 			<td>Añadir imágenes y estilos</td>
 			<td>Se añade las fotos de cada integrante y se agregan el estilo correspondiente.</td>
@@ -514,16 +514,6 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US38</td>
-			<td rowspan="2">Visualización de redes</td>
-			<td>T19</td>
-			<td>Añadir pie de pagina</td>
-			<td>Se añade iconos referenciales de cada red social de la empresa</td>
-			<td>0.5</td>
-			<td>Sergio Julca</td>
-			<td>Done</td>
-		</tr>
-		<tr>
 			<td>T20</td>
 			<td>Añadir estilo al pie de pagina</td>
 			<td>Se añaden estilos predefinidos al pie de pagina</td>
@@ -532,7 +522,7 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="3">EP02-US39</td>
+			<td rowspan="3">EP02-US37</td>
 			<td rowspan="3">Preguntas frecuentes</td>
 			<td>T21</td>
 			<td>Añadir preguntas</td>
@@ -558,8 +548,8 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">EP02-US40</td>
-			<td rowspan="2">Sección de vehículos compatibles</td>
+			<td rowspan="2">EP02-US38</td>
+			<td rowspan="2">Desarrollo de vehiculos compatibles</td>
 			<td>T24</td>
 			<td>Añadir información de vehículos compatibles</td>
 			<td>Se añade breve información de vehículos compatibles, resaltando el año y tipo de combustible.</td>
