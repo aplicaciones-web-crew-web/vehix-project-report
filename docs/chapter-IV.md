@@ -735,7 +735,7 @@ Los mockups representan una etapa clave en el diseño de nuestras aplicaciones, 
 
 **Enlace**: [Figma mock ups (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
-### Log in and sign up
+### Log in, sign up and subscriptions
 
 Vistas para registro e ingreso del usuario.
 
