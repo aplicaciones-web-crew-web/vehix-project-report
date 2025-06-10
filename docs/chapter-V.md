@@ -1,7 +1,9 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
+Seguidamente, se mostrará un repositorio centralizado y estructurado que funcionará como referencia para un desarrollo enfocado y coherente de nuestra solución. Además se incluyen otras secciones para Source Code Management, Development Environment Configuration y Deployment Configuration.
+
 ### 5.1.1. Software Development Environment Configuration.
-En esta sección se detallan las herramientas y plataformas que se utilizaron para el desarrollo de la aplicacion Vehix
+En esta sección, se detalla la configuración del entorno de desarrollo utilizado para construir la aplicación Vehix. Se describen las herramientas y plataformas que facilitaron la planificación del proyecto, el diseño centrado en el usuario, el desarrollo frontend y backend, las pruebas automatizadas y la documentación técnica. Estas soluciones permitieron una colaboración efectiva entre los miembros del equipo, asegurando un desarrollo ágil, organizado y alineado con los objetivos del sistema.
 ## Gestión del Proyecto
 La gestión del proyecto es clave para coordinar actividades, tareas y equipos, asegurando que el proyecto Vehix avance dentro de los tiempos y objetivos planteados.
 
@@ -46,8 +48,9 @@ Esto facilitó una verificación sistemática del comportamiento esperado de la 
 ## Documentación del Software
 
 Incluye todo el material que describe el funcionamiento del sistema y cómo utilizarlo. La documentación fue elaborada tanto para usuarios finales como para el equipo técnico, y se integró como parte del repositorio del proyecto.
+
 ### 5.1.2. Source Code Management.
-En esta sección se describe cómo se gestionaron las modificaciones al código del sistema **Vehix**, así como las convenciones empleadas para los commits y las versiones liberadas a lo largo del ciclo de desarrollo.
+En esta sección se describe cómo se gestionaron las modificaciones al código del sistema Vehix, así como las convenciones empleadas para los commits y las versiones liberadas a lo largo del ciclo de desarrollo.
 
 ### Plataforma de Control de Versiones
 
@@ -112,6 +115,7 @@ Este enfoque facilita la trazabilidad, automatización del versionado y claridad
 ### Commits Convencionales (Conventional Commits)
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+En esta parte del proyecto, nos centraremos en definir un conjunto uniforme de normas y convenciones de estilo y programación para el desarrollo de nuestra aplicación web Vehix. Estas pautas son fundamentales para asegurar que el código sea consistente, claro y bien estructurado, lo que a su vez facilitará su mantenimiento y escalabilidad durante todo el ciclo de vida del proyecto.
 
 Para asegurar la consistencia y calidad en el desarrollo de nuestra Landing Page implementaremos una serie de convenciones específicas para los distintos lenguajes y tecnologías que utilizamos:
 
@@ -250,9 +254,14 @@ Para el despliegue de nuestra landing page se escogio Git Page siendo una altern
 ![paso_4](/assets/imgs/chapter-V/paso-4.PNG)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
+En esta sección se detalla y demuestra el proceso llevado a cabo para la implementación, pruebas, documentación y despliegue de la Landing Page, los Servicios Web y las Aplicaciones Web Frontend.
+
 ### 5.2.1. Sprint 1
-En esta sección se documenta el desarrollo correspondiente al Sprint 1 del proyecto Vehix. Se presentan los objetivos priorizados, las tareas asignadas al equipo, los entregables alcanzados y un resumen del progreso logrado. Este sprint marca el inicio del ciclo de trabajo iterativo, centrado en construir los cimientos del sistema y validar los supuestos iniciales.
+En esta sección, documentaremos y explicaremos el desarrollo del Sprint 1 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Se abordará varias secciones, incluyendo el Sprint Backlog, Development Evidence for Sprint Review, Sprint Planning.
+
 #### 5.2.1.1. Sprint Planning 1.
+En esta sección, especificáremos los principales aspectos del Sprint Planning Meeting 1.
+
 <table>
 	<tbody>
 		<tr>
@@ -308,6 +317,7 @@ En esta sección se documenta el desarrollo correspondiente al Sprint 1 del proy
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 1.
 
 | Team Member (Last Name, First Name) | GitHub Username | Landing page |
 | ------------------------------------|-----------------|-------------------------------------------|
@@ -319,7 +329,7 @@ En esta sección se documenta el desarrollo correspondiente al Sprint 1 del proy
 
 
 #### 5.2.1.3. Sprint Backlog 1
-
+Nuestro principal objetivo con este primer sprint es desarrollar las funciones esenciales que permitan a los usuarios interesados en Vehix informarse sobre su propósito, conocer sus características destacadas y entender las acciones que podrán realizar dentro de su pagina web.
 
 <table>
 	<tbody>
@@ -569,8 +579,7 @@ En esta sección se documenta el desarrollo correspondiente al Sprint 1 del proy
 </table>
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
-
-Para el desarrollo del sprint 1, se ha implementado la landing page, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes, entre ellos las secciones de nuestra landing page y el cambio de idioma entre inglés y español.
+A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Landing Page, para el desarrollo del sprint 1, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes, entre ellos las secciones de nuestra landing page y el cambio de idioma entre inglés y español.
 
 | Repository | Branch | Commit Id | Commit Messaage | Commit Message Body | Commited on |
 |------------|--------|-----------|-----------------|---------------------|-------------|
@@ -645,10 +654,9 @@ Para el desarrollo del sprint 1, se ha implementado la landing page, previamente
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-
 Nuestro equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de Vehix. A continuación se mostrarán las evidencias.
 
-link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EVekU9kyDRNDgE2mhr4qbnMB56iZZ1XzpouL-3dxal5Tow?e=vvxgWJ
+Enlace del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EVekU9kyDRNDgE2mhr4qbnMB56iZZ1XzpouL-3dxal5Tow?e=vvxgWJ
 
 ![banner img](/assets/imgs/chapter-V/banner_evidence.png)
 
@@ -658,7 +666,7 @@ link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc
 
 ![benefits img](/assets/imgs/chapter-V/benefits_evidence.png)
 
-![testimonials img](/assets/imgs/chapter-V/testimonials_evidence.png)
+![testimonials img](/assets/imgs/chapter-V/testimonials.png)
 
 ![who are we img](/assets/imgs/chapter-V/who-are-we-web.png)
 
@@ -675,7 +683,7 @@ link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 No contamos pruebas de documentacion a razón que nuestro enfoque en el primer sprint estuvo dirigido a la elaboración del landing page.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
+En esta sección presentaremos los procesos realizados durante el Sprint 1:
 Para el desarrollo de este sprint, utilizamos Github Pages, una herramienta que se integró fácilmente a nuestro flujo de trabajo y nos sirvió para desplegar la Landing Page a partir de un repositorio. También desarrollamos actividades enfocadas a preparar el entorno de despliegue.
 
 ![github-pages](/assets/imgs/chapter-V/img-page.PNG)
@@ -686,16 +694,16 @@ https://aplicaciones-web-crew-web.github.io/vehix-landing-page/
 
 ![landing-page](/assets/imgs/chapter-V/img-lp.PNG)
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-
-En este apartado se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la landing page, con el uso de HTML, CSS y JavaScript, y sus commits correspondientes.
+En esta vista se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la landing page, con el uso de HTML, CSS y JavaScript, y sus commits correspondientes.
 
 ![individual-commits](/assets/imgs/chapter-V/individual-commits.png)
 
 ![contributors-general-commits](/assets/imgs/chapter-V/contributors-general-commits.png)
 
 ### 5.2.2. Sprint 2
-#### 5.2.2.1. Sprint Planning 2
+En esta sección, documentaremos y explicaremos el desarrollo del Sprint 2 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Se abordará varias secciones, incluyendo el Sprint Backlog, Development Evidence for Sprint Review, Sprint Planning.
 
+#### 5.2.2.1. Sprint Planning 2
 A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
 
 <table>
@@ -753,8 +761,7 @@ A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, don
 </table>
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
-
-A continuación mostramos los líderes y colaboradoeres de los aspectos a realizarse.
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 2.
 
 | Team Member (Last Name, First Name) | GitHub Username | Diagnostic view from web application | Improve Landing Page |
 | ------------------------------------|-----------------|-------------------------------------------|-----------------|
@@ -765,8 +772,7 @@ A continuación mostramos los líderes y colaboradoeres de los aspectos a realiz
 | Elescano Leon, Piero Hugo | PieroHugo | C | C |
 
 #### 5.2.2.3. Sprint Backlog 2
-
-A continuación, se ve el sprint backlog 2, donde se han descompuesto los user stories y se verán las tareas designadas a cada integrante del equipo.
+Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicacion web y una segunda versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes.
 
 <table>
 	<tbody>
@@ -998,8 +1004,7 @@ A continuación, se ve el sprint backlog 2, donde se han descompuesto los user s
 </table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review
-
-Para el desarrollo del sprint 2, se ha implementado el frontend, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes.
+A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Aplicación Web, para el desarrollo del sprint 2, el cual se ha implementado el frontend, previamente habiendo hecho el diseño en Figma. Se desarrollaron los features correspondientes.
 
 | Repository                      | Branch                                   | Commit Id | Commit Messaage                       | Commit Message Body | Commited on |
 | ------------------------------- | ---------------------------------------- | --------- | ------------------------------------- | ------------------- | ----------- |
@@ -1071,10 +1076,10 @@ Para el desarrollo del sprint 2, se ha implementado el frontend, previamente hab
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+Lo que se logró para este Sprint 2 es el peliegue de la primera versión de la aplicación web. En esta logramos desarrollar el toolbar, la vista de Maintenance y los componentes que se encuentran en dicha vista. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal. A continuación se mostrarán las evidencias de ejecución.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-
-A continuación se mostrará la documentación de los servicios usados.
+En esta sección se incluye la relación de los endpoints documentados. A continuación se muestra el proyecto el cual evidencia el desplique de la aplicación.
 
 Aquí tenemos el servicio de json server que ha sido usado para almacenar a la fake API que hemos creado.
 
@@ -1086,8 +1091,7 @@ Aquí tenemos el servicio firebase que ha sido usado para el despliegue de la ap
 ![image-firebase](/assets/imgs/chapter-V/firebase.png)	
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-
-A continuación se mostrarán las evidencias del despliegue de la aplicación web. Se desplegó la aplicación usando firebase
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint. A continuacíon se presenta la aplicación desplegada usando firebase.
 
 Aquí tenemos la vista de maintenence
 
@@ -1099,7 +1103,7 @@ Aquí tenemos la vista para buscar un taller cercano
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
-En este apartado se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la app frontend.
+En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación de la app frontend.
 
 ![image-1](/assets/imgs/chapter-V/1.PNG)
 
@@ -1107,9 +1111,16 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 
 
 ### 5.2.3. Sprint 3
+En esta sección, documentaremos y explicaremos el desarrollo del Sprint 3 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Se abordará varias secciones, incluyendo el Sprint Backlog, Development Evidence for Sprint Review, Sprint Planning.
+
 #### 5.2.3.1. Sprint Planning 3
+A continuación se mostrará el cuadro correspondiente al Sprint Planning 2, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
+
 #### 5.2.3.2. Aspect Leaders and Collaborators
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 3.
+
 #### 5.2.3.3. Sprint Backlog 3
+Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicacion web y una tercera versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de migrar a un fakeAPI a un Backend.
 
 <table>
 	<tbody>
@@ -1597,15 +1608,31 @@ En este apartado se evidencia como el equipo a trabajado de manera colaborativa 
 </table>
 
 #### 5.2.3.4. Development Evidence for Sprint Review
+A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 3. Se desarrollaron los features correspondientes.
+
 #### 5.2.3.5. Execution evidence for Sprint Review
+Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección se incluye la relación de los endpoints documentados.
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación del Backend.
 
 ## 5.3. Validation Interviews
+En esta sección del informe se documentan y detallan las acciones relacionadas con las entrevistas de validación llevadas a cabo durante el desarrollo del proyecto. Estas entrevistas tienen como propósito fundamental recoger opiniones, identificar las expectativas y necesidades de los usuarios, y confirmar o descartar las suposiciones planteadas sobre el producto. Para ello, se facilitará la interacción de los participantes, pertenecientes a ambos segmentos definidos, con la landing page y la aplicación web, permitiendo así una evaluación directa de la experiencia.
+
 ### 5.3.1. Design Interviews
+En esta sección se establece por cada segmento objetivo los elementos a incluir en la sesión de validación, incluyendo el Landing Page y las aplicaciones. Además se especifica cuáles serán los user flows de las aplicaciones, que formarán parte del proceso de validación.
+
 ### 5.3.2. Interview Record
+En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para cada segmento objetivo de nuestro proyecto.
+
 ### 5.3.3. Evaluation based on heuristics
+Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
+
 ## 5.4. Video About the Product
-
-
+En esta sección se describe el contenido del Video About-theProduct, el cual tiene como público objetivo los visitantes al Landing Page, quienes desean conocer sobre el modelo de negocio y las características principales de los productos de software, al igual que los usuarios de las Aplicaciones, quienes desean realizar tareas relacionadas con los procesos soportados por la solución.

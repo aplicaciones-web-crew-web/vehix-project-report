@@ -1,18 +1,22 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
-En esta sección se presentan las Style Guidelines definidas para el proyecto Vehix. Estas pautas de diseño aseguran la coherencia visual, usabilidad y accesibilidad de la interfaz en todos los puntos de contacto con el usuario. Siguiendo estos lineamientos, buscamos ofrecer una experiencia intuitiva, moderna y alineada con los valores de la marca, facilitando tanto el desarrollo como la escalabilidad del producto.
+En esta sección, presentamos nuestra propuesta de diseño para el landing page y la aplicación web. Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunicativos que aseguran una experiencia coherente, intuitiva y accesible en toda la aplicación. Estas guías fueron diseñadas para mantener consistencia en todos los puntos de contacto con el usuario, incluyendo interfaz, notificaciones y mensajes del sistema.
+
 ### 4.1.1. General Style Guidelines
-#### Colores
+Aquí se muestran las normas básicas que nos permiten mantener una presentación clara y coherente de nuestros productos.
+
+#### **Colores**
+
  La identidad visual de **Vehix** está centrada en una paleta monocromática compuesta por tonalidades de **blanco y negro**, complementada con un **color de acento turquesa** que aporta un toque moderno, tecnológico y fresco, sin perder sobriedad.
 
   Esta combinación logra un equilibrio entre seriedad y accesibilidad, ideal para una aplicación enfocada en el mantenimiento vehicular.
    
-   #### **Colores principales:**
+* Colores principales
 
    La gama de grises elegida permite mantener una interfaz visualmente limpia, neutra y moderna,
    facilitando el enfoque en el contenido y las funcionalidades sin distracciones visuales innecesarias. Además, el gris proporciona un equilibrio entre profesionalismo y accesibilidad.
 
-##### **Escala de grises**
+* Escala de grises 
 
 | Color                                      | Justificación                                                                                                                                                                          |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,7 +27,7 @@ En esta sección se presentan las Style Guidelines definidas para el proyecto Ve
 
 ![escala-gris](/assets/imgs/chapter-IV/escala-gris.PNG)
 
- ##### **Escala de negros**
+* Escala de negros
 
 | RGBA                                          | Justificación                                                                                                                        |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -34,9 +38,9 @@ La escala de negros con diferentes niveles de opacidad se usa estratégicamente 
 
 ![escala-negra](/assets/imgs/chapter-IV/escala-negra.PNG)
 
- #### **Color de acento:**
+* Color de acento
 
- - **Turquesa suave (#A9D8DC):** se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
+  **Turquesa suave (#A9D8DC):** se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
 
 ![turquesa](/assets/imgs/chapter-IV/color_turquesa.PNG)
 
@@ -44,31 +48,28 @@ La escala de negros con diferentes niveles de opacidad se usa estratégicamente 
 
 En **Vehix**, la tipografía es un componente esencial para transmitir claridad, profesionalismo y accesibilidad en cada pantalla de la aplicación. Se ha definido el uso de tres fuentes principales, combinando elegancia, legibilidad y modernidad.
 
- #### **PT Serif Regular**
-
- - **Uso:** Indicaciones, descripciones cortas, y subtítulos informativos.
-
-- **Justificación:** Esta tipografía aporta una estética clásica y seria, ideal para mostrar mensajes auxiliares, instrucciones y textos complementarios. En tu interfaz, se aplica a pequeños textos explicativos como los de los campos del formulario o mensajes dentro de las tarjetas.
+* PT Serif Regular
+  
+  - **Uso:** Indicaciones, descripciones cortas, y subtítulos informativos.
+  - **Justificación:** Esta tipografía aporta una estética clásica y seria, ideal para mostrar mensajes auxiliares, instrucciones y textos complementarios. En tu interfaz, se aplica a pequeños textos explicativos como los de los campos del formulario o mensajes dentro de las tarjetas.
 
 ![pt-serif](/assets/imgs/chapter-IV/pt-serif-regular.PNG)
 
- #### **Roboto Regular**
- 
-- **Uso:** Contenido general, campos de formularios y textos secundarios.
-
-- **Justificación:** Roboto es perfecta para ofrecer legibilidad en pantallas, especialmente en bloques de texto como descripciones, contenidos de planes, formularios de contacto y navegación. Aporta un estilo moderno y funcional sin perder claridad.
+* Roboto Regular
+  
+  - **Uso:** Contenido general, campos de formularios y textos secundarios.
+  - **Justificación:** Roboto es perfecta para ofrecer legibilidad en pantallas, especialmente en bloques de texto como descripciones, contenidos de planes, formularios de contacto y navegación. Aporta un estilo moderno y funcional sin perder claridad.
 
 ![roboto-regular](/assets/imgs/chapter-IV/roboto-regular.PNG)
 
- #### **Montserrat Regular**
+* Montserrat Regular
 
-- **Uso:** Títulos principales, subtítulos y botones.
-
-- **Justificación:** Su estilo geométrico y moderno brinda un toque contemporáneo y profesional a la interfaz. Es utilizada para destacar los elementos más importantes visualmente como “VEHIX”, nombres de secciones y botones, lo que permite una jerarquía clara y elegante.
+  - **Uso:** Títulos principales, subtítulos y botones.
+  - **Justificación:** Su estilo geométrico y moderno brinda un toque contemporáneo y profesional a la interfaz. Es utilizada para destacar los elementos más importantes visualmente como “VEHIX”, nombres de secciones y botones, lo que permite una jerarquía clara y elegante.
 
 ![monserrat-regular](/assets/imgs/chapter-IV/Monserrat-regular.PNG)
 
-#### Spacing
+#### **Spacing**
 
 Los elementos interactivos deben ser lo suficientemente grandes y estar bien espaciados para facilitar su uso, especialmente para quienes tienen dificultades motrices. Un espaciado adecuado asegura que los usuarios puedan tocar o hacer clic en los botones de manera segura, sin riesgo de presionar accidentalmente el botón incorrecto.
 
@@ -81,7 +82,7 @@ Los elementos interactivos deben ser lo suficientemente grandes y estar bien esp
 - **64 px:** Espaciado entre secciones grandes o bloques verticales principales.
 
 
-### Branding:
+#### **Branding**
 
  #### **Logo**
 
@@ -121,8 +122,9 @@ Se aplicó el patrón de lectura F para estructurar la pantalla en bloques horiz
 ![img-web](/assets/imgs/chapter-IV/img-web.PNG)
 
 ## 4.2. Information Architecture
-### 4.2.1. Organization Systems
+En Vehix, la estructura de la información está diseñada para facilitar el acceso y la comprensión del contenido tanto en la página principal como en sus plataformas web y móviles. Se aplican métodos organizativos eficientes, como la disposición jerárquica y la clasificación temática, además de un etiquetado claro que favorece la exploración del sitio y la localización rápida de elementos. Asimismo, se incorpora una navegación amigable con herramientas de búsqueda precisas y filtros detallados, lo que permite a los usuarios encontrar lo que buscan de forma sencilla. Todo esto contribuye a ofrecer una interacción fluida y una experiencia consistente y agradable para quienes visitan y utilizan Vehix.
 
+### 4.2.1. Organization Systems
 En este apartado se indicarán los sistemas de organización que se han usado para el "Landing page" y la aplicación web. Entre los tipos de estructuras que han sido escogidas son: jerárquica y secuenciale. Además también indicaremos los esquemas de categorización de contenido.
 
 Para la landing page se ha utilizado una estructura jerárquica en la landing page de Vehix porque permite organizar la información de forma clara y progresiva, guiando al usuario desde lo más general hasta lo más específico.
@@ -306,8 +308,9 @@ Palabras clave más técnicas para posicionar la aplicación en entornos especia
 ```
 
 Reconoce al equipo desarrollador, reforzando la identidad y el crédito del grupo creador del sistema.
+
 ### 4.2.4. Searching Systems
-El sistema de búsqueda en **Vehix** está diseñado para facilitar la localización rápida de información dentro del producto digital, evitando que el usuario se sienta perdido entre múltiples secciones o volúmenes de contenido. Tanto en la **landing page** como en la **aplicación web**, se han integrado mecanismos que permiten **filtrar, ubicar y visualizar datos de forma clara**, mejorando la experiencia y reduciendo el tiempo de navegación.
+Para garantizar una experiencia de busqueda satisfactoria y eficiente para los usuarios de **Vehix** hemos implementado el sistema de búsqueda el cual está diseñado para facilitar la localización rápida de información dentro del producto digital, evitando que el usuario se sienta perdido entre múltiples secciones o volúmenes de contenido. Tanto en la **landing page** como en la **aplicación web**, se han integrado mecanismos que permiten **filtrar, ubicar y visualizar datos de forma clara**, mejorando la experiencia y reduciendo el tiempo de navegación.
 
 #### **Landing Page**
 
@@ -402,171 +405,260 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
 	-  Conexión del adaptador
 	-  Inicio del diagnóstico
 	-  Resultados y recomendaciones
+
 ## 4.3. Landing Page UI Design
 En esta sección se presenta el diseño de la Landing Page de Vehix, enfocado en captar la atención de los usuarios objetivo desde el primer contacto. El diseño busca comunicar claramente el valor del producto, generar confianza e incentivar la acción mediante una interfaz moderna, intuitiva y alineada a los principios de usabilidad.
+
 ### 4.3.1. Landing Page Wireframe
+Para la elaboración del esquema de nuestra landing page, hemos utilizado la herramienta de Figma para el proceso de diseño t desarrollo. Esta herramienta nos permitió completar de manera eficiente y efectiva los wireframes.
 
 desktop:
 
+**Hero section**: La sección principal de la landing page.
+
 ![header img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/header.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![introductory-video img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/introductory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/subscriptions.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/who_are_we.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/faq.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos
 
 ![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
+
+**Footer**: El pie de página de la landing page
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
 
-**Link:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
+**Enlace:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
 
 mobile: 
 
+**Hero section**: La sección principal de la landing page.
+
 ![header img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/header.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![introductory-video img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/introductory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who are we mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/who_are_we_wireframe.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![faq mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/faq_wireframe.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatible vehicles mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/compatibility_wireframe.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/contact_wireframe.png)
+
+**Footer**: El pie de página de la landing page
 
 ![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
 
-**Link:** [Landing Page Wireframe Mobile](https://www.figma.com/board/KkF7XJTKOPTObhSmUJVSjt/Landing-Page-Wireframe-Mobile?node-id=0-1&t=LUvRfxBfSQvpM2Ha-1)
+**Enlace:** [Landing Page Wireframe Mobile](https://www.figma.com/board/KkF7XJTKOPTObhSmUJVSjt/Landing-Page-Wireframe-Mobile?node-id=0-1&t=LUvRfxBfSQvpM2Ha-1)
 
 ### 4.3.2. Landing Page Mock-up
-
+Finalizamos con éxito el desarrollo del mock-up del landing page, lo que nos permitió poner en práctica los principios y elementos de diseño previamente definidos. Estos principios y heurísticas son clave para ofrecer una experiencia más clara, intuitiva y centrada en el usuario final de nuestra plataforma.
 
 Desktop:
 
+**Hero section**: La sección principal de la landing page, se colocó una imagen con el logo de vehix y el slogan seguido de un texto introductorio.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/banner.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![explanatory img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/explanatory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones en un cuadro deslizante.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who-are-we img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/who-are-we-web.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/frequently-asked-questions.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
+
+**Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
 
-**Link:** [Landing Page Mock-up Desktpo Aplicaciones Web (Vue)](https://www.figma.com/design/02Vt6m3zMbuesHMNqcGey4/Landing-Page-material-aplicaiones-web?node-id=6-2&t=NurxRu3AIdqVtbGR-1)
+**Enlace:** [Landing Page Mock-up Desktpo Aplicaciones Web (Vue)](https://www.figma.com/design/02Vt6m3zMbuesHMNqcGey4/Landing-Page-material-aplicaiones-web?node-id=6-2&t=NurxRu3AIdqVtbGR-1)
 
 Mobile:
 
+**Hero section**: La sección principal de la landing page, se colocó una imagen con el logo de vehix y el slogan seguido de un texto introductorio.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/banner.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![explanatory-video img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/explanatory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones en un cuadro deslizante.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who-are-we img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/who-are-we-web.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
+
+**Compatibility**: Se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
+
+**Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer_mobile.png)
 
-**Link:** [Landing Page Mock-up Mobile Aplicaciones Web (Vue)](https://www.figma.com/design/9dVUschF8b5sj3fjAd7qQz/Landing-Page-material-aplicaiones-web-mobile?node-id=6-2&t=Hu51iQFEepSafHZu-1)
+**Enlace:** [Landing Page Mock-up Mobile Aplicaciones Web (Vue)](https://www.figma.com/design/9dVUschF8b5sj3fjAd7qQz/Landing-Page-material-aplicaiones-web-mobile?node-id=6-2&t=Hu51iQFEepSafHZu-1)
 
 ## 4.4. Web Applications UX/UI Design
-En esta sección se documenta el diseño UX/UI de la aplicación web de Vehix. Se detalla cómo la interfaz facilita la navegación, comprensión y uso de las funciones clave, priorizando la experiencia del usuario y asegurando una interacción eficiente, clara y satisfactoria.
-### 4.4.1. Web Applications Wireframes
-**Link**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+En esta sección se incluyen secciones internas en el cual se presentará y explicará la propuesta visual y de interacción para las aplicaciones que conforman la interacción del usuario con los productos digitales.
 
-### Log in
+### 4.4.1. Web Applications Wireframes
+A continuación, hemos creado el diseño de los wireframes para el diseño de nuestras aplicaciones, lo que ayudará a planificar la interfaz y la navegación antes de empezar su desarrollo. Para este proyecto utilizamos la herramienta Figma para la elaboración de los wireframes de manera colaborativa y eficiente.
+
+**Enlace**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+
+### Log in, sign up and subscription
+
+Vistas para registro e ingreso del usuario, además está la vista para escoger una subscripción.
+
 ![log-in](/assets/imgs/chapter-IV/wireframes/log-in/log-in.png)
+
 ![sign-up](/assets/imgs/chapter-IV/wireframes/log-in/sign-up.png)
+
 ![subscriptions-plannes](/assets/imgs/chapter-IV/wireframes/log-in/subscriptions-plannes.png)
 
 ### Plan PRO
-![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-pro/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/wireframes/plan-pro/audit.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/wireframes/plan-pro/bluetooth-conection.png)
-![buy-plan-pro](/assets/imgs/chapter-IV/wireframes/plan-pro/buy-plan-pro.png)
-![car-useful-life](/assets/imgs/chapter-IV/wireframes/plan-pro/car-useful-life.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/wireframes/plan-pro/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/wireframes/plan-pro/diagnostic-scan.png)
-![guide-bluetooth](/assets/imgs/chapter-IV/wireframes/plan-pro/guide-bluetooth.png)
-![help](/assets/imgs/chapter-IV/wireframes/plan-pro/help.png)
-![home](/assets/imgs/chapter-IV/wireframes/plan-pro/home.png)
-![last-diagnostic](/assets/imgs/chapter-IV/wireframes/plan-pro/last-diagnostic.png)
-![personal-information](/assets/imgs/chapter-IV/wireframes/plan-pro/personal-information.png)
-![problem-forecasting](/assets/imgs/chapter-IV/wireframes/plan-pro/problem-forecasting.png)
-![rapid-diagnosis](/assets/imgs/chapter-IV/wireframes/plan-pro/rapid-diagnosis.png)
-![recent-repairs](/assets/imgs/chapter-IV/wireframes/plan-pro/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/wireframes/plan-pro/report.png)
-![topic-1](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras.
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-1.png)
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-2.png)
+
+Los siguientes wireframes pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos.
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-pro/library-view-2.png)
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-pro/library-view-2.png)
+
+Los siguientes wireframes pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/wireframes/plan-pro/sync-views.png)
+
+Los siguientes wireframes pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/wireframes/plan-pro/profile-views.png)
 
 ### Plan STANDARD
-![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-standard/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/wireframes/plan-standard/audit.png)
-![bloqued-1](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-1.png)
-![bloqued-2](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-2.png)
-![bloqued-3](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-3.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/wireframes/plan-standard/bluetooth-conection.png)
-![buy-plan-standard](/assets/imgs/chapter-IV/wireframes/plan-standard/buy-plan-standard.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/wireframes/plan-standard/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/wireframes/plan-standard/diagnostic-scan.png)
-![home](/assets/imgs/chapter-IV/wireframes/plan-standard/home.png)
-![interface](/assets/imgs/chapter-IV/wireframes/plan-standard/interface.png)
-![last-scan](/assets/imgs/chapter-IV/wireframes/plan-standard/last-scan.png)
-![profile](/assets/imgs/chapter-IV/wireframes/plan-standard/profile.png)
-![recent-repairs](/assets/imgs/chapter-IV/wireframes/plan-standard/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/wireframes/plan-standard/report.png)
-![topic-1](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras. Sin embargo, tendrá ciertas vistas o componentes bloqueados debido a que es de un plan estándar y no pro.
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-standard/maintenance-view-11.png)
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-standard/maintenance-view-22.png)
+
+Los siguientes wireframes pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos. Sin embargo, tendrá ciertas vistas o componentes bloqueados debido a que es de un plan estándar y no pro.
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-standard/library-view-11.png)
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-standard/library-view-22.png)
+
+Los siguientes wireframes pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/wireframes/plan-standard/sync-view.png)
+
+Los siguientes wireframes pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/wireframes/plan-standard/profile-view.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-19256%2C-8573%2C63373%2C29183%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+Se le presenta el Enlace en el cual hemos desarrollado los wireflows de nuestra aplicación en la herramienta de Lucidchart.
 
+**Enlace:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-19256%2C-8573%2C63373%2C29183%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+
+A continuación, se presentan los wireflows que competen a nuestros user goals.
 
 - User goal: Como propietario de vehículo urbano, quiero registrarme en la plataforma.
 ![topic-1](/assets/imgs/chapter-IV/register.png)
@@ -639,67 +731,76 @@ Desde el diagnóstico, el mecánico puede acceder a los datos técnicos identifi
 Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el tipo de plan activo (Standard o Pro). La vista muestra claramente el estado de la suscripción, beneficios actuales y posibles restricciones según el tipo de plan.
 
 ### 4.4.3. Web Applications Mock-ups
-**Link**: [Figma mock ups (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+Los mockups representan una etapa clave en el diseño de nuestras aplicaciones, ya que nos brindan una vista previa de la estética y la organización de los componentes antes de iniciar el proceso de desarrollo. A continuación, se  le presenta el Enlace de los mock-ups elaborados en la herramienta de Figma.
 
-### Log in
+**Enlace**: [Figma mock ups (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+
+### Log in, sign up and subscriptions
+
+Vistas para registro e ingreso del usuario.
+
 ![log-in](/assets/imgs/chapter-IV/mock-up/log-in/log-in.png)
 ![sign-up](/assets/imgs/chapter-IV/mock-up/log-in/sign-up.png)
 ![subscriptions-plannes](/assets/imgs/chapter-IV/mock-up/log-in/subscriptions-plannes.png)
 
 ### Plan PRO
-![about-your-vehicle](/assets/imgs/chapter-IV/mock-up/plan-pro/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/mock-up/plan-pro/audit.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/mock-up/plan-pro/bluetooth-conection.png)
-![buy-plan-pro](/assets/imgs/chapter-IV/mock-up/plan-pro/buy-plan-pro.png)
-![car-useful-life](/assets/imgs/chapter-IV/mock-up/plan-pro/car-useful-life.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/mock-up/plan-pro/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-pro/diagnostic-scan.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-pro/end-home.png)
-![guide-bluetooth](/assets/imgs/chapter-IV/mock-up/plan-pro/guide-bluetooth.png)
-![help](/assets/imgs/chapter-IV/mock-up/plan-pro/help.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-pro/initial-home.png)
-![last-diagnostic](/assets/imgs/chapter-IV/mock-up/plan-pro/last-diagnostic.png)
-![personal-information](/assets/imgs/chapter-IV/mock-up/plan-pro/personal-information.png)
-![problem-forecasting](/assets/imgs/chapter-IV/mock-up/plan-pro/problem-forecasting.png)
-![rapid-diagnosis](/assets/imgs/chapter-IV/mock-up/plan-pro/rapid-diagnosis.png)
-![recent-repairs](/assets/imgs/chapter-IV/mock-up/plan-pro/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/mock-up/plan-pro/report.png)
-![topic-1](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-7.png)
+
+Los siguientes mock-ups pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras.
+
+![maitenance](/assets/imgs/chapter-IV/mock-up/plan-pro/maintenance-1.png)
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-pro/maintenance-2.png)
+
+Los siguientes mock-ups pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos.
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-pro/library-1.png)
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-pro/library-2.png)
+
+Los siguientes mock-ups pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/mock-up/plan-pro/sync.png)
+
+Los siguientes mock-ups pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/mock-up/plan-pro/profile.png)
+
+Los siguientes mock-ups pertenecen a la vista manejo de "home".
+
+![home](/assets/imgs/chapter-IV/mock-up/plan-pro/home.png)
 
 ### Plan STANDARD
-![about-your-vehicle](/assets/imgs/chapter-IV/mock-up/plan-standard/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/mock-up/plan-standard/audit.png)
-![bloqued-1](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-1.png)
-![bloqued-2](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-2.png)
-![bloqued-3](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-3.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/mock-up/plan-standard/bluetooth-conection.png)
-![buy-plan-standard](/assets/imgs/chapter-IV/mock-up/plan-standard/buy-plan-standard.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/mock-up/plan-standard/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-standard/diagnostic-scan.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-standard/end-home.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-standard/guide-bluetooth.png)
-![interface](/assets/imgs/chapter-IV/mock-up/plan-standard/initial-home.png)
-![last-scan](/assets/imgs/chapter-IV/mock-up/plan-standard/personal-information.png)
-![profile](/assets/imgs/chapter-IV/mock-up/plan-standard/rapid-diagnostic.png)
-![recent-repairs](/assets/imgs/chapter-IV/mock-up/plan-standard/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/mock-up/plan-standard/report.png)
-![topic-1](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras. Se bloquearon algunas funcionalidades de mantenimiento del auto debido al plan elegido.
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-standard/maintenance-11.png)
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-standard/maintenance-22.png)
+
+Los siguientes mock-ups pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos. Se bloquearon algunos recursos debido al plan elegido.
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-standard/library-11.png)
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-standard/library-22.png)
+
+Los siguientes mock-ups pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/mock-up/plan-standard/sync-e.png)
+
+Los siguientes mock-ups pertenecen al manejo de perfil del usuario. Se bloquearon algunas funcinalidades debido al plan elegido
+
+![profile](/assets/imgs/chapter-IV/mock-up/plan-standard/profile-e.png)
+
+Los siguientes mock-ups pertenecen a la vista manejo de "home".
+
+![home](/assets/imgs/chapter-IV/mock-up/plan-standard/home.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
-**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-4736%2C-4813%2C10504%2C4366%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+Se le presenta el Enlace en el cual hemos desarrollado los User Flow de nuestra aplicación en la herramienta de Lucidchart.
 
+**Enlace:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-4736%2C-4813%2C10504%2C4366%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+
+A continuación, se muestran los diagramas de flujo que ilustran los recorridos de los usuarios en función de los User Goals.
 
 - User goal: Como propietario de vehículo urbano, quiero registrarme en la plataforma.
 ![topic-1](/assets/imgs/chapter-IV/user-flow/register.png)
@@ -772,22 +873,35 @@ Desde el diagnóstico, el mecánico puede acceder a los datos técnicos identifi
 Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el tipo de plan activo (Standard o Pro). La vista muestra claramente el estado de la suscripción, beneficios actuales y posibles restricciones según el tipo de plan.
 
 ## 4.5. Web Applications Prototyping
-En esta sección se presenta el prototipo de la aplicación web desarrollado en figma, el cual sigue los estilos pre-establecidos en las anteriores secciones. Link: [Prototipo en Figma](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+A continuación, se muestra el prototipo elaborado a partir de los mockups previamente diseñados y documentados. Este prototipo nos permite visualizar y validar algunos de los flujos que posteriormente serán implementados en el desarrollo del código.
+
+**Enlace**: [Prototipo en Figma](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
 ![web-applications-prototyping](/assets/imgs/chapter-IV/web-applications-prototyping.png)
+
 ## 4.6. Domain-Driven Software Architecture
+
 En esta sección se aplicará el modelo C4 para definir la estructura del software, abarcando niveles como el contexto, los contenedores, los componentes y la implementación. Este enfoque permite comprender fácilmente la arquitectura del sistema, tanto por el equipo de trabajo como por otras personas involucradas en el proyecto.
+
 ### 4.6.1. Software Architecture Context Diagram
+
+El diagrama de contexto del sistema VEHIX representa una visión general de alto nivel de las principales interacciones que el sistema web VEHIX mantiene con usuarios externos y servicios de terceros. Este modelo ilustra cómo el sistema se integra en su ecosistema tecnológico y humano.
 
 Para identificar y representar de manera clara los usuarios y sistemas externos que interactúan con nuestra plataforma, se ha desarrollado un diagrama de contexto. En él se visualiza que los principales usuarios del sistema VEHIX son los conductores independientes, los conductores profesionales y los mecánicos, quienes acceden al sistema a través de un navegador web. Además, el sistema se comunica con servicios externos clave: Google Maps, que proporciona datos de geolocalización y mapas en tiempo real; un servicio de pagos, como Visa, Mastercard o American Express, para procesar transacciones seguras; y Firebase Cloud Messaging, una plataforma de mensajería en la nube utilizada para enviar notificaciones y recordatorios en tiempo real a los usuarios.
 
 ![C4](/assets/imgs/chapter-IV/arquictecture/contexto.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+El **diagrama de contenedores** representa la arquitectura interna de alto nivel del sistema VEHIX, descomponiendo el sistema web en contenedores lógicos (como aplicaciones, bases de datos y APIs) y mostrando cómo interactúan entre sí, con los usuarios y con sistemas externos.
 
 Con el objetivo de representar la arquitectura interna de los componentes principales que conforman el sistema VEHIX, se ha elaborado un diagrama de contenedores, el cual permite visualizar cómo interactúan los diferentes usuarios con los elementos de software y servicios externos. En este modelo, los usuarios principales —conductores independientes, conductores profesionales y mecánicos— acceden a la página de aterrizaje (Landing Page) y a la aplicación web, desde donde obtienen contenido informativo o interactúan con funcionalidades dinámicas del sistema. La lógica de negocio se gestiona en la aplicación SPA (Single Page Application), la cual corre en el navegador del usuario y consume servicios expuestos por la API Application, encargada de procesar solicitudes y entregar datos en formato JSON. Todos los datos relacionados a usuarios, diagnósticos y suscripciones son almacenados en la base de datos VEHIX.
 
 ![C4](/assets/imgs/chapter-IV/arquictecture/contenedores.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+Estos diagramas de componentes representan la arquitectura de las funcionalidades clave de Vehix. Permiten visualizar su estructura interna y la forma en que se integran con servicios y sistemas externos.
 
 Para representar la organización interna del sistema desde un nivel más técnico, se ha desarrollado un diagrama de componentes que muestra la estructura modular del sistema VEHIX. En este modelo, la aplicación web se construye a partir del componente principal AppComponent, el cual orquesta la interacción con múltiples componentes secundarios, cada uno encargado de una funcionalidad específica
 
@@ -798,13 +912,13 @@ Para representar la organización interna del sistema desde un nivel más técni
 
 ![C4](/assets/imgs/chapter-IV/arquictecture/1.PNG)
 
+
 El componente InputCardComponent se usa en formularios de login y registro, y trabaja junto con UserService, que gestiona datos del usuario (perfil, sesión, autenticación) solicitando información al API Application. Tras el inicio de sesión, el sistema puede mostrar alertas de fallos mediante AlertComponent, el cual se alimenta del AlertService, también conectado al API. En caso de problemas, RepairComponent presenta soluciones obtenidas desde el RepairService
 
 #### Suscripciones e Idioma 
 
 ![C4](/assets/imgs/chapter-IV/arquictecture/2.PNG)
 
-El componente PlansComponent se encarga de mostrar al usuario los distintos planes disponibles, junto con sus detalles y precios. Cuando el usuario decide adquirir uno, interactúa con el componente CheckoutComponent, que gestiona el formulario de pago y el proceso de confirmación de la suscripción. Ambos componentes dependen del SubscriptionService, que se comunica con el API Application para consultar los planes disponibles y procesar la selección del usuario de forma dinámica. Además, el LanguageSwitcherComponent permite al usuario cambiar entre diferentes idiomas (como inglés o español), facilitando una experiencia más personalizada y accesible.
 
 ####  Fallas y Gestión de Vehículos Registrados
 
@@ -838,15 +952,16 @@ El componente ProfileCardComponent se encarga de mostrar información del perfil
 El componente DashboardComponent actúa como centro de control, desde el cual se visualizan detalles importantes como el resumen del vehículo, el historial de escaneos, alertas recientes y el estado de conexión. El componente VehicleSummaryComponent muestra datos básicos del vehículo del usuario, como el modelo, nombre y año. A su vez, ScanHistoryComponent permite revisar escaneos anteriores realizados al vehículo, mientras que AlertSummaryComponent resume las alertas más recientes detectadas. Por su parte, VehicleStatusComponent indica si el vehículo está correctamente conectado con el sistema. Además, el componente MechanicMapComponent integra un mapa interactivo donde se muestran talleres cercanos, haciendo uso del servicio externo Google Maps para renderizar los datos de ubicación y geolocalización en tiempo real.
 
 ## 4.7. Software Object-Oriented Design
+En la sección de Software Object-Oriented Design se presentarán dos aspectos fundamentales: los diagramas de clase y el diccionario de clases.
+
 ### 4.7.1. Class Diagrams
 
 En esta sección se presentan los diagramas de clases del sistema Vehix. Estos diagramas representan la estructura del software a nivel de objetos, mostrando las clases, atributos, métodos y relaciones, lo cual facilita la comprensión del diseño y su implementación. Cada componente se comunica con servicios especializados.los cuales abstraen la lógica de negocio y las llamadas a la API principal del sistema, que expone las funcionalidades del backend. Además, la aplicación hace uso de servicios externos como Google Maps, utilizado para la renderización de mapas y geolocalización dentro del sistema.
 
 ![class-diagram](/assets/imgs/chapter-IV/class-diagram.png)
 
-
-
 ### 4.7.2. Class Dictionary
+El diccionario de clases describe en detalle las propiedades y responsabilidades de cada entidad dentro del sistema, sirviendo como una guía integral para comprender el comportamiento y la lógica del software.
 
 #### **WorkShop**
 
@@ -978,8 +1093,10 @@ En esta sección se presentan los diagramas de clases del sistema Vehix. Estos d
 - **commentsFutures:** comments about future improvements
 
 ## 4.8. Database Design
+En la parte dedicada al Diseño de la Base de Datos, se mostrará un diagrama que ilustra cómo están organizadas las entidades y sus vínculos, facilitando un manejo eficiente de los datos tanto para almacenarlos como para consultarlos.
+
 ### 4.8.1. Database Diagram
-Esta sección contiene el diagrama de base de datos diseñado para Vehix. Aquí se muestran las tablas, relaciones y atributos necesarios para almacenar y gestionar eficientemente los datos del sistema, garantizando integridad, rendimiento y escalabilidad.
+Los diagramas de base de datos muestran la organización interna y las conexiones entre las entidades, facilitando la comprensión de cómo se guardan y vinculan los datos dentro del sistema de forma óptima.
 
 ![database diagram](/assets/imgs/chapter-IV/vehix-db.png)
 
