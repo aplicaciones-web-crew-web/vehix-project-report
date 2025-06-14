@@ -905,7 +905,14 @@ Estos diagramas de componentes representan la arquitectura de las funcionalidade
 
 Para representar la organización interna del sistema desde un nivel más técnico, se ha desarrollado un diagrama de componentes que muestra la estructura modular del sistema VEHIX. En este modelo, la aplicación web se construye a partir del componente principal AppComponent, el cual orquesta la interacción con múltiples componentes secundarios, cada uno encargado de una funcionalidad específica
 
+- Diagrama de componentes: Single page application
+
 ![C4](/assets/imgs/chapter-IV/arquictecture/componentes.png)
+
+- Diagrama de componentes: API Application 
+
+![C4](/assets/imgs/chapter-IV/arquictecture/componentes-2.png)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Autenticación y Diagnóstico  
@@ -950,6 +957,7 @@ El componente ProfileCardComponent se encarga de mostrar información del perfil
 ![C4](/assets/imgs/chapter-IV/arquictecture/7.PNG)
 
 El componente DashboardComponent actúa como centro de control, desde el cual se visualizan detalles importantes como el resumen del vehículo, el historial de escaneos, alertas recientes y el estado de conexión. El componente VehicleSummaryComponent muestra datos básicos del vehículo del usuario, como el modelo, nombre y año. A su vez, ScanHistoryComponent permite revisar escaneos anteriores realizados al vehículo, mientras que AlertSummaryComponent resume las alertas más recientes detectadas. Por su parte, VehicleStatusComponent indica si el vehículo está correctamente conectado con el sistema. Además, el componente MechanicMapComponent integra un mapa interactivo donde se muestran talleres cercanos, haciendo uso del servicio externo Google Maps para renderizar los datos de ubicación y geolocalización en tiempo real.
+
 
 ## 4.7. Software Object-Oriented Design
 En la sección de Software Object-Oriented Design se presentarán dos aspectos fundamentales: los diagramas de clase y el diccionario de clases.
