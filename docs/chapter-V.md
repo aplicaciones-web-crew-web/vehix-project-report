@@ -1662,6 +1662,23 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 #### 5.2.3.4. Development Evidence for Sprint Review
 A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 3. Se desarrollaron los features correspondientes.
 
+
+| Repository                      | Branch                                   | Commit Id | Commit Messaage                       | Commit Message Body | Commited on |
+| ------------------------------- | ---------------------------------------- | --------- | ------------------------------------- | ------------------- | ----------- |
+| sergioJM05/vehix-platform | main | 37e4c34 | chore: initial commit | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | release | 37e4c34 | chore: initial commit | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | develop | 37e4c34 | chore: initial commit | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | feature/project-configuration | f175ee1 | feat: project configuration. | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | develop | df266b4 | Merge pull request #1 | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | feature/software-architecture | df266b4 | Merge pull request #1 | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/software-architecture | 36fb8e4 | docs: add software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/software-architecture | 36fb8e4 | docs: add software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | develop | d570de0  | docs: add software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/software-architecture | c5b1441  | docs: fix software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | develop | 3bd5e43 | docs: fix software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/project-structure | 3bd5e43 | docs: fix software-architecture.dsl | -                   | 2025-06-05   |
+
+
 #### 5.2.3.5. Execution evidence for Sprint Review
 Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
 
