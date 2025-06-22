@@ -1689,7 +1689,8 @@ En esta sección se incluye la relación de los endpoints documentados.
 ![Image](https://github.com/user-attachments/assets/747ff5f5-9655-4b37-a80f-8e31eee42200)
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
-
+El despligue del backend se realizo en Render
+![Image](https://github.com/user-attachments/assets/c7375d67-aa4a-4b5a-80a9-5500be17dfdc)
 ![Image](https://github.com/user-attachments/assets/363719b0-071a-4df4-9d6e-8dd04b4420bd)
 ![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
 ![Image](https://github.com/user-attachments/assets/c5ec308e-51ef-4644-9f6f-563deaafb2d7)
