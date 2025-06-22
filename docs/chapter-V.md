@@ -1184,8 +1184,8 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
 | ------------------------------------|-----------------|-----|------------|-------------|-----------|---------------|----|
 | Rios Piñan, Dayro Richard | Addicted2u | C | C | C | L | C | C |
 | Julca Minaya, Sergio Gino | sergioJM05 | C | L | C | C | C | C |
-| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | C | L | C | C| C | C |
-| Elescano Leon, Piero Hugo | PieroHugo | C | C | C | C | C | C |
+| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | C | C | C | C| L | C |
+| Elescano Leon, Piero Hugo | PieroHugo | L | C | C | C | C | C |
 
 
 #### 5.2.3.3. Sprint Backlog 3
