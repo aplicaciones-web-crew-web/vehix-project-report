@@ -1758,6 +1758,9 @@ A continuación, se mostrarán los commits registrados en el repositorio corresp
 #### 5.2.3.5. Execution evidence for Sprint Review
 Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
 
+![commits](/assets/imgs/chapter-V/commits.png)
+![commits-over-time](/assets/imgs/chapter-V/commits-over-time.png)
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de los endpoints documentados.
 ![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
@@ -2085,5 +2088,9 @@ Recomendación: Incluir un botón de "Atrás" en las subsecciones de la librerí
 ## 5.4. Video About the Product
 En esta sección se describe el contenido del Video About-theProduct, el cual tiene como público objetivo los visitantes al Landing Page, quienes desean conocer sobre el modelo de negocio y las características principales de los productos de software, al igual que los usuarios de las Aplicaciones, quienes desean realizar tareas relacionadas con los procesos soportados por la solución.
 
+![image](https://github.com/user-attachments/assets/5a7157d6-2fe4-4b53-bf3e-22acf126a66e)
+
 [link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=ZMniY6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[link del video de presentación para la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318274_upc_edu_pe/EWFxh9kafa1NnmNEZrR-RYIBS5oGEtBw1lor96VmbkQzug?e=CMtwpt)
 
