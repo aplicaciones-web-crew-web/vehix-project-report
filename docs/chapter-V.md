@@ -1876,7 +1876,7 @@ Entrevista 1:
 
 Duración: 9 minutos 55 segundos
 
-Link de la entrevista:
+Link de la entrevista: [entrevista 1](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
 
 Nombre: Lucas 
 
@@ -1898,7 +1898,7 @@ Entrevista 2:
 
 Duración: 10 minutos 44 segundos
 
-Link de la entrevista:
+Link de la entrevista: [entrevista 2](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
 
 Nombre: Cesar 
 
@@ -1920,7 +1920,7 @@ Entrevista 3:
 
 Duración: 8 minutos 6 segundos
 
-Link de la entrevista:
+Link de la entrevista: [entrevista 3](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
 
 Nombre: Ariana 
 
@@ -1942,7 +1942,7 @@ Entrevista 7:
 
 Duración: 13 minutos 33 segundos
 
-Link de la entrevista:
+Link de la entrevista: [entrevista 7](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
 
 Nombre: Richard 
 
