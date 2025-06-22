@@ -1,18 +1,22 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
-En esta sección se presentan las Style Guidelines definidas para el proyecto Vehix. Estas pautas de diseño aseguran la coherencia visual, usabilidad y accesibilidad de la interfaz en todos los puntos de contacto con el usuario. Siguiendo estos lineamientos, buscamos ofrecer una experiencia intuitiva, moderna y alineada con los valores de la marca, facilitando tanto el desarrollo como la escalabilidad del producto.
+En esta sección, presentamos nuestra propuesta de diseño para el landing page y la aplicación web. Las guías de estilo de **Vehix** establecen los lineamientos visuales y comunicativos que aseguran una experiencia coherente, intuitiva y accesible en toda la aplicación. Estas guías fueron diseñadas para mantener consistencia en todos los puntos de contacto con el usuario, incluyendo interfaz, notificaciones y mensajes del sistema.
+
 ### 4.1.1. General Style Guidelines
-#### Colores
+Aquí se muestran las normas básicas que nos permiten mantener una presentación clara y coherente de nuestros productos.
+
+#### **Colores**
+
  La identidad visual de **Vehix** está centrada en una paleta monocromática compuesta por tonalidades de **blanco y negro**, complementada con un **color de acento turquesa** que aporta un toque moderno, tecnológico y fresco, sin perder sobriedad.
 
   Esta combinación logra un equilibrio entre seriedad y accesibilidad, ideal para una aplicación enfocada en el mantenimiento vehicular.
    
-   #### **Colores principales:**
+* Colores principales
 
    La gama de grises elegida permite mantener una interfaz visualmente limpia, neutra y moderna,
    facilitando el enfoque en el contenido y las funcionalidades sin distracciones visuales innecesarias. Además, el gris proporciona un equilibrio entre profesionalismo y accesibilidad.
 
-##### **Escala de grises**
+* Escala de grises 
 
 | Color                                      | Justificación                                                                                                                                                                          |
 | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,7 +27,7 @@ En esta sección se presentan las Style Guidelines definidas para el proyecto Ve
 
 ![escala-gris](/assets/imgs/chapter-IV/escala-gris.PNG)
 
- ##### **Escala de negros**
+* Escala de negros
 
 | RGBA                                          | Justificación                                                                                                                        |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -34,9 +38,9 @@ La escala de negros con diferentes niveles de opacidad se usa estratégicamente 
 
 ![escala-negra](/assets/imgs/chapter-IV/escala-negra.PNG)
 
- #### **Color de acento:**
+* Color de acento
 
- - **Turquesa suave (#A9D8DC):** se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
+  **Turquesa suave (#A9D8DC):** se utilizará para resaltar zonas clave de interacción como mensajes informativos, botones destacados en pantallas de registro, o fondos secundarios. Este color transmite **tecnología amigable**, **modernidad** y **claridad**.
 
 ![turquesa](/assets/imgs/chapter-IV/color_turquesa.PNG)
 
@@ -44,31 +48,28 @@ La escala de negros con diferentes niveles de opacidad se usa estratégicamente 
 
 En **Vehix**, la tipografía es un componente esencial para transmitir claridad, profesionalismo y accesibilidad en cada pantalla de la aplicación. Se ha definido el uso de tres fuentes principales, combinando elegancia, legibilidad y modernidad.
 
- #### **PT Serif Regular**
-
- - **Uso:** Indicaciones, descripciones cortas, y subtítulos informativos.
-
-- **Justificación:** Esta tipografía aporta una estética clásica y seria, ideal para mostrar mensajes auxiliares, instrucciones y textos complementarios. En tu interfaz, se aplica a pequeños textos explicativos como los de los campos del formulario o mensajes dentro de las tarjetas.
+* PT Serif Regular
+  
+  - **Uso:** Indicaciones, descripciones cortas, y subtítulos informativos.
+  - **Justificación:** Esta tipografía aporta una estética clásica y seria, ideal para mostrar mensajes auxiliares, instrucciones y textos complementarios. En tu interfaz, se aplica a pequeños textos explicativos como los de los campos del formulario o mensajes dentro de las tarjetas.
 
 ![pt-serif](/assets/imgs/chapter-IV/pt-serif-regular.PNG)
 
- #### **Roboto Regular**
- 
-- **Uso:** Contenido general, campos de formularios y textos secundarios.
-
-- **Justificación:** Roboto es perfecta para ofrecer legibilidad en pantallas, especialmente en bloques de texto como descripciones, contenidos de planes, formularios de contacto y navegación. Aporta un estilo moderno y funcional sin perder claridad.
+* Roboto Regular
+  
+  - **Uso:** Contenido general, campos de formularios y textos secundarios.
+  - **Justificación:** Roboto es perfecta para ofrecer legibilidad en pantallas, especialmente en bloques de texto como descripciones, contenidos de planes, formularios de contacto y navegación. Aporta un estilo moderno y funcional sin perder claridad.
 
 ![roboto-regular](/assets/imgs/chapter-IV/roboto-regular.PNG)
 
- #### **Montserrat Regular**
+* Montserrat Regular
 
-- **Uso:** Títulos principales, subtítulos y botones.
-
-- **Justificación:** Su estilo geométrico y moderno brinda un toque contemporáneo y profesional a la interfaz. Es utilizada para destacar los elementos más importantes visualmente como “VEHIX”, nombres de secciones y botones, lo que permite una jerarquía clara y elegante.
+  - **Uso:** Títulos principales, subtítulos y botones.
+  - **Justificación:** Su estilo geométrico y moderno brinda un toque contemporáneo y profesional a la interfaz. Es utilizada para destacar los elementos más importantes visualmente como “VEHIX”, nombres de secciones y botones, lo que permite una jerarquía clara y elegante.
 
 ![monserrat-regular](/assets/imgs/chapter-IV/Monserrat-regular.PNG)
 
-#### Spacing
+#### **Spacing**
 
 Los elementos interactivos deben ser lo suficientemente grandes y estar bien espaciados para facilitar su uso, especialmente para quienes tienen dificultades motrices. Un espaciado adecuado asegura que los usuarios puedan tocar o hacer clic en los botones de manera segura, sin riesgo de presionar accidentalmente el botón incorrecto.
 
@@ -81,7 +82,7 @@ Los elementos interactivos deben ser lo suficientemente grandes y estar bien esp
 - **64 px:** Espaciado entre secciones grandes o bloques verticales principales.
 
 
-### Branding:
+#### **Branding**
 
  #### **Logo**
 
@@ -121,8 +122,9 @@ Se aplicó el patrón de lectura F para estructurar la pantalla en bloques horiz
 ![img-web](/assets/imgs/chapter-IV/img-web.PNG)
 
 ## 4.2. Information Architecture
-### 4.2.1. Organization Systems
+En Vehix, la estructura de la información está diseñada para facilitar el acceso y la comprensión del contenido tanto en la página principal como en sus plataformas web y móviles. Se aplican métodos organizativos eficientes, como la disposición jerárquica y la clasificación temática, además de un etiquetado claro que favorece la exploración del sitio y la localización rápida de elementos. Asimismo, se incorpora una navegación amigable con herramientas de búsqueda precisas y filtros detallados, lo que permite a los usuarios encontrar lo que buscan de forma sencilla. Todo esto contribuye a ofrecer una interacción fluida y una experiencia consistente y agradable para quienes visitan y utilizan Vehix.
 
+### 4.2.1. Organization Systems
 En este apartado se indicarán los sistemas de organización que se han usado para el "Landing page" y la aplicación web. Entre los tipos de estructuras que han sido escogidas son: jerárquica y secuenciale. Además también indicaremos los esquemas de categorización de contenido.
 
 Para la landing page se ha utilizado una estructura jerárquica en la landing page de Vehix porque permite organizar la información de forma clara y progresiva, guiando al usuario desde lo más general hasta lo más específico.
@@ -306,8 +308,9 @@ Palabras clave más técnicas para posicionar la aplicación en entornos especia
 ```
 
 Reconoce al equipo desarrollador, reforzando la identidad y el crédito del grupo creador del sistema.
+
 ### 4.2.4. Searching Systems
-El sistema de búsqueda en **Vehix** está diseñado para facilitar la localización rápida de información dentro del producto digital, evitando que el usuario se sienta perdido entre múltiples secciones o volúmenes de contenido. Tanto en la **landing page** como en la **aplicación web**, se han integrado mecanismos que permiten **filtrar, ubicar y visualizar datos de forma clara**, mejorando la experiencia y reduciendo el tiempo de navegación.
+Para garantizar una experiencia de busqueda satisfactoria y eficiente para los usuarios de **Vehix** hemos implementado el sistema de búsqueda el cual está diseñado para facilitar la localización rápida de información dentro del producto digital, evitando que el usuario se sienta perdido entre múltiples secciones o volúmenes de contenido. Tanto en la **landing page** como en la **aplicación web**, se han integrado mecanismos que permiten **filtrar, ubicar y visualizar datos de forma clara**, mejorando la experiencia y reduciendo el tiempo de navegación.
 
 #### **Landing Page**
 
@@ -402,171 +405,260 @@ La navegación de la aplicación web de **Vehix** se ha diseñado para ofrecer u
 	-  Conexión del adaptador
 	-  Inicio del diagnóstico
 	-  Resultados y recomendaciones
+
 ## 4.3. Landing Page UI Design
 En esta sección se presenta el diseño de la Landing Page de Vehix, enfocado en captar la atención de los usuarios objetivo desde el primer contacto. El diseño busca comunicar claramente el valor del producto, generar confianza e incentivar la acción mediante una interfaz moderna, intuitiva y alineada a los principios de usabilidad.
+
 ### 4.3.1. Landing Page Wireframe
+Para la elaboración del esquema de nuestra landing page, hemos utilizado la herramienta de Figma para el proceso de diseño t desarrollo. Esta herramienta nos permitió completar de manera eficiente y efectiva los wireframes.
 
 desktop:
 
+**Hero section**: La sección principal de la landing page.
+
 ![header img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/header.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![introductory-video img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/introductory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/subscriptions.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who are we img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/who_are_we.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![faq img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/faq.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos
 
 ![compatible vehicles img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/contact.png)
+
+**Footer**: El pie de página de la landing page
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
 
-**Link:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
+**Enlace:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
 
 mobile: 
 
+**Hero section**: La sección principal de la landing page.
+
 ![header img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/header.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![introductory-video img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/introductory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who are we mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/who_are_we_wireframe.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![faq mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/faq_wireframe.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatible vehicles mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/compatibility_wireframe.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/contact_wireframe.png)
+
+**Footer**: El pie de página de la landing page
 
 ![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
 
-**Link:** [Landing Page Wireframe Mobile](https://www.figma.com/board/KkF7XJTKOPTObhSmUJVSjt/Landing-Page-Wireframe-Mobile?node-id=0-1&t=LUvRfxBfSQvpM2Ha-1)
+**Enlace:** [Landing Page Wireframe Mobile](https://www.figma.com/board/KkF7XJTKOPTObhSmUJVSjt/Landing-Page-Wireframe-Mobile?node-id=0-1&t=LUvRfxBfSQvpM2Ha-1)
 
 ### 4.3.2. Landing Page Mock-up
-
+Finalizamos con éxito el desarrollo del mock-up del landing page, lo que nos permitió poner en práctica los principios y elementos de diseño previamente definidos. Estos principios y heurísticas son clave para ofrecer una experiencia más clara, intuitiva y centrada en el usuario final de nuestra plataforma.
 
 Desktop:
 
+**Hero section**: La sección principal de la landing page, se colocó una imagen con el logo de vehix y el slogan seguido de un texto introductorio.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/banner.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![explanatory img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/explanatory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones en un cuadro deslizante.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who-are-we img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/who-are-we-web.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/frequently-asked-questions.png)
+
+**Compatibility**: Aquí se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/contact-us.png)
+
+**Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
 
-**Link:** [Landing Page Mock-up Desktpo Aplicaciones Web (Vue)](https://www.figma.com/design/02Vt6m3zMbuesHMNqcGey4/Landing-Page-material-aplicaiones-web?node-id=6-2&t=NurxRu3AIdqVtbGR-1)
+**Enlace:** [Landing Page Mock-up Desktpo Aplicaciones Web (Vue)](https://www.figma.com/design/02Vt6m3zMbuesHMNqcGey4/Landing-Page-material-aplicaiones-web?node-id=6-2&t=NurxRu3AIdqVtbGR-1)
 
 Mobile:
 
+**Hero section**: La sección principal de la landing page, se colocó una imagen con el logo de vehix y el slogan seguido de un texto introductorio.
+
 ![banner img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/banner.png)
+
+**Introductory video**: Sección donde se mostrará un video introductorio de Vehix.
 
 ![explanatory-video img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/explanatory-video.png)
 
+**Subscriptions**: En esta sección se mostrarán las subscripciones en un cuadro deslizante.
+
 ![subscription img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/subscription.png)
+
+**Benefits**: Se mostrarán los beneficios de usar Vehix.
 
 ![benefits img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/benefits.png)
 
+**Testimonials**: Se mostrarán testimonios de usuarios.
+
 ![testimonials img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/testimonials.png)
+
+**About us**: Sección donde se presentarán a los integrantes del equipo encargado de desarrollar Vehix.
 
 ![who-are-we img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/who-are-we-web.png)
 
+**Frequently asked questions**: Sección donde se mostrarán algunas preguntas comunes que los usuarios se hacen con su respectiva respuesta.
+
 ![frequently-asked-questions img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/frequently-asked-questions.png)
+
+**Compatibility**: Se mostrará la compatibilidad de Vehix con los vehículos.
 
 ![compatibility img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/compatibility.png)
 
+**Contact us**: Vista donde se mostrará un formulario de contacto.
+
 ![contact-us img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/contact-us.png)
+
+**Footer**: El pie de página de la landing page, donde se muestran las redes sociales de Vehix.
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer_mobile.png)
 
-**Link:** [Landing Page Mock-up Mobile Aplicaciones Web (Vue)](https://www.figma.com/design/9dVUschF8b5sj3fjAd7qQz/Landing-Page-material-aplicaiones-web-mobile?node-id=6-2&t=Hu51iQFEepSafHZu-1)
+**Enlace:** [Landing Page Mock-up Mobile Aplicaciones Web (Vue)](https://www.figma.com/design/9dVUschF8b5sj3fjAd7qQz/Landing-Page-material-aplicaiones-web-mobile?node-id=6-2&t=Hu51iQFEepSafHZu-1)
 
 ## 4.4. Web Applications UX/UI Design
-En esta sección se documenta el diseño UX/UI de la aplicación web de Vehix. Se detalla cómo la interfaz facilita la navegación, comprensión y uso de las funciones clave, priorizando la experiencia del usuario y asegurando una interacción eficiente, clara y satisfactoria.
-### 4.4.1. Web Applications Wireframes
-**Link**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+En esta sección se incluyen secciones internas en el cual se presentará y explicará la propuesta visual y de interacción para las aplicaciones que conforman la interacción del usuario con los productos digitales.
 
-### Log in
+### 4.4.1. Web Applications Wireframes
+A continuación, hemos creado el diseño de los wireframes para el diseño de nuestras aplicaciones, lo que ayudará a planificar la interfaz y la navegación antes de empezar su desarrollo. Para este proyecto utilizamos la herramienta Figma para la elaboración de los wireframes de manera colaborativa y eficiente.
+
+**Enlace**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+
+### Log in, sign up and subscription
+
+Vistas para registro e ingreso del usuario, además está la vista para escoger una subscripción.
+
 ![log-in](/assets/imgs/chapter-IV/wireframes/log-in/log-in.png)
+
 ![sign-up](/assets/imgs/chapter-IV/wireframes/log-in/sign-up.png)
+
 ![subscriptions-plannes](/assets/imgs/chapter-IV/wireframes/log-in/subscriptions-plannes.png)
 
 ### Plan PRO
-![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-pro/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/wireframes/plan-pro/audit.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/wireframes/plan-pro/bluetooth-conection.png)
-![buy-plan-pro](/assets/imgs/chapter-IV/wireframes/plan-pro/buy-plan-pro.png)
-![car-useful-life](/assets/imgs/chapter-IV/wireframes/plan-pro/car-useful-life.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/wireframes/plan-pro/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/wireframes/plan-pro/diagnostic-scan.png)
-![guide-bluetooth](/assets/imgs/chapter-IV/wireframes/plan-pro/guide-bluetooth.png)
-![help](/assets/imgs/chapter-IV/wireframes/plan-pro/help.png)
-![home](/assets/imgs/chapter-IV/wireframes/plan-pro/home.png)
-![last-diagnostic](/assets/imgs/chapter-IV/wireframes/plan-pro/last-diagnostic.png)
-![personal-information](/assets/imgs/chapter-IV/wireframes/plan-pro/personal-information.png)
-![problem-forecasting](/assets/imgs/chapter-IV/wireframes/plan-pro/problem-forecasting.png)
-![rapid-diagnosis](/assets/imgs/chapter-IV/wireframes/plan-pro/rapid-diagnosis.png)
-![recent-repairs](/assets/imgs/chapter-IV/wireframes/plan-pro/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/wireframes/plan-pro/report.png)
-![topic-1](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/wireframes/plan-pro/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras.
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-1.png)
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-pro/maintenance-view-2.png)
+
+Los siguientes wireframes pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos.
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-pro/library-view-2.png)
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-pro/library-view-2.png)
+
+Los siguientes wireframes pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/wireframes/plan-pro/sync-views.png)
+
+Los siguientes wireframes pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/wireframes/plan-pro/profile-views.png)
 
 ### Plan STANDARD
-![about-your-vehicle](/assets/imgs/chapter-IV/wireframes/plan-standard/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/wireframes/plan-standard/audit.png)
-![bloqued-1](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-1.png)
-![bloqued-2](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-2.png)
-![bloqued-3](/assets/imgs/chapter-IV/wireframes/plan-standard/bloqued-3.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/wireframes/plan-standard/bluetooth-conection.png)
-![buy-plan-standard](/assets/imgs/chapter-IV/wireframes/plan-standard/buy-plan-standard.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/wireframes/plan-standard/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/wireframes/plan-standard/diagnostic-scan.png)
-![home](/assets/imgs/chapter-IV/wireframes/plan-standard/home.png)
-![interface](/assets/imgs/chapter-IV/wireframes/plan-standard/interface.png)
-![last-scan](/assets/imgs/chapter-IV/wireframes/plan-standard/last-scan.png)
-![profile](/assets/imgs/chapter-IV/wireframes/plan-standard/profile.png)
-![recent-repairs](/assets/imgs/chapter-IV/wireframes/plan-standard/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/wireframes/plan-standard/report.png)
-![topic-1](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/wireframes/plan-standard/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras. Sin embargo, tendrá ciertas vistas o componentes bloqueados debido a que es de un plan estándar y no pro.
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-standard/maintenance-view-11.png)
+
+![maintenance](/assets/imgs/chapter-IV/wireframes/plan-standard/maintenance-view-22.png)
+
+Los siguientes wireframes pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos. Sin embargo, tendrá ciertas vistas o componentes bloqueados debido a que es de un plan estándar y no pro.
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-standard/library-view-11.png)
+
+![library](/assets/imgs/chapter-IV/wireframes/plan-standard/library-view-22.png)
+
+Los siguientes wireframes pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/wireframes/plan-standard/sync-view.png)
+
+Los siguientes wireframes pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/wireframes/plan-standard/profile-view.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-19256%2C-8573%2C63373%2C29183%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+Se le presenta el Enlace en el cual hemos desarrollado los wireflows de nuestra aplicación en la herramienta de Lucidchart.
 
+**Enlace:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-19256%2C-8573%2C63373%2C29183%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+
+A continuación, se presentan los wireflows que competen a nuestros user goals.
 
 - User goal: Como propietario de vehículo urbano, quiero registrarme en la plataforma.
 ![topic-1](/assets/imgs/chapter-IV/register.png)
@@ -639,67 +731,76 @@ Desde el diagnóstico, el mecánico puede acceder a los datos técnicos identifi
 Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el tipo de plan activo (Standard o Pro). La vista muestra claramente el estado de la suscripción, beneficios actuales y posibles restricciones según el tipo de plan.
 
 ### 4.4.3. Web Applications Mock-ups
-**Link**: [Figma mock ups (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+Los mockups representan una etapa clave en el diseño de nuestras aplicaciones, ya que nos brindan una vista previa de la estética y la organización de los componentes antes de iniciar el proceso de desarrollo. A continuación, se  le presenta el Enlace de los mock-ups elaborados en la herramienta de Figma.
 
-### Log in
+**Enlace**: [Figma mock ups (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+
+### Log in, sign up and subscriptions
+
+Vistas para registro e ingreso del usuario.
+
 ![log-in](/assets/imgs/chapter-IV/mock-up/log-in/log-in.png)
 ![sign-up](/assets/imgs/chapter-IV/mock-up/log-in/sign-up.png)
 ![subscriptions-plannes](/assets/imgs/chapter-IV/mock-up/log-in/subscriptions-plannes.png)
 
 ### Plan PRO
-![about-your-vehicle](/assets/imgs/chapter-IV/mock-up/plan-pro/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/mock-up/plan-pro/audit.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/mock-up/plan-pro/bluetooth-conection.png)
-![buy-plan-pro](/assets/imgs/chapter-IV/mock-up/plan-pro/buy-plan-pro.png)
-![car-useful-life](/assets/imgs/chapter-IV/mock-up/plan-pro/car-useful-life.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/mock-up/plan-pro/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-pro/diagnostic-scan.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-pro/end-home.png)
-![guide-bluetooth](/assets/imgs/chapter-IV/mock-up/plan-pro/guide-bluetooth.png)
-![help](/assets/imgs/chapter-IV/mock-up/plan-pro/help.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-pro/initial-home.png)
-![last-diagnostic](/assets/imgs/chapter-IV/mock-up/plan-pro/last-diagnostic.png)
-![personal-information](/assets/imgs/chapter-IV/mock-up/plan-pro/personal-information.png)
-![problem-forecasting](/assets/imgs/chapter-IV/mock-up/plan-pro/problem-forecasting.png)
-![rapid-diagnosis](/assets/imgs/chapter-IV/mock-up/plan-pro/rapid-diagnosis.png)
-![recent-repairs](/assets/imgs/chapter-IV/mock-up/plan-pro/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/mock-up/plan-pro/report.png)
-![topic-1](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/mock-up/plan-pro/topic-7.png)
+
+Los siguientes mock-ups pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras.
+
+![maitenance](/assets/imgs/chapter-IV/mock-up/plan-pro/maintenance-1.png)
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-pro/maintenance-2.png)
+
+Los siguientes mock-ups pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos.
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-pro/library-1.png)
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-pro/library-2.png)
+
+Los siguientes mock-ups pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/mock-up/plan-pro/sync.png)
+
+Los siguientes mock-ups pertenecen al manejo de perfil del usuario. 
+
+![profile](/assets/imgs/chapter-IV/mock-up/plan-pro/profile.png)
+
+Los siguientes mock-ups pertenecen a la vista manejo de "home".
+
+![home](/assets/imgs/chapter-IV/mock-up/plan-pro/home.png)
 
 ### Plan STANDARD
-![about-your-vehicle](/assets/imgs/chapter-IV/mock-up/plan-standard/about-your-vehicle.png)
-![audit](/assets/imgs/chapter-IV/mock-up/plan-standard/audit.png)
-![bloqued-1](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-1.png)
-![bloqued-2](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-2.png)
-![bloqued-3](/assets/imgs/chapter-IV/mock-up/plan-standard/bloqued-content-3.png)
-![bluetooth-conection](/assets/imgs/chapter-IV/mock-up/plan-standard/bluetooth-conection.png)
-![buy-plan-standard](/assets/imgs/chapter-IV/mock-up/plan-standard/buy-plan-standard.png)
-![diagnostic-interface](/assets/imgs/chapter-IV/mock-up/plan-standard/diagnostic-interface.png)
-![diagnostic-scan](/assets/imgs/chapter-IV/mock-up/plan-standard/diagnostic-scan.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-standard/end-home.png)
-![home](/assets/imgs/chapter-IV/mock-up/plan-standard/guide-bluetooth.png)
-![interface](/assets/imgs/chapter-IV/mock-up/plan-standard/initial-home.png)
-![last-scan](/assets/imgs/chapter-IV/mock-up/plan-standard/personal-information.png)
-![profile](/assets/imgs/chapter-IV/mock-up/plan-standard/rapid-diagnostic.png)
-![recent-repairs](/assets/imgs/chapter-IV/mock-up/plan-standard/recent-repairs.png)
-![report](/assets/imgs/chapter-IV/mock-up/plan-standard/report.png)
-![topic-1](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-1.png)
-![topic-2](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-2.png)
-![topic-3](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-3.png)
-![topic-4](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-4.png)
-![topic-5](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-5.png)
-![topic-6](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-6.png)
-![topic-7](/assets/imgs/chapter-IV/mock-up/plan-standard/topic-7.png)
+
+Los siguientes wireframes pertenecen a el tópico de mantenimiento. Se pueden apreciar las vistas de "car useful life", "recent repairs", entre otras. Se bloquearon algunas funcionalidades de mantenimiento del auto debido al plan elegido.
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-standard/maintenance-11.png)
+
+![maintenance](/assets/imgs/chapter-IV/mock-up/plan-standard/maintenance-22.png)
+
+Los siguientes mock-ups pertenecen a el tópico de biblioteca. Se le ofrecerá al usuario diferentes recursos informativos. Se bloquearon algunos recursos debido al plan elegido.
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-standard/library-11.png)
+
+![library](/assets/imgs/chapter-IV/mock-up/plan-standard/library-22.png)
+
+Los siguientes mock-ups pertenecen a el tópico de sincronización. Se mostrará la vista principal de sincronización con el auto.
+
+![sync](/assets/imgs/chapter-IV/mock-up/plan-standard/sync-e.png)
+
+Los siguientes mock-ups pertenecen al manejo de perfil del usuario. Se bloquearon algunas funcinalidades debido al plan elegido
+
+![profile](/assets/imgs/chapter-IV/mock-up/plan-standard/profile-e.png)
+
+Los siguientes mock-ups pertenecen a la vista manejo de "home".
+
+![home](/assets/imgs/chapter-IV/mock-up/plan-standard/home.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
-**Link:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-4736%2C-4813%2C10504%2C4366%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+Se le presenta el Enlace en el cual hemos desarrollado los User Flow de nuestra aplicación en la herramienta de Lucidchart.
 
+**Enlace:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-4736%2C-4813%2C10504%2C4366%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+
+A continuación, se muestran los diagramas de flujo que ilustran los recorridos de los usuarios en función de los User Goals.
 
 - User goal: Como propietario de vehículo urbano, quiero registrarme en la plataforma.
 ![topic-1](/assets/imgs/chapter-IV/user-flow/register.png)
@@ -772,314 +873,103 @@ Desde el diagnóstico, el mecánico puede acceder a los datos técnicos identifi
 Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el tipo de plan activo (Standard o Pro). La vista muestra claramente el estado de la suscripción, beneficios actuales y posibles restricciones según el tipo de plan.
 
 ## 4.5. Web Applications Prototyping
-En esta sección se presenta el prototipo de la aplicación web desarrollado en figma, el cual sigue los estilos pre-establecidos en las anteriores secciones. Link: [Prototipo en Figma](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+A continuación, se muestra el prototipo elaborado a partir de los mockups previamente diseñados y documentados. Este prototipo nos permite visualizar y validar algunos de los flujos que posteriormente serán implementados en el desarrollo del código.
+
+**Enlace**: [Prototipo en Figma](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
 
 ![web-applications-prototyping](/assets/imgs/chapter-IV/web-applications-prototyping.png)
-## 4.6. Domain-Driven Software Architecture
-### 4.6.1. Software Architecture Context Diagram
 
-![context](/assets/imgs/chapter-IV/arquitecture/context/context.png)
+## 4.6. Domain-Driven Software Architecture
+
+En esta sección se aplicará el modelo C4 para definir la estructura del software, abarcando niveles como el contexto, los contenedores, los componentes y la implementación. Este enfoque permite comprender fácilmente la arquitectura del sistema, tanto por el equipo de trabajo como por otras personas involucradas en el proyecto.
+
+### 4.6.1. Software Architecture Context Diagram
 
 El diagrama de contexto del sistema VEHIX representa una visión general de alto nivel de las principales interacciones que el sistema web VEHIX mantiene con usuarios externos y servicios de terceros. Este modelo ilustra cómo el sistema se integra en su ecosistema tecnológico y humano.
 
-**Actores principales:**
+Para identificar y representar de manera clara los usuarios y sistemas externos que interactúan con nuestra plataforma, se ha desarrollado un diagrama de contexto. En él se visualiza que los principales usuarios del sistema VEHIX son los conductores independientes, los conductores profesionales y los mecánicos, quienes acceden al sistema a través de un navegador web. Además, el sistema se comunica con servicios externos clave: Google Maps, que proporciona datos de geolocalización y mapas en tiempo real; un servicio de pagos, como Visa, Mastercard o American Express, para procesar transacciones seguras; y Firebase Cloud Messaging, una plataforma de mensajería en la nube utilizada para enviar notificaciones y recordatorios en tiempo real a los usuarios.
 
-- **Independent Drivers:** Conductores particulares que poseen un vehículo y acceden a VEHIX para obtener diagnósticos y sugerencias de mantenimiento.
-    
-- **Professional Drivers:** Conductores profesionales que utilizan su vehículo como medio de ingreso (por ejemplo, servicios de taxi o delivery) y dependen de un sistema confiable para mantener su vehículo en óptimas condiciones.
-    
-- **Mechanics:** Técnicos automotrices que acceden al sistema para visualizar diagnósticos, realizar mantenimientos o atender fallas detectadas.
-    
-
-Todos los usuarios acceden al sistema VEHIX a través de un navegador web, utilizando el dominio vehix.com.
-
-**Sistemas externos integrados:**
-
-- **Google Maps:** VEHIX consume su API para ofrecer a los usuarios información sobre talleres mecánicos cercanos y rutas hacia estos puntos de servicio.
-    
-- **Payments (Visa, Mastercard o American Express):** Se utiliza para procesar pagos dentro del sistema, por ejemplo, para planes premium o servicios contratados por los usuarios.
-    
-- **Firebase Cloud Messaging:** Este servicio permite a VEHIX enviar notificaciones en tiempo real a los usuarios, como alertas de fallas o recordatorios de mantenimiento.
-    
-- **Auth0:** Servicio de autenticación encargado de verificar la identidad de los usuarios y otorgarles acceso seguro a la plataforma VEHIX.
+![C4](/assets/imgs/chapter-IV/arquictecture/contexto.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-![containers](/assets/imgs/chapter-IV/arquictecture/containers/container.png)
-
 El **diagrama de contenedores** representa la arquitectura interna de alto nivel del sistema VEHIX, descomponiendo el sistema web en contenedores lógicos (como aplicaciones, bases de datos y APIs) y mostrando cómo interactúan entre sí, con los usuarios y con sistemas externos.
 
-#### **Contenedores del sistema VEHIX**
+Con el objetivo de representar la arquitectura interna de los componentes principales que conforman el sistema VEHIX, se ha elaborado un diagrama de contenedores, el cual permite visualizar cómo interactúan los diferentes usuarios con los elementos de software y servicios externos. En este modelo, los usuarios principales —conductores independientes, conductores profesionales y mecánicos— acceden a la página de aterrizaje (Landing Page) y a la aplicación web, desde donde obtienen contenido informativo o interactúan con funcionalidades dinámicas del sistema. La lógica de negocio se gestiona en la aplicación SPA (Single Page Application), la cual corre en el navegador del usuario y consume servicios expuestos por la API Application, encargada de procesar solicitudes y entregar datos en formato JSON. Todos los datos relacionados a usuarios, diagnósticos y suscripciones son almacenados en la base de datos VEHIX.
 
-1. **VEHIX Landing Page**  
-    Proporciona acceso general e información básica sobre el sistema a través de una interfaz web pública.
-    
-2. **Web Application**  
-    Entrega contenido estático y dinámico (como HTML, CSS, JS) para la SPA (_Single Page Application_).
-    
-3. **VEHIX Single Page Application (SPA)**  
-    Es la aplicación principal que corre en el navegador del usuario. Permite analizar fallos, consultar datos del vehículo y recibir notificaciones. Se comunica con la API mediante solicitudes REST.
-    
-4. **API Application**  
-    Backend del sistema que expone endpoints RESTful para manejar diagnósticos, gestión de usuarios, pagos y más. Orquesta la lógica de negocio y se conecta con los contextos internos.
-    
-5. **Vehix DB**  
-    Base de datos del sistema. Almacena información clave como perfiles, diagnósticos, fallas, pagos, preferencias y suscripciones.
-    
-
-#### **Bounded Contexts**
-
-- **Analytics Context:** Proporciona análisis y visualización de datos estadísticos del sistema.
-    
-- **Profile and References:** Gestiona perfiles de usuario, preferencias, y relaciones entre usuarios y vehículos.
-    
-- **Assets and Resource Management:** Administra recursos como vehículos, sensores y datos de sensores.
-    
-- **Service Operation and Monitoring:** Ejecuta diagnósticos, auditorías de fallos y seguimiento en tiempo real.
-    
-- **Identity and Guest Management:** Gestiona autenticación, roles, sesiones y acceso de invitados.
-    
-- **Subscription and Payments:** Administra suscripciones, membresías y pagos.
-
+![C4](/assets/imgs/chapter-IV/arquictecture/contenedores.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-#### **Diagrama de Componentes: Vehix Single Page Application**
+Estos diagramas de componentes representan la arquitectura de las funcionalidades clave de Vehix. Permiten visualizar su estructura interna y la forma en que se integran con servicios y sistemas externos.
 
-![components](/assets/imgs/chapter-IV/arquictecture/components/single-page-aplication-component.png)
+Para representar la organización interna del sistema desde un nivel más técnico, se ha desarrollado un diagrama de componentes que muestra la estructura modular del sistema VEHIX. En este modelo, la aplicación web se construye a partir del componente principal AppComponent, el cual orquesta la interacción con múltiples componentes secundarios, cada uno encargado de una funcionalidad específica
 
-Este diagrama representa los **componentes internos** del contenedor **Vehix Single Page Application**, la aplicación se ejecuta en el navegador del usuario. Aquí se detallan los distintos módulos funcionales y servicios de frontend, junto con sus responsabilidades e interacciones, tanto internas como externas.
+- Diagrama de componentes: Single page application
 
-##### **Componentes principales**
+![C4](/assets/imgs/chapter-IV/arquictecture/componentes.png)
 
-- **LanguageSwitcherComponent:** Permite al usuario cambiar el idioma de la aplicación.
-    
-- **DiagnosticComponent:** Escanea el vehículo y presenta los resultados del diagnóstico.
-    
-- **FailureListComponent:** Muestra una lista de fallos detectados, clasificados por gravedad.
-    
-- **SubscriptionComponent:** Permite gestionar y visualizar el plan de suscripción del usuario.
-    
-- **ProfileComponent:** Permite editar la información del usuario y de su vehículo.
-    
-- **VehicleCardComponent:** Muestra un resumen visual con la información del vehículo.
-    
-- **DashboardComponent:** Pantalla principal del usuario con una vista general del estado del vehículo.
-    
-- **LoginComponent:** Pantalla de autenticación que inicia sesión mediante Auth0.
-    
+- Diagrama de componentes: API Application 
 
-##### **Servicios asociados**
-
-- **TranslationService:** Administra el idioma activo y las traducciones en la interfaz.
-    
-- **DiagnosticService:** Encapsula la lógica del escaneo del vehículo y realiza llamadas a la API.
-    
-- **ProfileService:** Administra la comunicación de datos entre el frontend y el backend sobre usuario y vehículo.
-    
-- **SubscriptionService:** Gestiona las suscripciones y se comunica con la API.
-    
-- **NotificationService:** Envía notificaciones push a los usuarios a través de Firebase.
-    
-- **AuthService:** Controla el flujo de autenticación del usuario utilizando Auth0.
-
-#### **Diagrama de Componentes: Profile and References**
-
-![components](/assets/imgs/chapter-IV/arquictecture/components/profile-and-references.png)
-
-El contenedor **Profile and References** dentro del sistema VEHIX se encarga de gestionar toda la información relacionada con el perfil del usuario, sus preferencias y los datos asociados a su vehículo. Este diagrama descompone su estructura en tres componentes principales que colaboran para brindar una funcionalidad coherente y bien organizada.
-
-##### **Componentes**
-
-- **ProfileController**  
-    Es el componente principal de entrada (controlador) que expone los endpoints relacionados con el perfil del usuario. Actúa como intermediario entre las solicitudes externas y los servicios que manejan los datos.
-    
-- **PreferenceService**  
-    Se encarga de gestionar las preferencias del usuario, como idioma, tipo de notificaciones, visualización u otras configuraciones personalizadas. El controlador invoca este servicio para leer o actualizar dichas preferencias.
-    
-- **VehicleService**  
-    Maneja la información relacionada con los vehículos registrados por los usuarios. Esto incluye datos técnicos, historial de mantenimiento, marca, modelo, entre otros. El controlador utiliza este servicio para acceder y modificar la información del vehículo.
-
-##### **Relaciones**
-
-- `ProfileController` llama a `PreferenceService` para leer y actualizar las preferencias del usuario.
-    
-- `ProfileController` también interactúa con `VehicleService` para gestionar los datos del vehículo registrado por el usuario.
-
-#### Diagrama de Componentes: Assets and Resource Management
-
-![components](/assets/imgs/chapter-IV/arquictecture/components/assets-and-resource-managements.png)
-
-El contenedor **Assets and Resource Management** forma parte de la arquitectura del sistema VEHIX y se encarga de la gestión de los datos históricos, archivos y recursos asociados a los usuarios. Este contenedor organiza su funcionalidad mediante componentes especializados, siguiendo principios de separación de responsabilidades y escalabilidad.
-
-##### **Componentes principales**
-
-- **ResourcesController**  
-    Es el componente de entrada que expone los endpoints relacionados con los recursos del sistema. Permite que otros contenedores o servicios accedan a funcionalidades como la recuperación de archivos, el acceso a historiales o comentarios.
-    
-- **HistoryService**  
-    Encargado de manejar la lógica relacionada con la exportación e importación de datos históricos del usuario, como registros de diagnósticos, resultados anteriores o trazabilidad del vehículo.
-    
-- **FileService**  
-    Administra la subida, almacenamiento y acceso a archivos. Se encarga de que los documentos o datos generados por el usuario (por ejemplo, informes de diagnóstico o comentarios adjuntos) puedan ser gestionados de forma segura.
-    
-- **ResourcesModel**  
-    Representa el modelo de datos que agrupa los distintos recursos que gestiona este contenedor. Incluye entidades como `History`, `Comment`, `File` y `Sample`, que permiten estructurar la información relacionada con el usuario y su vehículo.
-
-##### **Relaciones internas**
-
-- `ResourcesController` actúa como orquestador y delega las solicitudes al `HistoryService` para operaciones de historial, o al `FileService` para subir o descargar archivos.
-    
-- Ambos servicios utilizan el modelo `ResourcesModel` para representar y manipular los datos asociados a recursos del sistema.
-
-#### **Diagrama de Componentes: Analytics Context**
-
-![components](/assets/imgs/chapter-IV/arquictecture/components/analytics-context.png)
-
-El contenedor **Analytics Context** forma parte de la arquitectura de VEHIX y se especializa en recolectar, analizar y visualizar datos de uso del sistema. Este contenedor permite generar informes útiles tanto para los usuarios con el objetivo de mejorar el rendimiento del sistema y la experiencia del usuario mediante el análisis de patrones de comportamiento y uso vehicular.
-
-##### **Componentes principales**
-
-- **AnalyticsController**  
-    Es el componente encargado de exponer los endpoints necesarios para consultar datos analíticos. Recibe solicitudes externas y las redirige a los servicios internos adecuados.
-    
-- **UsageStatsService**  
-    Se encarga de recolectar y procesar los datos de uso del sistema. Su función principal es proporcionar una base sólida de información que puede ser utilizada para análisis y generación de reportes.
-    
-- **TrendAnalyzerService**  
-    Analiza los datos procesados para identificar patrones recurrentes en el uso del sistema o comportamiento del vehículo. Este componente es clave para detectar anomalías.
-    
-- **ReportGeneratorService**  
-    Genera informes descargables a partir de los datos analizados. Se alimenta de las estadísticas procesadas y es invocado por el controlador o por el componente visual.
-    
-- **AnalyticsView**  
-    Componente de presentación que transforma los datos analíticos en contenido visual para el frontend. Permite mostrar la información de forma clara y comprensible al usuario.
-
-##### **Relaciones clave**
-
-- `AnalyticsController` solicita a `UsageStatsService` la recopilación y análisis de datos.
-    
-- `UsageStatsService` entrega información a `TrendAnalyzerService` para detectar tendencias.
-    
-- `ReportGeneratorService` utiliza datos procesados por `UsageStatsService` para crear reportes.
-    
-- `AnalyticsView` transforma esos reportes en contenido visual.
-    
-- Todo el flujo parte del controlador y termina con la visualización clara y útil para el usuario.
-
-#### **Diagrama de Componentes: Subscription and Payments**
-
-![components](/assets/imgs/chapter-IV/arquictecture/components/subscription-and-payments.png)
-
-El contenedor **Subscription and Payments** del sistema VEHIX se encarga de la administración de planes de suscripción, procesamiento de pagos y generación de facturas. Este módulo permite a los usuarios acceder a funcionalidades premium mediante pagos integrados con proveedores externos como Visa, Mastercard o American Express.
-
-##### **Componentes principales**
-
-- **SubscriptionController**  
-    Componente controlador que expone los endpoints públicos relacionados con las suscripciones. Es responsable de iniciar procesos como el pago de un plan, o la consulta y modificación del estado de suscripción del usuario.
-    
-- **PlanService**  
-    Encargado de gestionar los planes de suscripción disponibles. Administra los datos relacionados con los planes, como su precio, duración y características, y permite actualizar el plan asociado a un usuario.
-    
-- **BillingService**  
-    Maneja la lógica del procesamiento de pagos. Coordina con el proveedor externo de pagos y se encarga de validar y completar las transacciones iniciadas por el usuario.
-    
-- **InvoiceService**  
-    Genera comprobantes de pago (facturas) una vez completada la transacción. Además, permite recuperar facturas anteriores asociadas a una suscripción.
-
-##### **Integración con sistema externo**
-
-- **Payments (Visa, Mastercard o American Express)**  
-    Es el sistema externo que se utiliza para realizar el procesamiento de los pagos. El `BillingService` se conecta con esta plataforma para completar la transacción de forma segura.
-
-##### **Relaciones entre componentes**
-
-- `SubscriptionController` inicia el procesamiento de pago a través de `BillingService`, y consulta los datos del plan mediante `PlanService`.
-    
-- Una vez realizado el pago, `BillingService` solicita a `InvoiceService` que genere una factura correspondiente.
-    
-- `BillingService` también se encarga de contactar al proveedor externo de pagos (Payments) para ejecutar la transacción.
-
-#### **Diagrama de Componentes: Identity and Guest Management**
-
-![components](/assets/imgs/chapter-IV/arquictecture/components/identity-and-guest-management.png)
-
-El contenedor **Identity and Guest Management** dentro de la arquitectura de VEHIX es responsable de gestionar el proceso de autenticación de usuarios, registro de nuevos perfiles y control de acceso basado en roles. Este contenedor asegura que sólo usuarios autorizados puedan acceder a funcionalidades específicas, manteniendo la seguridad y privacidad del sistema.
-
-##### **Componentes principales**
-
-- **IdentityController**  
-    Actúa como punto de entrada para todas las operaciones de autenticación y registro. Este controlador maneja las solicitudes de inicio de sesión y registro de nuevos usuarios, delegando las operaciones a los servicios correspondientes.
-    
-- **AuthServiceBackend**  
-    Se encarga de procesar los inicios y cierres de sesión del usuario. Además, es responsable de verificar las credenciales y delegar la autenticación en el sistema externo (Auth0).
-    
-- **UserRegistrationService**  
-    Gestiona el proceso de registro de nuevos usuarios, incluyendo validaciones y almacenamiento de datos. Se comunica con el sistema de autenticación externo cuando es necesario.
-    
-- **AccessControlService**  
-    Aplica reglas de acceso basadas en roles. Asegura que cada usuario tenga permisos adecuados según su perfil (por ejemplo, conductor, mecánico, invitado, etc.).
-
-##### **Integración externa**
-
-- **Auth0**  
-    Servicio de autenticación de terceros que verifica la identidad de los usuarios y proporciona un acceso seguro a VEHIX. El componente `IdentityController` delega en Auth0 la verificación de identidad y autenticación de credenciales.
-    
-##### **Relaciones clave**
-
-- `IdentityController` redirige las solicitudes de inicio de sesión a `AuthServiceBackend` y las de registro a `UserRegistrationService`.
-    
-- `AuthServiceBackend` utiliza `AccessControlService` para verificar permisos basados en el rol del usuario.
-    
-- Tanto `AuthServiceBackend` como `UserRegistrationService` delegan en **Auth0** la verificación de credenciales y autenticación segura.
-
-#### Diagrama de Componentes: Service Operation and Monitoring Context
-
-![components](/assets/imgs/chapter-IV/arquictecture/components/service-operation-monitoring.png)
-
-El contenedor **Service Operation and Monitoring Context** es uno de los núcleos funcionales más importantes del sistema VEHIX. Se encarga del **monitoreo en tiempo real** del estado del vehículo y la generación de alertas basadas en los datos recibidos por sensores y servicios de localización GPS. Este módulo es fundamental para garantizar una experiencia de usuario proactiva y preventiva.
-
-##### **Componentes principales**
-
-- **MonitoringController**  
-    Controlador principal del contenedor. Expone los endpoints relacionados con el monitoreo del vehículo y es el punto de entrada para los datos provenientes de sensores u otras fuentes.
-    
-- **LiveTrackingService**  
-    Servicio que gestiona el rastreo del vehículo utilizando datos GPS. Permite seguir la ubicación en tiempo real y enriquecer los análisis diagnósticos con contexto geográfico.
-    
-- **DiagnosticEngineService**  
-    Núcleo de análisis del sistema. Procesa los datos de sensores y ubicación para detectar anomalías, comportamientos inusuales o patrones que requieran atención inmediata. Su salida puede activar alertas.
-    
-- **AlertService**  
-    Genera alertas en tiempo real cuando el motor de diagnóstico detecta fallos. Estas alertas son enviadas directamente a los usuarios para mantenerlos informados sobre el estado del vehículo.
-    
-##### **Integraciones externas**
-
-- **Firebase Cloud Messaging (FCM):**  
-    Utilizado para enviar las alertas generadas por el `AlertService` directamente al dispositivo del usuario mediante notificaciones push.
-    
-- **Google Maps:**  
-    Servicio utilizado por `LiveTrackingService` para obtener y usar datos de geolocalización, mejorando el análisis y visualización del estado del vehículo en contexto espacial.
-    
-
-##### **Relaciones clave**
-
-- `MonitoringController` recibe los datos y los entrega al `DiagnosticEngineService`.
-    
-- `LiveTrackingService` proporciona información de ubicación tanto al `DiagnosticEngineService` como a Google Maps.
-    
-- Si se detecta un fallo, `DiagnosticEngineService` lo reporta al `AlertService`, que a su vez genera una alerta y la envía a través de Firebase.
+![C4](/assets/imgs/chapter-IV/arquictecture/componentes-2.png)
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### Autenticación y Diagnóstico  
+
+![C4](/assets/imgs/chapter-IV/arquictecture/1.PNG)
+
+
+El componente InputCardComponent se usa en formularios de login y registro, y trabaja junto con UserService, que gestiona datos del usuario (perfil, sesión, autenticación) solicitando información al API Application. Tras el inicio de sesión, el sistema puede mostrar alertas de fallos mediante AlertComponent, el cual se alimenta del AlertService, también conectado al API. En caso de problemas, RepairComponent presenta soluciones obtenidas desde el RepairService
+
+#### Suscripciones e Idioma 
+
+![C4](/assets/imgs/chapter-IV/arquictecture/2.PNG)
+
+
+####  Fallas y Gestión de Vehículos Registrados
+
+![C4](/assets/imgs/chapter-IV/arquictecture/3.PNG)
+
+El componente ShowVehicle muestra información detallada del vehículo del usuario, como el modelo, la placa y el estado general. Este componente se apoya en VehicleService, que se comunica con el API Application para obtener, actualizar o almacenar los datos del vehículo. Por otro lado, FutureProblemComponent presenta posibles problemas que podrían surgir en el futuro, basándose en el historial de diagnóstico. Este componente utiliza el ProbabilitiesService, el cual calcula la probabilidad de fallas mediante el análisis de datos anteriores, también accediendo al API. Finalmente, RadarChartComponent permite visualizar gráficamente los riesgos de fallas mediante un gráfico de radar. Este componente obtiene sus datos desde el PronosticsService, que genera predicciones basadas en patrones de uso y diagnósticos previos, igualmente conectándose con el API para acceder a la información necesaria.
+
+####  Monitoreo del Estado del Vehículo y Estimaciones de Vida Útil
+
+![C4](/assets/imgs/chapter-IV/arquictecture/4.PNG)
+
+Esta sección del sistema VEHIX se enfoca en proporcionar al usuario una visión clara del estado general de su vehículo y en estimar su vida útil a partir de datos históricos de uso y diagnóstico. El componente ProgressBarComponent muestra gráficamente la salud y vida útil estimada del vehículo, mientras que TimeLineComponent presenta una línea de tiempo visual del kilometraje mensual, permitiendo observar su evolución. Ambas vistas se nutren del EstimatesService, que se comunica con el API Application para obtener datos sobre patrones de uso, diagnósticos pasados y predicciones de vida útil. Por otro lado, el componente StatusComponent brinda una vista rápida del estado de los subsistemas clave del vehículo mediante indicadores circulares. Esta información proviene del StatusService, que consulta en tiempo real al API para mostrar el rendimiento y la salud de los componentes críticos del vehículo.
+
+#### Detección de Problemas de Conducción, Fallos Técnicos y Búsqueda de Talleres
+
+![C4](/assets/imgs/chapter-IV/arquictecture/5.PNG)
+
+El componente BadPracticesComponent muestra comportamientos de conducción riesgosos detectados durante el escaneo del vehículo. Esta información es obtenida desde el BadPracticesService, que accede al API Application para recuperar datos basados en sensores y el historial de manejo. Por otro lado, SimpleIssuesComponent presenta fallos menores como bajo nivel de refrigerante o presión de neumáticos, y se apoya en el SimpleIssuesService para obtener esta información desde el backend. Para errores más graves, el TechnicalErrorsComponent muestra fallas críticas con códigos OBD-II y sugerencias de solución. Este se alimenta del TechnicalErrorService, que también se comunica con el API.
+Finalmente, para brindar apoyo al usuario, el componente MechanicCardListComponent despliega una lista de talleres mecánicos cercanos, cada uno representado por una instan
+
+#### Perfil del Usuario y Biblioteca de Contenidos Informativos
+
+![C4](/assets/imgs/chapter-IV/arquictecture/6.PNG)
+
+El componente ProfileCardComponent se encarga de mostrar información del perfil del usuario, como su nombre y datos del vehículo. Esta información es obtenida desde el ProfileService, que se comunica con el API Application para recuperar los datos actualizados del usuario.Por otro lado, LibraryListComponent muestra la vista general de la biblioteca, solicitando la lista de contenidos al LibraryService. Cada contenido se representa visualmente mediante el LibraryItemComponent, que puede mostrar artículos, videos u otro tipo de recursos útiles para el usuario.
+
+####  Visualización de Información General del Vehículo y Ubicacion de tallares cercanos en tiempo real
+
+![C4](/assets/imgs/chapter-IV/arquictecture/7.PNG)
+
+El componente DashboardComponent actúa como centro de control, desde el cual se visualizan detalles importantes como el resumen del vehículo, el historial de escaneos, alertas recientes y el estado de conexión. El componente VehicleSummaryComponent muestra datos básicos del vehículo del usuario, como el modelo, nombre y año. A su vez, ScanHistoryComponent permite revisar escaneos anteriores realizados al vehículo, mientras que AlertSummaryComponent resume las alertas más recientes detectadas. Por su parte, VehicleStatusComponent indica si el vehículo está correctamente conectado con el sistema. Además, el componente MechanicMapComponent integra un mapa interactivo donde se muestran talleres cercanos, haciendo uso del servicio externo Google Maps para renderizar los datos de ubicación y geolocalización en tiempo real.
 
 
 ## 4.7. Software Object-Oriented Design
+En la sección de Software Object-Oriented Design se presentarán dos aspectos fundamentales: los diagramas de clase y el diccionario de clases.
+
 ### 4.7.1. Class Diagrams
-En esta sección se presentan los diagramas de clases del sistema Vehix. Estos diagramas representan la estructura del software a nivel de objetos, mostrando las clases, atributos, métodos y relaciones, lo cual facilita la comprensión del diseño y su implementación.
+
+En esta sección se presentan los diagramas de clases del sistema Vehix. Estos diagramas representan la estructura del software a nivel de objetos, mostrando las clases, atributos, métodos y relaciones, lo cual facilita la comprensión del diseño y su implementación. Cada componente se comunica con servicios especializados.los cuales abstraen la lógica de negocio y las llamadas a la API principal del sistema, que expone las funcionalidades del backend. Además, la aplicación hace uso de servicios externos como Google Maps, utilizado para la renderización de mapas y geolocalización dentro del sistema.
 
 ![class-diagram](/assets/imgs/chapter-IV/class-diagram.png)
 
 ### 4.7.2. Class Dictionary
+El diccionario de clases describe en detalle las propiedades y responsabilidades de cada entidad dentro del sistema, sirviendo como una guía integral para comprender el comportamiento y la lógica del software.
 
 #### **WorkShop**
 
@@ -1211,8 +1101,10 @@ En esta sección se presentan los diagramas de clases del sistema Vehix. Estos d
 - **commentsFutures:** comments about future improvements
 
 ## 4.8. Database Design
+En la parte dedicada al Diseño de la Base de Datos, se mostrará un diagrama que ilustra cómo están organizadas las entidades y sus vínculos, facilitando un manejo eficiente de los datos tanto para almacenarlos como para consultarlos.
+
 ### 4.8.1. Database Diagram
-Esta sección contiene el diagrama de base de datos diseñado para Vehix. Aquí se muestran las tablas, relaciones y atributos necesarios para almacenar y gestionar eficientemente los datos del sistema, garantizando integridad, rendimiento y escalabilidad.
+Los diagramas de base de datos muestran la organización interna y las conexiones entre las entidades, facilitando la comprensión de cómo se guardan y vinculan los datos dentro del sistema de forma óptima.
 
 ![database diagram](/assets/imgs/chapter-IV/vehix-db.png)
 
