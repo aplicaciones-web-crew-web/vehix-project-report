@@ -1866,6 +1866,97 @@ User Flow 13: Visualizar el estado técnico del vehículo con datos detallados
 ### 5.3.2. Interview Record
 En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para cada segmento objetivo de nuestro proyecto.
 
+Segmento 1: Propietarios de vehículos urbanos (uso personal)
+
+Entrevista 1:
+
+![lucas val](/assets/imgs/chapter-V/lucas_val.png)
+
+[00:00 - 9:55]
+
+Duración: 9 minutos 55 segundos
+
+Link de la entrevista:
+
+Nombre: Lucas 
+
+Apellidos: Sanchez Heredia
+
+Edad: 25 años
+
+Distrito: Chorrillos
+
+Resumen: Durante la sesión de validación con Lucas, un usuario representativo del segmento de propietarios de vehículos urbanos, se evaluaron tanto la landing page como la aplicación web de Vehix. Lucas interactuó activamente con la landing page, mostrando interés y comprensión del mensaje principal. La propuesta de valor fue clara y atractiva, y el llamado a la acción (CTA) fue identificado con facilidad. Los testimonios y beneficios listados fueron percibidos como útiles y confiables. Además, pudo visualizar correctamente el mapa digital y la lista de mecánicos cercanos, encontrándolos funcionales y relevantes. Los paneles de errores también fueron valorados positivamente, ya que aportan información útil para el diagnóstico.
+
+En cuanto a la aplicación web, Lucas completó con éxito todos los flujos de usuario asignados. El registro (User Flow 1) y el inicio de sesión (User Flow 2) fueron intuitivos y sin dificultades. El registro del vehículo (User Flow 4) se realizó de forma clara, y la descripción del problema (User Flow 6) permitió expresar fácilmente el fallo percibido. Finalmente, la funcionalidad que muestra talleres mecánicos cercanos (User Flow 7) fue destacada como una característica especialmente útil.
+
+Entrevista 2:
+
+![cesar val](/assets/imgs/chapter-V/cesar_val.png)
+
+[9:55 - 20:39]
+
+Duración: 10 minutos 44 segundos
+
+Link de la entrevista:
+
+Nombre: Cesar 
+
+Apellidos: Bonifacio
+
+Edad: 25 años
+
+Distrito: Chorrillos
+
+Resumen: Durante la sesión de validación con César, también perteneciente al segmento de propietarios de vehículos urbanos de uso personal, se observaron reacciones positivas frente a la propuesta de Vehix. César exploró con atención la landing page, mostrando comprensión del mensaje principal y del propósito general de la plataforma. El llamado a la acción (CTA) fue claro para él, y consideró útiles los beneficios destacados y los testimonios de otros usuarios. Además, interactuó sin inconvenientes con el mapa digital y la visualización de mecánicos cercanos, funciones que consideró prácticas para casos de emergencia o mantenimiento regular. Los paneles de errores también llamaron su atención, reconociendo su utilidad para entender mejor el estado del vehículo.
+
+En lo referente a la aplicación web, César completó correctamente todos los flujos de usuario evaluados. El registro en la plataforma (User Flow 1) y el inicio de sesión (User Flow 2) fueron realizados sin complicaciones, mostrando fluidez en la interfaz. El registro de su vehículo (User Flow 4) le resultó sencillo, y destacó lo intuitivo del proceso. También logró describir el problema de su vehículo (User Flow 6) de manera clara gracias al diseño de la interfaz. Finalmente, valoró positivamente la opción de visualizar talleres mecánicos cercanos (User Flow 7), resaltando que es una función que usaría con frecuencia.
+
+Entrevista 3: 
+
+![ariana val](/assets/imgs/chapter-V/ariana_val.png)
+
+[20:39 - 28:45]
+
+Duración: 8 minutos 6 segundos
+
+Link de la entrevista:
+
+Nombre: Ariana 
+
+Apellidos: Yassan Laredo
+
+Edad: 25 años
+
+Distrito: San Juan de Miraflores
+
+Resumen: Durante la prueba con Ariana, una usuaria representativa del segmento de propietarios de vehículos de uso personal, se evaluó su interacción con la landing page y la aplicación web de Vehix. Ariana navegó con interés por la página principal, comprendiendo de manera clara la propuesta de valor que ofrece la plataforma. Le pareció evidente el propósito del servicio, y el llamado a la acción fue fácil de identificar. Además, consideró que los testimonios y beneficios presentados aportaban credibilidad. Al explorar el mapa digital y la función para ver mecánicos cercanos, destacó lo útil que sería contar con esa información en tiempo real. También reaccionó positivamente ante los paneles de errores, ya que le permiten tener un mayor control sobre el estado de su vehículo.
+
+Respecto a la web application, Ariana completó sin dificultad los flujos propuestos. El proceso de registro (User Flow 1) le resultó rápido, y el inicio de sesión (User Flow 2) fue simple. El registro de su vehículo (User Flow 4) se sintió natural dentro de la navegación, y no presentó dudas al hacerlo. Al momento de describir un problema del vehículo (User Flow 6), encontró que la plataforma le brindaba opciones claras para expresarse. Finalmente, la opción de ver talleres cercanos (User Flow 7) fue una de las que más valoró, ya que le pareció práctica y necesaria para cualquier conductor.
+
+Entrevista 7: 
+
+![richard val](/assets/imgs/chapter-V/richard_val.png)
+
+[28:45 - 42:18]
+
+Duración: 13 minutos 33 segundos
+
+Link de la entrevista:
+
+Nombre: Richard 
+
+Apellidos: Rios Sandoval
+
+Edad: 54 años
+
+Distrito: Villa el Salvador
+
+Resumen: Durante la validación con Richard, mecánico automotriz, se evaluaron la landing page y la aplicación web de Vehix desde el enfoque profesional del Segmento 3. Richard comprendió rápidamente la propuesta de valor, destacando el mensaje principal y apreciando beneficios como la digitalización de diagnósticos, el historial del vehículo y el contacto con clientes. También valoró positivamente la visualización de vehículos registrados, la biblioteca automotriz y los paneles de errores, considerándolos herramientas útiles para su trabajo diario.
+
+Al ingresar a la aplicación web, Richard completó satisfactoriamente los flujos asignados. El registro (User Flow 1) y el inicio de sesión (User Flow 2) fueron simples e intuitivos. Pudo realizar la sincronización con el vehículo (User Flow 3) sin complicaciones, lo cual consideró un punto clave para agilizar diagnósticos. El registro de vehículos (User Flow 4) también fue directo, y destacó la importancia de esta función para mantener un control ordenado de sus clientes. Además, navegó por la biblioteca automotriz (User Flow 8), encontrando información técnica relevante y bien organizada, lo que consideró un gran apoyo para su trabajo. Finalmente, al visualizar el estado técnico del vehículo con datos detallados (User Flow 13), valoró especialmente los paneles de errores y la presentación clara de los datos, mencionando que esta información le permitiría comunicarse mejor con sus clientes y respaldar sus diagnósticos con evidencia concreta.
+
+
 ### 5.3.3. Evaluation based on heuristics
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
 
