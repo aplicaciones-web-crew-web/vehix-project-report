@@ -1893,7 +1893,7 @@ Entrevista 1:
 
 Duración: 9 minutos 55 segundos
 
-Link de la entrevista: [entrevista 1](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
+Link de la entrevista: [entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=8Po3dv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk1LjU4fX0%3D)
 
 Nombre: Lucas 
 
@@ -1915,7 +1915,7 @@ Entrevista 2:
 
 Duración: 10 minutos 44 segundos
 
-Link de la entrevista: [entrevista 2](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
+Link de la entrevista: [entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=8Po3dv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk1LjU4fX0%3D)
 
 Nombre: Cesar 
 
@@ -1937,7 +1937,7 @@ Entrevista 3:
 
 Duración: 8 minutos 6 segundos
 
-Link de la entrevista: [entrevista 3](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
+Link de la entrevista: [entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=pr88mb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIzOS4xMn19)
 
 Nombre: Ariana 
 
@@ -1959,7 +1959,7 @@ Entrevista 7:
 
 Duración: 13 minutos 33 segundos
 
-Link de la entrevista: [entrevista 7](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
+Link de la entrevista: [entrevista 7](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=K5N5mZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTcyNS45OH19)
 
 Nombre: Richard 
 
@@ -2084,3 +2084,6 @@ Recomendación: Incluir un botón de "Atrás" en las subsecciones de la librerí
 
 ## 5.4. Video About the Product
 En esta sección se describe el contenido del Video About-theProduct, el cual tiene como público objetivo los visitantes al Landing Page, quienes desean conocer sobre el modelo de negocio y las características principales de los productos de software, al igual que los usuarios de las Aplicaciones, quienes desean realizar tareas relacionadas con los procesos soportados por la solución.
+
+[link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=ZMniY6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
