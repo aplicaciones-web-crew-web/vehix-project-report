@@ -1702,6 +1702,109 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 
 ### 5.3.3. Evaluation based on heuristics
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
+### UX Heuristics & Principles Evaluation
+#### Usability – Inclusive Design – Information Architecture
+---
+CARRERA: Ingeniería de Software
+CURSO : Aplicaciones Web
+SECCIÓN : 4368
+PROFESORES : Todos
+AUDITOR : CrewWeb
+CLIENTE(S) : 
+---
+**SITE o APP A EVALUAR:**
+VEHIX
+
+**TAREAS A EVALUAR:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Inicio de Sesión
+2. Registro de usuario Nuevo
+3. Conexión con nuevo vehículo
+4. Visualizacion de librerías automotrices
+5. Pago de una subscripcion
+6. Ayuda de talleres mecánicos
+7. Visualización de fallas del vehículo
+8. Lectura del vehículo con el scanner
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Reparación de fallas
+2. Actualizacion de estado de fallas
+3. Actualizacion de datos
+4. Visualizacion de preguntas frecuentes
+5. Visualización de analíticas
+
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+|Nivel|Descripción|
+|-----|-----------|
+|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+**TABLA RESUMEN:**
+|#|Problema|Escala de severidad|Heurística/Principio violado(a)|
+|--|-------|-------------------|-------------------------------|
+|1|Se dificulta la navegación y el uso de la aplicación desde teléfonos celulares.|4|Usabilidad - Flexibilidad y eficiencia de uso|
+|2|El sistema no siempre confirma claramente el éxito de una acción importante.|3|Usabilidad - Visibilidad del estado del sistema|
+|3|El sistema no siempre confirma claramente el éxito de una acción importante.|2|Usabilidad - Visibilidad del estado del sistema|
+|4|La sección de analíticas no responde al hacer clic, sin avisar su estado.|3|Usabilidad - Visibilidad del estado del sistema; Usabilidad - Control y libertad del usuario|
+|5|No hay un botón de retroceso fácil en las secciones de la librería.|2|Usabilidad - Control y libertad del usuario; Usabilidad - Consistencia y estándares|
+
+
+**DESCRIPCIÓN DE RPOBLEMAS:**
+PROBLEMA #1: Se dificulta la navegación y el uso de la aplicación desde teléfonos celulares.
+
+Severidad: 4
+
+Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso
+
+Problema: Al intentar utilizar la aplicación desde un teléfono celular, el usuario experimenta una gran dificultad para navegar y ver el contenido de forma adecuada. Los elementos de la pantalla (textos, botones, imágenes) aparecen demasiado grandes o pequeños, desorganizados o incluso cortados, obligando al usuario a hacer zoom constantemente o a desplazarse horizontalmente. Esto hace que usar la aplicación en dispositivos móviles sea casi imposible y muy frustrante.
+
+Recomendación: Es crucial que la aplicación se adapte y se vea correctamente en diferentes tamaños de pantalla, especialmente en teléfonos celulares. Se recomienda implementar un diseño que ajuste automáticamente la disposición de los elementos para facilitar la visualización y la interacción en dispositivos móviles.
+
+---
+
+PROBLEMA #2: El sistema no siempre confirma claramente el éxito de una acción importante.
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Visibilidad del estado del sistema
+Problema: Al registrar un nuevo vehículo o guardar cambios importantes, el usuario no recibe una confirmación visual clara e inmediata de que la operación fue exitosa. Aunque la aplicación puede mostrar algo en la consola, la falta de un mensaje en pantalla (como un "¡Vehículo guardado con éxito!") genera incertidumbre, haciendo que el usuario se pregunte si la acción se completó realmente.
+
+Recomendación: Implementar mensajes de confirmación claros y visibles en la pantalla después de esta acción en específico
+
+---
+PROBLEMA #3: La guiá de conectar el escáner no es suficientemente clara.
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Visibilidad del estado del sistema
+
+Problema: Tras seguir los pasos para conectar el escáner, la aplicación simplemente indica "Done, let the app do the work.". No hay una confirmación explícita de si la conexión fue exitosa o si hay algún problema. El usuario queda a la expectativa sin saber si el escáner está realmente listo para la lectura o si necesita hacer algo más.
+
+Recomendación: Proporcionar un mensaje claro de "Conexión exitosa" o "Error de conexión" después de intentar conectar el escáner.
+
+---
+PROBLEMA #4: La sección de analíticas no responde al hacer clic, sin avisar su estado.
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Visibilidad del estado del sistema; Usabilidad - Control y libertad del usuario
+
+Problema: El usuario intentar acceder a la sección de "Analíticas" haciendo clic en ella, pero no ocurre nada en la pantalla. La aplicación no muestra ningún mensaje que indique que la función no está disponible, que está en desarrollo o que hay un error. Esto frustra al usuario al no obtener la respuesta esperada y no saber por qué la acción no se completa.
+
+Recomendación: Para elementos no funcionales o en desarrollo se debe indicar que la función no está disponible, o que está "Próximamente" si se espera implementarla.
+
+---
+PROBLEMA #5: No hay un botón de retroceso fácil en las secciones de la librería.
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Control y libertad del usuario; Usabilidad - Consistencia y estándares
+
+Problema: Cuando el usuario navega a una subsección dentro de las "Librerías automotrices", no hay un botón de "Atrás" o "Volver a Librería" claramente visible y fácil de usar dentro de la interfaz. Esto fuerza al usuario a depender del menu o navegador, lo que consume más pasos y esfuerzo.
+
+Recomendación: Incluir un botón de "Atrás" en las subsecciones de la librería que permita al usuario regresar fácilmente a la página principal de librerías o a la sección anterior.
 
 ## 5.4. Video About the Product
 En esta sección se describe el contenido del Video About-theProduct, el cual tiene como público objetivo los visitantes al Landing Page, quienes desean conocer sobre el modelo de negocio y las características principales de los productos de software, al igual que los usuarios de las Aplicaciones, quienes desean realizar tareas relacionadas con los procesos soportados por la solución.
