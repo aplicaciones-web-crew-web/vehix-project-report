@@ -59,6 +59,8 @@
 
   - **Link de Repositorio de Front End:** [https://github.com/aplicaciones-web-crew-web/vehix-frontend.git](https://github.com/aplicaciones-web-crew-web/vehix-frontend.git)
 
+  - **Link de Repositorio de Back End:** [https://github.com/aplicaciones-web-crew-web/vehix-platform.git](https://github.com/aplicaciones-web-crew-web/vehix-platform.git)
+
     A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
 
 ![commits img](/assets/imgs/chapter-I/commits.png)
