@@ -1168,11 +1168,11 @@ A continuación se mostrará el cuadro correspondiente al Sprint Planning 3, don
 		</tr>
 		<tr>
 			<td>Sprint 3 Velocity</td>
-			<td></td>
+			<td>15</td>
 		</tr>
 		<tr>
 			<td>Sum of Story points</td>
-			<td></td>
+			<td>54</td>
 		</tr>
 	</tbody>
 </table>
@@ -1999,6 +1999,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 6. Ayuda de talleres mecánicos
 7. Visualización de fallas del vehículo
 8. Lectura del vehículo con el scanner
+
+
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 1. Reparación de fallas
 2. Actualizacion de estado de fallas
