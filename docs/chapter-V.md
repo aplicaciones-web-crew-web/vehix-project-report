@@ -1679,14 +1679,97 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 #### 5.2.3.4. Development Evidence for Sprint Review
 A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 3. Se desarrollaron los features correspondientes.
 
+
+| Repository                      | Branch                                   | Commit Id | Commit Messaage                       | Commit Message Body | Commited on |
+| ------------------------------- | ---------------------------------------- | --------- | ------------------------------------- | ------------------- | ----------- |
+| sergioJM05/vehix-platform | main | 37e4c34 | chore: initial commit | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | release | 37e4c34 | chore: initial commit | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | develop | 37e4c34 | chore: initial commit | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | feature/project-configuration | f175ee1 | feat: project configuration. | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | develop | df266b4 | Merge pull request #1 | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | feature/software-architecture | df266b4 | Merge pull request #1 | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/software-architecture | 36fb8e4 | docs: add software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/software-architecture | 36fb8e4 | docs: add software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | develop | d570de0  | docs: add software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/software-architecture | c5b1441  | docs: fix software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | develop | 3bd5e43 | docs: fix software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/project-structure | 3bd5e43 | docs: fix software-architecture.dsl | -                   | 2025-06-10   |
+| PieroHugo/vehix-platform | feature/project-structure | e6e2349   | feat(publishing): add initial entities and value objects for Vehicle | -                   | 2025-06-10   |
+| PieroHugo/vehix-platform | feature/project-structure | ca9a7e0   | chore: remove .idea folder from version control | -                   | 2025-06-10   |
+| PieroHugo/vehix-platform | feature/project-structure | c9477f0   | chore(api): remove duplicate file | -                   | 2025-06-10   |
+| sergioJM05/vehix-platform | develop | a825d72    | feat:add project structure | -                   | 2025-06-17   |
+| sergioJM05/vehix-platform | feature/analytics-value-objects | 78bc309     | feat(analytics): add analytics related value objects. | -                   | 2025-06-18   |
+| sergioJM05/vehix-platform | feature/analytics-value-objects | 6e45447    | feat(analytics): delete profile id, because there is no relation with. | -           | 2025-06-18   |
+| sergioJM05/vehix-platform | feature/analytics-value-objects | 8dadb0a    | feat(monitoring): add monitoring value objects.| -           | 2025-06-18   |
+| Addicted2you/vehix-platform | feature/IAM | 42affe7     | feat(profile): add value object and aggregates | -           | 2025-06-18   |
+| AntonioNavarro24/vehix-platform | feature/monitoring-value-objects | 23de928      | chore: update monitoring value objects. | -           | 2025-06-18   |
+| Addicted2you/vehix-platform |feature/IAM | 42affe7     | Deleted branch | -           | 2025-06-18   |
+| AntonioNavarro24/vehix-platform |feature/monitoring-value-objects | cffe16a      | feat(monitoring): update monitoring value objects. | -           | 2025-06-18   |
+| Addicted2you/vehix-platform |feature/subscriptions-and-payments | 0eda80c       | feat(subscriptions): add value objects and entities | -           | 2025-06-18   |
+| Addicted2you/vehix-platform |feature/subscriptions-and-payments | 115a078    | Merge remote-tracking branch 'origin/feature/subscriptions-and-payments' | -     | 2025-06-18   |
+| sergioJM05/vehix-platform |feature/monitoring-value-objects | ac78f57     | feat(monitoring): update monitoring commands and queries. | -     | 2025-06-18   |
+| AntonioNavarro24/vehix-platform |feature/monitoring-value-objects | 8f92e48      | feat(monitoring): update monitoring commands and queries. | -     | 2025-06-19   |
+| Addicted2you/vehix-platform |feature/subscriptions-and-payments | 7ec2fec       | feat(subscriptions): add commands, aggregates | -     | 2025-06-19   |
+| sergioJM05/vehix-platform |feature/monitoring-value-objects | b34e71c        | feat(monitoring): update value objects. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | 667a4ae      | Merge pull request #5 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | b3eabc0       | feature(monitoring): update monitoring repositories. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | 4b79e0c      | Merge pull request #6 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | f2e57fa     | feat(monitoring): add monitoring services. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | f6a5056    | Merge pull request #7 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |feature/add-cortex-dependencye | 7d055b4     | fix(project): add cortex.mediator dependencies. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | dbbf7c1      | Merge pull request #8 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |feature/monitoring-add-application-layer | bf614d8       | feat(monitoring): add monitoring event handlers. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | f867274        | Merge pull request #9 | -     | 2025-06-20   |
+| AntonioNavarro24/vehix-platform |feature/management-value-objects | 2349b16      | Merge pull request #9 | -     | 2025-06-20   |
+| AntonioNavarro24/vehix-platform |feature/assets-and-resource-management | 2349b16       | Merge pull request #9 | -     | 2025-06-21   |
+| AntonioNavarro24/vehix-platform |feature/management-value-objects | 2349b16       | Deleted branch| -     | 2025-06-21   |
+| AntonioNavarro24/vehix-platform |feature/management | 2349b16        | feat(management): add management resources.| -     | 2025-06-21   |
+| AntonioNavarro24/vehix-platform |feature/assets-and-resource-management | 2349b16        | Deleted branch| -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/monitoring-infrastructure-layer | 3dd5ff4       | Deleted branch| -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/monitoring-infrastructure-layer | 6f5b0c3       |Merge pull request #10 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/monitoring-infrastructure-layer | 96910ae         |feat(monitoring): add EFC repositories. | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | 76c958d        |Merge pull request #11 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | f83678b         |feature(monitoring): add monitoring interface resources. | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | fe3095d          |Merge pull request #12 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/add-monitoring-interface-transformation | fe3095d           |Merge pull request #12 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/add-monitoring-interface-transformation | 51296db          |feature(monitoring): add monitoring transform interfaces. | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | 9a0a783           |Merge pull request #13 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/add-monitoring-controllers | 009d442            |feat(monitoring): add monitoring controllers.| -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | 8bf7f4a           |Merge pull request #14 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform | feature/update-program-cs | 774dad1 | feat(monitoring): update program cs. | – | 2025-06-21 |
+| sergioJM05/vehix-platform | develop | 8bf7f4a | Merge pull request #15 | – | 2025-06-21 |
+| PieroHugo/vehix-platform | feature/IAM | e09d0c2 | Merge pull request #17 | – | 2025-06-21 |
+| PieroHugo/vehix-platform | develop | 937d743 | Merge pull request #17 | – | 2025-06-21 |
+| PieroHugo/vehix-platform| feature/IAM | e09d0c2 | feat: implement IAM | – | 2025-06-21 |
+| PieroHugo/vehix-platform | feature/IAM | feba0a5 | chore: remove IDE-specific .idea files from repository | – | 2025-06-21 |
+| sergioJM05/vehix-platform | fix/connection-to-mysql | e27d509 | feature(monitoring): latest program update cs. | – | 2025-06-21 |
+| sergioJM05/vehix-platform | develop | e09d0c2 | Merge pull request #18 | – | yesterday |
+|sergioJM05/vehix-platform | fix/monitoring-add-error-type | 2cecf59 | fix(monitoring): update validation of error type. | – | 2025-06-21 |
+| sergioJM05/vehix-platform | develop | 22006d0 | Merge pull request #19 | – | 2025-06-21 |
+| AntotnioNavarro24/vehix-platform | feature/management | 2349b16 | feat(management): add management resources. | – | 2025-06-21 |
+| Addicted2you/vehix-platform | feature/subscriptions-and-payments | 7ec2fec | feat(subscriptions): moved files and add functions | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 9540b49 | Merge pull request #19 | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | c660421 | feat: Implemnet Indentity | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 0058934 | feat: Implement Identity | – | 2025-06-22 |
+|PieroHugo/vehix-platform | feature/Identity | b438aec | feat: update database | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 0b4ee4c | fix: docker file | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 0022185 | feat: update Program.cs | – |  2025-06-22 |
+
 #### 5.2.3.5. Execution evidence for Sprint Review
 Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de los endpoints documentados.
+![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
 
+![Image](https://github.com/user-attachments/assets/747ff5f5-9655-4b37-a80f-8e31eee42200)
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
+El despligue del backend se realizo en Render
+![Image](https://github.com/user-attachments/assets/c7375d67-aa4a-4b5a-80a9-5500be17dfdc)
+![Image](https://github.com/user-attachments/assets/363719b0-071a-4df4-9d6e-8dd04b4420bd)
+![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
+![Image](https://github.com/user-attachments/assets/c5ec308e-51ef-4644-9f6f-563deaafb2d7)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación del Backend.
@@ -1697,8 +1780,199 @@ En esta sección del informe se documentan y detallan las acciones relacionadas 
 ### 5.3.1. Design Interviews
 En esta sección se establece por cada segmento objetivo los elementos a incluir en la sesión de validación, incluyendo el Landing Page y las aplicaciones. Además se especifica cuáles serán los user flows de las aplicaciones, que formarán parte del proceso de validación.
 
+Segmento 1: Propietarios de vehículos urbanos (uso personal)
+
+Objetivo de la validación:
+Comprobar si los usuarios entienden el valor de la plataforma para el mantenimiento preventivo y registro de su vehículo.
+
+Elementos a incluir:
+
+- Claridad del mensaje principal en la landing page
+
+- Llamado a la acción (CTA)
+
+- Opiniones sobre testimonios y beneficios listados.
+
+- Visualización e interacción con el mapa digital
+
+- Visualización de mecánicos
+
+- Paneles de errores
+
+Flujos a validar:
+
+User Flow 1: Registro a la plataforma
+
+User Flow 2: Inicio de sesión en la plataforma
+
+User Flow 4: Registro de vehículo
+
+User Flow 6: Descripción sencilla del problema detectado en el vehículo
+
+User Flow 7: Talleres mecánicos cercanos a la ubicación
+
+Segmento 2: Conductores independientes (Uber, InDriver, taxi, delivery)
+
+Objetivo de la validación:
+Validar si la plataforma les ayuda a optimizar el tiempo de mantenimiento y reducir fallas inesperadas que afectan sus ingresos.
+
+Elementos a incluir:
+
+- Mensaje de valor centrado en eficiencia y reducción de tiempo de inactividad.
+
+- Testimonios de otros conductores.
+
+- Registro de vehículos
+
+- Visualización de problemas del vehículo
+
+- Escaneo del vehículo
+
+- Paneles de errores
+
+Flujos a validar:
+
+User Flow 1: Registro a la plataforma
+
+User Flow 2: Inicio de sesión en la plataforma
+
+User Flow 4: Registro de vehículo
+
+User Flow 6: descripción sencilla del problema detectado en el vehículo
+
+User Flow 7: Talleres mecánicos cercanos a la ubicación
+
+User Flow 11: Escaneo básico del vehículo
+
+Segmento 3: Mecánicos o técnicos automotrices
+
+Objetivo de la validación:
+Determinar si la aplicación puede mejorar la comunicación con sus clientes y ayudar en la gestión de diagnósticos.
+
+Elementos a incluir:
+
+- Enfoque en la gestión profesional de talleres o servicios técnicos.
+
+- Beneficios como digitalización de diagnósticos, historial del vehículo, contacto con clientes.
+
+- CTA dirigido: “Optimiza tu taller con Vehix”.
+
+- Visualización de los vehículos registrados
+
+- Visualización de la bibliteca automotriz y su contenido
+
+- Visualización de datos del vehículo
+
+- Paneles de errores
+
+Flujos a validar:
+
+User Flow 1: Registro a la plataforma
+
+User Flow 2: Inicio de sesión en la plataforma
+
+User Flow 3: Sincronización con el vehículo
+
+User Flow 4: Registro de vehículo
+
+User Flow 8: Acceso a biblioteca automotriz
+
+User Flow 13: Visualizar el estado técnico del vehículo con datos detallados
+
+
 ### 5.3.2. Interview Record
 En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para cada segmento objetivo de nuestro proyecto.
+
+Segmento 1: Propietarios de vehículos urbanos (uso personal)
+
+Entrevista 1:
+
+![lucas val](/assets/imgs/chapter-V/lucas_val.png)
+
+[00:00 - 9:55]
+
+Duración: 9 minutos 55 segundos
+
+Link de la entrevista: [entrevista 1](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
+
+Nombre: Lucas 
+
+Apellidos: Sanchez Heredia
+
+Edad: 25 años
+
+Distrito: Chorrillos
+
+Resumen: Durante la sesión de validación con Lucas, un usuario representativo del segmento de propietarios de vehículos urbanos, se evaluaron tanto la landing page como la aplicación web de Vehix. Lucas interactuó activamente con la landing page, mostrando interés y comprensión del mensaje principal. La propuesta de valor fue clara y atractiva, y el llamado a la acción (CTA) fue identificado con facilidad. Los testimonios y beneficios listados fueron percibidos como útiles y confiables. Además, pudo visualizar correctamente el mapa digital y la lista de mecánicos cercanos, encontrándolos funcionales y relevantes. Los paneles de errores también fueron valorados positivamente, ya que aportan información útil para el diagnóstico.
+
+En cuanto a la aplicación web, Lucas completó con éxito todos los flujos de usuario asignados. El registro (User Flow 1) y el inicio de sesión (User Flow 2) fueron intuitivos y sin dificultades. El registro del vehículo (User Flow 4) se realizó de forma clara, y la descripción del problema (User Flow 6) permitió expresar fácilmente el fallo percibido. Finalmente, la funcionalidad que muestra talleres mecánicos cercanos (User Flow 7) fue destacada como una característica especialmente útil.
+
+Entrevista 2:
+
+![cesar val](/assets/imgs/chapter-V/cesar_val.png)
+
+[9:55 - 20:39]
+
+Duración: 10 minutos 44 segundos
+
+Link de la entrevista: [entrevista 2](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
+
+Nombre: Cesar 
+
+Apellidos: Bonifacio
+
+Edad: 25 años
+
+Distrito: Chorrillos
+
+Resumen: Durante la sesión de validación con César, también perteneciente al segmento de propietarios de vehículos urbanos de uso personal, se observaron reacciones positivas frente a la propuesta de Vehix. César exploró con atención la landing page, mostrando comprensión del mensaje principal y del propósito general de la plataforma. El llamado a la acción (CTA) fue claro para él, y consideró útiles los beneficios destacados y los testimonios de otros usuarios. Además, interactuó sin inconvenientes con el mapa digital y la visualización de mecánicos cercanos, funciones que consideró prácticas para casos de emergencia o mantenimiento regular. Los paneles de errores también llamaron su atención, reconociendo su utilidad para entender mejor el estado del vehículo.
+
+En lo referente a la aplicación web, César completó correctamente todos los flujos de usuario evaluados. El registro en la plataforma (User Flow 1) y el inicio de sesión (User Flow 2) fueron realizados sin complicaciones, mostrando fluidez en la interfaz. El registro de su vehículo (User Flow 4) le resultó sencillo, y destacó lo intuitivo del proceso. También logró describir el problema de su vehículo (User Flow 6) de manera clara gracias al diseño de la interfaz. Finalmente, valoró positivamente la opción de visualizar talleres mecánicos cercanos (User Flow 7), resaltando que es una función que usaría con frecuencia.
+
+Entrevista 3: 
+
+![ariana val](/assets/imgs/chapter-V/ariana_val.png)
+
+[20:39 - 28:45]
+
+Duración: 8 minutos 6 segundos
+
+Link de la entrevista: [entrevista 3](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
+
+Nombre: Ariana 
+
+Apellidos: Yassan Laredo
+
+Edad: 25 años
+
+Distrito: San Juan de Miraflores
+
+Resumen: Durante la prueba con Ariana, una usuaria representativa del segmento de propietarios de vehículos de uso personal, se evaluó su interacción con la landing page y la aplicación web de Vehix. Ariana navegó con interés por la página principal, comprendiendo de manera clara la propuesta de valor que ofrece la plataforma. Le pareció evidente el propósito del servicio, y el llamado a la acción fue fácil de identificar. Además, consideró que los testimonios y beneficios presentados aportaban credibilidad. Al explorar el mapa digital y la función para ver mecánicos cercanos, destacó lo útil que sería contar con esa información en tiempo real. También reaccionó positivamente ante los paneles de errores, ya que le permiten tener un mayor control sobre el estado de su vehículo.
+
+Respecto a la web application, Ariana completó sin dificultad los flujos propuestos. El proceso de registro (User Flow 1) le resultó rápido, y el inicio de sesión (User Flow 2) fue simple. El registro de su vehículo (User Flow 4) se sintió natural dentro de la navegación, y no presentó dudas al hacerlo. Al momento de describir un problema del vehículo (User Flow 6), encontró que la plataforma le brindaba opciones claras para expresarse. Finalmente, la opción de ver talleres cercanos (User Flow 7) fue una de las que más valoró, ya que le pareció práctica y necesaria para cualquier conductor.
+
+Entrevista 7: 
+
+![richard val](/assets/imgs/chapter-V/richard_val.png)
+
+[28:45 - 42:18]
+
+Duración: 13 minutos 33 segundos
+
+Link de la entrevista: [entrevista 7](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4368-crewweb-sprint-3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd7ee727-c7d4-4485-b5e6-022c7078e397&isDarkMode=false)
+
+Nombre: Richard 
+
+Apellidos: Rios Sandoval
+
+Edad: 54 años
+
+Distrito: Villa el Salvador
+
+Resumen: Durante la validación con Richard, mecánico automotriz, se evaluaron la landing page y la aplicación web de Vehix desde el enfoque profesional del Segmento 3. Richard comprendió rápidamente la propuesta de valor, destacando el mensaje principal y apreciando beneficios como la digitalización de diagnósticos, el historial del vehículo y el contacto con clientes. También valoró positivamente la visualización de vehículos registrados, la biblioteca automotriz y los paneles de errores, considerándolos herramientas útiles para su trabajo diario.
+
+Al ingresar a la aplicación web, Richard completó satisfactoriamente los flujos asignados. El registro (User Flow 1) y el inicio de sesión (User Flow 2) fueron simples e intuitivos. Pudo realizar la sincronización con el vehículo (User Flow 3) sin complicaciones, lo cual consideró un punto clave para agilizar diagnósticos. El registro de vehículos (User Flow 4) también fue directo, y destacó la importancia de esta función para mantener un control ordenado de sus clientes. Además, navegó por la biblioteca automotriz (User Flow 8), encontrando información técnica relevante y bien organizada, lo que consideró un gran apoyo para su trabajo. Finalmente, al visualizar el estado técnico del vehículo con datos detallados (User Flow 13), valoró especialmente los paneles de errores y la presentación clara de los datos, mencionando que esta información le permitiría comunicarse mejor con sus clientes y respaldar sus diagnósticos con evidencia concreta.
+
 
 ### 5.3.3. Evaluation based on heuristics
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
