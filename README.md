@@ -72,45 +72,45 @@
 El curso de Aplicaciones Web contribuye al logro del resultado de aprendizaje del ABET: ABET – EAC - Resultado de Aprendizaje 5 Criterio: La habilidad para trabajar de manera efectiva en un equipo donde los miembros colaboran en el liderazgo, fomentan un ambiente inclusivo y colaborativo, definen metas, planifican tareas y alcanzan los objetivos establecidos.
 
 <table>
-  <tr>
-    <th>Criterio Específico</th>
-    <th>Acciones Realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
-  <tr>
-    <td rowspan="5">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-    <td>Baca Camargo, Vitaly Arturo: <br>TB1: El equipo asumió roles de liderazgo colaborativo, donde jugó un papel fundamental al aportar ideas innovadoras y contribuir con su esfuerzo constante, impulsando el desarrollo del proyecto. La comunicación continua y la organización de tareas permitió avanzar sin contratiempos.<br>TP: Lideró el diseño de la interfaz de usuario, proponiendo la estructura inicial de componentes y asegurando la coherencia visual en todas las pantallas de la primera versión frontend.</td>
-    <td rowspan="5">La colaboración activa y el liderazgo compartido fueron clave para el éxito en el proyecto. Durante el desarrollo frontend, la distribución equitativa de tareas y el compromiso de todos los miembros permitieron cumplir con los objetivos de la primera versión de la aplicación. La coordinación en el diseño de componentes, implementación de vistas y establecimiento de estándares técnicos demostró la capacidad del equipo para trabajar de manera efectiva.</td>
-  </tr>
-  <tr>
-    <td>Elescano Leon, Piero Hugo: <br>TB1: En el equipo mostró un enfoque responsable y comprometido en todo momento, colaborando activamente en la toma de decisiones técnicas y manteniendo al equipo alineado con los objetivos del proyecto.<br>TP: Implementó componentes clave de la interfaz y estableció estándares de codificación para el frontend, facilitando la colaboración entre los miembros del equipo.</td>
-  </tr>
-  <tr>
-    <td>Julca Minaya, Sergio Gino: <br>TB1: Desempeñó un papel clave guiando al equipo en las tareas que se realizarían, asegurando que todos comprendieran sus roles y mantuvieran el enfoque en las tareas asignadas.<br>TP: Coordinó la integración de las diferentes secciones del frontend y validó la funcionalidad básica de la primera versión, asegurando que cumpliera con los requisitos establecidos.</td>
-  </tr>
-  <tr>
-    <td>Navarro Chinga, Antonio Jhair: <br>TB1: Se destacó por su constante colaboración en la organización del trabajo, utilizando herramientas como gitflow para mantener el flujo de trabajo organizado y asegurando que las metas fueran alcanzadas.<br>TP: Implementó la navegación entre vistas y configuró la estructura base del proyecto frontend, estableciendo buenas prácticas para el manejo de rutas y componentes.</td>
-  </tr>
-  <tr>
-    <td>Rios Piñan, Dayro Richard: <br>TB1: Coordinó las actividades del equipo, asegurando que todos los miembros cumplieran con sus responsabilidades y mantuvieran una comunicación fluida, lo que fue esencial para mantener el proyecto en movimiento.<br>TP: Diseñó y desarrolló las páginas principales de la aplicación, asegurando la responsividad y accesibilidad en esta primera versión frontend.</td>
-  </tr>
-  <tr>
-    <td rowspan="5">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
-    <td>Baca Camargo, Vitaly Arturo: <br>TB1: Participó activamente en la creación de un entorno inclusivo, compartiendo ideas y soluciones para el diseño de la aplicación. Junto al equipo, estableció metas claras y organizó tareas de manera equitativa.<br>TP: Organizó sesiones de revisión de diseño para recoger feedback y asegurar que la interfaz cumpliera con las expectativas del proyecto.</td>
-    <td rowspan="5">La creación de un entorno inclusivo y la planificación estructurada fueron fundamentales para completar el trabajo. Durante el desarrollo del frontend, el uso de herramientas colaborativas y la definición clara de responsabilidades permitieron entregar una versión funcional que cumplió con los requisitos establecidos. La adaptabilidad del equipo frente a los cambios técnicos y la comunicación constante fueron factores determinantes para el éxito en ambas etapas del proyecto.</td>
-  </tr>
-  <tr>
-    <td>Elescano Leon, Piero Hugo: <br>TB1: Colaboró eficazmente en la planificación de tareas, para gestionar el flujo de trabajo y garantizar que todas las metas se cumplieran dentro de los plazos establecidos.<br>TP: Estableció hitos claros para el desarrollo frontend y monitoreó el progreso, ajustando las tareas según las necesidades que surgieron durante el desarrollo.</td>
-  </tr>
-  <tr>
-    <td>Julca Minaya, Sergio Gino: <br>TB1: Promovió el trabajo colaborativo, asegurándose de que cada miembro comprendiera sus roles y las necesidades del proyecto. Distribuyó las tareas de forma equitativa y garantizó que todos los objetivos fueran cumplidos.<br>TP: Implementó un sistema de revisión por pares para el código frontend, fomentando la colaboración y el aprendizaje mutuo entre los miembros del equipo.</td>
-  </tr>
-  <tr>
-    <td>Navarro Chinga, Antonio Jhair: <br>TB1: Colaboró estrechamente con el equipo, ayudando a organizar las tareas y utilizando las herramientas para gestionar de manera eficiente el flujo de trabajo.<br>TP: Configuró el entorno de desarrollo frontend y documentó el proceso, facilitando que todos los miembros pudieran contribuir efectivamente al proyecto.</td>
-  </tr>
-  <tr>
-    <td>Rios Piñan, Dayro Richard: <br>TB1: Definió los objetivos del proyecto y distribuyó las tareas de forma justa entre los miembros del equipo. Coordinó la planificación y facilitó la colaboración para asegurar que el proyecto avanzara conforme a lo planeado.<br>TP: Estableció las metas iniciales para la versión frontend y asignó tareas específicas a cada miembro, asegurando un avance balanceado en todas las áreas.</td>
-  </tr>
+  <tr>
+    <th>Criterio Específico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td rowspan="5">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+    <td>Baca Camargo, Vitaly Arturo: <br>TB1: El equipo asumió roles de liderazgo colaborativo, donde jugó un papel fundamental al aportar ideas innovadoras y contribuir con su esfuerzo constante, impulsando el desarrollo del proyecto. La comunicación continua y la organización de tareas permitió avanzar sin contratiempos.<br>TP: Lideró el diseño de la interfaz de usuario, proponiendo la estructura inicial de componentes y asegurando la coherencia visual en todas las pantallas de la primera versión frontend.</td>
+    <td rowspan="5">La colaboración activa y el liderazgo compartido fueron clave para el éxito en el proyecto. Durante el desarrollo frontend, la distribución equitativa de tareas y el compromiso de todos los miembros permitieron cumplir con los objetivos de la primera versión de la aplicación. La coordinación en el diseño de componentes, implementación de vistas y establecimiento de estándares técnicos demostró la capacidad del equipo para trabajar de manera efectiva.</td>
+  </tr>
+  <tr>
+    <td>Elescano Leon, Piero Hugo: <br>TB1: En el equipo mostró un enfoque responsable y comprometido en todo momento, colaborando activamente en la toma de decisiones técnicas y manteniendo al equipo alineado con los objetivos del proyecto.<br>TP: Implementó componentes clave de la interfaz y estableció estándares de codificación para el frontend, facilitando la colaboración entre los miembros del equipo.<br>TB2: Lideró la implementación de endpoints REST para la gestión de usuarios y autenticación, integrando correctamente la lógica del backend con el frontend para garantizar una experiencia de usuario fluida.</td>
+  </tr>
+  <tr>
+    <td>Julca Minaya, Sergio Gino: <br>TB1: Desempeñó un papel clave guiando al equipo en las tareas que se realizarían, asegurando que todos comprendieran sus roles y mantuvieran el enfoque en las tareas asignadas.<br>TP: Coordinó la integración de las diferentes secciones del frontend y validó la funcionalidad básica de la primera versión, asegurando que cumpliera con los requisitos establecidos.<br>TB2: Se encargó de la implementación de controladores y servicios en el backend, además de gestionar la conexión con la base de datos y apoyar en el despliegue de la aplicación integrada.</td>
+  </tr>
+  <tr>
+    <td>Navarro Chinga, Antonio Jhair: <br>TB1: Se destacó por su constante colaboración en la organización del trabajo, utilizando herramientas como gitflow para mantener el flujo de trabajo organizado y asegurando que las metas fueran alcanzadas.<br>TP: Implementó la navegación entre vistas y configuró la estructura base del proyecto frontend, estableciendo buenas prácticas para el manejo de rutas y componentes.<br>TB2: Realizó la configuración del servidor y definió rutas de API para los distintos módulos del sistema, garantizando la correcta comunicación entre frontend y backend en el entorno de producción.</td>
+  </tr>
+  <tr>
+    <td>Rios Piñan, Dayro Richard: <br>TB1: Coordinó las actividades del equipo, asegurando que todos los miembros cumplieran con sus responsabilidades y mantuvieran una comunicación fluida, lo que fue esencial para mantener el proyecto en movimiento.<br>TP: Diseñó y desarrolló las páginas principales de la aplicación, asegurando la responsividad y accesibilidad en esta primera versión frontend.<br>TB2: Automatizó el proceso de despliegue del backend y gestionó la conexión entre servicios, supervisando la integración con el frontend y resolviendo incidencias en el entorno de producción.</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+    <td>Baca Camargo, Vitaly Arturo: <br>TB1: Participó activamente en la creación de un entorno inclusivo, compartiendo ideas y soluciones para el diseño de la aplicación. Junto al equipo, estableció metas claras y organizó tareas de manera equitativa.<br>TP: Organizó sesiones de revisión de diseño para recoger feedback y asegurar que la interfaz cumpliera con las expectativas del proyecto.</td>
+    <td rowspan="5">La creación de un entorno inclusivo y la planificación estructurada fueron fundamentales para completar el trabajo. Durante el desarrollo del frontend, el uso de herramientas colaborativas y la definición clara de responsabilidades permitieron entregar una versión funcional que cumplió con los requisitos establecidos. La adaptabilidad del equipo frente a los cambios técnicos y la comunicación constante fueron factores determinantes para el éxito en ambas etapas del proyecto.</td>
+  </tr>
+  <tr>
+    <td>Elescano Leon, Piero Hugo: <br>TB1: Colaboró eficazmente en la planificación de tareas, para gestionar el flujo de trabajo y garantizar que todas las metas se cumplieran dentro de los plazos establecidos.<br>TP: Estableció hitos claros para el desarrollo frontend y monitoreó el progreso, ajustando las tareas según las necesidades que surgieron durante el desarrollo.<br>TB2: Coordinó la integración del backend con el sistema de autenticación y validaciones, gestionando tiempos de entrega y facilitando la implementación conjunta con el frontend.</td>
+  </tr>
+  <tr>
+    <td>Julca Minaya, Sergio Gino: <br>TB1: Promovió el trabajo colaborativo, asegurándose de que cada miembro comprendiera sus roles y las necesidades del proyecto. Distribuyó las tareas de forma equitativa y garantizó que todos los objetivos fueran cumplidos.<br>TP: Implementó un sistema de revisión por pares para el código frontend, fomentando la colaboración y el aprendizaje mutuo entre los miembros del equipo.<br>TB2: Gestionó la planificación de tareas en el backend y lideró la resolución de errores durante la integración final, asegurando calidad en el despliegue conjunto.</td>
+  </tr>
+  <tr>
+    <td>Navarro Chinga, Antonio Jhair: <br>TB1: Colaboró estrechamente con el equipo, ayudando a organizar las tareas y utilizando las herramientas para gestionar de manera eficiente el flujo de trabajo.<br>TP: Configuró el entorno de desarrollo frontend y documentó el proceso, facilitando que todos los miembros pudieran contribuir efectivamente al proyecto.<br>TB2: Estableció buenas prácticas para la documentación de endpoints y coordinó la prueba de las funcionalidades backend en el entorno ya desplegado.</td>
+  </tr>
+  <tr>
+    <td>Rios Piñan, Dayro Richard: <br>TB1: Definió los objetivos del proyecto y distribuyó las tareas de forma justa entre los miembros del equipo. Coordinó la planificación y facilitó la colaboración para asegurar que el proyecto avanzara conforme a lo planeado.<br>TP: Estableció las metas iniciales para la versión frontend y asignó tareas específicas a cada miembro, asegurando un avance balanceado en todas las áreas.<br>TB2: Verifico el despliegue del sistema completo, asegurando la conectividad entre servicios y configurando los entornos de testing y producción.</td>
+  </tr>
 </table>
 
 
