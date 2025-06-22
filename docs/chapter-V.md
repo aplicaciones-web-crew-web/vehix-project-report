@@ -1763,6 +1763,106 @@ En esta sección del informe se documentan y detallan las acciones relacionadas 
 ### 5.3.1. Design Interviews
 En esta sección se establece por cada segmento objetivo los elementos a incluir en la sesión de validación, incluyendo el Landing Page y las aplicaciones. Además se especifica cuáles serán los user flows de las aplicaciones, que formarán parte del proceso de validación.
 
+Segmento 1: Propietarios de vehículos urbanos (uso personal)
+
+Objetivo de la validación:
+Comprobar si los usuarios entienden el valor de la plataforma para el mantenimiento preventivo y registro de su vehículo.
+
+Elementos a incluir:
+
+- Claridad del mensaje principal en la landing page
+
+- Llamado a la acción (CTA)
+
+- Opiniones sobre testimonios y beneficios listados.
+
+- Visualización e interacción con el mapa digital
+
+- Visualización de mecánicos
+
+- Paneles de errores
+
+Flujos a validar:
+
+User Flow 1: Registro a la plataforma
+
+User Flow 2: Inicio de sesión en la plataforma
+
+User Flow 4: Registro de vehículo
+
+User Flow 6: Descripción sencilla del problema detectado en el vehículo
+
+User Flow 7: Talleres mecánicos cercanos a la ubicación
+
+Segmento 2: Conductores independientes (Uber, InDriver, taxi, delivery)
+
+Objetivo de la validación:
+Validar si la plataforma les ayuda a optimizar el tiempo de mantenimiento y reducir fallas inesperadas que afectan sus ingresos.
+
+Elementos a incluir:
+
+- Mensaje de valor centrado en eficiencia y reducción de tiempo de inactividad.
+
+- Testimonios de otros conductores.
+
+- Registro de vehículos
+
+- Visualización de problemas del vehículo
+
+- Escaneo del vehículo
+
+- Paneles de errores
+
+Flujos a validar:
+
+User Flow 1: Registro a la plataforma
+
+User Flow 2: Inicio de sesión en la plataforma
+
+User Flow 4: Registro de vehículo
+
+User Flow 6: descripción sencilla del problema detectado en el vehículo
+
+User Flow 7: Talleres mecánicos cercanos a la ubicación
+
+User Flow 11: Escaneo básico del vehículo
+
+Segmento 3: Mecánicos o técnicos automotrices
+
+Objetivo de la validación:
+Determinar si la aplicación puede mejorar la comunicación con sus clientes y ayudar en la gestión de diagnósticos.
+
+Elementos a incluir:
+
+- Enfoque en la gestión profesional de talleres o servicios técnicos.
+
+- Beneficios como digitalización de diagnósticos, historial del vehículo, contacto con clientes.
+
+- CTA dirigido: “Optimiza tu taller con Vehix”.
+
+- Visualización de los vehículos registrados
+
+- Visualización de la bibliteca automotriz y su contenido
+
+- Visualización de datos del vehículo
+
+- Paneles de errores
+
+Flujos a validar:
+
+User Flow 1: Registro a la plataforma
+
+User Flow 2: Inicio de sesión en la plataforma
+
+User Flow 3: Sincronización con el vehículo
+
+User Flow 4: Registro de vehículo
+
+User Flow 8: Acceso a biblioteca automotriz
+
+User Flow 13: Visualizar el estado técnico del vehículo con datos detallados
+
+
 ### 5.3.2. Interview Record
 En esta sección presentaremos el registro de cada entrevista de validación que hemos realizado para cada segmento objetivo de nuestro proyecto.
 
