@@ -1676,8 +1676,67 @@ A continuación, se mostrarán los commits registrados en el repositorio corresp
 | PieroHugo/vehix-platform | develop | d570de0  | docs: add software-architecture.dsl | -                   | 2025-06-05   |
 | PieroHugo/vehix-platform | feature/software-architecture | c5b1441  | docs: fix software-architecture.dsl | -                   | 2025-06-05   |
 | PieroHugo/vehix-platform | develop | 3bd5e43 | docs: fix software-architecture.dsl | -                   | 2025-06-05   |
-| PieroHugo/vehix-platform | feature/project-structure | 3bd5e43 | docs: fix software-architecture.dsl | -                   | 2025-06-05   |
-
+| PieroHugo/vehix-platform | feature/project-structure | 3bd5e43 | docs: fix software-architecture.dsl | -                   | 2025-06-10   |
+| PieroHugo/vehix-platform | feature/project-structure | e6e2349   | feat(publishing): add initial entities and value objects for Vehicle | -                   | 2025-06-10   |
+| PieroHugo/vehix-platform | feature/project-structure | ca9a7e0   | chore: remove .idea folder from version control | -                   | 2025-06-10   |
+| PieroHugo/vehix-platform | feature/project-structure | c9477f0   | chore(api): remove duplicate file | -                   | 2025-06-10   |
+| sergioJM05/vehix-platform | develop | a825d72    | feat:add project structure | -                   | 2025-06-17   |
+| sergioJM05/vehix-platform | feature/analytics-value-objects | 78bc309     | feat(analytics): add analytics related value objects. | -                   | 2025-06-18   |
+| sergioJM05/vehix-platform | feature/analytics-value-objects | 6e45447    | feat(analytics): delete profile id, because there is no relation with. | -           | 2025-06-18   |
+| sergioJM05/vehix-platform | feature/analytics-value-objects | 8dadb0a    | feat(monitoring): add monitoring value objects.| -           | 2025-06-18   |
+| Addicted2you/vehix-platform | feature/IAM | 42affe7     | feat(profile): add value object and aggregates | -           | 2025-06-18   |
+| AntonioNavarro24/vehix-platform | feature/monitoring-value-objects | 23de928      | chore: update monitoring value objects. | -           | 2025-06-18   |
+| Addicted2you/vehix-platform |feature/IAM | 42affe7     | Deleted branch | -           | 2025-06-18   |
+| AntonioNavarro24/vehix-platform |feature/monitoring-value-objects | cffe16a      | feat(monitoring): update monitoring value objects. | -           | 2025-06-18   |
+| Addicted2you/vehix-platform |feature/subscriptions-and-payments | 0eda80c       | feat(subscriptions): add value objects and entities | -           | 2025-06-18   |
+| Addicted2you/vehix-platform |feature/subscriptions-and-payments | 115a078    | Merge remote-tracking branch 'origin/feature/subscriptions-and-payments' | -     | 2025-06-18   |
+| sergioJM05/vehix-platform |feature/monitoring-value-objects | ac78f57     | feat(monitoring): update monitoring commands and queries. | -     | 2025-06-18   |
+| AntonioNavarro24/vehix-platform |feature/monitoring-value-objects | 8f92e48      | feat(monitoring): update monitoring commands and queries. | -     | 2025-06-19   |
+| Addicted2you/vehix-platform |feature/subscriptions-and-payments | 7ec2fec       | feat(subscriptions): add commands, aggregates | -     | 2025-06-19   |
+| sergioJM05/vehix-platform |feature/monitoring-value-objects | b34e71c        | feat(monitoring): update value objects. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | 667a4ae      | Merge pull request #5 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | b3eabc0       | feature(monitoring): update monitoring repositories. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | 4b79e0c      | Merge pull request #6 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | f2e57fa     | feat(monitoring): add monitoring services. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | f6a5056    | Merge pull request #7 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |feature/add-cortex-dependencye | 7d055b4     | fix(project): add cortex.mediator dependencies. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | dbbf7c1      | Merge pull request #8 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |feature/monitoring-add-application-layer | bf614d8       | feat(monitoring): add monitoring event handlers. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | f867274        | Merge pull request #9 | -     | 2025-06-20   |
+| AntonioNavarro24/vehix-platform |feature/management-value-objects | 2349b16      | Merge pull request #9 | -     | 2025-06-20   |
+| AntonioNavarro24/vehix-platform |feature/assets-and-resource-management | 2349b16       | Merge pull request #9 | -     | 2025-06-21   |
+| AntonioNavarro24/vehix-platform |feature/management-value-objects | 2349b16       | Deleted branch| -     | 2025-06-21   |
+| AntonioNavarro24/vehix-platform |feature/management | 2349b16        | feat(management): add management resources.| -     | 2025-06-21   |
+| AntonioNavarro24/vehix-platform |feature/assets-and-resource-management | 2349b16        | Deleted branch| -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/monitoring-infrastructure-layer | 3dd5ff4       | Deleted branch| -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/monitoring-infrastructure-layer | 6f5b0c3       |Merge pull request #10 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/monitoring-infrastructure-layer | 96910ae         |feat(monitoring): add EFC repositories. | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | 76c958d        |Merge pull request #11 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | f83678b         |feature(monitoring): add monitoring interface resources. | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | fe3095d          |Merge pull request #12 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/add-monitoring-interface-transformation | fe3095d           |Merge pull request #12 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/add-monitoring-interface-transformation | 51296db          |feature(monitoring): add monitoring transform interfaces. | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | 9a0a783           |Merge pull request #13 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/add-monitoring-controllers | 009d442            |feat(monitoring): add monitoring controllers.| -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | 8bf7f4a           |Merge pull request #14 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform | feature/update-program-cs | 774dad1 | feat(monitoring): update program cs. | – | 2025-06-21 |
+| sergioJM05/vehix-platform | develop | 8bf7f4a | Merge pull request #15 | – | 2025-06-21 |
+| PieroHugo/vehix-platform | feature/IAM | e09d0c2 | Merge pull request #17 | – | 2025-06-21 |
+| PieroHugo/vehix-platform | develop | 937d743 | Merge pull request #17 | – | 2025-06-21 |
+| PieroHugo/vehix-platform| feature/IAM | e09d0c2 | feat: implement IAM | – | 2025-06-21 |
+| PieroHugo/vehix-platform | feature/IAM | feba0a5 | chore: remove IDE-specific .idea files from repository | – | 2025-06-21 |
+| sergioJM05/vehix-platform | fix/connection-to-mysql | e27d509 | feature(monitoring): latest program update cs. | – | 2025-06-21 |
+| sergioJM05/vehix-platform | develop | e09d0c2 | Merge pull request #18 | – | yesterday |
+|sergioJM05/vehix-platform | fix/monitoring-add-error-type | 2cecf59 | fix(monitoring): update validation of error type. | – | 2025-06-21 |
+| sergioJM05/vehix-platform | develop | 22006d0 | Merge pull request #19 | – | 2025-06-21 |
+| AntotnioNavarro24/vehix-platform | feature/management | 2349b16 | feat(management): add management resources. | – | 2025-06-21 |
+| Addicted2you/vehix-platform | feature/subscriptions-and-payments | 7ec2fec | feat(subscriptions): moved files and add functions | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 9540b49 | Merge pull request #19 | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | c660421 | feat: Implemnet Indentity | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 0058934 | feat: Implement Identity | – | 2025-06-22 |
+|PieroHugo/vehix-platform | feature/Identity | b438aec | feat: update database | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 0b4ee4c | fix: docker file | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 0022185 | feat: update Program.cs | – |  2025-06-22 |
 
 #### 5.2.3.5. Execution evidence for Sprint Review
 Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
