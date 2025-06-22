@@ -384,7 +384,7 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Añadir lista de beneficios y estilo</td>
 			<td>Se añade una lista de beneficios de usar la plataforma y estilos correspondientes</td>
 			<td>0.5</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1067,6 +1067,15 @@ A continuación, se mostrarán los commits registrados en el repositorio corresp
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 Lo que se logró para este Sprint 2 es el peliegue de la primera versión de la aplicación web. En esta logramos desarrollar el toolbar, la vista de Maintenance y los componentes que se encuentran en dicha vista. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal. A continuación se mostrarán las evidencias de ejecución.
+![image](https://github.com/user-attachments/assets/b7a81dab-ff07-407e-bd38-20e2a3bd2cc5)
+![image](https://github.com/user-attachments/assets/5fecfc3a-ea68-43f8-a295-0a294e402227)
+![image](https://github.com/user-attachments/assets/155012c3-ced9-49f7-90c9-de8c33d48a00)
+![image](https://github.com/user-attachments/assets/a14e6210-a2d2-43ca-ae51-d244d1a22eed)
+![image](https://github.com/user-attachments/assets/06feb40d-fe1f-45f5-a6ad-10de15ac8f66)
+![image](https://github.com/user-attachments/assets/68aa52c5-aabf-42ba-bdad-9747a46d44c7)
+
+![image](https://github.com/user-attachments/assets/900f6f49-bbc5-4e93-90f5-04a013b5d420)
+![image](https://github.com/user-attachments/assets/f60f9457-280c-4262-906e-cc8cd443ae8c)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de los endpoints documentados. A continuación se muestra el proyecto el cual evidencia el desplique de la aplicación.
@@ -1170,6 +1179,14 @@ A continuación se mostrará el cuadro correspondiente al Sprint Planning 3, don
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 3.
+
+| Team Member (Last Name, First Name) | GitHub Username | IAM | MONITORING | PREFERENCES | ANALYTICS | SUBSCRIPTIONS | ARM|
+| ------------------------------------|-----------------|-----|------------|-------------|-----------|---------------|----|
+| Rios Piñan, Dayro Richard | Addicted2u | C | C | C | L | C | C |
+| Julca Minaya, Sergio Gino | sergioJM05 | C | L | C | C | C | C |
+| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | C | L | C | C| C | C |
+| Elescano Leon, Piero Hugo | PieroHugo | C | C | C | C | C | C |
+
 
 #### 5.2.3.3. Sprint Backlog 3
 Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicacion web y una tercera versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de migrar a un fakeAPI a un Backend.
@@ -1405,7 +1422,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Consumir el servicio de vehiculo</td>
 			<td>Se cosnsume el servicio correspondiente y se agrega si es necesario atributos o nuevos datos para en la estructura de los objetos json correspondientes.</td>
 			<td>2</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1413,7 +1430,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Creación de componentes </td>
 			<td>Se crean los componentes necesarios para mostrar de manera intuitiva y amigable al usuario</td>
 			<td>2</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1421,7 +1438,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Consideración de in-app navigation</td>
 			<td>Todos los componentes usado, se muestran en /car-useful-life</td>
 			<td>1</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1603,7 +1620,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Consumir servicio user.singleton</td>
 			<td>Se consume el servicio del singleton para cerrar sesión y redirigirlo a la vista de registro</td>
 			<td>0.5</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1611,7 +1628,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Implementación de componente</td>
 			<td>Integrar el en la vista /profile de modo aparezca la opción de cerrar sesión</td>
 			<td>0.5</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1619,7 +1636,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Validación de cerrado de sesión</td>
 			<td>Verificar que el singleton.user sea nulo</td>
 			<td>0.5</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1685,6 +1702,109 @@ En esta sección presentaremos el registro de cada entrevista de validación que
 
 ### 5.3.3. Evaluation based on heuristics
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando heurísticas de usabilidad, arquitectura de información e inclusive design de la experiencia propuesta.
+### UX Heuristics & Principles Evaluation
+#### Usability – Inclusive Design – Information Architecture
+---
+CARRERA: Ingeniería de Software
+CURSO : Aplicaciones Web
+SECCIÓN : 4368
+PROFESORES : Todos
+AUDITOR : CrewWeb
+CLIENTE(S) : 
+---
+**SITE o APP A EVALUAR:**
+VEHIX
+
+**TAREAS A EVALUAR:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Inicio de Sesión
+2. Registro de usuario Nuevo
+3. Conexión con nuevo vehículo
+4. Visualizacion de librerías automotrices
+5. Pago de una subscripcion
+6. Ayuda de talleres mecánicos
+7. Visualización de fallas del vehículo
+8. Lectura del vehículo con el scanner
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Reparación de fallas
+2. Actualizacion de estado de fallas
+3. Actualizacion de datos
+4. Visualizacion de preguntas frecuentes
+5. Visualización de analíticas
+
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+|Nivel|Descripción|
+|-----|-----------|
+|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+**TABLA RESUMEN:**
+|#|Problema|Escala de severidad|Heurística/Principio violado(a)|
+|--|-------|-------------------|-------------------------------|
+|1|Se dificulta la navegación y el uso de la aplicación desde teléfonos celulares.|4|Usabilidad - Flexibilidad y eficiencia de uso|
+|2|El sistema no siempre confirma claramente el éxito de una acción importante.|3|Usabilidad - Visibilidad del estado del sistema|
+|3|El sistema no siempre confirma claramente el éxito de una acción importante.|2|Usabilidad - Visibilidad del estado del sistema|
+|4|La sección de analíticas no responde al hacer clic, sin avisar su estado.|3|Usabilidad - Visibilidad del estado del sistema; Usabilidad - Control y libertad del usuario|
+|5|No hay un botón de retroceso fácil en las secciones de la librería.|2|Usabilidad - Control y libertad del usuario; Usabilidad - Consistencia y estándares|
+
+
+**DESCRIPCIÓN DE RPOBLEMAS:**
+PROBLEMA #1: Se dificulta la navegación y el uso de la aplicación desde teléfonos celulares.
+
+Severidad: 4
+
+Heurística violada: Usabilidad - Flexibilidad y eficiencia de uso
+
+Problema: Al intentar utilizar la aplicación desde un teléfono celular, el usuario experimenta una gran dificultad para navegar y ver el contenido de forma adecuada. Los elementos de la pantalla (textos, botones, imágenes) aparecen demasiado grandes o pequeños, desorganizados o incluso cortados, obligando al usuario a hacer zoom constantemente o a desplazarse horizontalmente. Esto hace que usar la aplicación en dispositivos móviles sea casi imposible y muy frustrante.
+
+Recomendación: Es crucial que la aplicación se adapte y se vea correctamente en diferentes tamaños de pantalla, especialmente en teléfonos celulares. Se recomienda implementar un diseño que ajuste automáticamente la disposición de los elementos para facilitar la visualización y la interacción en dispositivos móviles.
+
+---
+
+PROBLEMA #2: El sistema no siempre confirma claramente el éxito de una acción importante.
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Visibilidad del estado del sistema
+Problema: Al registrar un nuevo vehículo o guardar cambios importantes, el usuario no recibe una confirmación visual clara e inmediata de que la operación fue exitosa. Aunque la aplicación puede mostrar algo en la consola, la falta de un mensaje en pantalla (como un "¡Vehículo guardado con éxito!") genera incertidumbre, haciendo que el usuario se pregunte si la acción se completó realmente.
+
+Recomendación: Implementar mensajes de confirmación claros y visibles en la pantalla después de esta acción en específico
+
+---
+PROBLEMA #3: La guiá de conectar el escáner no es suficientemente clara.
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Visibilidad del estado del sistema
+
+Problema: Tras seguir los pasos para conectar el escáner, la aplicación simplemente indica "Done, let the app do the work.". No hay una confirmación explícita de si la conexión fue exitosa o si hay algún problema. El usuario queda a la expectativa sin saber si el escáner está realmente listo para la lectura o si necesita hacer algo más.
+
+Recomendación: Proporcionar un mensaje claro de "Conexión exitosa" o "Error de conexión" después de intentar conectar el escáner.
+
+---
+PROBLEMA #4: La sección de analíticas no responde al hacer clic, sin avisar su estado.
+
+Severidad: 3
+
+Heurística violada: Usabilidad - Visibilidad del estado del sistema; Usabilidad - Control y libertad del usuario
+
+Problema: El usuario intentar acceder a la sección de "Analíticas" haciendo clic en ella, pero no ocurre nada en la pantalla. La aplicación no muestra ningún mensaje que indique que la función no está disponible, que está en desarrollo o que hay un error. Esto frustra al usuario al no obtener la respuesta esperada y no saber por qué la acción no se completa.
+
+Recomendación: Para elementos no funcionales o en desarrollo se debe indicar que la función no está disponible, o que está "Próximamente" si se espera implementarla.
+
+---
+PROBLEMA #5: No hay un botón de retroceso fácil en las secciones de la librería.
+
+Severidad: 2
+
+Heurística violada: Usabilidad - Control y libertad del usuario; Usabilidad - Consistencia y estándares
+
+Problema: Cuando el usuario navega a una subsección dentro de las "Librerías automotrices", no hay un botón de "Atrás" o "Volver a Librería" claramente visible y fácil de usar dentro de la interfaz. Esto fuerza al usuario a depender del menu o navegador, lo que consume más pasos y esfuerzo.
+
+Recomendación: Incluir un botón de "Atrás" en las subsecciones de la librería que permita al usuario regresar fácilmente a la página principal de librerías o a la sección anterior.
 
 ## 5.4. Video About the Product
 En esta sección se describe el contenido del Video About-theProduct, el cual tiene como público objetivo los visitantes al Landing Page, quienes desean conocer sobre el modelo de negocio y las características principales de los productos de software, al igual que los usuarios de las Aplicaciones, quienes desean realizar tareas relacionadas con los procesos soportados por la solución.
