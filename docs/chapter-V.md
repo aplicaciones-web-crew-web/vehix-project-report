@@ -1758,6 +1758,9 @@ A continuación, se mostrarán los commits registrados en el repositorio corresp
 #### 5.2.3.5. Execution evidence for Sprint Review
 Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
 
+![commits](/assets/imgs/chapter-V/commits.png)
+![commits-over-time](/assets/imgs/chapter-V/commits-over-time.png)
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de los endpoints documentados.
 ![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
