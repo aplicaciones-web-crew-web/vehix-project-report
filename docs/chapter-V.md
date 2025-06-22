@@ -384,7 +384,7 @@ Nuestro principal objetivo con este primer sprint es desarrollar las funciones e
 			<td>Añadir lista de beneficios y estilo</td>
 			<td>Se añade una lista de beneficios de usar la plataforma y estilos correspondientes</td>
 			<td>0.5</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1180,6 +1180,14 @@ A continuación se mostrará el cuadro correspondiente al Sprint Planning 3, don
 #### 5.2.3.2. Aspect Leaders and Collaborators
 En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 3.
 
+| Team Member (Last Name, First Name) | GitHub Username | IAM | MONITORING | PREFERENCES | ANALYTICS | SUBSCRIPTIONS | ARM|
+| ------------------------------------|-----------------|-----|------------|-------------|-----------|---------------|----|
+| Rios Piñan, Dayro Richard | Addicted2u | C | C | C | L | C | C |
+| Julca Minaya, Sergio Gino | sergioJM05 | C | L | C | C | C | C |
+| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | C | L | C | C| C | C |
+| Elescano Leon, Piero Hugo | PieroHugo | C | C | C | C | C | C |
+
+
 #### 5.2.3.3. Sprint Backlog 3
 Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicacion web y una tercera versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de migrar a un fakeAPI a un Backend.
 
@@ -1414,7 +1422,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Consumir el servicio de vehiculo</td>
 			<td>Se cosnsume el servicio correspondiente y se agrega si es necesario atributos o nuevos datos para en la estructura de los objetos json correspondientes.</td>
 			<td>2</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1422,7 +1430,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Creación de componentes </td>
 			<td>Se crean los componentes necesarios para mostrar de manera intuitiva y amigable al usuario</td>
 			<td>2</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1430,7 +1438,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Consideración de in-app navigation</td>
 			<td>Todos los componentes usado, se muestran en /car-useful-life</td>
 			<td>1</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1612,7 +1620,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Consumir servicio user.singleton</td>
 			<td>Se consume el servicio del singleton para cerrar sesión y redirigirlo a la vista de registro</td>
 			<td>0.5</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1620,7 +1628,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Implementación de componente</td>
 			<td>Integrar el en la vista /profile de modo aparezca la opción de cerrar sesión</td>
 			<td>0.5</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -1628,7 +1636,7 @@ Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicac
 			<td>Validación de cerrado de sesión</td>
 			<td>Verificar que el singleton.user sea nulo</td>
 			<td>0.5</td>
-			<td>Moises Espinoza</td>
+			<td>Piero Elescano</td>
 			<td>Done</td>
 		</tr>
 		<tr>
