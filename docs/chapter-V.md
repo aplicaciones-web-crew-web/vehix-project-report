@@ -1760,19 +1760,19 @@ Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la 
 
 Evidencia de la landing page
 
-![image](/assets/chapter-V/evidence-landing.png)
+![image](/assets/imgs/chapter-V/evidence-landing.png)
 
-![image](/assets/chapter-V/evidence-landing-2.png)
+![image](/assets/imgs/chapter-V/evidence-landing-2.png)
 
 Evidencias de la aplicación web
 
-![image](/assets/chapter-V/evidence-front1.png)
+![image](/assets/imgs/chapter-V/evidence-front1.png)
 
-![image](/assets/chapter-V/evidence-front2.png)
+![image](/assets/imgs/chapter-V/evidence-front2.png)
 
-![image](/assets/chapter-V/evidence-front3.png)
+![image](/assets/imgs/chapter-V/evidence-front3.png)
 
-![image](/assets/chapter-V/evidence-front4.png)
+![image](/assets/imgs/chapter-V/evidence-front4.png)
 
 Evidencias de los endpoints realizados con el backend
 
