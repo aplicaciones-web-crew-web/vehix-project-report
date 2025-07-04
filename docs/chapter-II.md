@@ -579,7 +579,7 @@ En esta sección presentamos los registros de las entrevistas que realizamos par
 
 A continuación, se presentarán las entrevistas realizadas, desarrollando un resumen de cada una, extrayendo las respuestas e identificando las características objetivas y subjetivas.
 
-link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EYpGQVx-EgBErpjNXjetCO8BCMPzhP1T3tUCnnB_lBSyow?e=Sxl1uU
+link del video: https://shorturl.at/h3t0x
 
 **Segmento 1: Propietarios de vehículos urbanos (uso personal)**
 
@@ -591,7 +591,7 @@ Entrevista 1:
 
 Duración: 3 minutos 19 segundos
 
-Link de la entrevista: [Entrevista 1](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eac4c8898-1798-41b3-9826-db7ef2aca28f)
+Link de la entrevista: https://shorturl.at/ulz6i
 
 Nombre: Lucas 
 
@@ -620,7 +620,7 @@ Entrevista 2:
 
 Duración: 3 minutos 16 segundos
 
-Link de la entrevista: [Entrevista 2](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+Link de la entrevista: https://shorturl.at/BgKgM
 
 Nombre: Johnny 
 
@@ -650,7 +650,7 @@ Entrevista 3:
 
 Duración: 3 minutos 23 segundos
 
-Link de la entrevista: [Entrevista 3](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+Link de la entrevista: https://shorturl.at/Nnxfx
 
 Nombre: Rocio 
 
@@ -683,7 +683,7 @@ Entrevista 4:
 
 Duración:  3 minutos 16 segundos
 
-Link de la entrevista: [Entrevista 4](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+Link de la entrevista: https://shorturl.at/vkyla
 
 Nombre: Sebastián Armando 
 
@@ -711,7 +711,7 @@ Entrevista 5:
 
 Duración: 3 minutos 47 segundos
 
-Link de la entrevista: [Entrevista 5](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+Link de la entrevista: https://rb.gy/dfwz7o
 
 Nombre: Rocio 
 
@@ -741,7 +741,7 @@ Entrevista 6:
 
 Duración: 6 minutos 41 segundos
 
-Link de la entrevista: [Entrevista 6](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+Link de la entrevista: https://tinyurl.com/54jn9mcn
 
 Nombre: Melina Sofía
 
@@ -767,7 +767,7 @@ Entrevista 7:
 
 Duración: 6 minutos 37 segundos
 
-Link de la entrevista: [Entrevista 7](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+Link de la entrevista: https://tinyurl.com/yxkwmn55
 
 Nombre: Richard
 
@@ -798,7 +798,7 @@ Entrevista 8:
 
 Duración: 5 minutos 1 segundo
 
-Link de la entrevista: [Entrevista 8](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+Link de la entrevista: https://tinyurl.com/mpr7hr8r
 
 Nombre: José Antonio  
 
@@ -824,7 +824,7 @@ Entrevista 9:
 
 Duración: 3 minutos 40 segundos
 
-Link de la entrevista: [Entrevista 9](https://upcedupe-my.sharepoint.com/personal/u202315283_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202315283_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0730-4292%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec6ade8c1-ecdc-4e97-bf03-92f872535fce&isDarkMode=false)
+Link de la entrevista: https://tinyurl.com/2p9zc26w
 
 Nombre: Luis
 
