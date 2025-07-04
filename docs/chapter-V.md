@@ -646,7 +646,7 @@ A continuación, se mostrarán los commits registrados en el repositorio corresp
 
 Nuestro equipo de desarrolladores logró concluir con el sprint 1, el cual involucra la implementación y despliegue de la landing page de Vehix. A continuación se mostrarán las evidencias.
 
-Enlace del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EVekU9kyDRNDgE2mhr4qbnMB56iZZ1XzpouL-3dxal5Tow?e=vvxgWJ
+Enlace del video: https://tinyurl.com/37kr55a2
 
 ![banner img](/assets/imgs/chapter-V/banner_evidence.png)
 
@@ -1896,7 +1896,7 @@ Entrevista 1:
 
 Duración: 9 minutos 55 segundos
 
-Link de la entrevista: [entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=8Po3dv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk1LjU4fX0%3D)
+Link de la entrevista: https://tinyurl.com/yy8ez33t
 
 Nombre: Lucas 
 
@@ -1918,7 +1918,7 @@ Entrevista 2:
 
 Duración: 10 minutos 44 segundos
 
-Link de la entrevista: [entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=8Po3dv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NTk1LjU4fX0%3D)
+Link de la entrevista: https://tinyurl.com/52jzryr2
 
 Nombre: Cesar 
 
@@ -1940,7 +1940,7 @@ Entrevista 3:
 
 Duración: 8 minutos 6 segundos
 
-Link de la entrevista: [entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=pr88mb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTIzOS4xMn19)
+Link de la entrevista: https://tinyurl.com/mspwu9xh
 
 Nombre: Ariana 
 
@@ -1962,7 +1962,7 @@ Entrevista 7:
 
 Duración: 13 minutos 33 segundos
 
-Link de la entrevista: [entrevista 7](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=K5N5mZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTcyNS45OH19)
+Link de la entrevista: https://tinyurl.com/3pywprtz
 
 Nombre: Richard 
 
@@ -2013,21 +2013,21 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 **ESCALA DE SEVERIDAD:**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
-|Nivel|Descripción|
-|-----|-----------|
-|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
-|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
-|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
-|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+| Nivel | Descripción |
+|-------|-------------|
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
 **TABLA RESUMEN:**
-|#|Problema|Escala de severidad|Heurística/Principio violado(a)|
-|--|-------|-------------------|-------------------------------|
-|1|Se dificulta la navegación y el uso de la aplicación desde teléfonos celulares.|4|Usabilidad - Flexibilidad y eficiencia de uso|
-|2|El sistema no siempre confirma claramente el éxito de una acción importante.|3|Usabilidad - Visibilidad del estado del sistema|
-|3|El sistema no siempre confirma claramente el éxito de una acción importante.|2|Usabilidad - Visibilidad del estado del sistema|
-|4|La sección de analíticas no responde al hacer clic, sin avisar su estado.|3|Usabilidad - Visibilidad del estado del sistema; Usabilidad - Control y libertad del usuario|
-|5|No hay un botón de retroceso fácil en las secciones de la librería.|2|Usabilidad - Control y libertad del usuario; Usabilidad - Consistencia y estándares|
+| # | Problema | Escala de severidad | Heurística/Principio violado(a) |
+|---|----------|---------------------|---------------------------------|
+| 1 | Se dificulta la navegación y el uso de la aplicación desde teléfonos celulares.|4|Usabilidad - Flexibilidad y eficiencia de uso |
+| 2 | El sistema no siempre confirma claramente el éxito de una acción importante.|3|Usabilidad - Visibilidad del estado del sistema |
+| 3 | El sistema no siempre confirma claramente el éxito de una acción importante.|2|Usabilidad - Visibilidad del estado del sistema |
+| 4 | La sección de analíticas no responde al hacer clic, sin avisar su estado.|3|Usabilidad - Visibilidad del estado del sistema; Usabilidad - Control y libertad del usuario |
+| 5 | No hay un botón de retroceso fácil en las secciones de la librería.|2|Usabilidad - Control y libertad del usuario; Usabilidad - Consistencia y estándares |
 
 
 **DESCRIPCIÓN DE RPOBLEMAS:**
@@ -2090,7 +2090,7 @@ En esta sección se describe el contenido del Video About-theProduct, el cual ti
 
 ![image](https://github.com/user-attachments/assets/5a7157d6-2fe4-4b53-bf3e-22acf126a66e)
 
-[link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315283_upc_edu_pe/EUiW2fIWnb9FoB-XKUVRcYIBh2txVcA3FJpgDQhZDtSWqg?e=ZMniY6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Link del video: https://tinyurl.com/3vyabkhj
 
-[link del video de presentación para la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318274_upc_edu_pe/EWFxh9kafa1NnmNEZrR-RYIBS5oGEtBw1lor96VmbkQzug?e=CMtwpt)
+Link del video de presentación para la landing page: https://tinyurl.com/yjyachf4
 
