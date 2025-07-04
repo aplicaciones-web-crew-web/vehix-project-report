@@ -1756,10 +1756,28 @@ A continuación, se mostrarán los commits registrados en el repositorio corresp
 | PieroHugo/vehix-platform | feature/Identity | 0022185 | feat: update Program.cs | – |  2025-06-22 |
 
 #### 5.2.3.5. Execution evidence for Sprint Review
-Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
+Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web y la tercera versión de la landing page, donde se quitó el formulario de contacto. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
 
-![commits](/assets/imgs/chapter-V/commits.png)
-![commits-over-time](/assets/imgs/chapter-V/commits-over-time.png)
+Evidencia de la landing page
+
+![image](/assets/chapter-V/evidence-landing.png)
+
+![image](/assets/chapter-V/evidence-landing-2.png)
+
+Evidencias de la aplicación web
+
+![image](/assets/chapter-V/evidence-front1.png)
+
+![image](/assets/chapter-V/evidence-front2.png)
+
+![image](/assets/chapter-V/evidence-front3.png)
+
+![image](/assets/chapter-V/evidence-front4.png)
+
+Evidencias de los endpoints realizados con el backend
+
+![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de los endpoints documentados.
@@ -1776,6 +1794,10 @@ El despligue del backend se realizo en Render
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación del Backend.
+
+![commits](/assets/imgs/chapter-V/commits.png)
+
+![commits-over-time](/assets/imgs/chapter-V/commits-over-time.png)
 
 ## 5.3. Validation Interviews
 En esta sección del informe se documentan y detallan las acciones relacionadas con las entrevistas de validación llevadas a cabo durante el desarrollo del proyecto. Estas entrevistas tienen como propósito fundamental recoger opiniones, identificar las expectativas y necesidades de los usuarios, y confirmar o descartar las suposiciones planteadas sobre el producto. Para ello, se facilitará la interacción de los participantes, pertenecientes a ambos segmentos definidos, con la landing page y la aplicación web, permitiendo así una evaluación directa de la experiencia.
