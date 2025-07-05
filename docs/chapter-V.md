@@ -1190,6 +1190,7 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
 
 
 #### 5.2.3.3. Sprint Backlog 3
+
 Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicacion web y una tercera versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de migrar a un fakeAPI a un Backend.
 
 <table>
@@ -1757,7 +1758,8 @@ A continuación, se mostrarán los commits registrados en el repositorio corresp
 | PieroHugo/vehix-platform | feature/Identity | 0022185 | feat: update Program.cs | – |  2025-06-22 |
 
 #### 5.2.3.5. Execution evidence for Sprint Review
-Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web y la tercera versión de la landing page, donde se quitó el formulario de contacto. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
+
+Lo que se logró para este Sprint 3 es el despliegue de la segunda versión de la aplicación web y la tercera versión de la landing page, donde se quitó el formulario de contacto. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
 
 Evidencia de la landing page
 
@@ -1781,13 +1783,18 @@ Evidencias de los endpoints realizados con el backend
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
 En esta sección se incluye la relación de los endpoints documentados.
+
 ![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
 
 ![Image](https://github.com/user-attachments/assets/747ff5f5-9655-4b37-a80f-8e31eee42200)
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
 El despligue del backend se realizo en Render
+
 ![Image](https://github.com/user-attachments/assets/c7375d67-aa4a-4b5a-80a9-5500be17dfdc)
 ![Image](https://github.com/user-attachments/assets/363719b0-071a-4df4-9d6e-8dd04b4420bd)
 ![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
@@ -1800,7 +1807,114 @@ En este sección se evidencia como el equipo a trabajado de manera colaborativa 
 
 ![commits-over-time](/assets/imgs/chapter-V/commits-over-time.png)
 
+### 5.2.4. Sprint 4
+
+En esta sección, documentaremos y explicaremos el desarrollo del Sprint 4 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Se abordará varias secciones, incluyendo el Sprint Backlog, Development Evidence for Sprint Review, Sprint Planning.
+
+#### 5.2.4.1. Spring Planning 4.
+
+A continuación se mostrará el cuadro correspondiente al Sprint Planning 3, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 4</td>
+		</tr>
+		<tr>
+			<td colspan="2">Spring Planing Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>2025-06-22</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>4:30 PM</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Presencial mode in classroom</td>
+		</tr>
+		<tr>
+			<td colspan="2">Prepared by</td>
+		</tr>
+		<tr>
+			<td>Attends (to planinning meeting)</td>
+			<td>All members of CrewWeb</td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Review Summary</td>
+			<td> We have achived the deployment of the landing page and web application with new views, like sync, home and maintenance. Also we have deployed the backend and we can interact with the endpoints we have developed.
+		</td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Retrospective Summary</td>
+			<td> We consider that we need to add more endpoints and improve the code organization. Also update the report with the developed artifacts.
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Sprint 4 Goal</td>
+			<td>
+				Our focus is to develop more endpoints, add views to the web application, add new views to maintenance. We believe it delivers a good impresion to new clients and active use to the product. This will be confirmed when the customers interact actively with the new features and that will be offer to them.
+			</td>
+		</tr>
+		<tr>
+			<td>Sprint 4 Velocity</td>
+			<td>17</td>
+		</tr>
+		<tr>
+			<td>Sum of Story points</td>
+			<td>46</td>
+		</tr>
+	</tbody>
+</table>
+
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+En esta sección se incluye la elaboración de el artefacto Leaders and Collaborators, en el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 4.
+
+| Team Member (Last Name, First Name) | GitHub Username | SUBSCRIPTIONS AND PAYMENTS | MAINTENANCE VIEW | IAM | ANALYTICS | 
+| ------------------------------------|-----------------|-----|------------|-------------|-----------|
+| Rios Piñan, Dayro Richard | Addicted2u | C | C | C | L | 
+| Julca Minaya, Sergio Gino | sergioJM05 | L | C | C | C | 
+| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | C | C | L | C | C
+| Elescano Leon, Piero Hugo | PieroHugo | C | C | L | C |
+
+
+#### 5.2.4.3.Sprint Backlog 4.
+
+Nuestro objetivo principal sprint 4 es realizar la tercera version de la aplicacion web, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de mejorar el backend.
+
+#### 5.2.4.4.Development Evidence for Sprint Review.
+
+A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 4. Se desarrollaron los features correspondientes.
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+Lo que se logró para este Sprint 4 es el peliegue de la tercera versión de la aplicación web y la landing page. Además, la mejora del backend donde se implementaron más endpoints. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
+
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+En esta sección se incluye la relación de los endpoints documentados.
+
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
+El despligue del backend se realizo en Render
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación del Backend.
+
 ## 5.3. Validation Interviews
+
 En esta sección del informe se documentan y detallan las acciones relacionadas con las entrevistas de validación llevadas a cabo durante el desarrollo del proyecto. Estas entrevistas tienen como propósito fundamental recoger opiniones, identificar las expectativas y necesidades de los usuarios, y confirmar o descartar las suposiciones planteadas sobre el producto. Para ello, se facilitará la interacción de los participantes, pertenecientes a ambos segmentos definidos, con la landing page y la aplicación web, permitiendo así una evaluación directa de la experiencia.
 
 ### 5.3.1. Design Interviews
