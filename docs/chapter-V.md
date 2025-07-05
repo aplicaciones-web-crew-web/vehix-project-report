@@ -1792,6 +1792,10 @@ En esta sección se incluye la relación de los endpoints documentados.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Link de la landing page: https://aplicaciones-web-crew-web.github.io/vehix-landing-page/
+
+Link de la aplicación web: https://vehix-frontend-wa.web.app/maintenance
+
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
 El despligue del backend se realizo en Render
 
@@ -1894,10 +1898,77 @@ Nuestro objetivo principal sprint 4 es realizar la tercera version de la aplicac
 
 A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 4. Se desarrollaron los features correspondientes.
 
+
+
 #### 5.2.4.5.Execution Evidence for Sprint Review.
 
 Lo que se logró para este Sprint 4 es el peliegue de la tercera versión de la aplicación web y la landing page. Además, la mejora del backend donde se implementaron más endpoints. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
 
+Evidencias de la landing page
+
+Hero section
+
+![landing](/assets/imgs/chapter-V/landing1.png)
+
+Introductory video
+
+![landing](/assets/imgs/chapter-V/landing2.png)
+
+Subscriptions
+
+![landing](/assets/imgs/chapter-V/landing3.png)
+
+Benefits
+
+![landing](/assets/imgs/chapter-V/landing4.png)
+
+Testimonials
+
+![landing](/assets/imgs/chapter-V/landing5.png)
+
+About us
+
+![landing](/assets/imgs/chapter-V/landing6.png)
+
+Frequently asked question
+
+![landing](/assets/imgs/chapter-V/landing7.png)
+
+Compatibility
+
+![landing](/assets/imgs/chapter-V/landing8.png)
+
+Evidencias de la aplicación web 
+
+Login
+
+![image](https://github.com/user-attachments/assets/b7a81dab-ff07-407e-bd38-20e2a3bd2cc5)
+
+vista home
+
+![image](https://github.com/user-attachments/assets/5fecfc3a-ea68-43f8-a295-0a294e402227)
+
+Vista Library
+
+![image](https://github.com/user-attachments/assets/155012c3-ced9-49f7-90c9-de8c33d48a00)
+
+Vista maintenance
+
+![image](https://github.com/user-attachments/assets/a14e6210-a2d2-43ca-ae51-d244d1a22eed)
+
+Vista de sync
+
+![image](https://github.com/user-attachments/assets/06feb40d-fe1f-45f5-a6ad-10de15ac8f66)
+
+Vista de tap to scan
+
+![image](https://github.com/user-attachments/assets/68aa52c5-aabf-42ba-bdad-9747a46d44c7)
+
+![image](https://github.com/user-attachments/assets/900f6f49-bbc5-4e93-90f5-04a013b5d420)
+
+Vista de busqueda de un taller
+
+![image](https://github.com/user-attachments/assets/f60f9457-280c-4262-906e-cc8cd443ae8c)
 
 #### 5.2.4.6.Services Documentation Evidence for Sprint Review.
 
@@ -1908,6 +1979,11 @@ En esta sección se incluye la relación de los endpoints documentados.
 
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
 El despligue del backend se realizo en Render
+
+Link de la landing page: https://aplicaciones-web-crew-web.github.io/vehix-landing-page/
+
+![landing](/assets/imgs/chapter-V/img-lp.PNG)
+
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
