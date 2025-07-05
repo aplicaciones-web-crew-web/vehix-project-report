@@ -1067,6 +1067,7 @@ A continuación, se mostrarán los commits registrados en el repositorio corresp
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 Lo que se logró para este Sprint 2 es el peliegue de la primera versión de la aplicación web. En esta logramos desarrollar el toolbar, la vista de Maintenance y los componentes que se encuentran en dicha vista. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal. A continuación se mostrarán las evidencias de ejecución.
+
 ![image](https://github.com/user-attachments/assets/b7a81dab-ff07-407e-bd38-20e2a3bd2cc5)
 ![image](https://github.com/user-attachments/assets/5fecfc3a-ea68-43f8-a295-0a294e402227)
 ![image](https://github.com/user-attachments/assets/155012c3-ced9-49f7-90c9-de8c33d48a00)
