@@ -1848,6 +1848,22 @@ A continuación se mostrará el cuadro correspondiente al Sprint Planning 3, don
 			<td>All members of CrewWeb</td>
 		</tr>
 		<tr>
+			<td>Sprint 1 Review Summary</td>
+			<td>We have achived the creation of the landing page, interactive ind intuitive, with the respectives "call to action", which allows to redirect to our web application. But we need to remove the contact section.</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Retrospective Summary</td>
+			<td>We consider that the call to action are importants in the development of the landing page to attract customers. Our product owner thinks that we need a better organization of our deliverables</td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Review Summary</td>
+			<td>we have achived the web application, developing the maintenance view and using internal and external API's. We consider that we achieved the objective, deploying the web application and showing the main views. </td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Retrospective Summary</td>
+			<td> We consider that we have to improve the developent environment with gitflow, and update the project report with the new developed artifacts. </td>
+		</tr>
+		<tr>
 			<td>Sprint 3 Review Summary</td>
 			<td> We have achived the deployment of the landing page and web application with new views, like sync, home and maintenance. Also we have deployed the backend and we can interact with the endpoints we have developed.
 		</td>
@@ -1863,7 +1879,7 @@ A continuación se mostrará el cuadro correspondiente al Sprint Planning 3, don
 		<tr>
 			<td>Sprint 4 Goal</td>
 			<td>
-				Our focus is to develop more endpoints, add views to the web application, add new views to maintenance. We believe it delivers a good impresion to new clients and active use to the product. This will be confirmed when the customers interact actively with the new features and that will be offer to them.
+				Our focus is to develop more endpoints, add views to the web application, add new views to maintenance. We believe it delivers a good impresion to new clients and active use to the product. This will be confirmed when the customers interact actively with the new features that will be offer to them.
 			</td>
 		</tr>
 		<tr>
@@ -1906,35 +1922,35 @@ Lo que se logró para este Sprint 4 es el peliegue de la tercera versión de la 
 
 Evidencias de la landing page
 
-Hero section
+Hero section: Sección principal 
 
 ![landing](/assets/imgs/chapter-V/landing1.png)
 
-Introductory video
+Introductory video: Sección con video introductorio a Vehix
 
 ![landing](/assets/imgs/chapter-V/landing2.png)
 
-Subscriptions
+Subscriptions: Sección donde se muestran las suscripciones
 
 ![landing](/assets/imgs/chapter-V/landing3.png)
 
-Benefits
+Benefits: Sección sobre beneficios de usar Vehix
 
 ![landing](/assets/imgs/chapter-V/landing4.png)
 
-Testimonials
+Testimonials: Sección de testimonios
 
 ![landing](/assets/imgs/chapter-V/landing5.png)
 
-About us
+About us: Sección donde se presenta a los integrantes del grupo
 
 ![landing](/assets/imgs/chapter-V/landing6.png)
 
-Frequently asked question
+Frequently asked question: Sección de preguntas frecuentes
 
 ![landing](/assets/imgs/chapter-V/landing7.png)
 
-Compatibility
+Compatibility: Sección de compatibilidad
 
 ![landing](/assets/imgs/chapter-V/landing8.png)
 
@@ -1980,10 +1996,9 @@ En esta sección se incluye la relación de los endpoints documentados.
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
 El despligue del backend se realizo en Render
 
-Link de la landing page: https://aplicaciones-web-crew-web.github.io/vehix-landing-page/
+Link de la landing page: 
 
 ![landing](/assets/imgs/chapter-V/img-lp.PNG)
-
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
