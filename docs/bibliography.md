@@ -14,3 +14,15 @@ Gestión. (2023, 26 de junio). *Cerca de 100,000 conductores ofrecen servicio de
 Sosa-Quiroz, B. R., & Herrera-Suárez, M. (2023). *Análisis de la situación actual del mantenimiento en el sector automotriz.* Polo del Conocimiento, 8(10), 577–597. https://polodelconocimiento.com/ojs/index.php/es/article/view/6142 
 
 Zambrano-Castro, J. W., & Pérez-Guerrero, J. N. (2021). *Estudio de la aplicación del mantenimiento predictivo en motores diésel en la provincia de Manabí.* Revista Científica INGENIAR, 4(8), 96–101. https://doi.org/10.46296/ig.v4i8edespdic.0053
+
+Google. (n.d.). Google Maps Platform documentation. Google Developers. https://developers.google.com/maps
+
+CarQuery. (2019). CarQuery API Documentation. https://www.carqueryapi.com
+
+Spring. (n.d.). Accessing data with JPA. Spring Guides. https://spring.io/guides/gs/accessing-data-jpa
+
+Microsoft. (2023, 24 de agosto). Entity Framework Core documentation. Microsoft Learn. https://learn.microsoft.com/es-es/ef/core/
+
+
+
+
