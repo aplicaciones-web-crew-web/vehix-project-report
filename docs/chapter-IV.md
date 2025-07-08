@@ -454,7 +454,7 @@ desktop:
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-wireframes/desktop/footer.png)
 
-**Enlace:** [Landing Page Wireframe Desktop](https://www.figma.com/board/FtAqVd7cIoi2dPF7zj6QyZ/Landing-Page-Wireframe-Desktop?node-id=0-1&t=G4vMdaFVt8oKgN35-1)
+**Enlace:** https://tinyurl.com/yc8s3yw5
 
 mobile: 
 
@@ -498,7 +498,7 @@ mobile:
 
 ![footer mobile img](/assets/imgs/chapter-IV/landing-page-wireframes/mobile/footer_wireframe.png)
 
-**Enlace:** [Landing Page Wireframe Mobile](https://www.figma.com/board/KkF7XJTKOPTObhSmUJVSjt/Landing-Page-Wireframe-Mobile?node-id=0-1&t=LUvRfxBfSQvpM2Ha-1)
+**Enlace:** https://tinyurl.com/46jvv5sd
 
 ### 4.3.2. Landing Page Mock-up
 Finalizamos con éxito el desarrollo del mock-up del landing page, lo que nos permitió poner en práctica los principios y elementos de diseño previamente definidos. Estos principios y heurísticas son clave para ofrecer una experiencia más clara, intuitiva y centrada en el usuario final de nuestra plataforma.
@@ -545,7 +545,7 @@ Desktop:
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/desktop/footer.png)
 
-**Enlace:** [Landing Page Mock-up Desktpo Aplicaciones Web (Vue)](https://www.figma.com/design/02Vt6m3zMbuesHMNqcGey4/Landing-Page-material-aplicaiones-web?node-id=6-2&t=NurxRu3AIdqVtbGR-1)
+**Enlace:** https://tinyurl.com/ed5n37dh
 
 Mobile:
 
@@ -589,7 +589,7 @@ Mobile:
 
 ![footer img](/assets/imgs/chapter-IV/landing-page-mock-ups/mobile/footer_mobile.png)
 
-**Enlace:** [Landing Page Mock-up Mobile Aplicaciones Web (Vue)](https://www.figma.com/design/9dVUschF8b5sj3fjAd7qQz/Landing-Page-material-aplicaiones-web-mobile?node-id=6-2&t=Hu51iQFEepSafHZu-1)
+**Enlace:** https://tinyurl.com/47rcy9ks
 
 ## 4.4. Web Applications UX/UI Design
 En esta sección se incluyen secciones internas en el cual se presentará y explicará la propuesta visual y de interacción para las aplicaciones que conforman la interacción del usuario con los productos digitales.
@@ -597,7 +597,7 @@ En esta sección se incluyen secciones internas en el cual se presentará y expl
 ### 4.4.1. Web Applications Wireframes
 A continuación, hemos creado el diseño de los wireframes para el diseño de nuestras aplicaciones, lo que ayudará a planificar la interfaz y la navegación antes de empezar su desarrollo. Para este proyecto utilizamos la herramienta Figma para la elaboración de los wireframes de manera colaborativa y eficiente.
 
-**Enlace**: [Figma Wireframes (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+**Enlace**: https://tinyurl.com/mt5kex9
 
 ### Log in, sign up and subscription
 
@@ -656,7 +656,7 @@ Los siguientes wireframes pertenecen al manejo de perfil del usuario.
 ### 4.4.2. Web Applications Wireflow Diagrams
 Se le presenta el Enlace en el cual hemos desarrollado los wireflows de nuestra aplicación en la herramienta de Lucidchart.
 
-**Enlace:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-19256%2C-8573%2C63373%2C29183%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+**Enlace:** https://tinyurl.com/m2n94z6t
 
 A continuación, se presentan los wireflows que competen a nuestros user goals.
 
@@ -733,7 +733,7 @@ Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el t
 ### 4.4.3. Web Applications Mock-ups
 Los mockups representan una etapa clave en el diseño de nuestras aplicaciones, ya que nos brindan una vista previa de la estética y la organización de los componentes antes de iniciar el proceso de desarrollo. A continuación, se  le presenta el Enlace de los mock-ups elaborados en la herramienta de Figma.
 
-**Enlace**: [Figma mock ups (VUE)](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+**Enlace**: https://tinyurl.com/mt5kex9
 
 ### Log in, sign up and subscriptions
 
@@ -798,7 +798,7 @@ Los siguientes mock-ups pertenecen a la vista manejo de "home".
 ### 4.4.4. Web Applications User Flow Diagrams
 Se le presenta el Enlace en el cual hemos desarrollado los User Flow de nuestra aplicación en la herramienta de Lucidchart.
 
-**Enlace:** [Web Applications Wireflow Diagrams](https://lucid.app/lucidchart/3eb6847b-a363-4738-8eb6-d7f082327aa7/edit?viewport_loc=-4736%2C-4813%2C10504%2C4366%2C0_0&invitationId=inv_0ed080f8-295b-41da-9e88-53d0d46112c9)
+**Enlace:** https://tinyurl.com/2ntwj64k
 
 A continuación, se muestran los diagramas de flujo que ilustran los recorridos de los usuarios en función de los User Goals.
 
@@ -875,7 +875,7 @@ Tras iniciar sesión, el usuario ingresa a su cuenta donde puede visualizar el t
 ## 4.5. Web Applications Prototyping
 A continuación, se muestra el prototipo elaborado a partir de los mockups previamente diseñados y documentados. Este prototipo nos permite visualizar y validar algunos de los flujos que posteriormente serán implementados en el desarrollo del código.
 
-**Enlace**: [Prototipo en Figma](https://www.figma.com/design/uomyifLRK5i677WkYmBSEE/aplication-web-vue-material?node-id=6-2&t=VO3ebx9I6tj3x2NP-1)
+**Enlace**: https://tinyurl.com/mt5kex9
 
 ![web-applications-prototyping](/assets/imgs/chapter-IV/web-applications-prototyping.png)
 
@@ -1108,3 +1108,39 @@ Los diagramas de base de datos muestran la organización interna y las conexione
 
 ![database diagram](/assets/imgs/chapter-IV/vehix-db.png)
 
+## 4.9. DDD Estratégico
+A continuación, se presenta el Event Storming de Vehix, en el cual se identifican los eventos clave,
+actores, acciones, decisiones, reglas y relaciones entre partes del sistema. Se establecieron 6 bounded
+context: Subscriptions and Payments, Identity and Access Management, Profiles and Preferences, Asset Operation and Monitoring, Service Operation and Monitoring y Analytics.
+
+![DDD Estratégico](/assets/imgs/chapter-IV/DDD-General.png)
+
+<br>
+SAP (Suscripciones y Pagos): Este diagrama describe el proceso de suscripción y pago, donde un usuario selecciona un plan, ingresa información de pago y completa la compra para adquirir una suscripción.
+
+![Suscripciones y Pagos](/assets/imgs/chapter-IV/SAP.png)
+
+<br>
+Operación y Monitoreo del Servicio: Este diagrama ilustra el proceso de escaneo de vehículos para identificar fallas, la interacción del usuario para diagnosticar problemas y buscar ayuda, y la generación de solicitudes de mantenimiento.
+
+![Operación y Monitoreo del Servicio](/assets/imgs/chapter-IV/Monitoring.png)
+
+<br>
+IAM (Gestión de Identidad y Acceso): Este diagrama muestra el flujo de inicio de sesión y registro de usuarios, donde se verifica la información ingresada para permitir el acceso o registrar a nuevos usuarios.
+
+![IAM](/assets/imgs/chapter-IV/IAM.png)
+
+<br>
+Perfil y Referencias: Este diagrama detalla el proceso de edición de datos del perfil del usuario, incluyendo la verificación y actualización de la información, y la notificación al usuario sobre los cambios.
+
+![Perfil y Referencias](/assets/imgs/chapter-IV/Profile.png)
+
+<br>
+ARM (Gestión de Activos y Recursos): Este diagrama presenta la gestión de recursos, como una biblioteca de artículos técnicos y videos, y el proceso de registro y sincronización de vehículos con la aplicación.
+
+![ARM](/assets/imgs/chapter-IV/Assets.png)
+
+<br>
+Analytics: Este diagrama describe las funciones de análisis disponibles para el mantenimiento del vehículo, permitiendo a los usuarios seleccionar diagnósticos como el pronóstico de fallas, la vida útil del coche y el historial de reparaciones.
+
+![Analytics](/assets/imgs/chapter-IV/Analytics.png)
