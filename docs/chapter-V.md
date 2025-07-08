@@ -2278,6 +2278,14 @@ Vista de busqueda de un taller
 
 En esta sección se incluye la relación de los endpoints documentados.
 
+Endpoints correspondientes a Payments y Plans
+![endpoints](/assets/imgs/chapter-V/endpoints-1.png)
+
+Endpoints correspondietes a Authentication, roles y users
+![endpoints](/assets/imgs/chapter-V/endpoints-2.png)
+
+Endpoints correspondientes a Vehicles y Analytics
+![endpoints](/assets/imgs/chapter-V/endpoints-3.png)
 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
