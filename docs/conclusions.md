@@ -24,4 +24,7 @@ Siguientes pasos para el Roadmap de Productos Digitales
       - Ampliar validaciones en segmentos secundarios: Validar el producto no solo en propietarios de vehículos urbanos, sino también en empresas que gestionen flotas​.
       - Plan de retención de usuarios: Diseñar campañas post-lanzamiento centradas en el valor preventivo y de ahorro que Vehix proporciona, para aumentar la tasa de retención​ de usuarios.   
 
-        
+# Video About the Team
+
+https://tinyurl.com/ykp2ymj5 <br>
+https://youtu.be/koKExxbWg6s
