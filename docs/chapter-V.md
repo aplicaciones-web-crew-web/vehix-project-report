@@ -2412,7 +2412,7 @@ Entrevista 1:
 
 Duración: 9 minutos 55 segundos
 
-Link de la entrevista: https://tinyurl.com/yy8ez33t
+Link de la entrevista: https://tinyurl.com/tft98zhf
 
 Nombre: Lucas 
 
@@ -2434,7 +2434,7 @@ Entrevista 2:
 
 Duración: 10 minutos 44 segundos
 
-Link de la entrevista: https://tinyurl.com/52jzryr2
+Link de la entrevista: https://tinyurl.com/3m5w49kr
 
 Nombre: Cesar 
 
@@ -2456,7 +2456,7 @@ Entrevista 3:
 
 Duración: 8 minutos 6 segundos
 
-Link de la entrevista: https://tinyurl.com/mspwu9xh
+Link de la entrevista: https://tinyurl.com/4rn6nx9e
 
 Nombre: Ariana 
 
@@ -2481,6 +2481,8 @@ Entrevista 4:
 
 Duración: 7 minutos 54 segundos
 
+Link de la entrevista: https://tinyurl.com/meva98th
+
 Nombre: Fernando
 
 Apellidos: Portal
@@ -2501,6 +2503,8 @@ Entrevista 5:
 
 Duración: 4 minutos 54 segundos
 
+Link de la entrevista: https://tinyurl.com/4hykbcwv
+
 Nombre: Shneider
 
 Apellidos: Valladares
@@ -2520,6 +2524,8 @@ Entrevista 6:
 [41:34 - 47:57]
 
 Duración: 6 minutos 23 segundos
+
+Link de la entrevista: https://tinyurl.com/fjwaf9ms
 
 Nombre: Rocio
 
@@ -2543,7 +2549,7 @@ Entrevista 9:
 
 Duración: 13 minutos 33 segundos
 
-Link de la entrevista: https://tinyurl.com/3pywprtz
+Link de la entrevista: https://tinyurl.com/44jb9wkj
 
 Nombre: Richard 
 
