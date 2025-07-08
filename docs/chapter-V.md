@@ -2182,11 +2182,76 @@ Resumen: Durante la prueba con Ariana, una usuaria representativa del segmento d
 
 Respecto a la web application, Ariana completó sin dificultad los flujos propuestos. El proceso de registro (User Flow 1) le resultó rápido, y el inicio de sesión (User Flow 2) fue simple. El registro de su vehículo (User Flow 4) se sintió natural dentro de la navegación, y no presentó dudas al hacerlo. Al momento de describir un problema del vehículo (User Flow 6), encontró que la plataforma le brindaba opciones claras para expresarse. Finalmente, la opción de ver talleres cercanos (User Flow 7) fue una de las que más valoró, ya que le pareció práctica y necesaria para cualquier conductor.
 
-Entrevista 7: 
+
+Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery)
+
+Entrevista 4:
+
+![moises_val](/assets/imgs/chapter-V/moises_val.png)
+
+[28:45 - 36:39]
+
+Duración: 7 minutos 54 segundos
+
+Nombre: Fernando
+
+Apellidos: Portal
+
+Edad: 45 años
+
+Distrito: Magdalena del Mar
+
+Resumen: Durante la prueba con Fernando, una usuaria representativa del segmento de conductores independientes (como Uber, InDriver, taxi o delivery), se evaluó su interacción con la landing page y la aplicación web de Vehix. Fernando navegó con interés por la página principal, comprendiendo de manera clara la propuesta de valor centrada en la eficiencia operativa y reducción del tiempo de inactividad del vehículo. Le pareció evidente el propósito del servicio, y el llamado a la acción fue fácil de identificar. Además, consideró que los testimonios de otros conductores y los beneficios presentados aportaban credibilidad. Al explorar el mapa digital y la función para ver talleres mecánicos cercanos, destacó lo útil que sería contar con esa información en tiempo real, especialmente cuando se depende del vehículo para generar ingresos. También reaccionó positivamente ante los paneles de errores, ya que le permiten tener un mayor control y anticiparse a posibles fallas que puedan afectar su trabajo.
+
+Respecto a la web application, Fernando completó sin dificultad los flujos propuestos. El proceso de registro a la plataforma (User Flow 1) le resultó rápido, y el inicio de sesión (User Flow 2) fue simple. El registro de su vehículo (User Flow 4) se sintió natural dentro de la navegación, y no presentó dudas al hacerlo. Al momento de recibir una descripción sencilla del problema detectado en el vehículo (User Flow 6), valoró la claridad con la que se presentaba la información. Además, consideró especialmente útil la opción de ver talleres cercanos a su ubicación (User Flow 7), ya que facilita la toma de decisiones rápidas. Finalmente, destacó el valor del escaneo básico del vehículo (User Flow 11), ya que le permite anticipar fallas y organizar mantenimientos sin afectar su jornada laboral.
+
+Entrevista 5:
+
+![moises_val2](/assets/imgs/chapter-V/moises_val2.png)
+
+[36:39 - 41:34]
+
+Duración: 4 minutos 54 segundos
+
+Nombre: Shneider
+
+Apellidos: Valladares
+
+Edad: 45 años
+
+Distrito: Chorrillos
+
+Resumen: Durante la prueba con Shneider, un conductor independiente que trabaja principalmente con aplicaciones como InDriver y hace servicios de delivery, se evaluó su experiencia con la landing page y la aplicación web de Vehix. Desde el inicio, Shneider identificó con claridad el mensaje de valor orientado a la eficiencia y reducción del tiempo de inactividad, aspecto que considera clave para mantener sus ingresos diarios. Le llamó la atención la posibilidad de visualizar problemas del vehículo y acceder a soluciones rápidas, además de la confianza que le generaron los testimonios de otros conductores en situaciones similares.
+
+Durante su navegación en la aplicación, Shneider completó sin complicaciones el registro a la plataforma (User Flow 1) y comentó que el proceso fue directo y sin pasos innecesarios. El inicio de sesión (User Flow 2) también le pareció intuitivo. Registró su moto sin dificultad usando el User Flow 4, y resaltó lo útil que sería tener un historial de mantenimiento vinculado al vehículo. Al revisar un diagnóstico que incluía una descripción sencilla del problema detectado (User Flow 6), valoró la claridad y precisión de la información, ya que evita tener que interpretar mensajes técnicos. Encontrar talleres cercanos a su ubicación (User Flow 7) fue una de las funciones que más le interesó, especialmente en casos de emergencia. Finalmente, el escaneo básico del vehículo (User Flow 11) le pareció una herramienta poderosa para prevenir fallas y mantener su herramienta de trabajo en condiciones óptimas.
+
+Entrevista 6:
+
+![rocio_val](/assets/imgs/chapter-V/rocio_val.png)
+
+[41:34 - 47:57]
+
+Duración: 6 minutos 23 segundos
+
+Nombre: Rocio
+
+Apellidos: Piñan
+
+Edad: 49 años
+
+Distrito: Villa el Salvador
+
+Resumen: Durante la sesión de prueba con Rocío, una conductora que utiliza su vehículo diariamente para realizar servicios de Uber y entregas por aplicativo, se exploró cómo la plataforma Vehix se adapta a sus necesidades específicas. Rocío destacó que el enfoque en la optimización del tiempo de mantenimiento y la reducción de fallas inesperadas es exactamente lo que busca, ya que cualquier día sin trabajar representa una pérdida directa de ingresos. Le generó confianza ver testimonios de otros conductores independientes, lo que reforzó su percepción de que la plataforma está diseñada para personas en su misma situación.
+
+Al interactuar con la aplicación web, Rocío completó con facilidad el registro a la plataforma (User Flow 1) y consideró que el inicio de sesión (User Flow 2) era rápido y funcional. Le gustó que el registro de su vehículo (User Flow 4) no requería demasiados datos técnicos, permitiéndole avanzar sin complicaciones. Cuando se le presentó una descripción clara del problema detectado en su auto (User Flow 6), se sintió más segura al entender qué le estaba ocurriendo sin necesidad de conocimientos mecánicos. También valoró la opción de localizar talleres cercanos a su ubicación (User Flow 7), pues muchas veces debe resolver imprevistos en medio de una jornada laboral. Finalmente, quedó impresionada con el escaneo básico del vehículo (User Flow 11), ya que lo vio como una herramienta útil para anticiparse a problemas que podrían dejarla fuera de servicio.
+
+Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes
+
+Entrevista 9: 
 
 ![richard val](/assets/imgs/chapter-V/richard_val.png)
 
-[28:45 - 42:18]
+[47:57 - 1: 01 :30]
 
 Duración: 13 minutos 33 segundos
 
@@ -2215,7 +2280,6 @@ CURSO : Aplicaciones Web
 SECCIÓN : 4368
 PROFESORES : Todos
 AUDITOR : CrewWeb
-CLIENTE(S) : 
 ---
 **SITE o APP A EVALUAR:**
 VEHIX
