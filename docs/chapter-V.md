@@ -331,6 +331,10 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
 #### 5.2.1.3. Sprint Backlog 1
 Nuestro principal objetivo con este primer sprint es desarrollar las funciones esenciales que permitan a los usuarios interesados en Vehix informarse sobre su propósito, conocer sus características destacadas y entender las acciones que podrán realizar dentro de su pagina web.
 
+![Trello Backlog_1](/assets/imgs/chapter-V/backlog.png)
+
+https://tinyurl.com/bdz56sp5
+
 <table>
 	<tbody>
 		<tr>
@@ -764,6 +768,10 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
 #### 5.2.2.3. Sprint Backlog 2
 Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicacion web y una segunda versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes.
 
+![Sprint Backlog 2](/assets/imgs/chapter-V/backlog-2.png)
+
+https://tinyurl.com/f5kaejbc
+
 <table>
 	<tbody>
 		<tr>
@@ -998,75 +1006,76 @@ A continuación, se mostrarán los commits registrados en el repositorio corresp
 
 | Repository                      | Branch                                   | Commit Id | Commit Messaage                       | Commit Message Body | Commited on |
 | ------------------------------- | ---------------------------------------- | --------- | ------------------------------------- | ------------------- | ----------- |
-| sergioJM05/vehix-landing-page | feature/project-structure | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
-| sergioJM05/vehix-landing-page | develop                   | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
-| sergioJM05/vehix-landing-page | main                      | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
-| sergioJM05/vehix-landing-page | master                    | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
-| sergioJM05/vehix-landing-page | realese                   | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
-| sergioJM05/vehix-landing-page | develop      	            | 57bd15f   | chore: initial commit      | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feature/add-server        | 57bd15f   | chore: initial commit      | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feature/add-server        | e3fc9b4   | feat: add db.json          | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feature/add-server        | 27bf9f3   | Update routes.json         | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feature/add-server        | 89ff840   | feat: add json server      | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feature/add-server        | a744bfb   | feat: add .env.production  | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feature/add-server        | 357b818   | feat: add .env.development | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | develop                   | 53621f2   | feat: add .env.development | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feat/add-english-spanish                   | 53621f2   | feat: add server          | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feat/add-english-spanish                   | dd9446c   | feat: add i18n            | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feat/add-english-spanish                   | 8725b2c   | feat: add en.json         | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feat/add-english-spanish                   | 9d893e2   | feat: add es.json         | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feat/add-english-spanish                   | 9236d7b   | feat: add style.css main  | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feat/add-english-spanish                   | c6d4cf6   | feat: add main.js         | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feat/add-english-spanish                   | 4c4b27a   | feat: add app.vue         | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | develop                                    | 5374f12   | feat: add english-spanish | Pull request merge  | 25/04/2025  |
-| sergioJM05/vehix-landing-page | develop                                    | -         | feat: add router          | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page | feature/add-assets-and-resource-management | 5374f12   | feat: add english-spanish | Pull request merge  | 25/04/2025  |
-| sergioJM05/vehix-landing-page       | feature/add-monitoring                     | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page       | feature/add-public-components              | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page       | feature/add-public-pages                   | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
-| sergioJM05/vehix-landing-page       | feature/add-shared                         | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
-| Mr-Code-star/vehix-landing-page     | feature/add-public-components              | f725119   | feat: add english-spanish             | -                   | 25/04/2025  |
-| PieroHugo/vehix-landing-page        | feature/add-public-pages                   | 11af925   | feat: add language-switcher.component | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | 5ea9360   | feat add home.component.vue           | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | f2882c8   | feat: add audit failure list          | -                   | 25/04/2025  |
-| PieroHugo/vehix-landing-page        | feature/add-public-pages                   | 7322aba   | feat: add bad practices               | -                   | 25/04/2025  |
-| Mr-Code-star/vehix-landing-page     | develop                                    | 025f134   | feat: add library.component.vue       | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | de17004   | feat: add language-switcher.component | Pull request merge  | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | 5ea9360   | feat: add car presentation          | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | 0ef73d0   | feat: add maintenance.component.vue | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | de17004   | feat: add failure item              | -                   | 25/04/2025  |
-| PieroHugo/vehix-landing-page        | feature/add-public-pages                   | 4595d78   | feat: add mechanic card list        | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | a911660   | feat: add profile.component.vue     | -                   | 25/04/2025  |
-| PieroHugo/vehix-landing-page        | feature/add-public-pages                   | 09f757d   | feat: add system status item        | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 04d386a   | feat: add sync.component.vue        | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | 843846a   | feat: update mechanic card list     | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 0eaf44f   | feat: add system status list        | -                   | 25/04/2025  |
-| PieroHugo/vehix-landing-page        | develop                                    | 46746a7   | feat: add mechanic card component   | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 1549ee3   | feat: add public pages              | Pull request merge  | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 9be70c1   | feat: add simple isssues service | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 4132c67   | feat: add bad practices service  | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 3a9b112   | feat: add tap scan page          | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 2d31cca   | feat: add Status                 | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | 8b8120e   | feat: add mechanic               | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 752898a   | feat: add Failure                | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | fe8dc52   | feat: add Audit page             | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | 8e2d3b3   | feat: technical errors entity    | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 8c3990d   | feat: add System status          | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | 6301c39   | feat: add simple issues entity   | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 28180ae   | feat: add bad practices entity   | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 365de22   | feat: add Failure                | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | 6a0a32d   | feat: add technical errors       | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | 2660792   | feat: add simple issues          | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | feature/add-monitoring                     | bf21e87   | feat: add mechanic map component | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | feature/add-assets-and-resource-management | 1cb6afb   | feat: add monitoring domain              | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | develop                                    | 171b1b9   | chore: add image                         | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | develop                                    | 49979f7   | chore: add image                         | -                   | 25/04/2025  |
-| Addicted2you/vehix-landing-page     | develop                                    | 24d5374   | feat: add assets and resource management | -                   | 25/04/2025  |
-| AntonioNavarro24/vehix-landing-page | develop                                    | 46746a7   | feat: add technical error service        | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/project-structure | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
+| sergioJM05/vehix-frontend-wa | develop                   | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
+| sergioJM05/vehix-frontend-wa | main                      | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
+| sergioJM05/vehix-frontend-wa | master                    | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
+| sergioJM05/vehix-frontend-wa | realese                   | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
+| sergioJM05/vehix-frontend-wa | develop      	            | 57bd15f   | chore: initial commit      | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | 57bd15f   | chore: initial commit      | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | e3fc9b4   | feat: add db.json          | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | 27bf9f3   | Update routes.json         | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | 89ff840   | feat: add json server      | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | a744bfb   | feat: add .env.production  | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | 357b818   | feat: add .env.development | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | develop                   | 53621f2   | feat: add .env.development | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | 53621f2   | feat: add server          | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | dd9446c   | feat: add i18n            | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | 8725b2c   | feat: add en.json         | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | 9d893e2   | feat: add es.json         | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | 9236d7b   | feat: add style.css main  | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | c6d4cf6   | feat: add main.js         | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | 4c4b27a   | feat: add app.vue         | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | develop                                    | 5374f12   | feat: add english-spanish | Pull request merge  | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | develop                                    | -         | feat: add router          | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-assets-and-resource-management | 5374f12   | feat: add english-spanish | Pull request merge  | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa       | feature/add-monitoring                     | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa       | feature/add-public-components              | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa       | feature/add-public-pages                   | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa       | feature/add-shared                         | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
+| Mr-Code-star/vehix-frontend-wa     | feature/add-public-components              | f725119   | feat: add english-spanish             | -                   | 25/04/2025  |
+| PieroHugo/vehix-frontend-wa        | feature/add-public-pages                   | 11af925   | feat: add language-switcher.component | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 5ea9360   | feat add home.component.vue           | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | f2882c8   | feat: add audit failure list          | -                   | 25/04/2025  |
+| PieroHugo/vehix-frontend-wa        | feature/add-public-pages                   | 7322aba   | feat: add bad practices               | -                   | 25/04/2025  |
+| Mr-Code-star/vehix-frontend-wa     | develop                                    | 025f134   | feat: add library.component.vue       | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | de17004   | feat: add language-switcher.component | Pull request merge  | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 5ea9360   | feat: add car presentation          | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 0ef73d0   | feat: add maintenance.component.vue | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | de17004   | feat: add failure item              | -                   | 25/04/2025  |
+| PieroHugo/vehix-frontend-wa        | feature/add-public-pages                   | 4595d78   | feat: add mechanic card list        | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | a911660   | feat: add profile.component.vue     | -                   | 25/04/2025  |
+| PieroHugo/vehix-frontend-wa        | feature/add-public-pages                   | 09f757d   | feat: add system status item        | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 04d386a   | feat: add sync.component.vue        | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 843846a   | feat: update mechanic card list     | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 0eaf44f   | feat: add system status list        | -                   | 25/04/2025  |
+| PieroHugo/vehix-frontend-wa        | develop                                    | 46746a7   | feat: add mechanic card component   | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 1549ee3   | feat: add public pages              | Pull request merge  | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 9be70c1   | feat: add simple isssues service | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 4132c67   | feat: add bad practices service  | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 3a9b112   | feat: add tap scan page          | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 2d31cca   | feat: add Status                 | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 8b8120e   | feat: add mechanic               | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 752898a   | feat: add Failure                | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | fe8dc52   | feat: add Audit page             | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 8e2d3b3   | feat: technical errors entity    | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 8c3990d   | feat: add System status          | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 6301c39   | feat: add simple issues entity   | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 28180ae   | feat: add bad practices entity   | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 365de22   | feat: add Failure                | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 6a0a32d   | feat: add technical errors       | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 2660792   | feat: add simple issues          | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | bf21e87   | feat: add mechanic map component | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 1cb6afb   | feat: add monitoring domain              | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | develop                                    | 171b1b9   | chore: add image                         | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | develop                                    | 49979f7   | chore: add image                         | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | develop                                    | 24d5374   | feat: add assets and resource management | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | develop                                    | 46746a7   | feat: add technical error service        | -                   | 25/04/2025  |
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 Lo que se logró para este Sprint 2 es el peliegue de la primera versión de la aplicación web. En esta logramos desarrollar el toolbar, la vista de Maintenance y los componentes que se encuentran en dicha vista. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal. A continuación se mostrarán las evidencias de ejecución.
+
 ![image](https://github.com/user-attachments/assets/b7a81dab-ff07-407e-bd38-20e2a3bd2cc5)
 ![image](https://github.com/user-attachments/assets/5fecfc3a-ea68-43f8-a295-0a294e402227)
 ![image](https://github.com/user-attachments/assets/155012c3-ced9-49f7-90c9-de8c33d48a00)
@@ -1189,7 +1198,12 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
 
 
 #### 5.2.3.3. Sprint Backlog 3
+
 Nuestro objetivo principal sprint 3 es realizar la segunda version de la aplicacion web y una tercera versión del Landing Page, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de migrar a un fakeAPI a un Backend.
+
+![Sprint Backlog 3](/assets/imgs/chapter-V/backlog-3.png)
+
+https://tinyurl.com/mvzh2f6c
 
 <table>
 	<tbody>
@@ -1756,19 +1770,47 @@ A continuación, se mostrarán los commits registrados en el repositorio corresp
 | PieroHugo/vehix-platform | feature/Identity | 0022185 | feat: update Program.cs | – |  2025-06-22 |
 
 #### 5.2.3.5. Execution evidence for Sprint Review
-Lo que se logró para este Sprint 3 es el peliegue de la segunda versión de la aplicación web. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
 
-![commits](/assets/imgs/chapter-V/commits.png)
-![commits-over-time](/assets/imgs/chapter-V/commits-over-time.png)
+Lo que se logró para este Sprint 3 es el despliegue de la segunda versión de la aplicación web y la tercera versión de la landing page, donde se quitó el formulario de contacto. Además, implementamos la primera versión del backend, donde hemos realizado acerca de los usuarios, vehículos e historial de reparaciones. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
+
+Evidencia de la landing page
+
+![image](/assets/imgs/chapter-V/evidence-landing.png)
+
+![image](/assets/imgs/chapter-V/evidence-landing-2.png)
+
+Evidencias de la aplicación web
+
+![image](/assets/imgs/chapter-V/evidence-front1.png)
+
+![image](/assets/imgs/chapter-V/evidence-front2.png)
+
+![image](/assets/imgs/chapter-V/evidence-front3.png)
+
+![image](/assets/imgs/chapter-V/evidence-front4.png)
+
+Evidencias de los endpoints realizados con el backend
+
+![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
 En esta sección se incluye la relación de los endpoints documentados.
+
 ![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
 
 ![Image](https://github.com/user-attachments/assets/747ff5f5-9655-4b37-a80f-8e31eee42200)
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Link de la landing page: https://aplicaciones-web-crew-web.github.io/vehix-landing-page/
+
+Link de la aplicación web: https://vehix-frontend-wa.web.app/maintenance
+
 En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
 El despligue del backend se realizo en Render
+
 ![Image](https://github.com/user-attachments/assets/c7375d67-aa4a-4b5a-80a9-5500be17dfdc)
 ![Image](https://github.com/user-attachments/assets/363719b0-071a-4df4-9d6e-8dd04b4420bd)
 ![Image](https://github.com/user-attachments/assets/5ab4c058-c31d-469b-bd83-5fc395cffd4f)
@@ -1777,7 +1819,723 @@ El despligue del backend se realizo en Render
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación del Backend.
 
+![commits](/assets/imgs/chapter-V/commits.png)
+
+![commits-over-time](/assets/imgs/chapter-V/commits-over-time.png)
+
+### 5.2.4. Sprint 4
+
+En esta sección, documentaremos y explicaremos el desarrollo del Sprint 4 en términos de desarrollo del producto y el trabajo colaborativo del equipo. Se abordará varias secciones, incluyendo el Sprint Backlog, Development Evidence for Sprint Review, Sprint Planning.
+
+#### 5.2.4.1. Spring Planning 4.
+
+A continuación se mostrará el cuadro correspondiente al Sprint Planning 3, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 4</td>
+		</tr>
+		<tr>
+			<td colspan="2">Spring Planing Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td>2025-06-22</td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td>4:30 PM</td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Presencial mode in classroom</td>
+		</tr>
+		<tr>
+			<td colspan="2">Prepared by</td>
+		</tr>
+		<tr>
+			<td>Attends (to planinning meeting)</td>
+			<td>All members of CrewWeb</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Review Summary</td>
+			<td>We have achived the creation of the landing page, interactive ind intuitive, with the respectives "call to action", which allows to redirect to our web application. But we need to remove the contact section.</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Retrospective Summary</td>
+			<td>We consider that the call to action are importants in the development of the landing page to attract customers. Our product owner thinks that we need a better organization of our deliverables</td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Review Summary</td>
+			<td>we have achived the web application, developing the maintenance view and using internal and external API's. We consider that we achieved the objective, deploying the web application and showing the main views. </td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Retrospective Summary</td>
+			<td> We consider that we have to improve the developent environment with gitflow, and update the project report with the new developed artifacts. </td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Review Summary</td>
+			<td> We have achived the deployment of the landing page and web application with new views, like sync, home and maintenance. Also we have deployed the backend and we can interact with the endpoints we have developed.
+		</td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Retrospective Summary</td>
+			<td> We consider that we need to add more endpoints and improve the code organization. Also update the report with the developed artifacts.
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Sprint 4 Goal</td>
+			<td>
+				Our focus is to develop more endpoints, add views to the web application, add new views to maintenance. We believe it delivers a good impresion to new clients and active use to the product. This will be confirmed when the customers interact actively with the new features that will be offer to them.
+			</td>
+		</tr>
+		<tr>
+			<td>Sprint 4 Velocity</td>
+			<td>17</td>
+		</tr>
+		<tr>
+			<td>Sum of Story points</td>
+			<td>46</td>
+		</tr>
+	</tbody>
+</table>
+
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+En esta sección se incluye la elaboración de el artefacto Leaders and Collaborators, en el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 4.
+
+| Team Member (Last Name, First Name) | GitHub Username | SUBSCRIPTIONS AND PAYMENTS | MAINTENANCE VIEW | IAM | ANALYTICS | 
+| ------------------------------------|-----------------|-----|------------|-------------|-----------|
+| Rios Piñan, Dayro Richard | Addicted2u | C | C | C | L | 
+| Julca Minaya, Sergio Gino | sergioJM05 | L | C | C | C | 
+| Navarro Chinga, Antonio Jhair | AntonioNavarro24 | C | C | L | C | C
+| Elescano Leon, Piero Hugo | PieroHugo | C | C | L | C |
+
+
+#### 5.2.4.3.Sprint Backlog 4.
+
+Nuestro objetivo principal sprint 4 es realizar la tercera version de la aplicacion web, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de mejorar el backend.
+
+![Sprint Backlog 4](/assets/imgs/chapter-V/backlog-4.png)
+
+https://tinyurl.com/3ca4ms8e
+
+<table>
+    <tbody>
+        <tr>
+            <td><strong>Sprint #</strong></td>
+            <td colspan="7">Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>User Story</strong></td>
+            <td colspan="6"><strong>Work-item / Task</strong></td>
+        </tr>
+        <tr>
+            <td><strong>Id</strong></td>
+            <td><strong>Title</strong></td>
+            <td><strong>Id</strong></td>
+            <td><strong>Title</strong></td>
+            <td><strong>Description</strong></td>
+            <td><strong>Estimation (Hours)</strong></td>
+            <td><strong>Assigned To</strong></td>
+            <td><strong>Status (To-do / In- Porcess / To-review / Done)</strong></td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-01</td>
+            <td rowspan="2">Registro de cuenta</td>
+            <td>T1</td>
+            <td>Desarrollo del Formulario y UI</td>
+            <td>Crear la interfaz de usuario del formulario de registro con todos los campos (Nombre, Apellidos, DNI, Correo, Contraseña, Celular, Género) y el botón "Registrarse".</td>
+            <td>2h</td>
+            <td>Antonio Navarro</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Implementación de Validaciones</td>
+            <td>Desarrollar la lógica de validación para campos obligatorios y formatos (correo, celular, DNI, fortaleza de contraseña), mostrando mensajes de error al usuario en tiempo real.</td>
+            <td>2h</td>
+            <td>Dayro Ríos</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US-04</td>
+            <td rowspan="3">Inicio de sesión</td>
+            <td>T1</td>
+            <td>Diseño e Implementación del Formulario de Login</td>
+            <td>Crear la interfaz de usuario para el formulario de inicio de sesión, incluyendo campos para DNI y Contraseña, y un botón "Iniciar Sesión".</td>
+            <td>2h</td>
+            <td>Antonio Navarro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Validación de Credenciales</td>
+            <td>Implementar validaciones del lado del cliente para asegurar que el DNI y la Contraseña no estén vacíos antes de enviar la solicitud al servidor (Escenario 3).</td>
+            <td>2h</td>
+            <td>Sergio Julca</td>
+            <td>To-review</td>
+        </tr>
+        <tr>
+            <td>T3</td>
+            <td>Manejo de Respuestas y Redirección</td>
+            <td>Procesar la respuesta del backend: si es exitosa (Escenario 1), redirigir al usuario a la aplicación; si las credenciales son inválidas (Escenario 2), mostrar un mensaje de error y permitir reintentar.</td>
+            <td>2h</td>
+            <td>Piero Elescano</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-05</td>
+            <td rowspan="2">Notificaciones de alerta del vehículo en tiempo real</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Historial de Alertas</td>
+            <td>Crear la interfaz de usuario para visualizar el historial completo de alertas. Esto incluye la lógica para solicitar y mostrar la lista de alertas desde el backend, permitiendo su revisión (Escenario 3).</td>
+            <td>2h</td>
+            <td>Sergio Julca</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Implementación de Interfaz de Alerta en Tiempo Real</td>
+            <td>Desarrollar el componente de la UI para mostrar alertas inmediatas (ej. pop-up, banner o notificación *in-app*). Esto incluye la visualización de la alerta y la magnitud o detalle del defecto (Escenario 1 y 2).</td>
+            <td>2h</td>
+            <td>Antonio Navarro</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US-08</td>
+            <td rowspan="1">Cierre de sesión</td>
+            <td>T1</td>
+            <td>Implementación de Funcionalidad de Logout</td>
+            <td>Crear el botón o la opción en la UI para "Cerrar Sesión", y configurar la llamada a la API de *logout* del *backend*.</td>
+            <td>2h</td>
+            <td>Sergio Julca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-13</td>
+            <td rowspan="2">Auditoría de fallas</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Auditoría de Fallas</td>
+            <td>Crear la interfaz de usuario principal para la sección de auditoría, lista para mostrar fallas o el estado general del vehículo.</td>
+            <td>2h</td>
+            <td>Piero Elescano</td>
+            <td>To-review</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Visualización y Actualización de Fallas</td>
+            <td>Implementar la lógica para obtener y mostrar una lista dinámica de fallas (con título, motivo) y permitir al usuario cambiar su estado (solucionado/pendiente) enviando la actualización al backend.</td>
+            <td>2h</td>
+            <td>Dayro Ríos</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td rowspan="3">TS-17</td>
+            <td rowspan="3">Obtener el historial técnico del vehículo a través de RESTfulAPI</td>
+            <td>T1</td>
+            <td>Integración para Consumir Historial Técnico</td>
+            <td>Implementar la llamada GET a la API `/technical-history`, enviando el ID del vehículo y el ID del usuario como parámetros.</td>
+            <td>2h</td>
+            <td>Antonio Navarro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Renderizado de Datos del Historial Técnico</td>
+            <td>Procesar la respuesta exitosa (200 OK) de la API y mostrar de manera estructurada todos los datos del historial técnico del vehículo en la interfaz.</td>
+            <td>2h</td>
+            <td>Sergio Julca</td>
+            <td>To-review</td>
+        </tr>
+        <tr>
+            <td>T3</td>
+            <td>Manejo de Errores en la Consulta del Historial</td>
+            <td>Mostrar mensajes de error claros al usuario si la API devuelve un estado 404 Not Found (ej. "Historial no encontrado" o "ID inválido").</td>
+            <td>2h</td>
+            <td>Piero Elescano</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS-18</td>
+            <td rowspan="2">Obtener mecánicos cercanos a través de RESTfulAPI</td>
+            <td>T1</td>
+            <td>Integración para Consumir API de Mecánicos Cercanos</td>
+            <td>Implementar la llamada GET a la API `/mecánicos`, enviando los parámetros de latitud y longitud.</td>
+            <td>2h</td>
+            <td>Dayro Ríos</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Renderizado de la Lista de Mecánicos</td>
+            <td>Procesar la respuesta exitosa (200 OK) de la API y mostrar la lista de mecánicos cercanos con sus datos (nombre, dirección, teléfono, nombre de taller) en la interfaz.</td>
+            <td>2h</td>
+            <td>Dayro Ríos</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US-22</td>
+            <td rowspan="1">Artículos técnicos</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Artículos Técnicos</td>
+            <td>Crear la interfaz de usuario para la biblioteca de artículos técnicos, incluyendo un diseño para listar los artículos disponibles.</td>
+            <td>2h</td>
+            <td>Sergio Julca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-25</td>
+            <td rowspan="2">Avances del sector automotriz</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Avances y Tendencias</td>
+            <td>Crear la interfaz de usuario para la sección dedicada a los avances y tendencias del sector automotriz.</td>
+            <td>2h</td>
+            <td>Piero Elescano</td>
+            <td>To-review</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Obtención y Renderizado de Contenido de Avances</td>
+            <td>Implementar la lógica para llamar a la API que provee los avances y mostrarlos con sus títulos, descripciones, contenido y enlaces.</td>
+            <td>2h</td>
+            <td>Dayro Ríos</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US-28</td>
+            <td rowspan="1">Eliminación de vehículo</td>
+            <td>T1</td>
+            <td>Implementación de Opción de Eliminación</td>
+            <td>Añadir un botón o icono de "Eliminar" junto a cada vehículo en la lista de vehículos del mecánico.</td>
+            <td>2h</td>
+            <td>Antonio Navarro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="1">TS-39</td>
+            <td rowspan="1">Actualizar datos de un vehículo</td>
+            <td>T1</td>
+            <td>Recopilación y Envío de Datos Editados</td>
+            <td>Capturar la información modificada del formulario y realizar la solicitud PUT a la API para actualizar los datos del vehículo.</td>
+            <td>2h</td>
+            <td>Sergio Julca</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="1">TS-40</td>
+            <td rowspan="1">Registro Usuario</td>
+            <td>T1</td>
+            <td>Consumo de la API de Registro de Usuarios</td>
+            <td>Implementar la lógica para enviar una solicitud POST con los datos del usuario a la API de registro (`/users`).</td>
+            <td>2h</td>
+            <td>Piero Elescano</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-42</td>
+            <td rowspan="2">Acerca del vehículo</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista "Acerca del Vehículo"</td>
+            <td>Crear la interfaz principal donde se mostrará la información general del vehículo.</td>
+            <td>2h</td>
+            <td>Sergio Julca</td>
+            <td>To-review</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Manejo de Estado "No Hay Vehículo Registrado"</td>
+            <td>Si no hay un vehículo vinculado, mostrar un mensaje indicando la falta del vehículo y proveer una opción (botón/link) para iniciar el proceso de vinculación.</td>
+            <td>2h</td>
+            <td>Antonio Navarro</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-43</td>
+            <td rowspan="2">Acceso a videos tutoriales</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Videos Tutoriales</td>
+            <td>Crear la interfaz para la sección de videos tutoriales, incluyendo un área para listar los videos.</td>
+            <td>2h</td>
+            <td>Sergio Julca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Manejo de Restricción por Plan STANDARD</td>
+            <td>Mostrar un mensaje al usuario si tiene plan STANDARD y no puede acceder a los videos, informándole que debe cambiar a plan PRO.</td>
+            <td>2h</td>
+            <td>Piero Elescano</td>
+            <td>To-review</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-44</td>
+            <td rowspan="2">Manual y guias técnicas</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Manuales y Guías</td>
+            <td>Crear la interfaz de usuario para la biblioteca de manuales y guías técnicas.</td>
+            <td>2h</td>
+            <td>Antonio Navarro</td>
+            <td>In-Process</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Obtención y Renderizado del Contenido</td>
+            <td>Implementar la lógica para llamar a la API que provee los manuales y guías, y mostrarlos con sus títulos, descripciones y contenido.</td>
+            <td>2h</td>
+            <td>Piero Elescan</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-45</td>
+            <td rowspan="2">Acceso a Recomendaciones de Cuidado Vehicular</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Recomendaciones</td>
+            <td>Crear la interfaz de usuario para la sección de recomendaciones de mantenimiento y cuidado vehicular.</td>
+            <td>2h</td>
+            <td>Sergio Julca</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Obtención y Renderizado del Contenido</td>
+            <td>Implementar la lógica para llamar a la API que provee las recomendaciones y mostrarlas con sus títulos, descripciones y contenido.</td>
+            <td>2h</td>
+            <td>Piero Elescano</td>
+            <td>To-review</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+#### 5.2.4.4.Development Evidence for Sprint Review.
+
+A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 4. Se desarrollaron los features correspondientes.
+
+Landing page
+
+| Repository | Branch | Commit Id | Commit Messaage | Commit Message Body | Commited on |
+|------------|--------|-----------|-----------------|---------------------|-------------|
+| sergioJM05/vehix-landing-page | main | cdb2968 | initial commit | - | 25/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | cdb2968 | initial commit | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | cdb2968 | initial commit | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | a8c3226 | docs: create route | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | - | Deleted branch | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | cdb2968 | Initial commit | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | 16c4996 | docs: create folder | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | 57e8011 | chore: add index.html | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | 74ed382 | chore: add index_es.html | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | 9e711c3 | chore: add structure landing | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/rapid-navigation | 9e711c3 | chore: add structure landing | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/rapid-navigation | 2b8d4cc | feat: add rapid navigation | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/rapid-navigation | 3b956da | feat: add rapid navigation in spanish | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | 948c856 | feat: add rapid navigation in en and es | - | 27/04/2025 |
+| PieroHugo/vehix-landing-page | develop | 948c856 | feature/benefits-evidence | - | 27/04/2025 |
+| PieroHugo/vehix-landing-page | feature/benefits-evidence | 948c856 | feature: add benefits evidence | - | 27/04/2025 |
+| PieroHugo/vehix-landing-page | develop | 7953626 | feat: add benefits evidence | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/suscriptions | 7953626 | feat: add benefits evidence | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/suscriptions | 44269a1 | feat: add subscriptions | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/suscriptions | c8679c2 | feat: add subscriptions in spanish | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/suscriptions | c0c1b0e | chore: delete image | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | b0b9f54 | feat: add suscriptions | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/testimonials | b0b9f54 | feat: add suscriptions | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/testimonials | cb5f5ea | feat: add testimonials | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/testimonials | 844597c | feat: add testimonials in spanish | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | b4dbc40 | feat: add testimonials section in en and es | feature/testimonials | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | b4dbc40| feat: add testimonials section in en and es | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | 47e536f | feat: add creators visualization | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | aad6ed6 | feat: add creators visualization in spanish | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | 851efe1 | feat: update route images | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | e654ed2 | feat: fix assets imgs route | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | 57e1d39 | feat: update images routes | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/creators-visualization | aad1fbe | feat: update piero image route | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | develop | 9747cdc | feat: add creators visualization section | feature/creators-visualization | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | feature/structure-landing | b5a682e | chore: add app | - | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | feature/structure-landing | 1666534 | feat: add app.js | - | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | develop | f64e550 | feat: add app.js | - | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | feature/frequently-asked-questions | 9c472b7 | feat: add frequently asked questions | - | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | feature/frequently-asked-questions | 1c00ea3 | feat: add frequently asked questions | - | 27/04/2025 |
+| Mr-Code-star/vehix-landing-page | develop | 26d577f | feat: add frequently asked questions section in en and es | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/structure-landing | 6cb28b6 | chore: add style | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/structure-landing | 4a35460 | feat: add styles | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | develop | 85b808f | feat: update structure landing | feature/structure-landing | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/compatible-vehicles | 85b808f | feat: update structure landing | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/compatible-vehicles | edd3dd8 | feat: add compatible vehicles en | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/compatible-vehicles | 8451d6b | feat: add compatible vehicles (es) | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/compatible-vehicles | ee06174 | chore: add images | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | feature/compatible-vehicles | d87a182 | chore: add images | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | develop | 69f9140 | feat: add compatible vehicles (en & es) and add images | feature/compatible-vehicles | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/support-and-networks | 69f9140 | feat: add compatible vehicles (en & es) and add images | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/structure-landing | fd209ac | feat: add style | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | 004dc84  | feat: add style | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/support-and-networks | 71cdb59  | feat: add support and networks | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/support-and-networks | 3af7b77  | feat: add support and networks in spanish | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | c11dce8   | feat: add support and networks section in en and es | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/network-visualization | c11dce8  | feat: add support and networks section in en and es | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/network-visualization | 305ce31  | feat: add networks visualization | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/introduction-video | c11dce8  | feat: add support and networks section in en and es | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/network-visualization | 3152963  | feat: add support and networks section in en and es | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | feature/network-visualization | b41bd76  | feat: update app.js route | - | 27/04/2025 |
+| sergioJM05/vehix-landing-page | develop | 7582674  | feat: add network visualization section | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/introduction-video | c693755  | chore: update branch | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/introduction-video | 0a03e65  | feat: update introduction video | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | feature/introduction-video | 9daf591  | feat: update introduction video in spanish | - | 27/04/2025 |
+| AntonioNavarro24/vehix-landing-page | develop | 0d31178  | feat: update introduction video in spanish | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | develop | 7339f11  | chore: delete img | - | 27/04/2025 |
+| Addicted2u/vehix-landing-page | develop | b1faeb4  | chore: add img | - | 27/04/2025 |
+
+Frontend
+
+| Repository                      | Branch                                   | Commit Id | Commit Messaage                       | Commit Message Body | Commited on |
+| ------------------------------- | ---------------------------------------- | --------- | ------------------------------------- | ------------------- | ----------- |
+| sergioJM05/vehix-frontend-wa | feature/project-structure | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
+| sergioJM05/vehix-frontend-wa | develop                   | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
+| sergioJM05/vehix-frontend-wa | main                      | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
+| sergioJM05/vehix-frontend-wa | master                    | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
+| sergioJM05/vehix-frontend-wa | realese                   | 57bd15f   | chore: initial commit | -                   | 2025-04-25   |
+| sergioJM05/vehix-frontend-wa | develop      	            | 57bd15f   | chore: initial commit      | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | 57bd15f   | chore: initial commit      | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | e3fc9b4   | feat: add db.json          | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | 27bf9f3   | Update routes.json         | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | 89ff840   | feat: add json server      | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | a744bfb   | feat: add .env.production  | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-server        | 357b818   | feat: add .env.development | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | develop                   | 53621f2   | feat: add .env.development | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | 53621f2   | feat: add server          | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | dd9446c   | feat: add i18n            | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | 8725b2c   | feat: add en.json         | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | 9d893e2   | feat: add es.json         | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | 9236d7b   | feat: add style.css main  | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | c6d4cf6   | feat: add main.js         | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feat/add-english-spanish                   | 4c4b27a   | feat: add app.vue         | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | develop                                    | 5374f12   | feat: add english-spanish | Pull request merge  | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | develop                                    | -         | feat: add router          | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa | feature/add-assets-and-resource-management | 5374f12   | feat: add english-spanish | Pull request merge  | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa       | feature/add-monitoring                     | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa       | feature/add-public-components              | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa       | feature/add-public-pages                   | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
+| sergioJM05/vehix-frontend-wa       | feature/add-shared                         | 5374f12   | feat: add english-spanish             | -                   | 25/04/2025  |
+| Mr-Code-star/vehix-frontend-wa     | feature/add-public-components              | f725119   | feat: add english-spanish             | -                   | 25/04/2025  |
+| PieroHugo/vehix-frontend-wa        | feature/add-public-pages                   | 11af925   | feat: add language-switcher.component | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 5ea9360   | feat add home.component.vue           | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | f2882c8   | feat: add audit failure list          | -                   | 25/04/2025  |
+| PieroHugo/vehix-frontend-wa        | feature/add-public-pages                   | 7322aba   | feat: add bad practices               | -                   | 25/04/2025  |
+| Mr-Code-star/vehix-frontend-wa     | develop                                    | 025f134   | feat: add library.component.vue       | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | de17004   | feat: add language-switcher.component | Pull request merge  | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 5ea9360   | feat: add car presentation          | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 0ef73d0   | feat: add maintenance.component.vue | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | de17004   | feat: add failure item              | -                   | 25/04/2025  |
+| PieroHugo/vehix-frontend-wa        | feature/add-public-pages                   | 4595d78   | feat: add mechanic card list        | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | a911660   | feat: add profile.component.vue     | -                   | 25/04/2025  |
+| PieroHugo/vehix-frontend-wa        | feature/add-public-pages                   | 09f757d   | feat: add system status item        | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 04d386a   | feat: add sync.component.vue        | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 843846a   | feat: update mechanic card list     | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 0eaf44f   | feat: add system status list        | -                   | 25/04/2025  |
+| PieroHugo/vehix-frontend-wa        | develop                                    | 46746a7   | feat: add mechanic card component   | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 1549ee3   | feat: add public pages              | Pull request merge  | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 9be70c1   | feat: add simple isssues service | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 4132c67   | feat: add bad practices service  | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 3a9b112   | feat: add tap scan page          | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 2d31cca   | feat: add Status                 | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 8b8120e   | feat: add mechanic               | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 752898a   | feat: add Failure                | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | fe8dc52   | feat: add Audit page             | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 8e2d3b3   | feat: technical errors entity    | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 8c3990d   | feat: add System status          | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 6301c39   | feat: add simple issues entity   | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 28180ae   | feat: add bad practices entity   | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 365de22   | feat: add Failure                | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 6a0a32d   | feat: add technical errors       | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | 2660792   | feat: add simple issues          | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | feature/add-monitoring                     | bf21e87   | feat: add mechanic map component | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | feature/add-assets-and-resource-management | 1cb6afb   | feat: add monitoring domain              | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | develop                                    | 171b1b9   | chore: add image                         | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | develop                                    | 49979f7   | chore: add image                         | -                   | 25/04/2025  |
+| Addicted2you/vehix-frontend-wa     | develop                                    | 24d5374   | feat: add assets and resource management | -                   | 25/04/2025  |
+| AntonioNavarro24/vehix-frontend-wa | develop                                    | 46746a7   | feat: add technical error service        | -                   | 25/04/2025  |
+
+Backend
+
+| Repository                      | Branch                                   | Commit Id | Commit Messaage                       | Commit Message Body | Commited on |
+| ------------------------------- | ---------------------------------------- | --------- | ------------------------------------- | ------------------- | ----------- |
+| sergioJM05/vehix-platform | main | 37e4c34 | chore: initial commit | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | release | 37e4c34 | chore: initial commit | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | develop | 37e4c34 | chore: initial commit | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | feature/project-configuration | f175ee1 | feat: project configuration. | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | develop | df266b4 | Merge pull request #1 | -                   | 2025-06-04   |
+| sergioJM05/vehix-platform | feature/software-architecture | df266b4 | Merge pull request #1 | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/software-architecture | 36fb8e4 | docs: add software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/software-architecture | 36fb8e4 | docs: add software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | develop | d570de0  | docs: add software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/software-architecture | c5b1441  | docs: fix software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | develop | 3bd5e43 | docs: fix software-architecture.dsl | -                   | 2025-06-05   |
+| PieroHugo/vehix-platform | feature/project-structure | 3bd5e43 | docs: fix software-architecture.dsl | -                   | 2025-06-10   |
+| PieroHugo/vehix-platform | feature/project-structure | e6e2349   | feat(publishing): add initial entities and value objects for Vehicle | -                   | 2025-06-10   |
+| PieroHugo/vehix-platform | feature/project-structure | ca9a7e0   | chore: remove .idea folder from version control | -                   | 2025-06-10   |
+| PieroHugo/vehix-platform | feature/project-structure | c9477f0   | chore(api): remove duplicate file | -                   | 2025-06-10   |
+| sergioJM05/vehix-platform | develop | a825d72    | feat:add project structure | -                   | 2025-06-17   |
+| sergioJM05/vehix-platform | feature/analytics-value-objects | 78bc309     | feat(analytics): add analytics related value objects. | -                   | 2025-06-18   |
+| sergioJM05/vehix-platform | feature/analytics-value-objects | 6e45447    | feat(analytics): delete profile id, because there is no relation with. | -           | 2025-06-18   |
+| sergioJM05/vehix-platform | feature/analytics-value-objects | 8dadb0a    | feat(monitoring): add monitoring value objects.| -           | 2025-06-18   |
+| Addicted2you/vehix-platform | feature/IAM | 42affe7     | feat(profile): add value object and aggregates | -           | 2025-06-18   |
+| AntonioNavarro24/vehix-platform | feature/monitoring-value-objects | 23de928      | chore: update monitoring value objects. | -           | 2025-06-18   |
+| Addicted2you/vehix-platform |feature/IAM | 42affe7     | Deleted branch | -           | 2025-06-18   |
+| AntonioNavarro24/vehix-platform |feature/monitoring-value-objects | cffe16a      | feat(monitoring): update monitoring value objects. | -           | 2025-06-18   |
+| Addicted2you/vehix-platform |feature/subscriptions-and-payments | 0eda80c       | feat(subscriptions): add value objects and entities | -           | 2025-06-18   |
+| Addicted2you/vehix-platform |feature/subscriptions-and-payments | 115a078    | Merge remote-tracking branch 'origin/feature/subscriptions-and-payments' | -     | 2025-06-18   |
+| sergioJM05/vehix-platform |feature/monitoring-value-objects | ac78f57     | feat(monitoring): update monitoring commands and queries. | -     | 2025-06-18   |
+| AntonioNavarro24/vehix-platform |feature/monitoring-value-objects | 8f92e48      | feat(monitoring): update monitoring commands and queries. | -     | 2025-06-19   |
+| Addicted2you/vehix-platform |feature/subscriptions-and-payments | 7ec2fec       | feat(subscriptions): add commands, aggregates | -     | 2025-06-19   |
+| sergioJM05/vehix-platform |feature/monitoring-value-objects | b34e71c        | feat(monitoring): update value objects. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | 667a4ae      | Merge pull request #5 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | b3eabc0       | feature(monitoring): update monitoring repositories. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | 4b79e0c      | Merge pull request #6 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | f2e57fa     | feat(monitoring): add monitoring services. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | f6a5056    | Merge pull request #7 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |feature/add-cortex-dependencye | 7d055b4     | fix(project): add cortex.mediator dependencies. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | dbbf7c1      | Merge pull request #8 | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |feature/monitoring-add-application-layer | bf614d8       | feat(monitoring): add monitoring event handlers. | -     | 2025-06-20   |
+| sergioJM05/vehix-platform |develop | f867274        | Merge pull request #9 | -     | 2025-06-20   |
+| AntonioNavarro24/vehix-platform |feature/management-value-objects | 2349b16      | Merge pull request #9 | -     | 2025-06-20   |
+| AntonioNavarro24/vehix-platform |feature/assets-and-resource-management | 2349b16       | Merge pull request #9 | -     | 2025-06-21   |
+| AntonioNavarro24/vehix-platform |feature/management-value-objects | 2349b16       | Deleted branch| -     | 2025-06-21   |
+| AntonioNavarro24/vehix-platform |feature/management | 2349b16        | feat(management): add management resources.| -     | 2025-06-21   |
+| AntonioNavarro24/vehix-platform |feature/assets-and-resource-management | 2349b16        | Deleted branch| -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/monitoring-infrastructure-layer | 3dd5ff4       | Deleted branch| -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/monitoring-infrastructure-layer | 6f5b0c3       |Merge pull request #10 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/monitoring-infrastructure-layer | 96910ae         |feat(monitoring): add EFC repositories. | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | 76c958d        |Merge pull request #11 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | f83678b         |feature(monitoring): add monitoring interface resources. | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | fe3095d          |Merge pull request #12 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/add-monitoring-interface-transformation | fe3095d           |Merge pull request #12 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/add-monitoring-interface-transformation | 51296db          |feature(monitoring): add monitoring transform interfaces. | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | 9a0a783           |Merge pull request #13 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform |feature/add-monitoring-controllers | 009d442            |feat(monitoring): add monitoring controllers.| -     | 2025-06-21   |
+| sergioJM05/vehix-platform |develop | 8bf7f4a           |Merge pull request #14 | -     | 2025-06-21   |
+| sergioJM05/vehix-platform | feature/update-program-cs | 774dad1 | feat(monitoring): update program cs. | – | 2025-06-21 |
+| sergioJM05/vehix-platform | develop | 8bf7f4a | Merge pull request #15 | – | 2025-06-21 |
+| PieroHugo/vehix-platform | feature/IAM | e09d0c2 | Merge pull request #17 | – | 2025-06-21 |
+| PieroHugo/vehix-platform | develop | 937d743 | Merge pull request #17 | – | 2025-06-21 |
+| PieroHugo/vehix-platform| feature/IAM | e09d0c2 | feat: implement IAM | – | 2025-06-21 |
+| PieroHugo/vehix-platform | feature/IAM | feba0a5 | chore: remove IDE-specific .idea files from repository | – | 2025-06-21 |
+| sergioJM05/vehix-platform | fix/connection-to-mysql | e27d509 | feature(monitoring): latest program update cs. | – | 2025-06-21 |
+| sergioJM05/vehix-platform | develop | e09d0c2 | Merge pull request #18 | – | yesterday |
+|sergioJM05/vehix-platform | fix/monitoring-add-error-type | 2cecf59 | fix(monitoring): update validation of error type. | – | 2025-06-21 |
+| sergioJM05/vehix-platform | develop | 22006d0 | Merge pull request #19 | – | 2025-06-21 |
+| AntotnioNavarro24/vehix-platform | feature/management | 2349b16 | feat(management): add management resources. | – | 2025-06-21 |
+| Addicted2you/vehix-platform | feature/subscriptions-and-payments | 7ec2fec | feat(subscriptions): moved files and add functions | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 9540b49 | Merge pull request #19 | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | c660421 | feat: Implemnet Indentity | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 0058934 | feat: Implement Identity | – | 2025-06-22 |
+|PieroHugo/vehix-platform | feature/Identity | b438aec | feat: update database | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 0b4ee4c | fix: docker file | – | 2025-06-22 |
+| PieroHugo/vehix-platform | feature/Identity | 0022185 | feat: update Program.cs | – |  2025-06-22 |
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+Lo que se logró para este Sprint 4 es el peliegue de la tercera versión de la aplicación web y la landing page. Además, la mejora del backend donde se implementaron más endpoints. Se realizó la metodología GitFlow, trabajando en ramas con el fin de ejecutar pruebas y aplicar actualizaciones sin comprometer la estabilidad de la rama principal.
+
+Evidencias de la landing page
+
+Hero section: Sección principal 
+
+![landing](/assets/imgs/chapter-V/landing1.png)
+
+Introductory video: Sección con video introductorio a Vehix
+
+![landing](/assets/imgs/chapter-V/landing2.png)
+
+Subscriptions: Sección donde se muestran las suscripciones
+
+![landing](/assets/imgs/chapter-V/landing3.png)
+
+Benefits: Sección sobre beneficios de usar Vehix
+
+![landing](/assets/imgs/chapter-V/landing4.png)
+
+Testimonials: Sección de testimonios
+
+![landing](/assets/imgs/chapter-V/landing5.png)
+
+About us: Sección donde se presenta a los integrantes del grupo
+
+![landing](/assets/imgs/chapter-V/landing6.png)
+
+Frequently asked question: Sección de preguntas frecuentes
+
+![landing](/assets/imgs/chapter-V/landing7.png)
+
+Compatibility: Sección de compatibilidad
+
+![landing](/assets/imgs/chapter-V/landing8.png)
+
+Evidencias de la aplicación web 
+
+Login
+
+![image](https://github.com/user-attachments/assets/b7a81dab-ff07-407e-bd38-20e2a3bd2cc5)
+
+vista home
+
+![image](https://github.com/user-attachments/assets/5fecfc3a-ea68-43f8-a295-0a294e402227)
+
+Vista Library
+
+![image](https://github.com/user-attachments/assets/155012c3-ced9-49f7-90c9-de8c33d48a00)
+
+Vista maintenance
+
+![image](https://github.com/user-attachments/assets/a14e6210-a2d2-43ca-ae51-d244d1a22eed)
+
+Vista de sync
+
+![image](https://github.com/user-attachments/assets/06feb40d-fe1f-45f5-a6ad-10de15ac8f66)
+
+Vista de tap to scan
+
+![image](https://github.com/user-attachments/assets/68aa52c5-aabf-42ba-bdad-9747a46d44c7)
+
+![image](https://github.com/user-attachments/assets/900f6f49-bbc5-4e93-90f5-04a013b5d420)
+
+Vista de busqueda de un taller
+
+![image](https://github.com/user-attachments/assets/f60f9457-280c-4262-906e-cc8cd443ae8c)
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+En esta sección se incluye la relación de los endpoints documentados.
+
+Endpoints correspondientes a Payments y Plans
+![endpoints](/assets/imgs/chapter-V/endpoints-1.png)
+
+Endpoints correspondietes a Authentication, roles y users
+![endpoints](/assets/imgs/chapter-V/endpoints-2.png)
+
+Endpoints correspondientes a Vehicles y Analytics
+![endpoints](/assets/imgs/chapter-V/endpoints-3.png)
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+En esta sección se resume los procesos realizados en relación con Deployment durante este Sprint.
+El despligue del backend se realizo en Render
+
+Link de la landing page: 
+
+![landing](/assets/imgs/chapter-V/img-lp.PNG)
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+En este sección se evidencia como el equipo a trabajado de manera colaborativa para lograr la entrega del presente sprint. De esta manera, se incluyen las métricas correspondientes a la creación del Backend.
+
 ## 5.3. Validation Interviews
+
 En esta sección del informe se documentan y detallan las acciones relacionadas con las entrevistas de validación llevadas a cabo durante el desarrollo del proyecto. Estas entrevistas tienen como propósito fundamental recoger opiniones, identificar las expectativas y necesidades de los usuarios, y confirmar o descartar las suposiciones planteadas sobre el producto. Para ello, se facilitará la interacción de los participantes, pertenecientes a ambos segmentos definidos, con la landing page y la aplicación web, permitiendo así una evaluación directa de la experiencia.
 
 ### 5.3.1. Design Interviews
@@ -1896,7 +2654,7 @@ Entrevista 1:
 
 Duración: 9 minutos 55 segundos
 
-Link de la entrevista: https://tinyurl.com/yy8ez33t
+Link de la entrevista: https://tinyurl.com/tft98zhf
 
 Nombre: Lucas 
 
@@ -1918,7 +2676,7 @@ Entrevista 2:
 
 Duración: 10 minutos 44 segundos
 
-Link de la entrevista: https://tinyurl.com/52jzryr2
+Link de la entrevista: https://tinyurl.com/3m5w49kr
 
 Nombre: Cesar 
 
@@ -1940,7 +2698,7 @@ Entrevista 3:
 
 Duración: 8 minutos 6 segundos
 
-Link de la entrevista: https://tinyurl.com/mspwu9xh
+Link de la entrevista: https://tinyurl.com/4rn6nx9e
 
 Nombre: Ariana 
 
@@ -1954,15 +2712,86 @@ Resumen: Durante la prueba con Ariana, una usuaria representativa del segmento d
 
 Respecto a la web application, Ariana completó sin dificultad los flujos propuestos. El proceso de registro (User Flow 1) le resultó rápido, y el inicio de sesión (User Flow 2) fue simple. El registro de su vehículo (User Flow 4) se sintió natural dentro de la navegación, y no presentó dudas al hacerlo. Al momento de describir un problema del vehículo (User Flow 6), encontró que la plataforma le brindaba opciones claras para expresarse. Finalmente, la opción de ver talleres cercanos (User Flow 7) fue una de las que más valoró, ya que le pareció práctica y necesaria para cualquier conductor.
 
-Entrevista 7: 
+
+Segmento 2: Conductores independientes que generan ingresos con su vehículo (Uber, InDriver, taxi, delivery)
+
+Entrevista 4:
+
+![moises_val](/assets/imgs/chapter-V/moises_val.png)
+
+[28:45 - 36:39]
+
+Duración: 7 minutos 54 segundos
+
+Link de la entrevista: https://tinyurl.com/meva98th
+
+Nombre: Fernando
+
+Apellidos: Portal
+
+Edad: 45 años
+
+Distrito: Magdalena del Mar
+
+Resumen: Durante la prueba con Fernando, una usuaria representativa del segmento de conductores independientes (como Uber, InDriver, taxi o delivery), se evaluó su interacción con la landing page y la aplicación web de Vehix. Fernando navegó con interés por la página principal, comprendiendo de manera clara la propuesta de valor centrada en la eficiencia operativa y reducción del tiempo de inactividad del vehículo. Le pareció evidente el propósito del servicio, y el llamado a la acción fue fácil de identificar. Además, consideró que los testimonios de otros conductores y los beneficios presentados aportaban credibilidad. Al explorar el mapa digital y la función para ver talleres mecánicos cercanos, destacó lo útil que sería contar con esa información en tiempo real, especialmente cuando se depende del vehículo para generar ingresos. También reaccionó positivamente ante los paneles de errores, ya que le permiten tener un mayor control y anticiparse a posibles fallas que puedan afectar su trabajo.
+
+Respecto a la web application, Fernando completó sin dificultad los flujos propuestos. El proceso de registro a la plataforma (User Flow 1) le resultó rápido, y el inicio de sesión (User Flow 2) fue simple. El registro de su vehículo (User Flow 4) se sintió natural dentro de la navegación, y no presentó dudas al hacerlo. Al momento de recibir una descripción sencilla del problema detectado en el vehículo (User Flow 6), valoró la claridad con la que se presentaba la información. Además, consideró especialmente útil la opción de ver talleres cercanos a su ubicación (User Flow 7), ya que facilita la toma de decisiones rápidas. Finalmente, destacó el valor del escaneo básico del vehículo (User Flow 11), ya que le permite anticipar fallas y organizar mantenimientos sin afectar su jornada laboral.
+
+Entrevista 5:
+
+![moises_val2](/assets/imgs/chapter-V/moises_val2.png)
+
+[36:39 - 41:34]
+
+Duración: 4 minutos 54 segundos
+
+Link de la entrevista: https://tinyurl.com/4hykbcwv
+
+Nombre: Shneider
+
+Apellidos: Valladares
+
+Edad: 45 años
+
+Distrito: Chorrillos
+
+Resumen: Durante la prueba con Shneider, un conductor independiente que trabaja principalmente con aplicaciones como InDriver y hace servicios de delivery, se evaluó su experiencia con la landing page y la aplicación web de Vehix. Desde el inicio, Shneider identificó con claridad el mensaje de valor orientado a la eficiencia y reducción del tiempo de inactividad, aspecto que considera clave para mantener sus ingresos diarios. Le llamó la atención la posibilidad de visualizar problemas del vehículo y acceder a soluciones rápidas, además de la confianza que le generaron los testimonios de otros conductores en situaciones similares.
+
+Durante su navegación en la aplicación, Shneider completó sin complicaciones el registro a la plataforma (User Flow 1) y comentó que el proceso fue directo y sin pasos innecesarios. El inicio de sesión (User Flow 2) también le pareció intuitivo. Registró su moto sin dificultad usando el User Flow 4, y resaltó lo útil que sería tener un historial de mantenimiento vinculado al vehículo. Al revisar un diagnóstico que incluía una descripción sencilla del problema detectado (User Flow 6), valoró la claridad y precisión de la información, ya que evita tener que interpretar mensajes técnicos. Encontrar talleres cercanos a su ubicación (User Flow 7) fue una de las funciones que más le interesó, especialmente en casos de emergencia. Finalmente, el escaneo básico del vehículo (User Flow 11) le pareció una herramienta poderosa para prevenir fallas y mantener su herramienta de trabajo en condiciones óptimas.
+
+Entrevista 6:
+
+![rocio_val](/assets/imgs/chapter-V/rocio_val.png)
+
+[41:34 - 47:57]
+
+Duración: 6 minutos 23 segundos
+
+Link de la entrevista: https://tinyurl.com/fjwaf9ms
+
+Nombre: Rocio
+
+Apellidos: Piñan
+
+Edad: 49 años
+
+Distrito: Villa el Salvador
+
+Resumen: Durante la sesión de prueba con Rocío, una conductora que utiliza su vehículo diariamente para realizar servicios de Uber y entregas por aplicativo, se exploró cómo la plataforma Vehix se adapta a sus necesidades específicas. Rocío destacó que el enfoque en la optimización del tiempo de mantenimiento y la reducción de fallas inesperadas es exactamente lo que busca, ya que cualquier día sin trabajar representa una pérdida directa de ingresos. Le generó confianza ver testimonios de otros conductores independientes, lo que reforzó su percepción de que la plataforma está diseñada para personas en su misma situación.
+
+Al interactuar con la aplicación web, Rocío completó con facilidad el registro a la plataforma (User Flow 1) y consideró que el inicio de sesión (User Flow 2) era rápido y funcional. Le gustó que el registro de su vehículo (User Flow 4) no requería demasiados datos técnicos, permitiéndole avanzar sin complicaciones. Cuando se le presentó una descripción clara del problema detectado en su auto (User Flow 6), se sintió más segura al entender qué le estaba ocurriendo sin necesidad de conocimientos mecánicos. También valoró la opción de localizar talleres cercanos a su ubicación (User Flow 7), pues muchas veces debe resolver imprevistos en medio de una jornada laboral. Finalmente, quedó impresionada con el escaneo básico del vehículo (User Flow 11), ya que lo vio como una herramienta útil para anticiparse a problemas que podrían dejarla fuera de servicio.
+
+Segmento 3: Mecánicos o técnicos automotrices que desean mejorar sus diagnósticos y comunicación con los clientes
+
+Entrevista 9: 
 
 ![richard val](/assets/imgs/chapter-V/richard_val.png)
 
-[28:45 - 42:18]
+[47:57 - 1: 01 :30]
 
 Duración: 13 minutos 33 segundos
 
-Link de la entrevista: https://tinyurl.com/3pywprtz
+Link de la entrevista: https://tinyurl.com/44jb9wkj
 
 Nombre: Richard 
 
@@ -1987,7 +2816,6 @@ CURSO : Aplicaciones Web
 SECCIÓN : 4368
 PROFESORES : Todos
 AUDITOR : CrewWeb
-CLIENTE(S) : 
 ---
 **SITE o APP A EVALUAR:**
 VEHIX
@@ -2088,9 +2916,9 @@ Recomendación: Incluir un botón de "Atrás" en las subsecciones de la librerí
 ## 5.4. Video About the Product
 En esta sección se describe el contenido del Video About-theProduct, el cual tiene como público objetivo los visitantes al Landing Page, quienes desean conocer sobre el modelo de negocio y las características principales de los productos de software, al igual que los usuarios de las Aplicaciones, quienes desean realizar tareas relacionadas con los procesos soportados por la solución.
 
-![image](https://github.com/user-attachments/assets/5a7157d6-2fe4-4b53-bf3e-22acf126a66e)
+![richard val](/assets/imgs/chapter-V/about-product-final.png)
 
-Link del video: https://tinyurl.com/3vyabkhj
+Link del video: https://tinyurl.com/mry89m4t
 
-Link del video de presentación para la landing page: https://tinyurl.com/yjyachf4
+Link del video de presentación para la landing page:  https://youtu.be/Ue9mHvL8_WI
 

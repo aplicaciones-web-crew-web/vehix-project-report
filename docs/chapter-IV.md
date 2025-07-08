@@ -1108,3 +1108,39 @@ Los diagramas de base de datos muestran la organización interna y las conexione
 
 ![database diagram](/assets/imgs/chapter-IV/vehix-db.png)
 
+## 4.9. DDD Estratégico
+A continuación, se presenta el Event Storming de Vehix, en el cual se identifican los eventos clave,
+actores, acciones, decisiones, reglas y relaciones entre partes del sistema. Se establecieron 6 bounded
+context: Subscriptions and Payments, Identity and Access Management, Profiles and Preferences, Asset Operation and Monitoring, Service Operation and Monitoring y Analytics.
+
+![DDD Estratégico](/assets/imgs/chapter-IV/DDD-General.png)
+
+<br>
+SAP (Suscripciones y Pagos): Este diagrama describe el proceso de suscripción y pago, donde un usuario selecciona un plan, ingresa información de pago y completa la compra para adquirir una suscripción.
+
+![Suscripciones y Pagos](/assets/imgs/chapter-IV/SAP.png)
+
+<br>
+Operación y Monitoreo del Servicio: Este diagrama ilustra el proceso de escaneo de vehículos para identificar fallas, la interacción del usuario para diagnosticar problemas y buscar ayuda, y la generación de solicitudes de mantenimiento.
+
+![Operación y Monitoreo del Servicio](/assets/imgs/chapter-IV/Monitoring.png)
+
+<br>
+IAM (Gestión de Identidad y Acceso): Este diagrama muestra el flujo de inicio de sesión y registro de usuarios, donde se verifica la información ingresada para permitir el acceso o registrar a nuevos usuarios.
+
+![IAM](/assets/imgs/chapter-IV/IAM.png)
+
+<br>
+Perfil y Referencias: Este diagrama detalla el proceso de edición de datos del perfil del usuario, incluyendo la verificación y actualización de la información, y la notificación al usuario sobre los cambios.
+
+![Perfil y Referencias](/assets/imgs/chapter-IV/Profile.png)
+
+<br>
+ARM (Gestión de Activos y Recursos): Este diagrama presenta la gestión de recursos, como una biblioteca de artículos técnicos y videos, y el proceso de registro y sincronización de vehículos con la aplicación.
+
+![ARM](/assets/imgs/chapter-IV/Assets.png)
+
+<br>
+Analytics: Este diagrama describe las funciones de análisis disponibles para el mantenimiento del vehículo, permitiendo a los usuarios seleccionar diagnósticos como el pronóstico de fallas, la vida útil del coche y el historial de reparaciones.
+
+![Analytics](/assets/imgs/chapter-IV/Analytics.png)
