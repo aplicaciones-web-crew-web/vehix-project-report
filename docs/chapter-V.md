@@ -1910,6 +1910,294 @@ En esta sección se incluye la elaboración de el artefacto Leaders and Collabor
 
 Nuestro objetivo principal sprint 4 es realizar la tercera version de la aplicacion web, implementando las vistas principales que contiene diferentes componentes para el análisis y las operaciones de nuestros clientes además de mejorar el backend.
 
+<table>
+    <tbody>
+        <tr>
+            <td><strong>Sprint #</strong></td>
+            <td colspan="7">Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>User Story</strong></td>
+            <td colspan="6"><strong>Work-item / Task</strong></td>
+        </tr>
+        <tr>
+            <td><strong>Id</strong></td>
+            <td><strong>Title</strong></td>
+            <td><strong>Id</strong></td>
+            <td><strong>Title</strong></td>
+            <td><strong>Description</strong></td>
+            <td><strong>Estimation (Hours)</strong></td>
+            <td><strong>Assigned To</strong></td>
+            <td><strong>Status (To-do / In- Porcess / To-review / Done)</strong></td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-01</td>
+            <td rowspan="2">Registro de cuenta</td>
+            <td>T1</td>
+            <td>Desarrollo del Formulario y UI</td>
+            <td>Crear la interfaz de usuario del formulario de registro con todos los campos (Nombre, Apellidos, DNI, Correo, Contraseña, Celular, Género) y el botón "Registrarse".</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Implementación de Validaciones</td>
+            <td>Desarrollar la lógica de validación para campos obligatorios y formatos (correo, celular, DNI, fortaleza de contraseña), mostrando mensajes de error al usuario en tiempo real.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US-04</td>
+            <td rowspan="3">Inicio de sesión</td>
+            <td>T1</td>
+            <td>Diseño e Implementación del Formulario de Login</td>
+            <td>Crear la interfaz de usuario para el formulario de inicio de sesión, incluyendo campos para DNI y Contraseña, y un botón "Iniciar Sesión".</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Validación de Credenciales</td>
+            <td>Implementar validaciones del lado del cliente para asegurar que el DNI y la Contraseña no estén vacíos antes de enviar la solicitud al servidor (Escenario 3).</td>
+            <td>2h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T3</td>
+            <td>Manejo de Respuestas y Redirección</td>
+            <td>Procesar la respuesta del backend: si es exitosa (Escenario 1), redirigir al usuario a la aplicación; si las credenciales son inválidas (Escenario 2), mostrar un mensaje de error y permitir reintentar.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-05</td>
+            <td rowspan="2">Notificaciones de alerta del vehículo en tiempo real</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Historial de Alertas</td>
+            <td>Crear la interfaz de usuario para visualizar el historial completo de alertas. Esto incluye la lógica para solicitar y mostrar la lista de alertas desde el backend, permitiendo su revisión (Escenario 3).</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Implementación de Interfaz de Alerta en Tiempo Real</td>
+            <td>Desarrollar el componente de la UI para mostrar alertas inmediatas (ej. pop-up, banner o notificación *in-app*). Esto incluye la visualización de la alerta y la magnitud o detalle del defecto (Escenario 1 y 2).</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US-08</td>
+            <td rowspan="1">Cierre de sesión</td>
+            <td>T1</td>
+            <td>Implementación de Funcionalidad de Logout</td>
+            <td>Crear el botón o la opción en la UI para "Cerrar Sesión", y configurar la llamada a la API de *logout* del *backend*.</td>
+            <td>2h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-13</td>
+            <td rowspan="2">Auditoría de fallas</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Auditoría de Fallas</td>
+            <td>Crear la interfaz de usuario principal para la sección de auditoría, lista para mostrar fallas o el estado general del vehículo.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Visualización y Actualización de Fallas</td>
+            <td>Implementar la lógica para obtener y mostrar una lista dinámica de fallas (con título, motivo) y permitir al usuario cambiar su estado (solucionado/pendiente) enviando la actualización al backend.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="3">TS-17</td>
+            <td rowspan="3">Obtener el historial técnico del vehículo a través de RESTfulAPI</td>
+            <td>T1</td>
+            <td>Integración para Consumir Historial Técnico</td>
+            <td>Implementar la llamada GET a la API `/technical-history`, enviando el ID del vehículo y el ID del usuario como parámetros.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Renderizado de Datos del Historial Técnico</td>
+            <td>Procesar la respuesta exitosa (200 OK) de la API y mostrar de manera estructurada todos los datos del historial técnico del vehículo en la interfaz.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T3</td>
+            <td>Manejo de Errores en la Consulta del Historial</td>
+            <td>Mostrar mensajes de error claros al usuario si la API devuelve un estado 404 Not Found (ej. "Historial no encontrado" o "ID inválido").</td>
+            <td>2h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="2">TS-18</td>
+            <td rowspan="2">Obtener mecánicos cercanos a través de RESTfulAPI</td>
+            <td>T1</td>
+            <td>Integración para Consumir API de Mecánicos Cercanos</td>
+            <td>Implementar la llamada GET a la API `/mecánicos`, enviando los parámetros de latitud y longitud.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Renderizado de la Lista de Mecánicos</td>
+            <td>Procesar la respuesta exitosa (200 OK) de la API y mostrar la lista de mecánicos cercanos con sus datos (nombre, dirección, teléfono, nombre de taller) en la interfaz.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US-22</td>
+            <td rowspan="1">Artículos técnicos</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Artículos Técnicos</td>
+            <td>Crear la interfaz de usuario para la biblioteca de artículos técnicos, incluyendo un diseño para listar los artículos disponibles.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-25</td>
+            <td rowspan="2">Avances del sector automotriz</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Avances y Tendencias</td>
+            <td>Crear la interfaz de usuario para la sección dedicada a los avances y tendencias del sector automotriz.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Obtención y Renderizado de Contenido de Avances</td>
+            <td>Implementar la lógica para llamar a la API que provee los avances y mostrarlos con sus títulos, descripciones, contenido y enlaces.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US-28</td>
+            <td rowspan="1">Eliminación de vehículo</td>
+            <td>T1</td>
+            <td>Implementación de Opción de Eliminación</td>
+            <td>Añadir un botón o icono de "Eliminar" junto a cada vehículo en la lista de vehículos del mecánico.</td>
+            <td>2h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="1">TS-39</td>
+            <td rowspan="1">Actualizar datos de un vehículo</td>
+            <td>T1</td>
+            <td>Recopilación y Envío de Datos Editados</td>
+            <td>Capturar la información modificada del formulario y realizar la solicitud PUT a la API para actualizar los datos del vehículo.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="1">TS-40</td>
+            <td rowspan="1">Registro Usuario</td>
+            <td>T1</td>
+            <td>Consumo de la API de Registro de Usuarios</td>
+            <td>Implementar la lógica para enviar una solicitud POST con los datos del usuario a la API de registro (`/users`).</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-42</td>
+            <td rowspan="2">Acerca del vehículo</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista "Acerca del Vehículo"</td>
+            <td>Crear la interfaz principal donde se mostrará la información general del vehículo.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Manejo de Estado "No Hay Vehículo Registrado"</td>
+            <td>Si no hay un vehículo vinculado, mostrar un mensaje indicando la falta del vehículo y proveer una opción (botón/link) para iniciar el proceso de vinculación.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-43</td>
+            <td rowspan="2">Acceso a videos tutoriales</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Videos Tutoriales</td>
+            <td>Crear la interfaz para la sección de videos tutoriales, incluyendo un área para listar los videos.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Manejo de Restricción por Plan STANDARD</td>
+            <td>Mostrar un mensaje al usuario si tiene plan STANDARD y no puede acceder a los videos, informándole que debe cambiar a plan PRO.</td>
+            <td>2h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-44</td>
+            <td rowspan="2">Manual y guias técnicas</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Manuales y Guías</td>
+            <td>Crear la interfaz de usuario para la biblioteca de manuales y guías técnicas.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Obtención y Renderizado del Contenido</td>
+            <td>Implementar la lógica para llamar a la API que provee los manuales y guías, y mostrarlos con sus títulos, descripciones y contenido.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US-45</td>
+            <td rowspan="2">Acceso a Recomendaciones de Cuidado Vehicular</td>
+            <td>T1</td>
+            <td>Desarrollo de la Vista de Recomendaciones</td>
+            <td>Crear la interfaz de usuario para la sección de recomendaciones de mantenimiento y cuidado vehicular.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+        <tr>
+            <td>T2</td>
+            <td>Obtención y Renderizado del Contenido</td>
+            <td>Implementar la lógica para llamar a la API que provee las recomendaciones y mostrarlas con sus títulos, descripciones y contenido.</td>
+            <td>3h</td>
+            <td>Desarrollador Frontend</td>
+            <td>To Do</td>
+        </tr>
+    </tbody>
+</table>
+
+
 #### 5.2.4.4.Development Evidence for Sprint Review.
 
 A continuación, se mostrarán los commits registrados en el repositorio correspondiente a nuestra Backend, para el desarrollo del sprint 4. Se desarrollaron los features correspondientes.
