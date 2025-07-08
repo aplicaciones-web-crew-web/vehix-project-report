@@ -14,7 +14,7 @@
 
 |           Estudiante           |     Código      |
 |--------------------------------|-----------------|
-| Piero Hugo, Elescano Leon       |   u202313354    |
+| Elescano Leon, Piero Hugo      |   u202313354    |
 | Julca Minaya, Sergio Gino      |   u202318274    |
 | Navarro Chinga, Antonio Jhair  |   u202314101    |
 | Rios Piñan, Dayro Richard      |   u202315283    |
@@ -60,13 +60,39 @@
 
   - **Link de Repositorio de Back End:** [https://github.com/aplicaciones-web-crew-web/vehix-platform.git](https://github.com/aplicaciones-web-crew-web/vehix-platform.git)
 
-    A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 4:
+## Reporte de Colaboración para la entrega del TB1
+
+A continuación se mostraran la cantidad de contribuciones, hechas en el repositorio de la landing page, hasta el tb1, y el informe con los artefactos correspondientes.
 
 ![commits img](/assets/imgs/chapter-I/commits.png)
 
-  A continuación se muestra la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 8:
+A continuación se muestra la cantidad de contribuciones, hechas en el repositorio del informe, hasta la semana 8:
   
 ![commits2 img](/assets/imgs/chapter-I/commits2.png)
+
+## Reporte de Colaboración para la entrega del TP
+
+En esta entrega, el equipo avanzó significativamente en la construcción del frontend de la aplicación web, priorizando una experiencia de usuario fluida y bien estructurada. Se optó por el uso de Vue 3 junto con Vite como base tecnológica, integrando bibliotecas como PrimeVue para los componentes visuales, axios para la gestión de solicitudes HTTP e i18n para el soporte multilenguaje. La organización del proyecto siguió los lineamientos del domain-driven design, dividiendo las funcionalidades por contextos específicos. Paralelamente, se optimizó la página de inicio, enfocándose en una mayor accesibilidad, mejor rendimiento en dispositivos móviles y tiempos de carga más eficientes.
+
+![commitsTP img](/assets/imgs/chapter-V/1.PNG)
+
+![commitsTP img](/assets/imgs/chapter-V/2.PNG)
+
+## Reporte de Colaboración para la entrega del TB2
+
+Para esta entrega el equipo trabajó bajo una arquitectura DDD (Domain Driven Design), desarrollando el backend e integrando los bounded context principales. Además de usar swagger para mostrar e interactuar con los endpoints y documentar la API.
+
+![commitsTP img](/assets/imgs/chapter-V/commits.png)
+
+![commitsTP img](/assets/imgs/chapter-V/commits-over-time.png)
+
+## Reporte de Colaboración para la entrega del TF
+
+Para esta entrega el equipo trabajó el backend y mejoró el frontend y se logró la comunicación entre ambos, además de realizar la actualización del reporte
+
+![commitsTP img](/assets/imgs/chapter-V/commits.png)
+
+![commitsTP img](/assets/imgs/chapter-V/commits-over-time.png)
 
 ---
 # Student Outcome
