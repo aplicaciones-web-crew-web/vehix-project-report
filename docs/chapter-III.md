@@ -409,7 +409,7 @@ A continuación se detalla el Product Backlog del proyecto Vehix. En el Product 
     </table>
 A continuación, se le hace presente el link del product backlog:
 
-**Link:**  [Product Backlog](https://trello.com/invite/b/68363c9576438ad07b9ea838/ATTI8fb235d4573d555662751062510e05a86E507E27/vehix)
+**Link:**  https://tinyurl.com/2pyj6ybw
 
 Además se le presenta la captura de imagen del proct backlog el cyual ha sido diseñado en la herramienta de Jira
 ![Trello](/assets/imgs/chapter-III/sprint-backlog-trello.png)
