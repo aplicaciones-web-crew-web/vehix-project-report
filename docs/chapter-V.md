@@ -2916,9 +2916,9 @@ Recomendación: Incluir un botón de "Atrás" en las subsecciones de la librerí
 ## 5.4. Video About the Product
 En esta sección se describe el contenido del Video About-theProduct, el cual tiene como público objetivo los visitantes al Landing Page, quienes desean conocer sobre el modelo de negocio y las características principales de los productos de software, al igual que los usuarios de las Aplicaciones, quienes desean realizar tareas relacionadas con los procesos soportados por la solución.
 
-![image](https://github.com/user-attachments/assets/5a7157d6-2fe4-4b53-bf3e-22acf126a66e)
+![richard val](/assets/imgs/chapter-V/about-product-final.png)
 
-Link del video: https://tinyurl.com/3vyabkhj
+Link del video: https://tinyurl.com/mry89m4t
 
-Link del video de presentación para la landing page: https://tinyurl.com/yjyachf4
+Link del video de presentación para la landing page:  https://youtu.be/Ue9mHvL8_WI
 
